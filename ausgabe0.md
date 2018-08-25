@@ -13,7 +13,7 @@ losung: "Dies ist die Wahrheit: die Welt ist dunkel --- und wir leben noch..."
 
 ## Workshop: Klischees und Stereotypen
 Diesen Monat stellte uns Franca vor die Frage, wie Klischees einzusetzen sind.
-Inspiriert von einer Superspionin mit grünem Fahrrad und einem Elfen mit Helebarde und Magierhut machten wir uns auf ins Reich der Stereotypen.
+Inspiriert von einer Superspionin mit grünem Fahrrad und einem Elfen mit Hellebarde und Magierhut machten wir uns auf ins Reich der Stereotypen.
 
 Was sind das, Klischees? Sie sind ein Abklatsch von bekannten Konzepten, wie wir gelernt haben.
 Wir können dadurch Charaktere, Orte, Objekte und Atmosphären erschaffen, die sich alle Zuhörer*innen sofort vorstellen können.
