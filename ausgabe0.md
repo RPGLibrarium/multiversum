@@ -2,6 +2,7 @@
 author: Hanna, Konstantin, Franca, Thibaud, Richard
 date: August 2018
 ausgabe: 0
+balance: false
 termine:
     - "Nächstes Treffen: 16.09.2018, 19 Uhr"
     - "Rollenspielfreizeit: 02.01.-06.01.2019"
@@ -63,6 +64,15 @@ Tragisches Horror-Erzählspiel, das bei Kerzenlicht im Dunkeln gespielt wird. Se
 # Todesanzeigen
 *Wir gedenken den gefallenen Kameraden.*
 
+## Marianne Schneider (1911-1954)
+\zeitung{Düsseldorfer Stadtanzeiger, 16.11.1954}Die Filmkritikerin Marianne Schneider verstarb am 15.11. in Düsseldorf.
+Amtliche Todesursache ist "Tod durch brennenden Kartoffelsack".
+Trotz Spekulationen, dass unzufriedene Regisseure Rache an Frau Schneider genommen haben könnten, hat die Polizei die Ermittlungen eingestellt.
+Wäre dies ein Film gewesen, sie hätte ihn sicherlich als "übertrieben", "geschmacklos" und "realitätsfremd" bezeichnet.
+Nun werden wir ohne ihre unbestechlich ehrliche Kritik an den großen Meisterwerken der Filmgeschichte leben müssen.
+Möge sie in Stille ruhen.
+\verfasser{Richard}
+
 ## Arik Morringer (1872-1928)
 \zeitung{London Courier, 18. Dezember 1928}Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
 \verfasser{Thibaud}
@@ -105,12 +115,3 @@ Der König blickt auf Sie herab.\\[1em]
 
 Und lacht.  
 \end{center}
-
-## Marianne Schneider (1911-1954)
-\zeitung{Düsseldorfer Stadtanzeiger, 16.11.1954}Die Filmkritikerin Marianne Schneider verstarb am 15.11. in Düsseldorf.
-Amtliche Todesursache ist "Tod durch brennenden Kartoffelsack".
-Trotz Spekulationen, dass unzufriedene Regisseure Rache an Frau Schneider genommen haben könnten, hat die Polizei die Ermittlungen eingestellt.
-Wäre dies ein Film gewesen, sie hätte ihn sicherlich als "übertrieben", "geschmacklos" und "realitätsfremd" bezeichnet.
-Nun werden wir ohne ihre unbestechlich ehrliche Kritik an den großen Meisterwerken der Filmgeschichte leben müssen.
-Möge sie in Stille ruhen.
-\verfasser{Richard}
