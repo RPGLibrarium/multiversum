@@ -22,7 +22,7 @@ Sind Klischees sinnvoll? Sie brauchen nicht mehr viel Erklärung und helfen uns 
 Ist es immer gut von Klischees abzuweichen? Nein. Das schüchterne Mauerblümchen als Raumschiffmechaniker mag seinen Job verrichten, aber die Geschichte wird es wohl nicht vorantreiben.
 
 Was haben wir mitgenommen? Klischees gezielt einzusetzen ist sinnvoll, denn so kommt man um lange Erklärungen herum. Aber einen guten Ausbruch aus den Klischees sollte man auch nicht lang erklären müssen.
-Auf jeden Fall ist es nützlich - und lebenswichtig für unsere Charaktere, wenn wir die dunkle, feuchte Höhle mit den gruseligen Geräuschen schnell von der ausgeleuchteten, funkelnden Edelsteinhöhle unterscheiden zu können.
+Auf jeden Fall ist es nützlich - und lebenswichtig für unsere Charaktere, wenn wir die dunkle, feuchte Höhle mit den gruseligen Geräuschen schnell von der ausgeleuchteten, funkelnden Edelsteinhöhle unterscheiden können.
 \verfasser{Hanna}
 
 # An einem anderen Ort
@@ -31,7 +31,7 @@ Auf jeden Fall ist es nützlich - und lebenswichtig für unsere Charaktere, wenn
 Im Namen der Imperatorin -- mögen alle Sterne ihr gehören -- wird erklärt:
 Gesucht wird das Raumschiff Feuergeist. Es handelt sich um das Schiff mit der Registriernummer 9773fef9-9aa7-4d20-9037, Typ Forschungsschiff, Baujahr 930 n. 3I.
 Besondere Merkmale: Liebevoll verziert mit Dellen an der rechten Bughälfte und dem Look "postapokalyptischer Wüstensturm".
-Zuletzt gesichtet -- und auf hinterhältigste Weise enwendet --
+Zuletzt gesichtet -- und auf hinterhältigste Weise entwendet --
 im System Sorviss, Planet Sorviss I, Weltprofil Sorviss I 0403 XAB5200-9 Dü,
 auf ehrenvoller Mission gegen psionische Terroristen, niederträchtige Feinde des Imperiums und der Imperatorin - möge ihr Licht nie verlöschen.
 Wer das Raumschiff wiederfindet und in den Besitz des Marquis von Gurkenhobel wiederbringt, dem ist als Dank ein persönliches Treffen mit dem Marquis gewiss.
