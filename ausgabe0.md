@@ -10,13 +10,28 @@ termine:
 
 # Was bisher geschah...
 
+## Klischees und Stereotypen
+Diesen Monat stellte uns Franca vor die Frage, wie Klischees einzusetzen sind.
+Inspiriert von einer Superspionin mit grünem Fahrrad und einem Elf mit Helebarde und Magierhut machten wir uns ins Reich der Stereotypen auf.
+
+Was sind das, Klischees? Sie sind ein Abklatsch von bekannten Konzepten, wie wir gelernt haben.
+Wir können dadurch Charaktere, Orte, Objekte und Atmosphären erschaffen, die sich alle Zuhörer sofort vorstellen können.
+
+Sind Klischees sinnvoll? Sie brauchen nicht mehr viel Erklärung und helfen uns vor allem beim Einstieg ins Spiel oder in eine Situation. Um den Beschriebenen Dingen Tiefe zu geben taugen sie wenig, zu langes herumkauen auf Klischees ist langweilig. Von ihnen abzuweichen gibt mehr Dimensionen des Charakters oder Orts und stellt uns vor unvorhergesehenes.
+
+Ist es immer gut von Klischees abzuweichen? Nein. Das schüchterne Mauerblümchen als Raumschiffmechaniker mag seinen Job verrichten, aber die Geschichte wird es wohl nicht vorantreiben.
+
+Was haben wir mitgenommen? Klischees gezielt einzusetzen ist sinnvoll, so kommt man um lange Erklärungen herum. Aber eine gute Erweiterung des Charakters sollte man auch nicht erklären müssen, sie erzählt ihre eigene Geschichte.
+Auf jeden Fall ist es nützlich, die dunkle, feuchte Höhle mit den gruseligen Geräuschen schnell von der ausgeleuchteten, funkelnden Edelsteinhöhle unterscheiden zu können - und lebenswichtig für unsere Charaktere.
+\verfasser{Hanna}
+
 # An einem anderen Ort
 
 ## Gesucht: Raumschiff Feuergeist
-Im Namen der Imperatorin - mögen alle Sterne ihr gehören - wird erklärt:
+Im Namen der Imperatorin -- mögen alle Sterne ihr gehören -- wird erklärt:
 Gesucht wird das Raumschiff Feuergeist. Es handelt sich um das Schiff mit der Registriernummer 9773fef9-9aa7-4d20-9037, Typ Forschungsschiff, Baujahr 930 n. 3I.
 Besondere Merkmale: Liebevoll verziert mit Dellen an der rechten Bughälfte und dem Look "postapokalyptischer Wüstensturm".
-Zuletzt gesichtet - und auf hinterhältigste Weise enwendet -
+Zuletzt gesichtet -- und auf hinterhältigste Weise enwendet --
 im System Sorviss, Planet Sorviss I, Weltprofil Sorviss I 0403 XAB5200-9 Dü,
 auf ehrenvoller Mission gegen psionische Terroristen, niederträchtige Feinde des Imperiums und der Imperatorin - möge ihr Licht nie verlöschen.
 Wer das Raumschiff wiederfindet und in den Besitz des Marquis von Gurkenhobel wiederbringt, dem ist als Dank ein persönliches Treffen mit dem Marquis gewiss.
@@ -29,7 +44,7 @@ Klafyn Federash (Gefechtsadjutantin der Feuergeist),
 
 (Ausgefertigt mit der Autorität des Marquis von Gurkenhobel),
 Alistair B.
-
+\verfasser{Konstantin}
 
 # Schleuderpresse
 
