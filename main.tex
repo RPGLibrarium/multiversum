@@ -1,49 +1,151 @@
 % !TeX TS-program = xelatex
 % !TEX root = main.tex
 
-\documentclass[a4paper,10pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[english,ngerman]{babel}
-\usepackage[ngerman]{datetime}
-\usepackage{graphicx}
-\usepackage{multicol}
-\usepackage{lipsum} %TODO remove once layout is finished
-\usepackage{geometry}
-\geometry{margin=3cm}
+\documentclass[a4paper,11pt,oneside,twocolumn,final,article]{memoir}
 
-\author{Hanna Franzen}
 
-%TODO hier Namen eintragen
-% \newcommand{\Titel}{Multiversum Schleuderpresse}
-\newdateformat{monthyear}{\monthname[\THEMONTH] \THEYEAR}
-\newcommand{\Datum}{\monthyear \today}
 
+%%%
+% Fonts and typesetting 
+\usepackage{mathspec}
+%\setmainfont[BoldFont={Source S Pro Semibold}, ItalicFont={Source Sans Pro Italic}, BoldItalicFont={Source Sans Pro Semibold Italic}]{Source Sans Pro}
+\setprimaryfont[
+UprightFont={* Light},
+ItalicFont={* Light Italic},
+BoldFont={* Semibold},
+BoldItalicFont={* Semibold Italic},
+Scale=MatchLowercase]{Source Serif Pro}
+\setallsansfonts[
+UprightFont={* Light},
+ItalicFont={* Light Italic},
+BoldFont={* Semibold},
+BoldItalicFont={* Semibold Italic},
+Scale=MatchLowercase]{Source Sans Pro}%
+%\setmainfont[BoldFont={Source Sans Pro Semibold}, ItalicFont={Source Sans Pro Italic}, BoldItalicFont={Source Sans Pro Semibold Italic}]{Source Sans Pro}[Scale=MatchLowercase]
+\setallmonofonts[
+UprightFont={* Light},
+BoldFont={* Semibold},
+Scale=MatchLowercase]
+{Source Code Pro}%
+
+\setmathfont(Greek)[
+UprightFont={* Light},
+BoldFont={* Semibold},
+AutoFakeSlant=0.15
+]
+{Source Serif Pro}	 
+
+%
+%%%
+
+
+
+
+%%%
+% Memoir Class Page formatting
+%
+% Change line witdh to new font
+\setlxvchars \setxlvchars 
+\settypeblocksize{700pt}{1.6\lxvchars}{*}
+\setlrmargins{*}{*}{1}
+\setulmargins{*}{*}{1}
+\setcolsepandrule{0.5cm}{0pt}
+\setheadfoot{2\onelineskip}{2\onelineskip}
+\setmarginnotes{17pt}{3.5cm}{\onelineskip}
+% Save changes
+\checkandfixthelayout
+% Headings and Page Style
 \pagestyle{empty}
+% Balance last two columns
+\usepackage{flushend}
+%%%
+
+%%%
+% Language
+\usepackage[english,ngerman]{babel}
+%
+%%%
+
+
+
+%%%
+% Figures
+\usepackage{graphicx}
+%
+%%%
+
+%%%
+% TODO Remove later
+\usepackage{lipsum} 
+%%%
+
+%%%
+% Datumsformate
+\usepackage[ngerman]{datetime}
+\newdateformat{monthyear}{\monthname[\THEMONTH] \THEYEAR}
+%\newcommand{\Datum}{\monthyear \today}
+%
+%%%
+
+
+%%%
+% Meta data
+\author{$author$}
+\date{$date$}
+\title{Multiversum Ausgabe Nr. $ausgabe$}
+%
+%%%
+
+
+
+%%%
+%Hyperref
+\usepackage{hyperref}
+\hypersetup{
+	pdftitle    = {Multiversum Ausgabe Nr. $ausgabe$},
+	pdfsubject  = {Master Thesis},
+	pdfauthor   = {Thibaud René Kehler, 321038},
+	pdfkeywords = {Privacy} {Recommender Systems} {Collaborative Filtering} {Secure Multiparty Computation} {SPDZ},
+	pdfcreator  = {XeLaTex},
+	hidelinks,
+}
+\urlstyle{sf}
+%
+%%%
+
+%%% 
+% Divisions
+% Section Style
+\setbeforesecskip{.5em}
+\newcommand{\ruledsec}[1]{%
+	\LARGE\scshape\centering #1 \rule{\linewidth}{0.4pt}}
+\setsecheadstyle{\ruledsec}
+\setaftersecskip{.5em}
+% Subsection Style
+\setsubsecheadstyle{\Large\normalfont\raggedright}
+% Paragraph Style
+\setparaheadstyle{\bfseries}
+% No numbering
+\setsecnumdepth{part}
+%
+%%%
+
 
 \begin{document}
+\twocolumn[
+\vspace*{-5em}
+{Ausgabe Nr. $ausgabe$} \hfill {\thedate}\\
+{\includegraphics[width=\linewidth]{header/Ueberschrift}}%	
+\vspace*{2em}
+]
 
-% \begin{minipage}[l]{0.2\textwidth}
-%    %TODO remove with vector graphic, this is horrible
-%    \includegraphics[width=\textwidth]{Logo_Librarium_outline_300dpi.png}
-% \end{minipage}%
-% \hspace{0.05\textwidth}
-% \begin{minipage}{0.7\textwidth}
-%    {\small Ausgabe Nr. 0} \hfill {\small \Datum}
-%    
-%    \vspace{0.5cm}
-%    {\Huge \Titel}
-%    
-%    \vspace{0.5cm}
-%    {\normalsize RPG Librarium Aachen e.V.}
-% \end{minipage}
+$body$
 
-{\small Ausgabe Nr. 0} \hfill {\small \Datum} \\
-{\centering\includegraphics[width=\textwidth]{header/Ueberschrift.pdf}} \\
-{\normalsize RPG Librarium Aachen e.V.} 
+\begin{figure}[!b]
+	\begin{framed}
+		\textbf{Nächste Termine:} \par 
+		$termine$
+	\end{framed}
+\end{figure}
 
-\begin{multicols}{2}
-
-\lipsum[1-10]
-
-\end{multicols}
 \end{document}
