@@ -6,7 +6,7 @@
 
 
 %%%
-% Fonts and typesetting 
+% Fonts and typesetting
 \usepackage{mathspec}
 %\setmainfont[BoldFont={Source S Pro Semibold}, ItalicFont={Source Sans Pro Italic}, BoldItalicFont={Source Sans Pro Semibold Italic}]{Source Sans Pro}
 \setprimaryfont[
@@ -33,7 +33,7 @@ UprightFont={* Light},
 BoldFont={* Semibold},
 AutoFakeSlant=0.15
 ]
-{Source Serif Pro}	 
+{Source Serif Pro}
 
 %
 %%%
@@ -45,7 +45,7 @@ AutoFakeSlant=0.15
 % Memoir Class Page formatting
 %
 % Change line witdh to new font
-\setlxvchars \setxlvchars 
+\setlxvchars \setxlvchars
 \settypeblocksize{700pt}{1.6\lxvchars}{*}
 \setlrmargins{*}{*}{1}
 \setulmargins{*}{*}{1}
@@ -76,7 +76,7 @@ AutoFakeSlant=0.15
 
 %%%
 % TODO Remove later
-\usepackage{lipsum} 
+\usepackage{lipsum}
 %%%
 
 %%%
@@ -112,12 +112,12 @@ AutoFakeSlant=0.15
 %
 %%%
 
-%%% 
+%%%
 % Divisions
 % Section Style
 \setbeforesecskip{.5em}
 \newcommand{\ruledsec}[1]{%
-	\LARGE\scshape\centering #1 \rule{\linewidth}{0.4pt}}
+	\LARGE\scshape\centering #1 \rule{\linewidth}{0.4pt}\noindent}
 \setsecheadstyle{\ruledsec}
 \setaftersecskip{.5em}
 % Subsection Style
@@ -136,11 +136,18 @@ AutoFakeSlant=0.15
 %
 %%%
 
+%%%
+% Makros
+\newcommand{\verfasser}[1]{{\hfill\itshape #1}}
+%
+%%%
+
+
 \begin{document}
 \twocolumn[
 \vspace*{-5em}
 {Ausgabe Nr. $ausgabe$} \hfill {\thedate}\\
-{\includegraphics[width=\linewidth]{header/Ueberschrift}}%	
+{\includegraphics[width=\linewidth]{header/Ueberschrift}}%
 \vspace*{2em}
 ]
 
@@ -148,8 +155,8 @@ $body$
 
 \begin{figure}[!b]
 	\begin{framed}
-		\textbf{Nächste Termine:} \par 
-		
+		\textbf{Nächste Termine:} \par
+
 		\begin{itemize}
 			$for(termine)$ \item $termine$ $endfor$
 		\end{itemize}
