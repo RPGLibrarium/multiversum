@@ -12,17 +12,17 @@ termine:
 
 ## Workshop: Klischees und Stereotypen
 Diesen Monat stellte uns Franca vor die Frage, wie Klischees einzusetzen sind.
-Inspiriert von einer Superspionin mit grünem Fahrrad und einem Elf mit Helebarde und Magierhut machten wir uns ins Reich der Stereotypen auf.
+Inspiriert von einer Superspionin mit grünem Fahrrad und einem Elfen mit Helebarde und Magierhut machten wir uns auf ins Reich der Stereotypen.
 
 Was sind das, Klischees? Sie sind ein Abklatsch von bekannten Konzepten, wie wir gelernt haben.
-Wir können dadurch Charaktere, Orte, Objekte und Atmosphären erschaffen, die sich alle Zuhörer sofort vorstellen können.
+Wir können dadurch Charaktere, Orte, Objekte und Atmosphären erschaffen, die sich alle Zuhörer*innen sofort vorstellen können.
 
-Sind Klischees sinnvoll? Sie brauchen nicht mehr viel Erklärung und helfen uns vor allem beim Einstieg ins Spiel oder in eine Situation. Um den Beschriebenen Dingen Tiefe zu geben taugen sie wenig, zu langes herumkauen auf Klischees ist langweilig. Von ihnen abzuweichen gibt mehr Dimensionen des Charakters oder Orts und stellt uns vor unvorhergesehenes.
+Sind Klischees sinnvoll? Sie brauchen nicht mehr viel Erklärung und helfen uns vor allem beim Einstieg ins Spiel oder in eine Situation. Um den beschriebenen Dingen Tiefe zu geben taugen sie wenig, zu langes herumkauen auf Klischees ist langweilig. Von ihnen abzuweichen gibt mehr Dimensionen des Charakters oder des Orts und stellt uns vor unvorhergesehenes.
 
 Ist es immer gut von Klischees abzuweichen? Nein. Das schüchterne Mauerblümchen als Raumschiffmechaniker mag seinen Job verrichten, aber die Geschichte wird es wohl nicht vorantreiben.
 
-Was haben wir mitgenommen? Klischees gezielt einzusetzen ist sinnvoll, so kommt man um lange Erklärungen herum. Aber eine gute Erweiterung des Charakters sollte man auch nicht erklären müssen, sie erzählt ihre eigene Geschichte.
-Auf jeden Fall ist es nützlich, die dunkle, feuchte Höhle mit den gruseligen Geräuschen schnell von der ausgeleuchteten, funkelnden Edelsteinhöhle unterscheiden zu können - und lebenswichtig für unsere Charaktere.
+Was haben wir mitgenommen? Klischees gezielt einzusetzen ist sinnvoll, denn so kommt man um lange Erklärungen herum. Aber einen guten Ausbruch aus den Klischees sollte man auch nicht lang erklären müssen.
+Auf jeden Fall ist es nützlich - und lebenswichtig für unsere Charaktere, wenn wir die dunkle, feuchte Höhle mit den gruseligen Geräuschen schnell von der ausgeleuchteten, funkelnden Edelsteinhöhle unterscheiden zu können.
 \verfasser{Hanna}
 
 # An einem anderen Ort
@@ -47,15 +47,18 @@ Alistair B.
 \verfasser{Konstantin}
 
 # Schleuderpresse
-*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}!*
+*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
+#### Suche Spieler/innen für Lasers & Feelings!
+Die Spielregeln passen auf eine Seite, es gibt nur eine Würfelregel. Ansonsten: Sci-Fi, Weltraum, Action, Laser und GROẞE Gefühle! Dauer: 2-4 Stunden. Stil: Erzählorientiert. Termin nach Absprache.
+
+\verfasser{Zeichen: Franca}
 
 # Todesanzeigen
 *Wir gedenken den gefallenen Kameraden.*
 
 ## Arik Morringer (1872-1928)
-\zeitung{London Courier, 18. Dezember 1928}
-Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
+\zeitung{London Courier, 18. Dezember 1928}Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
 \verfasser{Thibaud}
 
 ## Marianne Schneider (1911-1954)
