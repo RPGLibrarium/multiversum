@@ -28,10 +28,10 @@ Auf jeden Fall ist es nützlich, die dunkle, feuchte Höhle mit den gruseligen G
 # An einem anderen Ort
 
 ## Gesucht: Raumschiff Feuergeist
-Im Namen der Imperatorin - mögen alle Sterne ihr gehören - wird erklärt:
+Im Namen der Imperatorin -- mögen alle Sterne ihr gehören -- wird erklärt:
 Gesucht wird das Raumschiff Feuergeist. Es handelt sich um das Schiff mit der Registriernummer 9773fef9-9aa7-4d20-9037, Typ Forschungsschiff, Baujahr 930 n. 3I.
 Besondere Merkmale: Liebevoll verziert mit Dellen an der rechten Bughälfte und dem Look "postapokalyptischer Wüstensturm".
-Zuletzt gesichtet - und auf hinterhältigste Weise enwendet -
+Zuletzt gesichtet -- und auf hinterhältigste Weise enwendet --
 im System Sorviss, Planet Sorviss I, Weltprofil Sorviss I 0403 XAB5200-9 Dü,
 auf ehrenvoller Mission gegen psionische Terroristen, niederträchtige Feinde des Imperiums und der Imperatorin - möge ihr Licht nie verlöschen.
 Wer das Raumschiff wiederfindet und in den Besitz des Marquis von Gurkenhobel wiederbringt, dem ist als Dank ein persönliches Treffen mit dem Marquis gewiss.
@@ -44,7 +44,7 @@ Klafyn Federash (Gefechtsadjutantin der Feuergeist),
 
 (Ausgefertigt mit der Autorität des Marquis von Gurkenhobel),
 Alistair B.
-
+\verfasser{Konstantin}
 
 # Schleuderpresse
 
