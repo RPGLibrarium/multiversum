@@ -147,15 +147,28 @@ AutoFakeSlant=0.15
 
 
 \begin{document}
+
+%%%
+% Title
 \twocolumn[
 \vspace*{-5em}
 {Ausgabe Nr. $ausgabe$} \hfill {\thedate}\\
 {\includegraphics[width=\linewidth]{header/Ueberschrift}}%
-\vspace*{2em}
+{\centering
+\hrule\vspace{\onelineskip}
+\MakeUppercase{$losung$}
+\vspace{\onelineskip}\hrule
+\vspace{\onelineskip}
+}\vspace*{2em}
+
 ]
+%
+%%%
 
 $body$
 
+%%%
+% Termine und Impressum
 \begin{figure}[!b]
 	\begin{framed}
 		\textbf{Nächste Termine:} \par
@@ -164,6 +177,14 @@ $body$
 			$for(termine)$ \item $termine$ $endfor$
 		\end{itemize}
 	\end{framed}
+	\vspace*{-2mm}
+	\begin{Spacing}{0.5}
+	\tiny Disclaimer \& Impressum: Teile des Inhalts sind rein fiktional; Ähnlichkeiten mit realen Personen und Begebenheiten sind zufällig und nicht beabsicht.\\
+	V.i.S.d.P. Hanna Franzen, RPG Librarium Aachen e.V. (VR 5440) \\
+	Kontakt: Postfach 101632, 52016 Aachen, \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}
+	\end{Spacing}
 \end{figure}
+%
+%%%
 
 \end{document}
