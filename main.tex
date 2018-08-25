@@ -1,0 +1,46 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english,ngerman]{babel}
+\usepackage[ngerman]{datetime}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{lipsum} %TODO remove once layout is finished
+\usepackage{geometry}
+\geometry{margin=3cm}
+
+\author{Hanna Franzen}
+
+%TODO hier Namen eintragen
+% \newcommand{\Titel}{Multiversum Schleuderpresse}
+\newdateformat{monthyear}{\monthname[\THEMONTH] \THEYEAR}
+\newcommand{\Datum}{\monthyear \today}
+
+\pagestyle{empty}
+
+\begin{document}
+
+% \begin{minipage}[l]{0.2\textwidth}
+%    %TODO remove with vector graphic, this is horrible
+%    \includegraphics[width=\textwidth]{Logo_Librarium_outline_300dpi.png}
+% \end{minipage}%
+% \hspace{0.05\textwidth}
+% \begin{minipage}{0.7\textwidth}
+%    {\small Ausgabe Nr. 0} \hfill {\small \Datum}
+%    
+%    \vspace{0.5cm}
+%    {\Huge \Titel}
+%    
+%    \vspace{0.5cm}
+%    {\normalsize RPG Librarium Aachen e.V.}
+% \end{minipage}
+
+{\small Ausgabe Nr. 0} \hfill {\small \Datum} \\
+{\centering\includegraphics[width=\textwidth]{Ueberschrift1.pdf}} \\
+{\normalsize RPG Librarium Aachen e.V.} 
+
+\begin{multicols}{2}
+
+\lipsum[1-10]
+
+\end{multicols}
+\end{document}

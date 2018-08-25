@@ -1,0 +1,62 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english,ngerman]{babel}
+
+\title{Readme: Wie man das Flugblatt-Layout benutzt. \\
+       Konventionen, ein \LaTeX-Kurztutorial und nützliche Makros.}
+\author{Hanna Franzen}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+Du hast dich dazu entschieden an unserem wundervollen Flugblatt mitzuarbeiten, juchhu!
+Hier sind die ersten Schritte zur Nutzung unseres Layouts:
+
+\section{Installieren und einrichten von \LaTeX}
+
+\begin{enumerate}
+   \item Installiere \LaTeX. Je nachdem welches Betriebssystem du benutzt kann das unterschiedlich aussehen.
+         Dazu findet man im Internet einige sehr gute Anleitungen 
+         (gebe zum Beispiel ``\textit{LaTeX installieren Windows 10}'' bei Google ein und wähle eine der Anleitungen).
+      
+         \textbf{Achtung bei Windows}: Damit es später nicht zu Problemen kommt solltest du das Programm MiKTeX 
+         installieren \textbf{bevor} du einen Editor installierst. Darauf werden dich wahrscheinlich einige der gefundenen 
+         Anleitungen auch hinweisen.
+      
+   \item Installiere einen \LaTeX-Editor. Das ist z. B. Kile für Linuxsysteme oder TexMaker, das für verschiedene
+         Systeme verfügbar ist. Falls du noch keinen Lieblingseditor hast oder noch nie mit \LaTeX gearbeitet hast,
+         probiere doch einen von diesen Beiden aus. Geeignete Editoren habenden Vorteil, dass sie den Befehl
+         ``\textit{PDFLaTeX}'' können (siehe nächsten Schritt).
+         Natürlich kannst du für kleine Änderungen auch einen vom System mitgebrachten Editor wie den \textit{Editor}
+         auf Windows oder \textit{Gedit} auf Ubuntu benutzen. Dann beachte aber bitte trotzdem unsere Konventionen im
+         nächsten Abschnitt.
+        
+   \item Öffne mit deinem Editor das Dokument ``main.tex'' des Flugblatts. An diesem Dokument sollte man nur etwas ändern,
+         wenn man genau weiß was man da tut. Dein Editor sollte nun den Befehl ``\textit{PDFLaTeX}'' können. 
+         Damit wird das PDF erstellt und aktualisiert, falls etwas an den einzelnen Abschnitten geändert wurde. 
+         Wenn du also eine Änderung gemacht hast solltest du damit immer ausprobieren, ob sie so aussieht wie du es 
+         beabsichtigt hast.
+\end{enumerate}
+
+\section{Konventionen}
+
+Damit die Texte übersichtlich bleiben beachte bitte die folgenden Hinweise:
+\begin{itemize}
+   \item Die Zeilen in \textit{.tex}-Dokumenten sollten nicht länger als 125 Zeichen sein. Die meisten \LaTeX-Editoren
+         geben das laufend an, z.B. steht bei Kile in der rechten unteren Ecke eine Angabe von der Form
+         ``\textit{Line: 41 Col: 33}''. Das bedeutet, man ist in Zeile 41 beim 33. Zeichen. Da man in \LaTeX einen
+         Absatz theoretisch in einer einzigen Zeile schreiben kann wird der Text schnell unlesbar, obwohl er im PDF
+         gut aussieht. Falls man mal schnell einen Fehler korrigieren möchte ist das unpraktisch.
+         Also: Maiximal 125 Zeichen pro Zeile.
+         
+         \textbf{Tipp:} Um bei größeren Änderungen nicht dauernd ändern zu müssen wo die Zeile endet kann man
+         z.B. nach jedem Satz oder sogar Nebensatz einen Zeilenumbruch machen.
+\end{itemize}
+
+\section{Kurzeinleitung in \LaTeX}
+
+\section{Nützliche Befehle}
+
+
+\end{document}
