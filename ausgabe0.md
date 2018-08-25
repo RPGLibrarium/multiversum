@@ -10,7 +10,7 @@ termine:
 
 # Was bisher geschah...
 
-## Klischees und Stereotypen
+## Workshop: Klischees und Stereotypen
 Diesen Monat stellte uns Franca vor die Frage, wie Klischees einzusetzen sind.
 Inspiriert von einer Superspionin mit grünem Fahrrad und einem Elf mit Helebarde und Magierhut machten wir uns ins Reich der Stereotypen auf.
 
@@ -55,7 +55,7 @@ Wir gedenken den gefallen Kameraden.
 \begin{flushright}
 \itshape London Courier, 18. Dezember 1928
 \end{flushright}
-\noindent Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immernoch vermisst, von einem Überleben wird aber nichtmehr ausgegangen. Zum Gedenken an ihn, veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebenen, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Überssinnlichen nie mit Erschrecken entgegen gestreten ist.
+\noindent Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
 \verfasser{Thibaud}
 
 \begin{center}
