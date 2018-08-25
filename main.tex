@@ -131,6 +131,12 @@ AutoFakeSlant=0.15
 %%%
 
 
+%%%
+% Listen
+\tightlists
+%
+%%%
+
 \begin{document}
 \twocolumn[
 \vspace*{-5em}
@@ -144,7 +150,10 @@ $body$
 \begin{figure}[!b]
 	\begin{framed}
 		\textbf{Nächste Termine:} \par 
-		$termine$
+		
+		\begin{itemize}
+			$for(termine)$ \item $termine$ $endfor$
+		\end{itemize}
 	\end{framed}
 \end{figure}
 
