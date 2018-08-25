@@ -37,14 +37,14 @@ Zuletzt gesichtet -- und auf hinterhältigste Weise entwendet --
 im System Sorviss, Planet Sorviss I, Weltprofil Sorviss I 0403 XAB5200-9 Dü,
 auf ehrenvoller Mission gegen psionische Terroristen, niederträchtige Feinde des Imperiums und der Imperatorin - möge ihr Licht nie verlöschen.
 Wer das Raumschiff wiederfindet und in den Besitz des Marquis von Gurkenhobel wiederbringt, dem ist als Dank ein persönliches Treffen mit dem Marquis gewiss.
-Hinweise nehmen entgegen:
+Hinweise nimmt die Crew der Feuergeist entgegen:  
 
-Marquis von Gurkenhobel (Kapitän),
-Alistair B. (Wissenschaftsoffizier der Feuergeist),
-Iporath Z'Nono (2. Wissenschaftsoffizierin der Feuergeist)
-Klafyn Federash (Gefechtsadjutantin der Feuergeist),
+\noindent Marquis von Gurkenhobel (Kapitän),  
+Alistair B. (Wissenschaftsoffizier),  
+Iporath Z'Nono (2. Wissenschaftsoffizierin),  
+Klafyn Federash (Gefechtsadjutantin).  
 
-(Ausgefertigt mit der Autorität des Marquis von Gurkenhobel),
+\noindent Ausgefertigt mit der Autorität des Marquis von Gurkenhobel,  
 Alistair B.
 \verfasser{Konstantin}
 
@@ -61,6 +61,7 @@ Tragisches Horror-Erzählspiel, das bei Kerzenlicht im Dunkeln gespielt wird. Se
 
 \verfasser{Zeichen: 10KERZEN}
 
+\newpage
 # Todesanzeigen
 *Wir gedenken den gefallenen Kameraden.*
 
@@ -77,6 +78,7 @@ Möge sie in Stille ruhen.
 \zeitung{London Courier, 18. Dezember 1928}Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
 \verfasser{Thibaud}
 
+\newpage
 \begin{center}
 \textbf{Der Psychoanalytiker und sein Mörder}\\
 --- eine schauerliche Beziehungskiste ---\\[1em]
