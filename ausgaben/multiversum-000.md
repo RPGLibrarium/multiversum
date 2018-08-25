@@ -64,7 +64,7 @@ Die Machenschaften von Sedu Straut wurden durch ein virales Video bekannt, welch
 In den frühen Morgenstunden ereignete sich im stadtbekannten rivaner Schwitzhaus der Mord eines hochangesehenen Handwerkers; dessen Witwe bittet um Diskretion.
 Der Inhaber des Schwitzhauses Nivi L. berichtet von vier mittelländischen Seeleuten, die den Ort kurz davor aufgesucht haben sollen.
 Auf Anweisung der Stadtwache hin inquiriert die Adepta Minor Lana F.
-Um sachdienliche Hinweise aus der Bevölkerung wird gebeten.
+Um sachdienliche Hinweise aus der Bevölkerung wird gebeten. \verfasser{Hanna}
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
