@@ -47,6 +47,18 @@ Klafyn Federash (Gefechtsadjutantin der Feuergeist),
 Alistair B.
 \verfasser{Konstantin}
 
+## Amtliche Warnung
+Das Gesundheitsministerium hat eine Warnung vor den Produkten der Firma _Rat Burgers_ herausgegeben.
+Der Konsum dieser Produkte kann unter bestimmten Umständen zu einer weitreichenden Metamorphose führen.
+Bitte kontaktieren Sie im Verdachtsfall unverzüglich einen Arzt.
+
+Gerüchten zufolge soll Sedu Straut (Geschäftsführer von _Rat Burgers_) des vorsätzlichen Betrugs und Gefährdung der Bevölkerung angeklagt werden.
+Er scheint allerding spurlos verschwunden zu sein.
+Es wird vermutet, dass auch die Schließung des Clubs _SquareX_ in Zusammenhang mit den Vorkommen steht.
+
+Die Machenschaften von Sedu Straut wurden durch ein virales Video bekannt, welches von einer Gruppe bisher unidentifizierter Shadowrunner online gestellt wurde.
+\verfasser{Richard}
+
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
