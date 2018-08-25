@@ -60,11 +60,6 @@ Es wird vermutet, dass auch die Schließung des Clubs _SquareX_ in Zusammenhang 
 Die Machenschaften von Sedu Straut wurden durch ein virales Video bekannt, welches von einer Gruppe bisher unidentifizierter Shadowrunner online gestellt wurde.
 \verfasser{Richard}
 
-## Wie komme ich nach Hause?
-Wenn ich nach Hause laufe, und am Karrée vorbei komme, gehe ich immer durch die Stadt. Sonst nehme ich den Ring. Ja! Das ist Gewohnheit und Gewohnheit ist gut.
-
-Morgen laufe ich vielleicht anders.
-
 ## Mord im Schwitzhaus
 In den frühen Morgenstunden ereignete sich im stadtbekannten rivaner Schwitzhaus der Mord eines hochangesehenen Handwerkers; dessen Witwe bittet um Diskretion.
 Der Inhaber des Schwitzhauses Nivi L. berichtet von vier mittelländischen Seeleuten, die den Ort kurz davor aufgesucht haben sollen.
