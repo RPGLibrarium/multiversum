@@ -47,15 +47,18 @@ Alistair B.
 \verfasser{Konstantin}
 
 # Schleuderpresse
-*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}!*
+*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Annoncen-Zeichen im Betreff.*
 
+#### Suche Spieler/innen für Lasers & Feelings!
+Die Spielregeln passen auf eine Seite, es gibt nur eine Würfelregel. Ansonsten: Sci-Fi, Weltraum, Action, Laser und GROẞE Gefühle! Dauer: 2-4 Stunden. Stil: Erzählorientiert. Termin nach Absprache.
+
+\verfasser{Zeichen: Franca}
 
 # Todesanzeigen
 *Wir gedenken den gefallenen Kameraden.*
 
 ## Arik Morringer (1872-1928)
-\zeitung{London Courier, 18. Dezember 1928}
-Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
+\zeitung{London Courier, 18. Dezember 1928}Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
 \verfasser{Thibaud}
 
 \begin{center}
