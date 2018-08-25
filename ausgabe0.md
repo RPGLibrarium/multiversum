@@ -70,12 +70,12 @@ Morgen laufe ich vielleicht anders.
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Suche Spieler/innen für Lasers & Feelings!
-Die Spielregeln passen auf eine Seite, es gibt nur eine Würfelregel. Ansonsten: Sci-Fi, Weltraum, Action, Laser und GROẞE Gefühle! Dauer: 2-4 Stunden. Stil: Erzählorientiert. Termin nach Absprache.
+Die Spielregeln passen auf eine Seite, es gibt nur eine Würfelregel. Ansonsten: Sci-Fi, Weltraum, Action, Laser und GROẞE Gefühle! Dauer: 2-4 Stunden. Stil: Erzählorientiert. Termin nach Absprache. Franca.
 
 \verfasser{Zeichen: GEFUEHLE}
 
 #### Biete 10 Candles!
-Tragisches Horror-Erzählspiel, das bei Kerzenlicht im Dunkeln gespielt wird. Setting: Vor 10 Tagen ward die Welt dunkel; vor 5 Tagen kamen SIE. Dauer: Oneshot 2h. Termin: Verschiedene Demorunden nach Absprache.
+Tragisches Horror-Erzählspiel, das bei Kerzenlicht im Dunkeln gespielt wird. Setting: Vor 10 Tagen ward die Welt dunkel; vor 5 Tagen kamen SIE. Dauer: Oneshot 2h. Termin: Verschiedene Demorunden nach Absprache. Thibaud.
 
 \verfasser{Zeichen: 10KERZEN}
 
