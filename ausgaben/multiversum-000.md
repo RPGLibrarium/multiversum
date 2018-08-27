@@ -64,20 +64,18 @@ Die Machenschaften von Sedu Straut wurden durch ein virales Video bekannt, welch
 In den frühen Morgenstunden ereignete sich im stadtbekannten rivaner Schwitzhaus der Mord eines hochangesehenen Handwerkers; dessen Witwe bittet um Diskretion.
 Der Inhaber des Schwitzhauses Nivi L. berichtet von vier mittelländischen Seeleuten, die den Ort kurz davor aufgesucht haben sollen.
 Auf Anweisung der Stadtwache hin inquiriert die Adepta Minor Lana F.
-Um sachdienliche Hinweise aus der Bevölkerung wird gebeten. \verfasser{Hanna}
+Um sachdienliche Hinweise aus der Bevölkerung wird gebeten. \verfasser[DSA]{Hanna}
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Suche Spieler/innen für Lasers & Feelings!
 Die Spielregeln passen auf eine Seite, es gibt nur eine Würfelregel. Ansonsten: Sci-Fi, Weltraum, Action, Laser und GROẞE Gefühle! Dauer: 2-4 Stunden. Stil: Erzählorientiert. Termin nach Absprache. Franca.
-
-\verfasser{Zeichen: GEFUEHLE}
+\zeichen{GEFUEHLE}
 
 #### Biete 10 Candles!
 Tragisches Horror-Erzählspiel, das bei Kerzenlicht im Dunkeln gespielt wird. Setting: Vor 10 Tagen ward die Welt dunkel; vor 5 Tagen kamen SIE. Dauer: Oneshot 2h. Termin: Verschiedene Demorunden nach Absprache. Thibaud.
-
-\verfasser{Zeichen: 10KERZEN}
+\zeichen{10KERZEN}
 
 # Todesanzeigen
 *Wir gedenken den gefallenen Kameraden.*
@@ -89,11 +87,11 @@ Trotz Spekulationen, dass unzufriedene Regisseure Rache an Frau Schneider genomm
 Wäre dies ein Film gewesen, sie hätte ihn sicherlich als "übertrieben", "geschmacklos" und "realitätsfremd" bezeichnet.
 Nun werden wir ohne ihre unbestechlich ehrliche Kritik an den großen Meisterwerken der Filmgeschichte leben müssen.
 Möge sie in Stille ruhen.
-\verfasser{Richard}
+\Verfasser[Cthulhu]{Richard}
 
 ## Arik Morringer (1872-1928)
 \zeitung{London Courier, 18. Dezember 1928}Der freie Journalist und Schriftsteller, der auch für unser Blatt ein treuer und visionärer Autor war, ist unter noch nicht gänzlich geklärten Umständen in der letzten Woche bei einem Unwetter ums Leben gekommen. Mit Kollegen befand er sich in den schottischen Highlands nahe des Dorfes Cannich auf einer Recherchereise, während ein heftiges Unwetter einbrach und noch 12 weitere Opfer forderte. Sein Leichnahm wird immer noch vermisst, von einem Überleben wird aber nicht mehr ausgegangen. Zum Gedenken an ihn veröffentlichen wir nochmal seine letztes Werk, das den Anschein erweckt, er hätte sein Schicksal vorausgeahnt. Mr. Morringers Hinterbliebene, darunter seine Schwester, beschreiben ihn als immer fürsorglichen und sehr empatischen Wegbegleiter, der dem Übersinnlichen nie mit Erschrecken entgegen gestreten ist.
-\verfasser{Thibaud}
+\verfasser[Cthulhu]{Thibaud}
 
 \begin{center}
 \textbf{Der Psychoanalytiker und sein Mörder}\\

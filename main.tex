@@ -165,10 +165,31 @@ $if(balance)$\usepackage{flushend}$endif$
 %%%
 
 %%%
-% Makros
-\newcommand{\verfasser}[1]{{\hfill\itshape #1}}
+% Macros
+%
+% Author-Mark
+\newcommand{\Verfasser}[2][]{%
+\par{\raggedleft{}\mbox{\itshape #2%
+\ifx\relax#1\relax%
+\else%
+~(#1)%
+\fi%
+}\par}}
+\newcommand{\verfasser}[2][]{%
+\hfill\mbox{\itshape #2%
+\ifx\relax#1\relax%
+\else%
+~(#1)%
+\fi%
+}}
+%
+% Annonce-Mark
+\newcommand{\zeichen}[1]{%
+	\par{\raggedleft{}Zeichen: \MakeUppercase{#1}\par}%
+}
+%
 \newcommand{\zeitung}[1]{%
-\begin{flushright}\itshape #1\end{flushright}\noindent%
+	\par{\raggedleft{}\itshape{}#1\par}\noindent%
 }%
 %
 %%%
