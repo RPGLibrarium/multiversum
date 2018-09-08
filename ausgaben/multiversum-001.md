@@ -6,7 +6,7 @@ balance: false
 termine:
     - "Nächstes Treffen: 16.09.2018, 19 Uhr"
     - "Rollenspielfreizeit: 02.01.-06.01.2019"
-losung: "Dies ist ein zufälliger Losungstext"
+losung: "Wir wollen W, weil W wird Wahrheit werden."
 
 ---
 
