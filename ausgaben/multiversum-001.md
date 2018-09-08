@@ -1,12 +1,12 @@
 ---
-author: Autor1, Autor2, Autor3
+author: Richard
 date: September 2018
 ausgabe: 1
 balance: false
 termine:
-    - "Termin: DD.MM.YY, hh Uhr"
-    - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Dies ist ein zufälliger Losungstext"
+    - "Nächstes Treffen: 16.09.2018, 19 Uhr"
+    - "Rollenspielfreizeit: 02.01.-06.01.2019"
+losung: "Wir wollen W, weil W wird Wahrheit werden."
 
 ---
 
@@ -22,9 +22,27 @@ Lorem Ipsum
 Lorem Ipsum
 \verfasser{Autor2}
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+## Der Zombie-König
+Wer flieht so spät durch Nacht und Wind?  
+Es ist Madalin vom Funkeln fast blind.  
+Sie hat den Eichbald wohl an der Hand,  
+Sie fasst ihn sicher, sie läuft gewand.\
+
+"Mein Magus was bist du so bleich im Gesicht?"  
+"Siehst du Madalin den Zombie nicht?  
+Den Zombie mit dem Mund voll Schaum?"  
+"Werter Magus es ist ein Baum."\
+
+"Du liebe Madalin, bleib hier mit mir! Gar schöne Zauber wirke ich dir;  
+Manch buntes Funkeln hab ich entbrannt,  
+Dem Zombie macht ich ein glitzernd Gewand"\
+
+"Herr Magus, Herr Magus verstehst du nicht?  
+All das Funkeln nimmt mir die Sicht!"  
+...\
+
+--Auszug, von Johann Wolfgang von Gareth
+\Verfasser[DSA 4.1]{Richard}
 
 
 
