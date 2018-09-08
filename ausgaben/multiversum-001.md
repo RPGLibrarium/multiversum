@@ -1,13 +1,14 @@
 ---
-author: Autor1, Autor2, Autor3
+author: Hanna, Richard, Thibaud
 date: September 2018
 ausgabe: 1
 balance: false
 termine:
-    - "Termin: DD.MM.YY, hh Uhr"
-    - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Dies ist ein zufälliger Losungstext"
-
+    - "Nächstes Treffen: 16.10.18, 19 Uhr"
+    - "Librarium-Con: 02.01.19 - 06.01.19"
+losung:
+	- "Du schläfst tief. Viel tiefer, dass durch die Erdkruste fällst, und den Erdkern erreichst."
+	- "Das Muster macht Volumens!"
 ---
 
 # Was bisher geschah...
@@ -36,7 +37,7 @@ Lorem Ipsum
 \zeichen{GEFUEHLE}
 
 # Todesanzeigen
-*Trauertext.*
+*Wir nehmen Abschied von unseren geliebten Helden.*
 
 ## Vorname Name (YYYY-YYYY)
 \zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
