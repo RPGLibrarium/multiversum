@@ -1,6 +1,6 @@
 ---
 author: Hanna, Richard, Thibaud
-date: September 2018
+date: Oktober 2018
 ausgabe: 1
 balance: false
 termine:
