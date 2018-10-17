@@ -108,7 +108,16 @@ All das Funkeln nimmt mir die Sicht!"
 --Auszug, von Johann Wolfgang von Gareth
 \Verfasser[DSA 4.1]{Richard}
 
+## Jubel auf Casinopia 23!
+\zeitung{Universial Times, 40310.79 TAG}Liebe Bürger der intergalaktischen Föderation, anlässlich der Zyklung des Raumfriedensvertrages fand heute auf dem künstlichen Arena-Planeten Casinopia 23 wieder der Große Arenakampf statt! Die drei schwerst verurteilten Verbrecher der Galaxie mussten sich in der hexagonalen Arena den grausamsten Bestien stellen, die unser Universum zu bieten hat!
 
+In drei Runden bekämpften sie sich nur leicht bewaffnet einen Schwarm achtflügliger Flederkracken, ein Rudel transdimensionaler Schlurfhunde und einen monströsen Grünen Schrecken! Wie die meisten unserer Leser sicher schon wissen, ist es möglich durch die Spende von ganzen 10.000 ¢ in einem Sechstel des Kampfplatzes tödliche Fallen auszulösen!
+
+Unsera Reportera Shug'nel war für Sie, liebe Leser, live vor Ort, um von der Lage zu berichten, als etwas einmaliges passierte! Als der Grüne Schrecken gerade besiegt zu Boden fiel, verkaufte der Zuschauer Artonis noch schnell Haus und Hof, um alle sechs Felder der Arena gleichzeitig zu aktivieren! Dies bedeutete den sicheren Tod aller drei Kämpfer! Artonis sagte zu Shug'nel in einem exklusiven Interview: "Ich liebe The Rock! Er ist einfach mein Lieblingsschurken! Deswegen wollte ich ihm, durch diesen Rekordkauf einen einzigartigen und sensationellen Tod ermöglichen! Ich werde Ihn auf Ewig in meinem Herzen tragen!" Im Anschluss zeigte Artonis uns ein Tattoo von The Rock auf seinem Herzen, dass er mit einem Guckfenster durch den Brustkorb für alle sichtbar gemacht hatte!
+
+Wir freuen uns, dass auch dieser Arena-Kampf unsere Föderation ein Stückchen näher gebracht hat und bleiben gespannt, wer im nächsten Zyklus in der Arena von Casinopia 23 antreten wird!
+
+\verfasser[Savage Worlds]{Thibaud}
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
