@@ -7,7 +7,7 @@ termine:
     - "Nächstes Treffen: 16.10.18, 19 Uhr"
     - "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
-	- "Du schläfst tief. Viel tiefer, dass durch die Erdkruste fällst, und den Erdkern erreichst."
+	- "Du schläfst tief. Viel tiefer, dass du durch die Erdkruste fällst, den Erdkern erreichst."
 	- "Das Muster macht Volumen!"
 	- "Wir wollen W, weil W wird Wahrheit werden."
 ---
