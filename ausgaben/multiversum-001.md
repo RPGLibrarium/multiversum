@@ -63,25 +63,25 @@ Wir freuen uns, dass auch dieser Arena-Kampf die Bewohner unsere Föderation ein
 \Verfasser[Savage Worlds]{Thibaud}
 
 ## Der Zombie-König
-Wer flieht so spät durch Nacht und Wind?  
-Es ist Madalin vom Funkeln fast blind.  
-Sie hat den Eichbald wohl an der Hand,  
-Sie fasst ihn sicher, sie läuft gewand.\
-
-"Mein Magus was bist du so bleich im Gesicht?"  
-"Siehst du Madalin den Zombie nicht?  
-Den Zombie mit dem Mund voll Schaum?"  
-"Werter Magus es ist ein Baum."\
-
-"Du liebe Madalin, bleib hier mit mir! Gar schöne Zauber wirke ich dir;  
-Manch buntes Funkeln hab ich entbrannt,  
-Dem Zombie macht ich ein glitzernd Gewand"\
-
-"Herr Magus, Herr Magus verstehst du nicht?  
-All das Funkeln nimmt mir die Sicht!"  
-...\
+```{=latex}
+Wer flieht so spät durch Nacht und Wind?\\
+Es ist Madalin vom Funkeln fast blind.\\    
+Sie hat den Eichbald wohl an der Hand,\\
+Sie fasst ihn sicher, sie läuft gewand.\\[1em]
+\enquote{Mein Magus was bist du so bleich im Gesicht?}\\
+\enquote{Siehst du Madalin den Zombie nicht?}\\
+\enquote{Den Zombie mit dem Mund voll Schaum?}\\
+\enquote{Werter Magus es ist ein Baum.}\\[1em]
+\enquote{Du liebe Madalin, bleib hier mit mir!\\
+Gar schöne Zauber wirke ich dir;\\
+Manch buntes Funkeln hab ich entbrannt,\\
+Dem Zombie macht ich ein glitzernd Gewand}\\[1em]
+\enquote{Herr Magus, Herr Magus verstehst du nicht?\\
+All das Funkeln nimmt mir die Sicht!}\\
+...
 
 --Auszug, von Johann Wolfgang von Gareth
+```
 \Verfasser[DSA 4.1]{Richard}
 
 
