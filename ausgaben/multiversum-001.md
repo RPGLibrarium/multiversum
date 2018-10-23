@@ -88,9 +88,11 @@ Wir freuen uns, dass auch dieser Arena-Kampf die Bewohner unsere Föderation ein
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
+
+
+#### Microscope
+Biete Proberunde "Microscope". Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchlebe winzigste Schlüsselszenen! Ein Weltenbau-Pen&Paper für einen verregneten Novembernachmittag. Franca.
+\zeichen{MODELLBAU}
 
 # Todesanzeigen
 *Wir nehmen Abschied von unseren geliebten Helden.*
