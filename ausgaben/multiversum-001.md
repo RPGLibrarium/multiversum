@@ -1,5 +1,5 @@
 ---
-author: Hanna, Richard, Thibaud, Yoann
+author: Hanna, Richard, Thibaud, Yoann, Franca, Richard
 date: Oktober 2018
 ausgabe: 1
 balance: false
