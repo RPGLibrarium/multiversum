@@ -94,10 +94,3 @@ All das Funkeln nimmt mir die Sicht!"
 #### Biete Proberunde Microscope!
 Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchlebe winzigste Schlüsselszenen! Ein Weltenbau-Pen&Paper für einen verregneten Novembernachmittag. Franca.
 \zeichen{MODELLBAU}
-
-# Todesanzeigen
-*Wir nehmen Abschied von unseren geliebten Helden.*
-
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
