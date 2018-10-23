@@ -14,9 +14,10 @@ losung:
 
 # Was bisher geschah...
 
-## Helden erschaffen, Geschichte(n) Schreiben - eine Zufallstabelle
+## Helden erschaffen, Geschichte(n) schreiben - eine Zufallstabelle
 Bei unserem letzten Treffen haben wir uns überlegt, wie man einfach und mit wenig Inspiration Helden erschaffen kann. Das geht zum Beispiel mit der neuen RPG-Librarium-Zufallstabelle. Erschaffe einen legendären Charakter, indem du ganz einfach (mit den richtigen Würfeln)  auf die folgenden Zufallstabellen würfelst.
-
+\begin{table*}[t]
+\begin{framed}
 \begin{tabular}{ll}
 \textbf{1W6} & \textbf{Namen (1x)} \\
 1 & Petaurus \\
@@ -80,6 +81,8 @@ Bei unserem letzten Treffen haben wir uns überlegt, wie man einfach und mit wen
 5	&ich nicht wirklich weiß, was ich will.\\
 6	&ich Knochen sammel.\\
 \end{tabular}
+\end{framed}
+\end{table*}
 
 
 \verfasser{Thibaud}
@@ -109,13 +112,13 @@ All das Funkeln nimmt mir die Sicht!"
 \Verfasser[DSA 4.1]{Richard}
 
 ## Jubel auf Casinopia 23!
-\zeitung{Universial Times, 40310.79 TAG}Liebe Bürger der intergalaktischen Föderation, anlässlich der Zyklung des Raumfriedensvertrages fand heute auf dem künstlichen Arena-Planeten Casinopia 23 wieder der Große Arenakampf statt! Die drei schwerst verurteilten Verbrecher der Galaxie mussten sich in der hexagonalen Arena den grausamsten Bestien stellen, die unser Universum zu bieten hat!
+\zeitung{Universial Times, 40310.79 TAG}Liebe Bürger der intergalaktischen Föderation, anlässlich der Zyklung des Raumfriedenvertrages fand heute auf dem künstlichen Planeten Casinopia 23 wieder der Große Arenakampf statt! Die drei schwerst verurteilten Verbrecher der Galaxie mussten sich in der hexagonalen Arena den grausamsten Bestien stellen, die unser Universum zu bieten hat!
 
-In drei Runden bekämpften sie sich nur leicht bewaffnet einen Schwarm achtflügliger Flederkracken, ein Rudel transdimensionaler Schlurfhunde und einen monströsen Grünen Schrecken! Wie die meisten unserer Leser sicher schon wissen, ist es möglich durch die Spende von ganzen 10.000 ¢ in einem Sechstel des Kampfplatzes tödliche Fallen auszulösen!
+In drei Runden bekämpften sie  nur leicht bewaffnet einen Schwarm achtflügiger Flederkraken, ein Rudel transdimensionaler Schlurfhunde und einen monströsen Grünen Schrecken! Wie die meisten unserer Leser sicher schon wissen, ist es möglich durch die Spende von ganzen 10.000 ¢ in einem Sechstel des Kampfplatzes tödliche Fallen auszulösen!
 
-Unsera Reportera Shug'nel war für Sie, liebe Leser, live vor Ort, um von der Lage zu berichten, als etwas einmaliges passierte! Als der Grüne Schrecken gerade besiegt zu Boden fiel, verkaufte der Zuschauer Artonis noch schnell Haus und Hof, um alle sechs Felder der Arena gleichzeitig zu aktivieren! Dies bedeutete den sicheren Tod aller drei Kämpfer! Artonis sagte zu Shug'nel in einem exklusiven Interview: "Ich liebe The Rock! Er ist einfach mein Lieblingsschurken! Deswegen wollte ich ihm, durch diesen Rekordkauf einen einzigartigen und sensationellen Tod ermöglichen! Ich werde Ihn auf Ewig in meinem Herzen tragen!" Im Anschluss zeigte Artonis uns ein Tattoo von The Rock auf seinem Herzen, dass er mit einem Guckfenster durch den Brustkorb für alle sichtbar gemacht hatte!
+Unsera Reportera Shug'nel war für Sie, liebe Leser, live vor Ort, um von der Lage zu berichten, als etwas einmaliges passierte! Als der Grüne Schrecken gerade besiegt zu Boden fiel, verkaufte der Zuschauer Artonis noch schnell Haus und Hof, um alle sechs Felder der Arena gleichzeitig zu aktivieren! Dies bedeutete den sicheren Tod aller drei Kämpfer! Artonis sagte zu Shug'nel in einem exklusiven Interview: "Ich liebe The Rock! Er ist einfach mein Lieblingsschurke! Deswegen wollte ich ihm, durch diesen Rekordkauf einen einzigartigen und sensationellen Tod ermöglichen! Ich werde Ihn auf Ewig in meinem Herzen tragen!" Im Anschluss zeigte Artonis uns ein Tattoo von The Rock auf seinem Herzen, das er mit einem Guckfenster durch den Brustkorb für alle sichtbar gemacht hatte!
 
-Wir freuen uns, dass auch dieser Arena-Kampf unsere Föderation ein Stückchen näher gebracht hat und bleiben gespannt, wer im nächsten Zyklus in der Arena von Casinopia 23 antreten wird!
+Wir freuen uns, dass auch dieser Arena-Kampf die Bewohner unsere Föderation ein Stückchen näher gebracht hat und bleiben gespannt, wer im nächsten Zyklus in der Arena von Casinopia 23 antreten wird!
 
 \verfasser[Savage Worlds]{Thibaud}
 
