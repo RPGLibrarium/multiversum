@@ -13,7 +13,7 @@ losung:
 
 # Was bisher geschah...
 
-## Helden erschaffen, Geschichte(n) schreiben - eine Zufallstabelle
+## Helden erschaffen, Geschichte(n) schreiben -- eine Zufallstabelle
 Bei unserem letzten Treffen haben wir uns überlegt, wie man einfach und mit wenig Inspiration Helden erschaffen kann. Das geht zum Beispiel mit der neuen RPG-Librarium-Zufallstabelle, die du auf der Rückseite dieses Blattes findest!
 \begin{table*}[!t]
 Erschaffe einen legendären Charakter, indem du ganz einfach (mit den richtigen Würfeln)  auf die folgenden Zufallstabellen würfelst.
