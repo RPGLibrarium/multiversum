@@ -5,6 +5,7 @@ ausgabe: 1
 balance: false
 termine:
     - "Nächstes Treffen: 16.11.18, 19 Uhr"
+    - "Rollenspielabend FSMPI: 27.11.18, 18 Uhr"
     - "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
 	- "Du schläfst tief. Viel tiefer, dass du durch die Erdkruste fällst, den Erdkern erreichst."
