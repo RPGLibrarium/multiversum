@@ -20,31 +20,41 @@ Bei unserem letzten Treffen haben wir uns überlegt, wie man einfach und mit wen
 Erschaffe einen legendären Charakter, indem du ganz einfach (mit den richtigen Würfeln)  auf die folgenden Zufallstabellen würfelst.
 \begin{framed}
 \begin{tabular}{p{0.1\textwidth}p{0.25\textwidth}p{0.1\textwidth}p{0.55\textwidth}}
-\textbf{1W6}  & \textbf{Namen (1x)}            & \textbf{1W5}    & \textbf{Archetyp (1x)} \\
-1             & Petaurus                       & 1	             & Elb                    \\
-2             & Labo Konstakai                 & 2	             & Königspinguinplüsch    \\
-3             & Ups, vergessen!                & 3	             & Anarchist              \\
-4             & Naz'Shab                       & 4	             & Naga Drohne            \\
-5             & Kelur                          & 5	             & Magier                 \\
-6             & Dr. Oetger                     & \textbf{1W10}   & \textbf{Ich will... (1x)} \\
-\textbf{1W17} & \textbf{Eigenschaften (2--3x)} & 1	             & die Weltherrschaft an mich reißen. \\
-1	          & zielstrebig	                   & 2	             & jemandem etwas beweisen. \\
-2	          & narzisstisch	               & 3	             & ganz viel Macht sammeln. \\
-3	          & klein	                       & 4	             & den Anführer stürzen. \\
-4	          & unsicher	                   & 5	             & alles Wissen anhäufen. \\
-5	          & nett	                       & 6	             & kostenlose Magie für alle! \\
-6	          & aufbrausend	                   & 7	             & meine Kolonie wiederfinden. \\
-7	          & fliegend	                   & 8	             & die wertvollsten Schätze finden. \\
-8	          & klug	                       & 9	             & Nekromantie endlich entstigmatisieren. \\
-9	          & sportlich	                   & 10	             & den Himmel auf Erden erschaffen. \\
-10	          & orientierungslos	           & \textbf{1W6}    & \textbf{Mein dunkelstes Geheimnis ist, dass... (1x)} \\
-11	          & kriegerisch	                   & 1	             & ich waschmittelsüchtig bin.\\
-12	          & idealistisch	               & 2	             & ich heimlich verliebt bin.\\
-13	          & wissbegierig	               & 3	             & jemanden umgebracht habe.\\
-14	          & offen	                       & 4	             & der verstoßene Bastard des Königs bin.\\
-15	          & charismatisch    	           & 5	             & ich nicht wirklich weiß, was ich will.\\
-16	          & besessen	                   & 6	             & ich Knochen sammel.\\
-17	          & süchtig	                       &                 & \\
+\textbf{1W10} & \textbf{Namen (1x)}            & \textbf{1W9}    & \textbf{Archetyp (1x)}                              \\
+1             & Petaurus                       & 1               & Elb                                                 \\
+2             & Labo Konstakai                 & 2               & Königspinguinplüsch                                 \\
+3             & Ups, vergessen!                & 3               & Anarchist                                           \\
+4             & Naz'Shab                       & 4               & Naga Drohne                                         \\
+5             & Kelur                          & 5               & Magier                                              \\
+6             & Dr. Oetger                     & 6               & Furzfürst                                           \\
+7             & Gotthilf Gottlob Gottfried     & 7               & Priester                                            \\
+8             & Grunbrit Tarennes              & 8               & Bibliothekar                                        \\
+9             & L'anzt'ah                      & 9               & Kanalreiniger                                       \\
+10            & Harraldt Bommelsbach           & \textbf{1W14}   & \textbf{Ich will... (1x)}                           \\
+\textbf{1W23} & \textbf{Eigenschaften (2--3x)} & 1               & die Weltherrschaft an mich reißen.                  \\
+1             & zielstrebig                    & 2               & jemandem etwas beweisen.                            \\
+2             & narzisstisch                   & 3               & ganz viel Macht sammeln.                            \\
+3             & klein                          & 4               & den Anführer stürzen.                               \\
+4             & unsicher                       & 5               & alles Wissen anhäufen.                              \\
+5             & nett                           & 6               & kostenlose Magie für alle!                          \\
+6             & aufbrausend                    & 7               & meine Kolonie wiederfinden.                         \\
+7             & fliegend                       & 8               & die wertvollsten Schätze finden.                    \\
+8             & klug                           & 9               & Nekromantie endlich entstigmatisieren.              \\
+9             & sportlich                      & 10              & den Himmel auf Erden erschaffen.                    \\
+10            & orientierungslos               & 11              & DER Kaiser sein.                                    \\
+11            & kriegerisch                    & 12              & durch ein Zeichen meines Gottes sterben.            \\
+12            & idealistisch                   & 13              & Gladiathor werden.                                  \\
+13            & wissbegierig                   & 14              & das Dosenpfand dem Flaschenpfand angleichen.        \\
+14            & offen                          & \textbf{1W9}    & \textbf{Mein dunkelstes Geheimnis ist, dass... (1x)}\\
+15            & charismatisch    	             & 1               & ich waschmittelsüchtig bin.                         \\
+16            & besessen                       & 2               & ich heimlich verliebt bin.                          \\
+17            & süchtig                        & 3               & ich jemanden umgebracht habe.                       \\
+18            & pedantisch                     & 4               & ich der verstoßene Bastard des Königs bin.          \\
+19            & größenwahnsinnig               & 5               & ich nicht wirklich weiß, was ich will.              \\
+20            & diszipliniert                  & 6               & ich Knochen sammel.                                 \\
+21            & stur                           & 7               & ich meine PR Menschen umgebracht habe.              \\
+22            & kleinkarriert                  & 8               & ich nicht lesen kann.                               \\
+23            & nörgelig                       & 9               & ich als Kind im Keller aufgewachsen bin.            \\
 \end{tabular}
 \end{framed}
 \end{table*}
