@@ -90,8 +90,8 @@ Wir freuen uns, dass auch dieser Arena-Kampf die Bewohner unsere Föderation ein
 
 
 
-#### Microscope
-Biete Proberunde "Microscope". Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchlebe winzigste Schlüsselszenen! Ein Weltenbau-Pen&Paper für einen verregneten Novembernachmittag. Franca.
+#### Biete Proberunde Microscope
+Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchlebe winzigste Schlüsselszenen! Ein Weltenbau-Pen&Paper für einen verregneten Novembernachmittag. Franca.
 \zeichen{MODELLBAU}
 
 # Todesanzeigen
