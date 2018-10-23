@@ -103,4 +103,4 @@ Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchleb
 \zeichen{MODELLBAU}
 
 # Werbung
-Dieses Multiversum wird ihnen präsentiert von \textsc{Aranier Hexenbräu}. Genießen Sie während der Lektüre dieses Flugblatts unsere neue Geschmacksrichtung \textsc{Aranier Hexenbräu Wirselkraut-Paprika-Kirsch}. Neun von zehn Anconieter Brüder empfehlen die orale Einnahme.
+Dieses Multiversum wird ihnen präsentiert von \textsc{Aranier Hexenbräu}. Genießen Sie während der Lektüre dieses Flugblatts unsere neue Geschmacksrichtung \textsc{Aranier Hexenbräu Wirselkraut-Paprika-Kirsch}. Neun von zehn Anconieter Brüdern empfehlen die orale Einnahme.
