@@ -1,10 +1,11 @@
 ---
-author: Hanna, Richard, Thibaud, Yoann
+author: Hanna, Richard, Thibaud, Yoann, Franca, Richard
 date: Oktober 2018
 ausgabe: 1
 balance: false
 termine:
     - "Nächstes Treffen: 16.11.18, 19 Uhr"
+    - "Rollenspielabend FSMPI: 27.11.18, 18 Uhr"
     - "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
 	- "Du schläfst tief. Viel tiefer, dass du durch die Erdkruste fällst, den Erdkern erreichst."
@@ -12,7 +13,7 @@ losung:
 
 # Was bisher geschah...
 
-## Helden erschaffen, Geschichte(n) schreiben - eine Zufallstabelle
+## Helden erschaffen, Geschichte(n) schreiben -- eine Zufallstabelle
 Bei unserem letzten Treffen haben wir uns überlegt, wie man einfach und mit wenig Inspiration Helden erschaffen kann. Das geht zum Beispiel mit der neuen RPG-Librarium-Zufallstabelle, die du auf der Rückseite dieses Blattes findest!
 \begin{table*}[!t]
 Erschaffe einen legendären Charakter, indem du ganz einfach (mit den richtigen Würfeln)  auf die folgenden Zufallstabellen würfelst.
@@ -101,4 +102,7 @@ Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchleb
 \zeichen{MODELLBAU}
 
 # Werbung
-Dieses Multiversum wird ihnen präsentiert von \textsc{Aranier Hexenbräu}. Genießen Sie während der Lektüre dieses Flugblatts unsere neue Geschmacksrichtung \textsc{Aranier Hexenbräu Wirselkraut-Paprika-Kirsch}. Neun von zehn Anconieter Brüder empfehlen die orale Einnahme.
+Dieses Multiversum wird ihnen präsentiert von \newline\textsc{Aranier Hexenbräu}. Genießen Sie während der Lektüre unsere neue Geschmacksrichtung \begin{center}\textsc{Aranier Hexenbräu Wirselkraut-Paprika-Kirsch}.\end{center}Neun von zehn Anconiter Brüder empfehlen die orale Einnahme von \textsc{Aranier Hexenbräu}.
+
+## Abenteurer gesucht!
+Für ein aufregende Queste zu der Freusburg in Kirchen sucht der RPG Librarium Aachen e.V. noch edle Gefährten. Das Ziel ist die Ausforschung aller Rollenspielwelten und Universen. Die Anmeldung ist noch bis Ende Oktober geöffnet. Melde Dich jetzt auf der Webseite \href{https://rpg-librarium.de/Veranstaltungen#Freizeit}{https://rpg-librarium.de} an, denn es wird sehr gut. (4 Übernachtungen VP, ab 165€ p.P.)
