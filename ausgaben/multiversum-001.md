@@ -102,4 +102,7 @@ Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchleb
 \zeichen{MODELLBAU}
 
 # Werbung
-Dieses Multiversum wird ihnen präsentiert von \textsc{Aranier Hexenbräu}. Genießen Sie während der Lektüre dieses Flugblatts unsere neue Geschmacksrichtung \textsc{Aranier Hexenbräu Wirselkraut-Paprika-Kirsch}. Neun von zehn Anconieter Brüdern empfehlen die orale Einnahme.
+Dieses Multiversum wird ihnen präsentiert von \textsc{Aranier Hexenbräu}. Genießen Sie während der Lektüre dieses Flugblatts unsere neue Geschmacksrichtung \begin{center}\textsc{Aranier Hexenbräu Wirselkraut-Paprika-Kirsch}.\end{center}Neun von zehn Anconieter Brüder empfehlen die orale Einnahme von \textsc{Aranier Hexenbräu}.
+
+## Abenteurer gesucht
+Für ein aufregende Queste zu der Freußburg in Kirchen, sucht der RPG Librarium Aachen e.V. noch edle Gefährten. Ziel ist die Ausforschung aller Rollenspielwelten und Universen. Die Anmeldung ist noch bis Ende Oktober geöffnet. Melde Dich jetzt auf der Webseite \url{https://rpg-librarium.de} an, denn es wird sehr gut. (4 Übernachtungen, ab 165€ p.P.)
