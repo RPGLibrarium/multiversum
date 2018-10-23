@@ -4,7 +4,7 @@ date: Oktober 2018
 ausgabe: 1
 balance: false
 termine:
-    - "Nächstes Treffen: 16.10.18, 19 Uhr"
+    - "Nächstes Treffen: 16.11.18, 19 Uhr"
     - "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
 	- "Du schläfst tief. Viel tiefer, dass du durch die Erdkruste fällst, den Erdkern erreichst."
