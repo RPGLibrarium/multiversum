@@ -1,5 +1,5 @@
 ---
-author: Hanna, Richard, Thibaud
+author: Hanna, Richard, Thibaud, Yoann
 date: Oktober 2018
 ausgabe: 1
 balance: false
@@ -9,8 +9,6 @@ termine:
     - "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
 	- "Du schläfst tief. Viel tiefer, dass du durch die Erdkruste fällst, den Erdkern erreichst."
-	- "Das Muster macht Volumen!"
-	- "Wir wollen W, weil W wird Wahrheit werden."
 ---
 
 # Was bisher geschah...
