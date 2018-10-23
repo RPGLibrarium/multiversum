@@ -1,20 +1,19 @@
 ---
-author: Hanna, Richard, Thibaud
+author: Hanna, Richard, Thibaud, Yoann
 date: Oktober 2018
 ausgabe: 1
 balance: false
 termine:
     - "Nächstes Treffen: 16.11.18, 19 Uhr"
+    - "Rollenspielabend FSMPI: 27.11.18, 18 Uhr"
     - "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
 	- "Du schläfst tief. Viel tiefer, dass du durch die Erdkruste fällst, den Erdkern erreichst."
-	- "Das Muster macht Volumen!"
-	- "Wir wollen W, weil W wird Wahrheit werden."
 ---
 
 # Was bisher geschah...
 
-## Helden erschaffen, Geschichte(n) schreiben - eine Zufallstabelle
+## Helden erschaffen, Geschichte(n) schreiben -- eine Zufallstabelle
 Bei unserem letzten Treffen haben wir uns überlegt, wie man einfach und mit wenig Inspiration Helden erschaffen kann. Das geht zum Beispiel mit der neuen RPG-Librarium-Zufallstabelle, die du auf der Rückseite dieses Blattes findest!
 \begin{table*}[!t]
 Erschaffe einen legendären Charakter, indem du ganz einfach (mit den richtigen Würfeln)  auf die folgenden Zufallstabellen würfelst.
