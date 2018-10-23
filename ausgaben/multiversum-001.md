@@ -93,13 +93,12 @@ All das Funkeln nimmt mir die Sicht!}\\
 ```
 \Verfasser[DSA 4.1]{Richard}
 
-
-
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
-
-
 
 #### Biete Proberunde Microscope!
 Schreibe die epische Chronik einer Welt, erkunde die großen Zeitalter, durchlebe winzigste Schlüsselszenen! Ein Weltenbau-Pen&Paper für einen verregneten Novembernachmittag. Franca.
 \zeichen{MODELLBAU}
+
+# Werbung
+Dieses Multiversum wird ihnen präsentiert von \textsc{Aranier Hexenbräu}. Genießen Sie während der Lektüre dieses Flugblatts unsere neue Geschmacksrichtung \textsc{Aranier Hexenbräu Wirselkraut-Paprika-Kirsch}. Neun von zehn Anconieter Brüder empfehlen die orale Einnahme.
