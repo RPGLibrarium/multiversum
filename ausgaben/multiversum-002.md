@@ -82,9 +82,9 @@ Ihrer neue Temporallinse für Ihr drittes Auge.
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
+#### WdS zu verkaufen.
+Es ist eines der letzten seiner Art und zwar ein Wege des Schwerts aus der DSA 4.1 Reihe. Interessenten bitte melden. 01775551375. Kay.
+\zeichen{VERGRIFFEN}
 
 # Todesanzeigen
 *Trauertext.*
