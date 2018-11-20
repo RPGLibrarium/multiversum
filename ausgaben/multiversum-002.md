@@ -75,8 +75,7 @@ Doch das Glück ist mit den Narren\\
 \Verfasser[DSA 4.1]{Franca}
 
 ## Lost and Found
-\zeitung{Bodrinmünd, 13. Praios 1035}
-Gefunden: Harfe von magischer Qualität. Nach dem Erlegen eines störenden Wasserdrachens konnten die Vögtin eine filigrane Harfe aus dessen Hort sicherstellen. Bei Hinweisen auf den Besitzer oder zu der genauen Beschaffenheit der magischen Eigenschaften bitte melden bei Cloe Quent.
+\zeitung{Bodrinmünd, 13. Praios 1035}Gefunden: Harfe von magischer Qualität. Nach dem Erlegen eines störenden Wasserdrachens konnten die Vögtin eine filigrane Harfe aus dessen Hort sicherstellen. Bei Hinweisen auf den Besitzer oder zu der genauen Beschaffenheit der magischen Eigenschaften bitte melden bei Cloe Quent.
 \Verfasser[DSA 4.1]{Hanna}
 
 # Werbung
@@ -95,5 +94,5 @@ Es ist eines der letzten seiner Art und zwar ein Wege des Schwerts aus der DSA 4
 # Lebendanzeigen
 *Wir gedenken unseren lebenden Mitmenschen.*
 
-## Franca a.d.H. (~1889-heute)
+## Franca a.d.H. (~1889--heute)
 Unsere geliebte Redakteurin, Autorin und Lyrikerin konnte leider nicht an unserer heutigen Reaktionssitzung  teilnehmen. Da wir kürzlich erst fernmündlichen Kontakt mit ihr hatten, gilt sie nicht als vermisst. Wir gehen davon aus, dass sie noch lebt. Um dennoch Francas epischen Lebenswerk gerecht zu werden, stellen Sie sich bitte jetzt J.S. Bachs Toccata und Fuge in d-Moll (BWV 565) vor. \verfasser{Thibaud}
