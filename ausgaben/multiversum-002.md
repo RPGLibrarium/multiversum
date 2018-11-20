@@ -1,15 +1,15 @@
 ---
-author: Autor1, Autor2, Autor3
-date: Monat YYYY
+author: Fanca, Thibaud, Yoann, Hanna, Richard
+date: November 2018
 ausgabe: 2
 balance: false
 termine:
-    - "Termin: DD.MM.YY, hh Uhr"
-    - "Termin: DD.MM.YY - DD.MM.YY"
+    	- "Rollenspielabend FSMPI: 27.11.18, 18 Uhr"
+        - "Rollenspielabend KatHo: 12.12.18, 18 Uhr"
+        - "Nächstes Treffen: 16.11.18, 19 Uhr"
+    	- "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
-	- "Das Muster macht Volumen!"
-	- "Wir wollen W, weil W wird Wahrheit werden."
-
+    	- "Wir wollen W, weil W wird Wahrheit werden."
 ---
 
 # Was bisher geschah...
