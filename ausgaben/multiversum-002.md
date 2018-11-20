@@ -31,7 +31,7 @@ Der erneute Versuch heute Morgen die Herrschaft über den Wald zurückzugewinnen
 Europol bestreitet die Echtheit der Aufnahmen und verweist auf die hohe Gewaltbereitschaft, der Besetzer. Polizeidirektor Bernd Glöcker kritisiert scharf die *laissez-faire* Strategie der demokratischen Partei, die eine erneute Besetzung des Waldes überhaupt ermöglicht hat. Sie müsse jetzt die Konsequenzen für die Aushöhlung des Rechtsstaat und die vielen Opfer durch die linksextremen Gewalt tragen.
 
 Alles deutet jedoch darauf hin, dass der Hambacher Wald erwacht ist und sich nun selbst gegen die bevorstehende Rodung verteidigt. Professor für metastatische Energien an der Universität Bochum Gunther Hindenmauer vermuten in einem Interview mit der Redaktion, dass für den erwachten Hambacher Wald die gleichen Kräfte verantwortlich sind, die bereits den Ebersberger Forst in eine Gefahrenzone verwandelt haben. Vor allem die starken Energieträger im Untergrund kämen als Auslöser dieses paranormalen Phänomens in Frage. Die A4, die an der südlichen Kante des Waldes vorbei führt wurde von den Sicherheitsbehörden gesperrt. Reisende zum Großherzogtum Westrhein-Luxemburg werden gebeten über die A44 auszuweichen.
-\Verfasser[SR 5]{Yoann}
+\verfasser[SR 5]{Yoann}
 
 ## Flussfahrt am Großen Fluss
 
