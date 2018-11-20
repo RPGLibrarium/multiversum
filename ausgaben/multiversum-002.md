@@ -6,7 +6,7 @@ balance: false
 termine:
     - "Rollenspielabend FSMPI: 27.11.18, 18 Uhr"
     - "Rollenspielabend KatHo: 12.12.18, 18 Uhr"
-    - "Nächstes Treffen: 16.12.18, 19 Uhr"
+    - "Weihnachtsfeier: 16.12.18, 19 Uhr"
     - "Librarium-Con: 02.01.19 - 06.01.19"
 losung:
     - "Wir wollen W, weil W wird Wahrheit werden."
@@ -88,14 +88,14 @@ Es ist eines der letzten seiner Art und zwar ein Wege des Schwerts aus der DSA 4
 # Werbung
 Werden Ihre Visionen, Vorhersagen und Prophezeiungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
 
-Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimal invasiven Infinityglas™ Technologie, lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf Ihre neue Temporallinse für Ihr drittes Auge.
+Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimalinvasiven Infinityglas™ Technologie lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf Ihrer neue Temporallinse für Ihr drittes Auge.
 \Verfasser{Yoann}
 
 # Lebendanzeigen
-*Wir gedenken unseren lebenden Mitmenschen.*
+*Wir gedenken unserer lebenden Mitmenschen.*
 
 ## Franca a.d.H. (~1889--heute)
-Unsere geliebte Redakteurin, Autorin und Lyrikerin konnte leider nicht an unserer heutigen Reaktionssitzung  teilnehmen. Da wir kürzlich erst fernmündlichen Kontakt mit ihr hatten, gilt sie nicht als vermisst. Wir gehen davon aus, dass sie noch lebt. Um dennoch Francas epischen Lebenswerk gerecht zu werden, stellen Sie sich bitte jetzt J.S. Bachs Toccata und Fuge in d-Moll (BWV 565) vor. \verfasser{Thibaud}
+Unsere geliebte Redakteurin, Autorin und Lyrikerin konnte leider nicht an jener heutigen Reaktionssitzung teilnehmen. Da wir kürzlich erst fernmündlichen Kontakt mit ihr hatten, gilt sie nicht als vermisst. Wir gehen davon aus, dass sie noch lebt. Um dennoch Francas epischen Lebenswerk gerecht zu werden, stellen Sie sich bitte jetzt J.S. Bachs Toccata und Fuge in d-Moll (BWV 565) vor. \verfasser{Thibaud}
 
 \begin{center}
 \includegraphics[width=.5\linewidth]{img/wusel_opa.pdf}
