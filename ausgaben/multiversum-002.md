@@ -1,5 +1,5 @@
 ---
-author:  Thibaud, Yoann, Hanna, Fanca, Richard
+author:  Thibaud, Yoann, Hanna, Franca, Richard
 date: November 2018
 ausgabe: 2
 balance: false
@@ -15,7 +15,7 @@ losung:
 # Was bisher geschah...
 
 ## In der Redaktion
-Sie, treue*r Leser*in, haben sich bestimmt schon gefragt, wie unsere Redaktion ihre Artikel recherchiert. Deshalb möchten wir Ihnen exklusive Einblicke in unsere Arbeit gewähren.
+Sie, treue\*r Leser\*in, haben sich bestimmt schon gefragt, wie unsere Redaktion ihre Artikel recherchiert. Deshalb möchten wir Ihnen exklusive Einblicke in unsere Arbeit gewähren.
 
 Obwohl viele unserer Artikel von Autoren aus dem Umfeld des RPG Librariums geschrieben werden, verzichten wir natürlich nicht auf eine umfassende Quellenprüfung. Dafür nutzen wir das einzigartige Weltenkaleidoskop, mit dem die Redakteure in die Vielfalt des Multiversums blicken können. Wenn über welchen Weg auch immer, ein Artikel in unserem Postfach landet, beauftragen wir zu allererst einen Welteninvestigator aus unserem Team. Über mehrere Stunden, manchmal sogar Tage observiert er mit dem Weltenkaleidoskop die uns zugespielte Geschichte und überprüft dabei alle wichtigen und unwichtigen Fakten. So ist sichergestellt, dass Sie, werte\*r Leser\*in, in diesem Flugblatt nur die Wahrheit™ präsentiert bekommen.
 \verfasser{Redaktion}
@@ -36,24 +36,37 @@ Alles deutet jedoch darauf hin, dass der Hambacher Wald erwacht ist und sich nun
 ## Flussfahrt am Großen Fluss
 
 ```{=latex}
-\begin{footnotesize}
-Eine Flussfahrt, die ist lustig, eine Flussfahrt, die ist schön,\\
-Ja, dann kann man Flusspiraten und noch vieles and‘re seh‘n!\\
-Wahre Helden sind heroisch, haben Mut und haben Stil,\\
-Doch Verstand und Grips und Vorsicht, davon brauchen sie nicht viel.\\[1em]
-Schreiber Kalver hat 11 Hunde, die sind niedlich und mit Flausch,\\
-Madalin hat einen Marco und auch einen Drogenrausch.\\
-Magus Eichbald jagt gern Schürzen, ist ein wahrer Sittenstrolch\\
-Jäger Rodrunk tötet Nachtwind, Flusspirat und Krakenmolch.\\[1em]
-Unser Schreiber guckt gefährlich, unser Schreiber guckt gemein,\\
-Und die Madalin spielt Poker, schummelt sieben Asse rein.\\
-Unser Magus, der kann funkeln und er fuchtelt mit dem Stab,\\
-Rodrunk Körber ist sich sicher, diese Gruppe gräbt ihr Grab.\\[1em]
-Eine Flussfahrt ist gefährlich, eine Flussfahrt birgt Gefahr,\\
+Eine Flussfahrt, die ist lustig,\\
+ eine Flussfahrt, die ist schön,\\
+Ja, dann kann man Flusspiraten\\
+ und noch vieles and‘re seh‘n!\\
+Wahre Helden sind heroisch, \\
+ haben Mut und haben Stil,\\
+Doch Verstand und Grips und Vorsicht,\\
+ davon brauchen sie nicht viel.\\[1em]
+Schreiber Kalver hat 11 Hunde,\\
+ die sind niedlich und mit Flausch,\\
+Madalin hat einen Marco\\
+ und auch einen Drogenrausch.\\
+Magus Eichbald jagt gern Schürzen,\\
+ ist ein wahrer Sittenstrolch\\
+Jäger Rodrunk tötet Nachtwind,\\
+ Flusspirat und Krakenmolch.\\[1em]
+Unser Schreiber guckt gefährlich,\\
+ unser Schreiber guckt gemein,\\
+Und die Madalin spielt Poker,\\
+ schummelt sieben Asse rein.\\
+Unser Magus, der kann funkeln\\
+ und er fuchtelt mit dem Stab,\\
+Rodrunk Körber ist sich sicher,\\
+ diese Gruppe gräbt ihr Grab.\\[1em]
+Eine Flussfahrt ist gefährlich,\\
+ eine Flussfahrt birgt Gefahr,\\
 Das ist traurig, aber wahr!\\
-Bei der Flussfahrt kann man sterben und so ist des Schicksals Lauf,\\
-Doch das Glück ist mit den Narren und drum geh‘n wir niemals drauf!
-\end{footnotesize}
+Bei der Flussfahrt kann man sterben\\
+ und so ist des Schicksals Lauf,\\
+Doch das Glück ist mit den Narren\\
+ und drum geh‘n wir niemals drauf!
 ```
 \Verfasser[DSA 4.1]{Franca}
 
