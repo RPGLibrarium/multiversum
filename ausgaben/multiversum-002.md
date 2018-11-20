@@ -22,6 +22,7 @@ Obwohl viele unserer Artikel von Autoren aus dem Umfeld des RPG Librariums gesch
 
 ## Gemütlicher Spieleabend im Level 9000
 Wie viele von euch wissen ("wir waren immerhin dabei"), war das letzte monatliche Treffen eher entspannt. Im Level 9000 gab es verschiedene Runden von Brett- und Rollenspielen, die sich später auch munter durchmischt haben. Gelegentlich wollen wir weitere freie Spieleabende dieser Art veranstalten, die auch unter einem Motto stehen sollen. Da unsere Treffen (zu unserer Freude) inzwischen gut besucht sind, gründen wir nun auch die AG Monatstreffen. Dort kann jeder gerne Vorschläge für Workshops, Themen und Testsysteme einreichen und natürlich selbst mitorganisieren! Meldet euch dazu gerne bei Franca oder Lamin!
+\verfasser{Hanna}
 
 # An einem anderen Ort
 
