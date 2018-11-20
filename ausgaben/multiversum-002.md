@@ -70,6 +70,30 @@ Sicherheitsbehörden gesperrt. Reisende zum Großherzogtum
 Westrhein-Luxemburg werden gebeten über die A44 auszuweichen.
 \Verfasser[Shadowrun 5]{(keh)}
 
+## Flussfahrt am Großen Fluss
+
+```{=latex}
+\begin{footnotesize}
+Eine Flussfahrt, die ist lustig, eine Flussfahrt, die ist schön,\\
+Ja, dann kann man Flusspiraten und noch vieles and‘re seh‘n!\\
+Wahre Helden sind heroisch, haben Mut und haben Stil,\\
+Doch Verstand und Grips und Vorsicht, davon brauchen sie nicht viel.\\[1em]
+Schreiber Kalver hat 11 Hunde, die sind niedlich und mit Flausch,\\
+Madalin hat einen Marco und auch einen Drogenrausch.\\
+Magus Eichbald jagt gern Schürzen, ist ein wahrer Sittenstrolch\\
+Jäger Rodrunk tötet Nachtwind, Flusspirat und Krakenmolch.\\[1em]
+Unser Schreiber guckt gefährlich, unser Schreiber guckt gemein,\\
+Und die Madalin spielt Poker, schummelt sieben Asse rein.\\
+Unser Magus, der kann funkeln und er fuchtelt mit dem Stab,\\
+Rodrunk Körber ist sich sicher, diese Gruppe gräbt ihr Grab.\\[1em]
+Eine Flussfahrt ist gefährlich, eine Flussfahrt birgt Gefahr,\\
+Das ist traurig, aber wahr!\\
+Bei der Flussfahrt kann man sterben und so ist des Schicksals Lauf,\\
+Doch das Glück ist mit den Narren und drum geh‘n wir niemals drauf!
+\end{footnotesize}
+```
+\Verfasser[DSA 4.1]{Franca}
+
 # Werbung
 Werden Ihre Visonen, Vorhersagen und Prophezeihungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
 
@@ -84,7 +108,7 @@ Ihrer neue Temporallinse für Ihr drittes Auge.
 
 #### WdS zu verkaufen.
 Es ist eines der letzten seiner Art und zwar ein Wege des Schwerts aus der DSA 4.1 Reihe. Interessenten bitte melden. 01775551375. Kay.
-\zeichen{VERGRIFFEN}
+\zeichen{GRABSCH}
 
 # Todesanzeigen
 *Trauertext.*
