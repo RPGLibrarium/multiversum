@@ -33,8 +33,32 @@ Europol bestreitet die Echtheit der Aufnahmen und verweist auf die hohe Gewaltbe
 Alles deutet jedoch darauf hin, dass der Hambacher Wald erwacht ist und sich nun selbst gegen die bevorstehende Rodung verteidigt. Professor für Metastatischen Energien an der Universität Bochum Gunther Hindenmauer vermuten in einem Interview mit der Redaktion, dass für den erwachten Hambacher Wald die gleichen Kräfte verantwortlich sind, die bereits den Ebersberger Forst in eine Gefahrenzone verwandelt haben. Vor allem die starken Energieträger im Untergrund kämen als Auslöser dieses paranormalen Phänomens in Frage. Die A4, die an der südlichen Kante des Waldes vorbei führt wurde von den Sicherheitsbehörden gesperrt. Reisende zum Großherzogtum Westrhein-Luxemburg werden gebeten über die A44 auszuweichen.
 \Verfasser[SR 5]{Yoann}
 
+## Flussfahrt am Großen Fluss
+
+```{=latex}
+\begin{footnotesize}
+Eine Flussfahrt, die ist lustig, eine Flussfahrt, die ist schön,\\
+Ja, dann kann man Flusspiraten und noch vieles and‘re seh‘n!\\
+Wahre Helden sind heroisch, haben Mut und haben Stil,\\
+Doch Verstand und Grips und Vorsicht, davon brauchen sie nicht viel.\\[1em]
+Schreiber Kalver hat 11 Hunde, die sind niedlich und mit Flausch,\\
+Madalin hat einen Marco und auch einen Drogenrausch.\\
+Magus Eichbald jagt gern Schürzen, ist ein wahrer Sittenstrolch\\
+Jäger Rodrunk tötet Nachtwind, Flusspirat und Krakenmolch.\\[1em]
+Unser Schreiber guckt gefährlich, unser Schreiber guckt gemein,\\
+Und die Madalin spielt Poker, schummelt sieben Asse rein.\\
+Unser Magus, der kann funkeln und er fuchtelt mit dem Stab,\\
+Rodrunk Körber ist sich sicher, diese Gruppe gräbt ihr Grab.\\[1em]
+Eine Flussfahrt ist gefährlich, eine Flussfahrt birgt Gefahr,\\
+Das ist traurig, aber wahr!\\
+Bei der Flussfahrt kann man sterben und so ist des Schicksals Lauf,\\
+Doch das Glück ist mit den Narren und drum geh‘n wir niemals drauf!
+\end{footnotesize}
+```
+\Verfasser[DSA 4.1]{Franca}
+
 # Werbung
-Werden Ihre Visonen, Vorhersagen und Prophezeihungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
+Werden Ihre Visionen, Vorhersagen und Prophezeiungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
 
 Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimal invasiven Infinityglas™ Technologie, lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf
 
@@ -46,7 +70,7 @@ Ihre neue Temporallinse für Ihr drittes Auge.
 
 #### WdS zu verkaufen.
 Es ist eines der letzten seiner Art und zwar ein Wege des Schwerts aus der DSA 4.1 Reihe. Interessenten bitte melden. 01775551375. Kay.
-\zeichen{VERGRIFFEN}
+\zeichen{GRABSCH}
 
 # Todesanzeigen
 *Trauertext.*
