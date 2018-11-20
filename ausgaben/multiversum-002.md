@@ -14,15 +14,13 @@ losung:
 
 # Was bisher geschah...
 
-## Workshop: ABC
-Lorem Ipsum
-\verfasser{Autor1}
+## In der Redaktion
+Liebe treue Leser\*in, Sie haben sich bestimmt schon gefragt, wie unsere Redaktion ihre Artikel recherchiert. Deshalb möchten wir Ihnen exklusive Einblicke in unsere Arbeit gewähren.
+
+Obwohl viele unserer Artikel von Autoren aus dem Umfeld des RPG Librariums geschrieben werden, verzichten wir natürlich nicht auf eine umfassende Quellenprüfung. Dafür nutzen wir das einzigartige Weltenkaleidoskop, mit dem die Redakteure in die Vielfalt des Multiversums blicken können. Wenn über welchen Weg auch immer, ein Artikel in unserem Postfach landet, beauftragen wir zu allererst einen Welteninvestigator aus unserem Team. Über mehrere Stunden, manchmal sogar Tage observiert er mit dem Weltenkaleidoskop die uns zugespielte Geschichte und überprüft dabei alle wichtigen und unwichtigen Fakten. So ist sichergestellt, dass Sie, werte\*r Leser\*in, in diesem Flugblatt nur die Wahrheit präsentiert bekommen.
+\verfasser{Redaktion}
 
 # An einem anderen Ort
-
-## Titel 1
-Lorem Ipsum
-\verfasser{Autor2}
 
 ## Hambacher Wald schlägt zurück
 \zeitung{Köln, 25. März 2057}Der Kampf um den Hambacher Wald geht in die nächste Runde. Heute morgen gegen 0500 stürmten mehrere Einheit von Europol den Hambacher Wald, so berichtet der Kölner Polizeidirektor Bernd Glöckner in einer Pressekonferenz. Dabei seien mindestens 393 Polizisten auf unerklärte Weise zu Tode gekommen und viele weitere verletzt worden.
@@ -40,7 +38,7 @@ Werden Ihre Visionen, Vorhersagen und Prophezeiungen mit dem Alter unschärfer? 
 
 Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimal invasiven Infinityglas™ Technologie, lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf
 
-Ihrer neue Temporallinse für Ihr drittes Auge.
+Ihre neue Temporallinse für Ihr drittes Auge.
 \Verfasser{Yoann}
 
 # Schleuderpresse
