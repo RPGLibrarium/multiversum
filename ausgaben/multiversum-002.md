@@ -17,7 +17,7 @@ losung:
 ## In der Redaktion
 Sie, treue*r Leser*in, haben sich bestimmt schon gefragt, wie unsere Redaktion ihre Artikel recherchiert. Deshalb möchten wir Ihnen exklusive Einblicke in unsere Arbeit gewähren.
 
-Obwohl viele unserer Artikel von Autoren aus dem Umfeld des RPG Librariums geschrieben werden, verzichten wir natürlich nicht auf eine umfassende Quellenprüfung. Dafür nutzen wir das einzigartige Weltenkaleidoskop, mit dem die Redakteure in die Vielfalt des Multiversums blicken können. Wenn über welchen Weg auch immer, ein Artikel in unserem Postfach landet, beauftragen wir zu allererst einen Welteninvestigator aus unserem Team. Über mehrere Stunden, manchmal sogar Tage observiert er mit dem Weltenkaleidoskop die uns zugespielte Geschichte und überprüft dabei alle wichtigen und unwichtigen Fakten. So ist sichergestellt, dass Sie, werte\*r Leser\*in, in diesem Flugblatt nur die Wahrheit präsentiert bekommen.
+Obwohl viele unserer Artikel von Autoren aus dem Umfeld des RPG Librariums geschrieben werden, verzichten wir natürlich nicht auf eine umfassende Quellenprüfung. Dafür nutzen wir das einzigartige Weltenkaleidoskop, mit dem die Redakteure in die Vielfalt des Multiversums blicken können. Wenn über welchen Weg auch immer, ein Artikel in unserem Postfach landet, beauftragen wir zu allererst einen Welteninvestigator aus unserem Team. Über mehrere Stunden, manchmal sogar Tage observiert er mit dem Weltenkaleidoskop die uns zugespielte Geschichte und überprüft dabei alle wichtigen und unwichtigen Fakten. So ist sichergestellt, dass Sie, werte\*r Leser\*in, in diesem Flugblatt nur die Wahrheit™ präsentiert bekommen.
 \verfasser{Redaktion}
 
 # An einem anderen Ort
