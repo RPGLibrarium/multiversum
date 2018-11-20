@@ -20,6 +20,9 @@ Liebe treue Leser\*in, Sie haben sich bestimmt schon gefragt, wie unsere Redakti
 Obwohl viele unserer Artikel von Autoren aus dem Umfeld des RPG Librariums geschrieben werden, verzichten wir natürlich nicht auf eine umfassende Quellenprüfung. Dafür nutzen wir das einzigartige Weltenkaleidoskop, mit dem die Redakteure in die Vielfalt des Multiversums blicken können. Wenn über welchen Weg auch immer, ein Artikel in unserem Postfach landet, beauftragen wir zu allererst einen Welteninvestigator aus unserem Team. Über mehrere Stunden, manchmal sogar Tage observiert er mit dem Weltenkaleidoskop die uns zugespielte Geschichte und überprüft dabei alle wichtigen und unwichtigen Fakten. So ist sichergestellt, dass Sie, werte\*r Leser\*in, in diesem Flugblatt nur die Wahrheit präsentiert bekommen.
 \verfasser{Redaktion}
 
+## Gemütlicher Spieleabend im Level 9000
+Wie viele von euch wissen ("wir waren immerhin dabei"), war das letzte monatliche Treffen eher entspannt. Im Level 9000 gab es verschiedene Runden von Brett- und Rollenspielen, die sich später auch munter durchmischt haben. Gelegentlich wollen wir weitere freie Spieleabende dieser Art veranstalten, die auch unter einem Motto stehen sollen. Da unsere Treffen (zu unserer Freude) inzwischen gut besucht sind, gründen wir nun auch die AG Monatstreffen. Dort kann jeder gerne Vorschläge für Workshops, Themen und Testsysteme einreichen und natürlich selbst mitorganisieren! Meldet euch dazu gerne bei Franca oder Lamin!
+
 # An einem anderen Ort
 
 ## Hambacher Wald schlägt zurück
@@ -56,6 +59,11 @@ Doch das Glück ist mit den Narren und drum geh‘n wir niemals drauf!
 \end{footnotesize}
 ```
 \Verfasser[DSA 4.1]{Franca}
+
+## Lost and Found
+\zeitung{Bodrinmünd, 13. Praios 1035}
+Gefunden: Harfe von magischer Qualität. Nach dem Erlegen eines störenden Wasserdrachens konnten die Vögtin eine filigrane Harfe aus dessen Hort sicherstellen. Bei Hinweisen auf den Besitzer oder zu der genauen Beschaffenheit der magischen Eigenschaften bitte melden bei Cloe Quent.
+\Verfasser[DSA 4.1]{Hanna}
 
 # Werbung
 Werden Ihre Visionen, Vorhersagen und Prophezeiungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
