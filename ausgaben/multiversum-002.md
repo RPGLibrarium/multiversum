@@ -78,18 +78,18 @@ Doch das Glück ist mit den Narren\\
 \zeitung{Bodrinmünd, 13. Praios 1035}Gefunden: Harfe von magischer Qualität. Nach dem Erlegen eines störenden Wasserdrachens konnte die Vögtin eine filigrane Harfe aus dessen Hort sicherstellen. Bei Hinweisen auf den Besitzer oder zu der genauen Beschaffenheit der magischen Eigenschaften bitte melden bei Cloe Quent.
 \Verfasser[DSA 4.1]{Hanna}
 
-# Werbung
-Werden Ihre Visionen, Vorhersagen und Prophezeiungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
-
-Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimal invasiven Infinityglas™ Technologie, lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf Ihre neue Temporallinse für Ihr drittes Auge.
-\Verfasser{Yoann}
-
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### WdS zu verkaufen.
 Es ist eines der letzten seiner Art und zwar ein Wege des Schwerts aus der DSA 4.1 Reihe. Interessenten bitte melden. 01775551375. Kay.
 \zeichen{GRABSCH}
+
+# Werbung
+Werden Ihre Visionen, Vorhersagen und Prophezeiungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
+
+Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimal invasiven Infinityglas™ Technologie, lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf Ihre neue Temporallinse für Ihr drittes Auge.
+\Verfasser{Yoann}
 
 # Lebendanzeigen
 *Wir gedenken unseren lebenden Mitmenschen.*
