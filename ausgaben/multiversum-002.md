@@ -1,5 +1,5 @@
 ---
-author: Fanca, Thibaud, Yoann, Hanna, Richard
+author:  Thibaud, Yoann, Hanna, Fanca, Richard
 date: November 2018
 ausgabe: 2
 balance: false
@@ -15,7 +15,7 @@ losung:
 # Was bisher geschah...
 
 ## In der Redaktion
-Liebe treue Leser\*in, Sie haben sich bestimmt schon gefragt, wie unsere Redaktion ihre Artikel recherchiert. Deshalb möchten wir Ihnen exklusive Einblicke in unsere Arbeit gewähren.
+Sie, treue*r Leser*in, haben sich bestimmt schon gefragt, wie unsere Redaktion ihre Artikel recherchiert. Deshalb möchten wir Ihnen exklusive Einblicke in unsere Arbeit gewähren.
 
 Obwohl viele unserer Artikel von Autoren aus dem Umfeld des RPG Librariums geschrieben werden, verzichten wir natürlich nicht auf eine umfassende Quellenprüfung. Dafür nutzen wir das einzigartige Weltenkaleidoskop, mit dem die Redakteure in die Vielfalt des Multiversums blicken können. Wenn über welchen Weg auch immer, ein Artikel in unserem Postfach landet, beauftragen wir zu allererst einen Welteninvestigator aus unserem Team. Über mehrere Stunden, manchmal sogar Tage observiert er mit dem Weltenkaleidoskop die uns zugespielte Geschichte und überprüft dabei alle wichtigen und unwichtigen Fakten. So ist sichergestellt, dass Sie, werte\*r Leser\*in, in diesem Flugblatt nur die Wahrheit präsentiert bekommen.
 \verfasser{Redaktion}
@@ -31,7 +31,7 @@ Der erneute Versuch heute Morgen die Herrschaft über den Wald zurückzugewinnen
 Europol bestreitet die Echtheit der Aufnahmen und verweist auf die hohe Gewaltbereitschaft, der Besetzer. Polizeidirektor Bernd Glöcker kritisiert scharf die *laissez-faire* Strategie der demokratischen Partei, die eine erneute Besetzung des Waldes überhaupt ermöglicht hat. Sie müsse jetzt die Konsequenzen für die Aushöhlung des Rechtsstaat und die vielen Opfer durch die linksextremen Gewalt tragen.
 
 Alles deutet jedoch darauf hin, dass der Hambacher Wald erwacht ist und sich nun selbst gegen die bevorstehende Rodung verteidigt. Professor für Metastatischen Energien an der Universität Bochum Gunther Hindenmauer vermuten in einem Interview mit der Redaktion, dass für den erwachten Hambacher Wald die gleichen Kräfte verantwortlich sind, die bereits den Ebersberger Forst in eine Gefahrenzone verwandelt haben. Vor allem die starken Energieträger im Untergrund kämen als Auslöser dieses paranormalen Phänomens in Frage. Die A4, die an der südlichen Kante des Waldes vorbei führt wurde von den Sicherheitsbehörden gesperrt. Reisende zum Großherzogtum Westrhein-Luxemburg werden gebeten über die A44 auszuweichen.
-\Verfasser[SR 5]{(keh)}
+\Verfasser[SR 5]{Yoann}
 
 # Werbung
 Werden Ihre Visonen, Vorhersagen und Prophezeihungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
