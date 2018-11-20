@@ -83,8 +83,8 @@ Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinitygla
 Es ist eines der letzten seiner Art und zwar ein Wege des Schwerts aus der DSA 4.1 Reihe. Interessenten bitte melden. 01775551375. Kay.
 \zeichen{GRABSCH}
 
-# Lebendanzeige
+# Lebendanzeigen
 *Wir gedenken unseren lebenden Mitmenschen.*
 
 ## Franca a.d.H. (~1889-heute)
-Unsere geliebte Redakteurin, Autorin und Lyrikerin konnte leider nicht an unserer heutigen Reaktionssitzung  teilnehmen. Da wir kürzlich erst fernmündlichen Kontakt mit ihr hatten, gilt sie nicht als vermisst. Wir gehen davon aus, dass sie noch lebt. Um dennoch Francas epischen Lebenswerk gerecht zu werden, stellen Sie sich bitte jetzt J.S. Bach, Toccata und Fuge in d-Moll (BWV 565) vor. \verfasser{Thibaud}
+Unsere geliebte Redakteurin, Autorin und Lyrikerin konnte leider nicht an unserer heutigen Reaktionssitzung  teilnehmen. Da wir kürzlich erst fernmündlichen Kontakt mit ihr hatten, gilt sie nicht als vermisst. Wir gehen davon aus, dass sie noch lebt. Um dennoch Francas epischen Lebenswerk gerecht zu werden, stellen Sie sich bitte jetzt J.S. Bachs Toccata und Fuge in d-Moll (BWV 565) vor. \verfasser{Thibaud}
