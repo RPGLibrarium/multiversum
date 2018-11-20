@@ -73,9 +73,7 @@ Doch das Glück ist mit den Narren\\
 # Werbung
 Werden Ihre Visionen, Vorhersagen und Prophezeiungen mit dem Alter unschärfer? Haben Sie Schwierigkeiten ins nächste Jahr zu sehen oder sehen Sie den morgigen Tag nur vollkommen verschwommen? Keine Sorgen, Sie sind nicht alleine. Viele Wahrsager leiden unter Sehschwäche. Doch es gibt eine Lösung.
 
-Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimal invasiven Infinityglas™ Technologie, lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf
-
-Ihre neue Temporallinse für Ihr drittes Auge.
+Mit unseren patentierten 12-fach geschliffenen \begin{center}\textsc{Infinityglas™ Temporallinsen},\end{center} \noindent können sie wieder beschwerdefrei in alle Zeiten schauen. Dank der neuen minimal invasiven Infinityglas™ Technologie, lässt sich ihre neue Temporallinse individuell an ihre Bedürfnisse anpassen. Sie liefert dabei eine noch nie gesehene Klarheit und Präzision für Ihre Vorhersagen. Lassen Sie sich kostenlos in jeder \textsc{NOSTRADAMUS} Filiale auf Kurz- und Weitsichtigkeit testen. Unsere Mitarbeiter beraten Sie gerne beim Kauf Ihre neue Temporallinse für Ihr drittes Auge.
 \Verfasser{Yoann}
 
 # Schleuderpresse
