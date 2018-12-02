@@ -13,7 +13,7 @@ losung: "Eine neue Technologie verändert die Welt."
 
 # Einleitende Worte...
 ## Zur letzten Ausgabe
-Bei unserer letzten Ausgabe Nr. 2 ist uns ein Fehler unterlaufen. Durch eine Beschädigung in einem Spiegel unseres Weltenkaleidoskops, haben wir Frau Cloe Quent im Artikel "Lost and Found" mit einem schlicht falschen Sachverhalt in Verbindung gebracht. Wie der Redaktion inzwischen bekannt ist, ist Frau Cloe Quent weder Vögtin noch ist sie im Besitz der dort benannten Harfe. Der besagte Artikel wurde inzwischen korrigiert. Hinweise zur Herkunft der Harfe richten Sie bitte an Meisterschmied Jorangesch.
+Bei unserer letzten Ausgabe Nr. 2 ist uns ein Fehler unterlaufen. Durch eine Beschädigung in einem Spiegel unseres Weltenkaleidoskops haben wir Frau Cloe Quent im Artikel "Lost and Found" mit einem schlicht falschen Sachverhalt in Verbindung gebracht. Wie der Redaktion inzwischen bekannt ist, ist Frau Cloe Quent weder Vögtin noch ist sie im Besitz der dort benannten Harfe. Der besagte Artikel wurde inzwischen korrigiert. Hinweise zur Herkunft der Harfe richten Sie bitte an Meisterschmied Jorangesch.
 \verfasser{Redaktion}
 
 ## Zu dieser Ausgabe
