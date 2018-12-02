@@ -1,12 +1,13 @@
 ---
-author: Thibaud, Hanna, Richard,
+author: Thibaud,
 date: Dezember 2018
 ausgabe: 3
 balance: false
 termine:
+  - "Rollenspielabend KatHo: 12.12.18, 18 Uhr"
+  - "Weihnachtsfeier: 16.12.18, 19 Uhr"
   - "Librarium-Con: 02.01.19 - 06.01.19"
-  - "Nächstes Treffen: 16.01.19, 19 Uhr"
-losung: "Die Menschheit entdeckt eine neuartige Technologie, die die Welt verändert."
+losung: "Eine neue Technologie verändert die Welt."
 
 ---
 
