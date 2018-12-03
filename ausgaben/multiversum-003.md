@@ -52,7 +52,8 @@ Der weltbekannten Bildhauer ChriStopH beschreibt sein Werk mit den folgenden Wor
 
 # Werbung
 *In Belgien: Ein Kater stirbt in den Armen seiner fünfzehnjährigen Besitzerin. Sie hatten beide ein neuronales Interface, und in ihren Gedanken ploppt eine Werbung auf:*
-\par
+
+\bigskip
 Deine Hündin Lissi hat ein schweres Nierenleiden und muss eingeschläfert werden? Du hast die Schmerzen deines Katers Fridolin in deinem Neuroplex Implantat gespürt, als er in deinen Armen verstarb? Diese tragischen Erlebnisse müssen nicht sein! Mit dem neuen
 \begin{center}\textsc{Neuroplex Animal Infinity 2},\end{center} \noindent konservieren wir die Liebe zwischen Dir und deinem Begleiter. Binnen 24 Stunden können wir diese Gefühle auf ein anderes Tier übertragen und damit der Seele deines Haustiers einen neuen Körper geben. Bestell jetzt
 \begin{center}\textsc{Neuroplex Animal Infinity 2 Pro},\end{center} \noindent und bekomme für nur 10 € monatlich eine Wiederbelebung pro Jahr gratis dazu.
