@@ -33,20 +33,20 @@ Die umstrittene freie Journalistin Clarissa Noise kritisiert während dessen die
 
 ---
 
-*Mehrere Jahrzehnte später startet in den afrikanischen Slums ein Aufstand gegen die neuronalen Interfaces. Wer sie trägt, so glaubt der charismatische Michael, kann nicht wiedergeboren werden. Direkt der erste Aufstand fordert viele Tote, unter anderem Johannes, Michaels Lebensgefährten. Michael wird später einen Terroranschlag auf das Bionik-Labor der RWTH verüben. Um ihn im Verhör gefügig zu machen, wird ihm ein neuronales Interface eingesetzt...*
+*Mehrere Jahrzehnte später startet in den afrikanischen Slums ein Widerstand gegen die neuronalen Interfaces. Wer sie trägt, so glaubt der charismatische Michael, kann nicht wiedergeboren werden. Bereits der erste Aufstand fordert viele Tote, unter anderem Michaels Lebensgefährte Johannes. Michael wird später einen Terroranschlag auf das Bionik-Labor der RWTH verüben. Um ihn im Verhör gefügig zu machen, wird ihm ein neuronales Interface eingesetzt...*
 
 \newpage
 
 # Todesanzeigen
-*Das Anna-Aurelius-Denkmal wird in New York entworfen. Ein ambitionierter Künstler und ein publicity-gieriger Bürgermeister sind sich einig: eine riesige Nachbildung eines neuronalen Interfaces ... das ist das, was New York braucht. Von Anna Aurelius bleibt nur eine Plakette am Fuß der Statue.*
+*Das Anna-Aurelius-Denkmal wird in New York entworfen. Ein ambitionierter Künstler und ein publicity-gieriger Bürgermeister sind sich einig: eine riesige Nachbildung eines neuronalen Interfaces -- das ist das, was New York braucht. Von Anna Aurelius bleibt nur eine Plakette am Fuße der Statue.*
 
 ## Anna Aurelius (2018-2096)
-\zeitung{New York Letters, 20.06.2106}Wir gedenken der Visionärin Anna Aurelius, die unser aller Leben mit der Erfindung des neuronalen Implantats veränderte. Inzwischen ist der kleine Chip im dritten Halswirbel aus fast keinem Leben mehr wegzudenken.
+\zeitung{New York Letters, 20.06.2106}Wir gedenken der Visionärin Anna Aurelius, die unser aller Leben mit der Erfindung des neuronalen Implantats verändert hat. Inzwischen ist der kleine Chip im dritten Halswirbel aus fast keinem Alltag mehr wegzudenken.
 
-Zu ihren Ehren wurde vor New York die Aurelius Island aufgeschüttet. Heute, an ihrem 10. Todestag, wurde das Aurelius Statue Monument enthüllt -- ein goldenes Neuroplex Implantat mit einer Figurhöhe von 35,76 Metern.
+Zu ihren Ehren wurde vor New York die Aurelius Island aufgeschüttet. Heute, an ihrem 10. Todestag, wurde das Aurelius Statue Monument enthüllt -- ein goldenes Neuroplex Implantat mit einer Figurhöhe von 117,32 Fuß.
 
-Der weltbekannten Bildhauer ChriStopH beschreibt sein Werk mit den folgenden Worten: "Anna Aurelius hat mit ihrem Implantat die Menschen auf diesem Globus näher gebracht. Die herbeigeführte Einheit in Gefühlen und Gedanken soll durch die Herstellungsweise verdeutlicht werden. Das Monument ist ausschließlich (!) aus dem Metall eingeschmolzener Implantate gefertigt worden, die verstorbene Träger der Anna Aurelius Stiftung gespendet haben."
-\Verfasser{Thibaud}
+Der weltbekannte Bildhauer ChriStopH beschreibt sein Werk mit den folgenden Worten: "Anna Aurelius hat mit ihrem Implantat die Menschen auf diesem Globus näher gebracht. Die herbeigeführte Einheit in Gefühlen und Gedanken soll durch die Herstellungsweise verdeutlicht werden. Das Monument ist ausschließlich (‼) aus dem Metall eingeschmolzener Implantate gefertigt worden, die der Anna Aurelius Stiftung von verstorbenen Trägern gespendet wurden."
+\verfasser{Thibaud}
 
 
 
