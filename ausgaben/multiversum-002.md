@@ -75,7 +75,7 @@ Doch das Glück ist mit den Narren\\
 \Verfasser[DSA 4.1]{Franca}
 
 ## Lost and Found
-\zeitung{Bodrinmünd, 13. Praios 1035}Gefunden: Harfe von magischer Qualität. Nach dem Erlegen eines störenden Wasserdrachen konnte die Vögtin eine filigrane Harfe aus dessen Hort sicherstellen. Bei Hinweisen auf den Besitzer oder zu der genauen Beschaffenheit der magischen Eigenschaften bitte melden bei Cloe Quent.
+\zeitung{Bodrinmünd, 13. Praios 1035}Gefunden: Harfe von magischer Qualität. Nach dem Erlegen eines störenden Wasserdrachen konnte eine filigrane Harfe aus dessen Hort sicherstellen. Bei Hinweisen auf den Besitzer oder zu der genauen Beschaffenheit der magischen Eigenschaften bitte melden beim Meisterschmied Jorangesch.
 \verfasser[DSA 4.1]{Hanna}
 
 # Schleuderpresse
