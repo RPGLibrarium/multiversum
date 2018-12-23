@@ -24,6 +24,8 @@ Ich habe natürlich direkt versucht, jemand von den anderen anzurufen. Das war d
 Zum Glück haben die anderen ihre bisherigen Artikel artig in das Git gepusht. Es war mir also möglich, diese Weihnachtsausgabe zu Ende zu stellen. Merkwürdige Interferenzen, deren Ursprung ich in den Lichtblitzen vermute, die zwischen den einzelnen Scherben des zerbrochenen Weltenkaleidoskopes hin und her springen, stören jedoch meinen Upload. Ich hoffe nun, dass diese Datei euch unbeschadet erreicht und verbleibe mit hoffnungsvollen Weihnachtsgrüßen.
 \Verfasser{Der Praktikant}
 
+\newpage
+
 # An einem anderen Ort
 ## Ein Weihnachtsgedicht
 ```{=latex}
@@ -62,14 +64,18 @@ ich muss euch sagen, es weihnachtet sehr!
 ```
 \verfasser[DSA 4.1]{Franca}
 
+\newpage
+
 ## EILMELDUNG: Lieferdrohne mit unbekanntem Flugobjekt kollidiert
 \zeitung{25. Dezember 2078}Vor wenigen Stunden ist über den Dächern von Stockholm eine Lieferdrohne vom Versandhändler AresNow mit einem unbekannten Flugobjekt kollidiert. Augenzeugen berichten von einem lauten Knall, der naheligende Glasscheiben zum Springen gebracht hat. Anschließend ist ein kometartiger Feuerball südlich von Stockholm abgestürzt. In den Straßen von Stockholm sind bunte Päckchen vom Himmel geregnet, die mit Spielzeug, Komlinks und überproportional vielen Wollsocken gefüllt waren.
 Eine Stellungnahme der örtlichen Flugsicherung liegt vor. Auf den Radars, die den stockholmer Flugraum überwachen, sei zu dem Zeitpunkt des Unfalls nur die Drohne und kein weiteres Fluggerät zu erkennen gewesen. Das deute darauf hin, dass das unbekannte Flugobjekt über modernster Tarntechnologie verfügen oder mit äußerst hoher Geschwindigkeit unterwegs gewesen sein müsse.
 Such- und Rettungskräfte sind unterwegs um die Absturzstelle zu finden und den Fall aufzuklären. Die Polizei bittet um sachdienliche Hinweise unter der Matrixnummer *+468 555 87e2*.
 
-**3:28 Uhr - Update:** Mittlerweile konnten Suchtruppen die Absturzstelle ausfindig machen. Rettungskräfte konnten die toten Körper von fünf Rentieren und zwei Elfenwesen aus den Trümmern bergen. Ein weiteres Rentier und ein übergewichtiger älterer Mann wurden mit lebensbedrohlichen Brandverletzungen in das nächste Krankenhaus eingeliefert. Ihr Zustand ist äußerst kritisch. Wir werden Sie auf dieser Seite über Neuigkeiten informieren.
+#### 3:28 Uhr - Update:
+Mittlerweile konnten Suchtruppen die Absturzstelle ausfindig machen. Rettungskräfte konnten die toten Körper von fünf Rentieren und zwei Elfenwesen aus den Trümmern bergen. Ein weiteres Rentier und ein übergewichtiger älterer Mann wurden mit lebensbedrohlichen Brandverletzungen in das nächste Krankenhaus eingeliefert. Ihr Zustand ist äußerst kritisch. Wir werden Sie auf dieser Seite über Neuigkeiten informieren.
 
-**13:55 - Update:** Die Auswertung des Flugschreibers hat ergeben, dass es sich bei dem unbekannten Flugobjekt um einen fliegen Titanschlitten des Herstellers "Xmas Corporation" handelt. Ein Hersteller mit diesem Namen ist dem internationalen Konzerngerichtshof nicht bekannt.
+#### 13:55 - Update:
+Die Auswertung des Flugschreibers hat ergeben, dass es sich bei dem unbekannten Flugobjekt um einen fliegen Titanschlitten des Herstellers "Xmas Corporation" handelt. Ein Hersteller mit diesem Namen ist dem internationalen Konzerngerichtshof nicht bekannt.
 Der Zustand der beiden Überlebenden ist weiterhin kritisch, jedoch nach einer mehrstündigen Operation vorerst stabil.
 Gerüchten zufolge handelt es sich bei dem Schlitten um ein geheimes Forschungsprojekt des russischen Konzerns Evo Corporation. Die Identität der Insassen konnte nicht festgestellt werden.
 \verfasser[SR 5]{Yoann}
