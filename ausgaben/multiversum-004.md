@@ -76,7 +76,7 @@ Gerüchten zufolge handelt es sich bei dem Schlitten um ein geheimes Forschungsp
 
 ## Firuns Jagd gesichtet
 \zeitung{25. Hesinde 1038BF}Seid auf der Hut, wenn ihr euch dieser Tage hinaus wagt! Nicht viele konnten wir finden die in der letzten Nacht den Himmel betrachteten und zitternd davon berichten konnten. Es scheint als wäre Firun selbst mit seiner Jagdgesellschaft unterwegs. In dieser Nacht ist auch der deutlichste aller Vorboten, der bittere Frost, eingezogen. Einige berichten von einem schneidigen weißen Wagen im Himmel, gezogen von gewaltigen Eisbären. Doch jene die uns solcherlei berichten hauchen damit ihre letzten gefrorenen Atemzüge hinaus. So sollten wir jenen aus Alveran nicht bei ihrer noblen Mission im Wege stehen. Legt in den nächsten Tagen nur ordentlich Holz auf, denn Firun kommt früh dieses Jahr!
-\verfasser{DSA}{Hanna}
+\verfasser[DSA 4.1]{Hanna}
 
 # Werbung
 Kaufen sie jetzt das
