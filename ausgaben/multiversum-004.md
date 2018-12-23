@@ -84,21 +84,13 @@ Gerüchten zufolge handelt es sich bei dem Schlitten um ein geheimes Forschungsp
 \zeitung{25. Hesinde 1038BF}Seid auf der Hut, wenn ihr euch dieser Tage hinaus wagt! Nicht viele konnten wir finden die in der letzten Nacht den Himmel betrachteten und zitternd davon berichten konnten. Es scheint als wäre Firun selbst mit seiner Jagdgesellschaft unterwegs. In dieser Nacht ist auch der deutlichste aller Vorboten, der bittere Frost, eingezogen. Einige berichten von einem schneidigen weißen Wagen im Himmel, gezogen von gewaltigen Eisbären. Doch jene die uns solcherlei berichten hauchen damit ihre letzten gefrorenen Atemzüge hinaus. So sollten wir jenen aus Alveran nicht bei ihrer noblen Mission im Wege stehen. Legt in den nächsten Tagen nur ordentlich Holz auf, denn Firun kommt früh dieses Jahr!
 \verfasser[DSA 4.1]{Hanna}
 
-# Werbung
-Kaufen sie jetzt das
-\begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
-\Verfasser{Autor}
-
-# Schleuderpresse
-*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
-
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
-
 # Todesanzeigen
-*Trauertext.*
+*Wir trauern um unsere Liebsten.*
 
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
+## Hanes Petersen (1887-1919)
+\zeitung{The Aberdare Leader, 10.04.1919}Hanes hinterlässt mit 32 Jahren seine geliebte Verlobte Augusta Soderick. Das starke Vertrauen und den unzerbrechlichen Zusammenhalt brachte er als Bergarbeiter auch immer seiner Familie entgegen. Hanes verstarb mit 54 weiteren Kumpel bei einer tragischen Serie von Erdbeben unter Tage. Die Ehre gebührt jenen, die unter Einsatz ihres Lebens Kohle für die walisische Bevölkerung fördern. Ihnen verdanken wir ein warmes Zimmer in den kalten britischen Wintern.
+\Verfasser[Cthulhu]{Thibaud}
+
+## Gledwyn Cardiff (1905-1919)
+\zeitung{The Aberdare Leader, 08.04.1919}Die Familie Cardiff trauert um ihre gliebte Tochter Gledwyn, die am 5. Mai dem blutrünstigen "Blutige Zungen-Mörder" von Aberdare zum Opfer gefallen ist. Gledwyn befand sich an dem sonnigen Tag auf dem Weg von ihrer Schule nach Hause. Skrupellos riss der Mörder ihre Eingeweide heraus und vergrub sie mit dem Kopf zuerst halb in der Erde. Mit dem Anmut einer Zimmerpflanze schauten ihre blassen dürren Beine aus dem Mutterboden heraus, als ein Postbote sie in einem Vorgarten fand. Zeugen und Hinweisgeber mögen sich bitte bei Lt. Duncan Forrest von der Polizei melden.
+\Verfasser[Cthulhu]{Thibaud}
