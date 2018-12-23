@@ -19,7 +19,7 @@ Wir hatten euch ja noch eine weitere Ausgabe versprochen. Nun ja, für diese let
 
 Das schlimmste war aber, dass das Weltenkaleidoskop zerbrochen auf dem Boden lag. In tausend Scherben zersprungen war es das letzte, das auf unsere einstige Publikationsarbeit hindeutete. Mir kommen die Tränen während ich diese Sätze schreibe, weil ein zerbrochenes Kaleidoskop natürlich auch bedeutet, dass wir keine Artikel mehr recherchieren können. Ohne ein Wunder wird es nach dieser wohl auch keine weitere Multiversumsausgabe mehr geben.
 
-Ich habe natürlich direkt versucht, jemand von den anderen anzurufen. Das war der Moment, wo ich Thibauds Smartphone in der Sofaritze gefunden habe. Der Lock-Screen deutet darauf hin, dass auf dem Gerät eine Tonaufnahme läuft, leider fehlt mir das Passwort, um das Handy zu entsperren. Wenn ihr Hinweise habt, meldet euch bitte unter der üblichen E-Mail-Adresse.
+Ich habe natürlich direkt versucht, jemand von den anderen anzurufen. Das war der Moment, wo ich Thibauds Smartphone in der Sofaritze gefunden habe. Der Lock-Screen deutete darauf hin, dass auf dem Gerät eine Tonaufnahme lief, leider fehlt mir bis jetzt das Passwort, um das Handy zu entsperren. Wenn ihr Hinweise zum Verbleib meiner Kolleg*innen habt, meldet euch bitte unter der üblichen E-Mail-Adresse der Redaktion.
 
 Zum Glück haben die anderen ihre bisherigen Artikel artig in das Git gepusht. Es war mir also möglich, diese Weihnachtsausgabe zu Ende zu stellen. Merkwürdige Interferenzen, deren Ursprung ich in den Lichtblitzen vermute, die zwischen den einzelnen Scherben des zerbrochenen Weltenkaleidoskopes hin und her springen, stören jedoch meinen Upload. Ich hoffe nun, dass diese Datei euch unbeschadet erreicht und verbleibe mit hoffnungsvollen Weihnachtsgrüßen.
 \Verfasser{Der Praktikant}
@@ -93,4 +93,4 @@ Gerüchten zufolge handelt es sich bei dem Schlitten um ein geheimes Forschungsp
 
 ## Gledwyn Cardiff (1905-1919)
 \zeitung{The Aberdare Leader, 08.04.1919}Die Familie Cardiff trauert um ihre gliebte Tochter Gledwyn, die am 5. Mai dem blutrünstigen "Blutige Zungen-Mörder" von Aberdare zum Opfer gefallen ist. Gledwyn befand sich an dem sonnigen Tag auf dem Weg von ihrer Schule nach Hause. Skrupellos riss der Mörder ihre Eingeweide heraus und vergrub sie mit dem Kopf zuerst halb in der Erde. Mit dem Anmut einer Zimmerpflanze schauten ihre blassen dürren Beine aus dem Mutterboden heraus, als ein Postbote sie in einem Vorgarten fand. Zeugen und Hinweisgeber mögen sich bitte bei Lt. Duncan Forrest von der Polizei melden.
-\Verfasser[Cthulhu]{Thibaud}
+\verfasser[Cthulhu]{Thibaud}
