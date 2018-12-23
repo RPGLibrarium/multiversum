@@ -17,7 +17,7 @@ Hallo Multiversumsleser\*innen!
 
 Wir hatten euch ja noch eine weitere Ausgabe versprochen. Nun ja, für diese letzte Weihnachtsausgabe des Jahres wollte sich die Redaktion eigentlich heute treffen. Leider hatte mein Bus Verspätung. Außerdem musste ich noch schnell auf den Weihnachtsmarkt ein paar Geschenke kaufen und zum Level9000 ein Regelwerk abholen. Kurz gesagt, ich war mega zu spät dran -- aber das ist ja noch keine Nachricht wert. Jetzt kommt's aber: Im Redaktionsraum war niemand -- Alle waren verschwunden!
 
-Das schlimmste war aber, dass das Weltenkaleidoskop zerbrochen auf dem Boden lag. In tausend Scherben zersprungen, war es das letzte, das auf unsere einstige Publikationsarbeit hindeutete. Mir kommen die Tränen während ich diese Sätze schreibe, weil ein zerbrochenes Kaleidoskop natürlich auch bedeutet, dass wir keine Artikel mehr recherchieren können. Ohne ein Wunder wird es nach dieser wohl auch keine weitere Multiversumsausgabe mehr geben.
+Das schlimmste war aber, dass das Weltenkaleidoskop zerbrochen auf dem Boden lag. In tausend Scherben zersprungen war es das letzte, das auf unsere einstige Publikationsarbeit hindeutete. Mir kommen die Tränen während ich diese Sätze schreibe, weil ein zerbrochenes Kaleidoskop natürlich auch bedeutet, dass wir keine Artikel mehr recherchieren können. Ohne ein Wunder wird es nach dieser wohl auch keine weitere Multiversumsausgabe mehr geben.
 
 Ich habe natürlich direkt versucht, jemand von den anderen anzurufen. Das war der Moment, wo ich Thibauds Smartphone in der Sofaritze gefunden habe. Der Lock-Screen deutet darauf hin, dass auf dem Gerät eine Tonaufnahme läuft, leider fehlt mir das Passwort, um das Handy zu entsperren. Wenn ihr Hinweise habt, meldet euch bitte unter der üblichen E-Mail-Adresse.
 
@@ -25,7 +25,6 @@ Zum Glück haben die anderen ihre bisherigen Artikel artig in das Git gepusht. E
 \Verfasser{Der Praktikant}
 
 # An einem anderen Ort
-
 ## Ein Weihnachtsgedicht
 ```{=latex}
 Von drauß, von Albenhus komm ich her,\\
@@ -64,10 +63,20 @@ ich muss euch sagen, es weihnachtet sehr!
 \verfasser[DSA 4.1]{Franca}
 
 ## EILMELDUNG: Lieferdrohne mit unbekanntem Flugobjekt kollidiert
-Vor wenigen Stunden ist über den Dächern von Stockholm eine Lieferdrohne vom Versandhändler AresNow mit einem unbekannten Flugobject kollidiert. Augenzeugen berichten von einem lauten Knall, der naheligende Glasscheiben zum Springen gebracht hat. Anschließend ist ein kometartiger Feuerball südlich von Stockholm abgestürzt. In den Straßen von Stockholm sind bunte Päckchen vom Himmel geregnet, die mit Spielzeug, Komlinks und überproportional vielen Wollsocken gefüllt waren.
-Eine Stellungnahme der örtlichen Flugsicherung liegt vor. Auf den Radars, die den stockholmer Flugraum überwachen, sei zu dem Zeitpunkt des Unfalls nur die Drohne und kein weiteres Fluggerät zu erkennen gewesen. Das deute darauf hin, dass das unbekannt Flugobjekt über modernster Tarntechnologie verfügen oder mit äußerst hoher Geschwindigkeit unterwegs gewesen sein müsse.
-Such- und Rettungskräfte sind unterwegs um die Absturtzstelle zu finden und den Fall aufzuklären.
+\zeitung{25. Dezember 2078}Vor wenigen Stunden ist über den Dächern von Stockholm eine Lieferdrohne vom Versandhändler AresNow mit einem unbekannten Flugobjekt kollidiert. Augenzeugen berichten von einem lauten Knall, der naheligende Glasscheiben zum Springen gebracht hat. Anschließend ist ein kometartiger Feuerball südlich von Stockholm abgestürzt. In den Straßen von Stockholm sind bunte Päckchen vom Himmel geregnet, die mit Spielzeug, Komlinks und überproportional vielen Wollsocken gefüllt waren.
+Eine Stellungnahme der örtlichen Flugsicherung liegt vor. Auf den Radars, die den stockholmer Flugraum überwachen, sei zu dem Zeitpunkt des Unfalls nur die Drohne und kein weiteres Fluggerät zu erkennen gewesen. Das deute darauf hin, dass das unbekannte Flugobjekt über modernster Tarntechnologie verfügen oder mit äußerst hoher Geschwindigkeit unterwegs gewesen sein müsse.
+Such- und Rettungskräfte sind unterwegs um die Absturzstelle zu finden und den Fall aufzuklären. Die Polizei bittet um sachdienliche Hinweise unter der Matrixnummer *+468 555 87e2*.
+
+**3:28 Uhr - Update:** Mittlerweile konnten Suchtruppen die Absturzstelle ausfindig machen. Rettungskräfte konnten die toten Körper von fünf Rentieren und zwei Elfenwesen aus den Trümmern bergen. Ein weiteres Rentier und ein übergewichtiger älterer Mann wurden mit lebensbedrohlichen Brandverletzungen in das nächste Krankenhaus eingeliefert. Ihr Zustand ist äußerst kritisch. Wir werden Sie auf dieser Seite über Neuigkeiten informieren.
+
+**13:55 - Update:** Die Auswertung des Flugschreibers hat ergeben, dass es sich bei dem unbekannten Flugobjekt um einen fliegen Titanschlitten des Herstellers "Xmas Corporation" handelt. Ein Hersteller mit diesem Namen ist dem internationalen Konzerngerichtshof nicht bekannt.
+Der Zustand der beiden Überlebenden ist weiterhin kritisch, jedoch nach einer mehrstündigen Operation vorerst stabil.
+Gerüchten zufolge handelt es sich bei dem Schlitten um ein geheimes Forschungsprojekt des russischen Konzerns Evo Corporation. Die Identität der Insassen konnte nicht festgestellt werden.
 \verfasser[SR 5]{Yoann}
+
+## Firuns Jagd gesichtet
+\zeitung{25. Hesinde 1038BF}Seid auf der Hut, wenn ihr euch dieser Tage hinaus wagt! Nicht viele konnten wir finden die in der letzten Nacht den Himmel betrachteten und zitternd davon berichten konnten. Es scheint als wäre Firun selbst mit seiner Jagdgesellschaft unterwegs. In dieser Nacht ist auch der deutlichste aller Vorboten, der bittere Frost, eingezogen. Einige berichten von einem schneidigen weißen Wagen im Himmel, gezogen von gewaltigen Eisbären. Doch jene die uns solcherlei berichten hauchen damit ihre letzten gefrorenen Atemzüge hinaus. So sollten wir jenen aus Alveran nicht bei ihrer noblen Mission im Wege stehen. Legt in den nächsten Tagen nur ordentlich Holz auf, denn Firun kommt früh dieses Jahr!
+\verfasser{DSA}{Hanna}
 
 # Werbung
 Kaufen sie jetzt das
