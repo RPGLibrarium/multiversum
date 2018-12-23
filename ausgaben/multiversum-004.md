@@ -59,13 +59,15 @@ Und uns erzähl'n von Abenteuern.“\\
 Und Madalin: „So ist es recht.\\
 Ich hoffe, es wird gut gezecht!“\\[1em]
 Von drauß, von Albenhus komm ich her,\\
-ich muss euch sagen, es weihnachtet sehr!\\
+ich muss euch sagen, es weihnachtet sehr!
 ```
-\Verfasser[DSA 4.1]{Franca}
+\verfasser[DSA 4.1]{Franca}
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+## EILMELDUNG: Lieferdrohne mit unbekanntem Flugobjekt kollidiert
+Vor wenigen Stunden ist über den Dächern von Stockholm eine Lieferdrohne vom Versandhändler AresNow mit einem unbekannten Flugobject kollidiert. Augenzeugen berichten von einem lauten Knall, der naheligende Glasscheiben zum Springen gebracht hat. Anschließend ist ein kometartiger Feuerball südlich von Stockholm abgestürzt. In den Straßen von Stockholm sind bunte Päckchen vom Himmel geregnet, die mit Spielzeug, Komlinks und überproportional vielen Wollsocken gefüllt waren.
+Eine Stellungnahme der örtlichen Flugsicherung liegt vor. Auf den Radars, die den stockholmer Flugraum überwachen, sei zu dem Zeitpunkt des Unfalls nur die Drohne und kein weiteres Fluggerät zu erkennen gewesen. Das deute darauf hin, dass das unbekannt Flugobjekt über modernster Tarntechnologie verfügen oder mit äußerst hoher Geschwindigkeit unterwegs gewesen sein müsse.
+Such- und Rettungskräfte sind unterwegs um die Absturtzstelle zu finden und den Fall aufzuklären.
+\verfasser[SR 5]{Yoann}
 
 # Werbung
 Kaufen sie jetzt das
