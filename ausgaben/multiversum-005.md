@@ -16,35 +16,19 @@ losung: "Dies ist ein zufälliger Losungstext"
 Lorem Ipsum
 \verfasser{Autor1}
 
-## In der Redaktion
-Lorem Ipsum
-\verfasser{Redaktion}
+# Leserbrief
+Lieber Praktikant,
 
-# An einem anderen Ort
+\noindent in den Sternen habe ich eine Erschütterung gespürt und mir war _sofort_ klar, dass etwas Schlimmes passiert sein musste. Nachdem ich tief in mich gegangen war... nun ja, als allererstes stellte ich eigentlich fest, dass meine Karriere als Fernsehastrologe eine Verschwendung meiner Lebensjahre gewesen war. Aber! Nachdem ich dann nochmal tiefer in mich gegangen war, war mir klar, dass nicht nur der Himmel, sondern das Multiversum an sich erschüttert wurde.
 
-## Titel 1
-Lorem Ipsum
-\verfasser{Autor2}
+Bei einer tiefen Meditation -- zum Glück stand der Jupiter grade günstig im Saturn - fand ich deinen Hilferuf. Offensichtlich hat euer Weltenkaleidoskop auf die Erschütterung reagiert.
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+Die Welt gerät, buchstäblich, aus den Fugen. Zu viele Probleme haben sich angestaut. Sie drohen das Multiversum zu sprengen. Das kaputte Kaleidoskop war nur ein Vorbote davon.
 
-# Werbung
-Kaufen sie jetzt das
-\begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
-\Verfasser{Autor}
+Ihr müsst den Zerfalls des Multiversums aufhalten! Es gibt nur einen Weg. Finde eine Gruppe von Wagemutigen, die gewillt sind, in verschiedene Welten reinzugehen und dort das größte Problem zu lösen, was die Leute in ihrer Nähe gerade beschäftigt. Erst dann wird der Druck nachlassen und die Welt ist, erstmal, wieder sicher. Ich bin auch überzeugt davon, dass es die Redaktion zurückbringen wird, irgendwie.
 
-# Schleuderpresse
-*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
+Eins müssen du und die tapferen Held\*innen jedoch unbedingt beachten: Vor dem Ende der ersten Woche des neuen Jahres muss das Ritual vollendet sein. Es bleibt nicht mehr viel Zeit!
 
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
+Ich bete zu Zodiak, dass euch das gelingen möge -- du, lieber Praktikant, bist der einzige, die ich mit meiner Verkündigung erreichen konnte. Hier bei *InSpace Inc.* haben meine Kollegen mir ins Gesicht gelacht...
 
-# Todesanzeigen
-*Trauertext.*
-
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
+\Verfasser{Mystischer und magischer Magier Mike,\\ Sternkundler Extraordinaire}
