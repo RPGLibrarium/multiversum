@@ -1,7 +1,7 @@
 ---
 author: Konstantin, Thibaud
 date: Dezember 2019
-ausgabe: 0
+ausgabe: 5
 balance: false
 termine:
     - "Librarium-Con: 02.01.19 - 06.01.19"
