@@ -6,22 +6,18 @@ balance: false
 termine:
     - "Librarium-Con: 02.01.19 - 06.01.19"
     - "Nächstes Treffen: 16.01.19, 19 Uhr"
-losung: "Dies ist ein zufälliger Losungstext"
+losung: "Die Multiversumsredaktion wird immer noch vermisst..."
 
 ---
 
 # Kurzes Update
 Liebe Multiversumsleser\*innen,
 
-\noindent ein paar Tage sind nun ins Land gegangen, ohne das es Neuigkeiten von meinen Kolleg*innen gab. Mittlerweile konnte ich aber ausmachen, dass die Übertragungsfehler in der Tat von den Kaleidoskop splittern herrühren. Um diese herum, konnte ich allerdings auch ein weiteres außergewöhnliches Phänomene beobachten. Während die Spiegelflächen Licht aus anderen Universen in unseres hinein reflektieren, verschlingen die schwarzen Ränder elektromagnetische Strahlung aus unserem Universum und emittieren sie vermutlich in andere Welten. Dieser Weltenbrückenquantenffekt scheint sich wohl auch auf Materie in der Nähe auszubreiten -- oder aber auf meinen Verstand.
+\noindent ein paar Tage sind nun ins Land gegangen, ohne das es Neuigkeiten von meinen Kolleg*innen gab. Während ihr hoffentlich eine gute Weihnachtszeit hattet, konnte ich ausmachen, dass die Übertragungsfehler in der Tat von den Splittern herrühren. Ich versende diese Ausgabe daher von dem Haus meiner Eltern.
 
-Ich hatte versucht die Scherben mit einem Besen zusammen zu kehren. Als ich meine Augen zum Blinzeln für den Bruchteil eine Sekunde verschlossen hielt, verwandelte sich der Besenstiel in den Schwanz eines schwarzen Katers. Ganz und gar nicht darüber erpicht, dass ich ihn durch einen Haufen Scherben zog, riss sich das fette Ungetüm los und hinterließ auf meinem rechten Unterarm deutliche Kratzer. Ich hatte nur versucht das Tier für weitere Untersuchungen festzusetzen. Es entkam ärgerlicherweise aber durch ein offenes Fenster.
+Auf meinen Aufruf in der letzte Ausgabe hat sich heute ein Leser gemeldet. So mysteriös seine Worte auch sind, die Botschaft scheint klar: Der Bruch des Weltenkaleidoskops hat anscheinend fatale Auswirkungen auf die Existenz unseres Universums.
 
-Ist ja auch eigentlich egal, ich wollte euch eigentlich von zwei  möglicherweise unerfreulichen Ereignissen berichten.
-
-Erstens. Auf meinen Aufruf nach Hinweisen in der letzte Ausgabe hat sich heute ein Leser gemeldet. So mysteriös seine Worte auch sind, die Botschaft scheint klar: Der Bruch des Weltenkaleidoskops hat anscheinend fatale Auswirkungen auf die Existenz unseres Universums.
-
-Zweitens. Ich konnte in einer Scherbe des Spiegels beobachten, wie jemand Thibauds Smartphone entsperrt und dadurch das Passwort rekonstruieren. Den Inhalt der Tonaufnahme versuche ich euch so wortgetreu wie möglich zukommen zu lassen.
+Ich konnte außerdem in einer Scherbe des Spiegels beobachten, wie ein hell grün schimmernder, feingliedriger Finger Thibauds Smartphone entsperrt und dadurch das Passwort rekonstruieren. Den Inhalt der Tonaufnahme versuche ich euch so wortgetreu wie möglich wiederzugeben.
 
 Haltet die Ohren steif!
 \Verfasser{Euer Praktikant}
@@ -42,3 +38,6 @@ Eins müssen du und die tapferen Held\*innen jedoch unbedingt beachten: Vor dem 
 Ich bete zu Zodiak, dass euch das gelingen möge -- du, lieber Praktikant, bist der einzige, die ich mit meiner Verkündigung erreichen konnte. Hier bei *InSpace Inc.* haben meine Kollegen mir ins Gesicht gelacht...
 
 \Verfasser{Mystischer und magischer Magier Mike,\\ Sternkundler Extraordinaire}
+
+# Tonaufnahme
+[Weißes rauschen im Hintergrund] Hallo, [Räuspern], mir bleibt nicht viel Zeit. Die anderen sind schon auf der anderen Seite. Wie fasse ich mich also am besten kurz? Hmm... Also. Irgendetwas...oder jemand... hat unsere Redaktionssitzung gesprengt. Also wirklich in die Luft gejagt... Plötzlich gab es einen lauten Knall und das Weltenkaleidoskop ist explodiert. Die Zeit steht irgendwie still... Oder ist... sehr viskos, sonst könnte ich ja nicht hier rein reden. Die Scherben schweben in der Mitte des Raumes und zwischen Ihnen bilden die Welten eine Art Fraktal. Anscheinend kann man hindurch gehen. Richard ist als erstes hindurch gestiegen und... Shit! Die Ränder lösen sich auf! Das Tor wird kleiner! Ich muss gehen. Ich hoffe jemand findet das Handy hier! [Knistern, Rauschen wird lauter, plötzliche Stille, dann Scheppern] 
