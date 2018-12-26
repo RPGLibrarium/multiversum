@@ -10,11 +10,21 @@ losung: "Dies ist ein zufälliger Losungstext"
 
 ---
 
-# Was bisher geschah...
+# Kurzes Update
+Liebe Multiversumsleser\*innen,
 
-## Workshop: ABC
-Lorem Ipsum
-\verfasser{Autor1}
+\noindent ein paar Tage sind nun ins Land gegangen, ohne das es Neuigkeiten von meinen Kolleg*innen gab. Mittlerweile konnte ich aber ausmachen, dass die Übertragungsfehler in der Tat von den Kaleidoskop splittern herrühren. Um diese herum, konnte ich allerdings auch ein weiteres außergewöhnliches Phänomene beobachten. Während die Spiegelflächen Licht aus anderen Universen in unseres hinein reflektieren, verschlingen die schwarzen Ränder elektromagnetische Strahlung aus unserem Universum und emittieren sie vermutlich in andere Welten. Dieser Weltenbrückenquantenffekt scheint sich wohl auch auf Materie in der Nähe auszubreiten -- oder aber auf meinen Verstand.
+
+Ich hatte versucht die Scherben mit einem Besen zusammen zu kehren. Als ich meine Augen zum Blinzeln für den Bruchteil eine Sekunde verschlossen hielt, verwandelte sich der Besenstiel in den Schwanz eines schwarzen Katers. Ganz und gar nicht darüber erpicht, dass ich ihn durch einen Haufen Scherben zog, riss sich das fette Ungetüm los und hinterließ auf meinem rechten Unterarm deutliche Kratzer. Ich hatte nur versucht das Tier für weitere Untersuchungen festzusetzen. Es entkam ärgerlicherweise aber durch ein offenes Fenster.
+
+Ist ja auch eigentlich egal, ich wollte euch eigentlich von zwei  möglicherweise unerfreulichen Ereignissen berichten.
+
+Erstens. Auf meinen Aufruf nach Hinweisen in der letzte Ausgabe hat sich heute ein Leser gemeldet. So mysteriös seine Worte auch sind, die Botschaft scheint klar: Der Bruch des Weltenkaleidoskops hat anscheinend fatale Auswirkungen auf die Existenz unseres Universums.
+
+Zweitens. Ich konnte in einer Scherbe des Spiegels beobachten, wie jemand Thibauds Smartphone entsperrt und dadurch das Passwort rekonstruieren. Den Inhalt der Tonaufnahme versuche ich euch so wortgetreu wie möglich zukommen zu lassen.
+
+Haltet die Ohren steif!
+\Verfasser{Euer Praktikant}
 
 # Leserbrief
 Lieber Praktikant,
