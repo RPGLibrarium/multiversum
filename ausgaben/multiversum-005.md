@@ -13,11 +13,11 @@ losung: "Die Multiversumsredaktion wird immer noch vermisst..."
 # Kurzes Update
 Liebe Multiversumsleser\*innen,
 
-\noindent ein paar Tage sind nun ins Land gegangen, ohne das es Neuigkeiten von meinen Kolleg*innen gab. Während ihr hoffentlich eine gute Weihnachtszeit hattet, konnte ich ausmachen, dass die Übertragungsfehler in der Tat von den Splittern herrühren. Ich versende diese Ausgabe daher von dem Haus meiner Eltern.
+\noindent ein paar Tage sind nun ins Land gegangen, ohne dass es Neuigkeiten von meinen Kolleg*innen gab. Während ihr hoffentlich eine gute Weihnachtszeit hattet, konnte ich ausmachen, dass die Übertragungsfehler in der Tat von den Splittern herrühren. Ich versende diese Ausgabe daher aus dem Haus meiner Eltern.
 
 Auf meinen Aufruf in der letzte Ausgabe hat sich heute ein Leser gemeldet. So mysteriös seine Worte auch sind, die Botschaft scheint klar: Der Bruch des Weltenkaleidoskops hat anscheinend fatale Auswirkungen auf die Existenz unseres Universums.
 
-Ich konnte außerdem in einer Scherbe des Spiegels beobachten, wie ein hell grün schimmernder, feingliedriger Finger Thibauds Smartphone entsperrt und dadurch das Passwort rekonstruieren. Den Inhalt der Tonaufnahme versuche ich euch so wortgetreu wie möglich wiederzugeben.
+Ich konnte außerdem in einer Scherbe des Spiegels beobachten, wie ein hellgrün schimmernder, feingliedriger Finger Thibauds Smartphone entsperrte und dadurch das Passwort rekonstruieren. Den Inhalt der Tonaufnahme versuche ich euch so wortgetreu wie möglich wiederzugeben.
 
 Haltet die Ohren steif!
 \Verfasser{Euer Praktikant}
@@ -40,4 +40,4 @@ Ich bete zu Zodiak, dass euch das gelingen möge -- du, lieber Praktikant, bist 
 \Verfasser{Mystischer und magischer Magier Mike,\\ Sternkundler Extraordinaire}
 
 # Tonaufnahme
-[Weißes rauschen im Hintergrund] Hallo, [Räuspern], mir bleibt nicht viel Zeit. Die anderen sind schon auf der anderen Seite. Wie fasse ich mich also am besten kurz? Hmm... Also. Irgendetwas...oder jemand... hat unsere Redaktionssitzung gesprengt. Also wirklich in die Luft gejagt... Plötzlich gab es einen lauten Knall und das Weltenkaleidoskop ist explodiert. Die Zeit steht irgendwie still... Oder ist... sehr viskos, sonst könnte ich ja nicht hier rein reden. Die Scherben schweben in der Mitte des Raumes und zwischen Ihnen bilden die Welten eine Art Fraktal. Anscheinend kann man hindurch gehen. Richard ist als erstes hindurch gestiegen und... Shit! Die Ränder lösen sich auf! Das Tor wird kleiner! Ich muss gehen. Ich hoffe jemand findet das Handy hier! [Knistern, Rauschen wird lauter, plötzliche Stille, dann Scheppern] 
+[Weißes rauschen im Hintergrund] Hallo, [Räuspern], mir bleibt nicht viel Zeit. Die anderen sind schon auf der anderen Seite. Wie fasse ich mich also am besten kurz? Hmm... Also. Irgendetwas...oder jemand... hat unsere Redaktionssitzung gesprengt. Also wirklich in die Luft gejagt... Plötzlich gab es einen lauten Knall und das Weltenkaleidoskop ist explodiert. Die Zeit steht irgendwie still... Oder ist... sehr viskos, sonst könnte ich ja nicht hier rein reden. Die Scherben schweben in der Mitte des Raumes und zwischen Ihnen bilden die Welten eine Art Fraktal. Anscheinend kann man hindurch gehen. Richard ist als erstes hindurch gestiegen und... Shit! Die Ränder lösen sich auf! Das Tor wird kleiner! Ich muss gehen. Ich hoffe jemand findet das Handy hier! [Knistern, Rauschen wird lauter, plötzliche Stille, dann Scheppern]
