@@ -9,11 +9,12 @@ losung: "Das Schaf passt nicht in den Aufzug!"
 
 ---
 
-\begin{figure*}[ht]
-\includegraphics[width=\textwidth]{img/rpg_machoweiber.jpg}
-\end{figure*}
-
 # Was bisher geschah...
+
+\begin{figure}[!b]
+\includegraphics[width=\textwidth]{img/rpg_machoweiber.jpg}
+\vspace*{-5em}
+\end{figure}
 
 ## In der Redaktion
 Liebe Multiversumsleser\*innen,
@@ -25,12 +26,17 @@ Mit dem Monat Januar, endet leider auch meine Zeit in der Multiversumsredaktion.
 Vielleicht lest ihr in anderne Kontexten nochmal etwas von mir. Auf bald!
 \verfasser{Euer Praktikant}
 
-
 ## Durchsage
 \**knacken*\* Information: Die Januarausgabe des Multiversums (Nummer 6) hat zur Zeit eine Verspätung von 46 Tagen und 7 Stunden. Grund dafür sind Verzögerungen im Betriebsablauf. Wir bitten die Unannehmlichkeiten zu entschuldigen.
 \verfasser{Die Reda$\xi$on}
 
 # An einem anderen Ort
+
+<!-- hack preventing text from floating into the image -->
+\begin{figure}[!b]
+\vspace*{21.42em}
+\vspace*{1.337em}
+\end{figure}
 
 ## Duell in den Schatten
 Ein nächtlicher Schrottplatz. Rostiger Metallschrott, Sondermüllcontainer, ein Berg alter Reifen, ein brennender Linienbus. In der Ferne Sirenen. Zwei Rennmotorräder parken draußen vor dem Zaun. Ein episches Duell steht bevor. Zwei Shadowrunner stehen sich gegenüber, warten, lauern… Dies ist die Nacht der Nächte! Maschine gegen Magie! Reflexbooster gegen Adeptensinne! Ares Predator gegen elektrische Sais! Die Revolverheldin Esther aus Hamburg gegen die Klingenkriegerin Princess aus dem Rhein-Ruhr-Plex!
@@ -39,6 +45,7 @@ Die kybernetisch aufgerüstete Elfe Esther eröffnet das Feuer – die rechte Kn
 
 Ein Stim Patch bringt die Verliererin schnell wieder auf die Beine. Die Machoweiber Mit Dicken Kanonen™ applaudieren frenetisch. Hände werden geschüttelt, gegenseitige Respektsbekundungen werden ausgetauscht, es wird gelacht und gefeiert, und eine baldige Revanche vereinbart. Siegerin Princess und Verliererin Esther bekennen einstimmig: „Verdammt, das war ein würdiges Duell!“
 \Verfasser[Shadowrun 5]{Franca}
+
 
 ## Bounty Hunter Today -- Liveticker
 ```
@@ -66,7 +73,8 @@ t zum 254. Mal in Folge beliebtester Ar
 beitgeber bei Aeronautischen Experten f
 ür verdeckte Logistik. +++
 ```
-\verfasser[Star Wars: Am Rande des Imperiums]{Franca}
+\vspace*{-2em}\Verfasser[Star Wars: Am Rande des Imperiums]{Franca}
+
 
 # Werbung
 Kaufen sie jetzt das
