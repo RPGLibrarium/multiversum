@@ -46,40 +46,46 @@ Die kybernetisch aufgerüstete Elfe Esther eröffnet das Feuer – die rechte Kn
 Ein Stim Patch bringt die Verliererin schnell wieder auf die Beine. Die Machoweiber Mit Dicken Kanonen™ applaudieren frenetisch. Hände werden geschüttelt, gegenseitige Respektsbekundungen werden ausgetauscht, es wird gelacht und gefeiert, und eine baldige Revanche vereinbart. Siegerin Princess und Verliererin Esther bekennen einstimmig: „Verdammt, das war ein würdiges Duell!“
 \Verfasser[Shadowrun 5]{Franca}
 
-
-## Bounty Hunter Today -- Liveticker
+```{=tex}
+\begin{figure}[!t]
+\begin{minipage}[t][14.142em][t]{1.0\textwidth}
+{\small\texttt{%
+\phantomsection\addcontentsline{toc}{subsection}{Bounty Hunter Today: Liveticker}
+% there is no "%" after the previous line, this is no accident and used for indention
+\textbf{Bounty Hunter Today:}
++++ Mehr Weltraumschrott: Hyperraumverkehrsbehörden warnen vor Trümme\\%
+rschäden durch umherdriftende Metallstücke, Körperteile und Mobiliar. +++ Die Rückkehr des \\%
+Blonden Schlächters? Unbestätigte Sichtung von mörderischem Albino-Wookiee Kadoukh im Besh-\\%
+Gorgon-System +++ Freund und Helfer: Security auf Raumstation „Das Rad“ mit Bestnote ausgez\\%
+eichnet +++ Der Falschparker des YT-1300-Frachters mit dem Kennzeichen 42-TREX wird darum g\\%
+ebeten, sein Raumschiff sofort aus dem Halteverbot zu entfernen! +++ Neueste Ausgabe der Bo\\%
+unty Hunter Today erhältlich! Diesen Monat mit 20 aktuellen Fahndungsplakaten der meistgesu\\%
+chten Schurken. +++ Erst der Planet, jetzt die Preise: Verkaufspreis für alderaanische Prod\\%
+ukte explodiert nach Zerstörung Alderaans. +++ Outer Rim: Huttenkartell ist zum 254. Mal in\\%
+\hphantom{ }Folge beliebtester Arbeitgeber bei Aeronautischen Experten für verdeckte Logistik. +++
+}}
+\Verfasser[Star Wars: Am Rande des Imperiums]{Franca}
+\vspace{.42em}
+\hrule
+\end{minipage}
+\end{figure}
 ```
-+++ Mehr Weltraumschrott: Hyperraumverk
-ehrsbehörden warnen vor Trümmerschäden
-durch umherdriftende Metallstücke, Körp
-erteile und Mobiliar. +++ Die Rückkehr
-des Blonden Schlächters? Unbestätigte S
-ichtung von mörderischem Albino-Wookiee
- Kadoukh im Besh-Gorgon-System +++ Freu
-nd und Helfer: Security auf Raumstation
- „Das Rad“ mit Bestnote ausgezeichnet +
-++ Der Falschparker des YT-1300-Frachte
-rs mit dem Kennzeichen 42-TREX wird dar
-um gebeten, sein Raumschiff sofort aus
-dem Halteverbot zu entfernen! +++ Neues
-te Ausgabe der Bounty Hunter Today erhä
-ltlich! Diesen Monat mit 20 aktuellen F
-ahndungsplakaten der meistgesuchten Sch
-urken. +++ Erst der Planet, jetzt die P
-reise: Verkaufspreis für alderaanische
-Produkte explodiert nach Zerstörung Ald
-eraans. +++ Outer Rim: Huttenkartell is
-t zum 254. Mal in Folge beliebtester Ar
-beitgeber bei Aeronautischen Experten f
-ür verdeckte Logistik. +++
-```
-\vspace*{-2em}\Verfasser[Star Wars: Am Rande des Imperiums]{Franca}
-
 
 # Werbung
 Kaufen sie jetzt das
 \begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
 \Verfasser{Autor}
 
+<!-- Some cupcake ipsum for testing hacks -->
+## Cupcake ipsum dolor sit.
+Amet bonbon chocolate bar cake wafer chocolate cake. Apple pie toffee fruitcake gummies icing sesame snaps ice cream. Liquorice pie jelly beans caramels dragée. Bear claw cake dessert muffin candy canes. Bear claw oat cake chocolate bar apple pie cookie pastry croissant chupa chups. Dragée cupcake cake tart bonbon fruitcake cheesecake gummi bears marshmallow. Cake gummies gingerbread marshmallow. Topping croissant sweet roll liquorice sugar plum. Lemon drops pastry biscuit wafer jelly beans marzipan candy. Candy candy canes tootsie roll candy pie. Danish icing danish chocolate cake.
+
+Brownie dragée pie. Gingerbread jelly-o donut apple pie dragée. Dragée toffee gummies tootsie roll muffin. Cheesecake chocolate pie. Jelly-o cupcake toffee cotton candy halvah dessert. Oat cake candy canes candy tiramisu. Cookie candy liquorice cake. Cupcake cake cake gingerbread gummies topping lemon drops candy canes. Lollipop tart pudding tart brownie. Jelly danish cotton candy. Brownie tiramisu halvah tart. Cupcake jelly candy canes jelly chocolate cake.
+
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
+
+<!-- yet another hack preventing text from floating into the liveticker -->
+\begin{figure}[!t]
+\vspace*{14.142em}
+\end{figure}
