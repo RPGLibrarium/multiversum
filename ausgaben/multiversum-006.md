@@ -9,6 +9,10 @@ losung: "Das Schaf passt nicht in den Aufzug!"
 
 ---
 
+\begin{figure*}[ht]
+\includegraphics[width=\textwidth]{img/rpg_machoweiber.jpg}
+\end{figure*}
+
 # Was bisher geschah...
 
 ## In der Redaktion
@@ -21,8 +25,10 @@ Mit dem Monat Januar, endet leider auch meine Zeit in der Multiversumsredaktion.
 Vielleicht lest ihr in anderne Kontexten nochmal etwas von mir. Auf bald!
 \verfasser{Euer Praktikant}
 
+
 ## Durchsage
-\**knacken*\* Information: Die Januarausgabe des Multiversums Nummer 6 hat zur Zeit eine Verspätung von 46 Tagen und 7 Stunden. Grund dafür sind Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
+\**knacken*\* Information: Die Januarausgabe des Multiversums (Nummer 6) hat zur Zeit eine Verspätung von 46 Tagen und 7 Stunden. Grund dafür sind Verzögerungen im Betriebsablauf. Wir bitten die Unannehmlichkeiten zu entschuldigen.
+\verfasser{Die Reda$\xi$on}
 
 # An einem anderen Ort
 
@@ -34,16 +40,33 @@ Die kybernetisch aufgerüstete Elfe Esther eröffnet das Feuer – die rechte Kn
 Ein Stim Patch bringt die Verliererin schnell wieder auf die Beine. Die Machoweiber Mit Dicken Kanonen™ applaudieren frenetisch. Hände werden geschüttelt, gegenseitige Respektsbekundungen werden ausgetauscht, es wird gelacht und gefeiert, und eine baldige Revanche vereinbart. Siegerin Princess und Verliererin Esther bekennen einstimmig: „Verdammt, das war ein würdiges Duell!“
 \Verfasser[Shadowrun 5]{Franca}
 
-## Bounty Hunter Today - Liveticker
+## Bounty Hunter Today -- Liveticker
 ```
-+++ Mehr Weltraumschrott: Hyperraumverkehrsbehörden warnen vor Trümmerschäden durch umherdriftende Metallstücke, Körperteile und Mobiliar. +++ Die Rückkehr des Blonden Schlächters? Unbestätigte Sichtung von mörderischem Albino-Wookiee Kadoukh im Besh-Gorgon-System +++ Freund und Helfer: Security auf Raumstation „Das Rad“ mit Bestnote ausgezeichnet  +++ Der Falschparker des YT-1300-Frachters mit dem Kennzeichen 42-TREX wird darum gebeten, sein Raumschiff sofort aus dem Halteverbot zu entfernen! +++ Neueste Ausgabe der Bounty Hunter Today erhältlich! Diesen Monat mit 20 aktuellen Fahndungsplakaten der meistgesuchten Schurken. +++ Erst der Planet, jetzt die Preise: Verkaufspreis für alderaanische Produkte explodiert nach Zerstörung Alderaans. +++ Outer Rim: Huttenkartell ist zum 254. Mal in Folge beliebtester Arbeitgeber bei Aeronautischen Experten für verdeckte Logistik. +++
++++ Mehr Weltraumschrott: Hyperraumverk
+ehrsbehörden warnen vor Trümmerschäden
+durch umherdriftende Metallstücke, Körp
+erteile und Mobiliar. +++ Die Rückkehr
+des Blonden Schlächters? Unbestätigte S
+ichtung von mörderischem Albino-Wookiee
+ Kadoukh im Besh-Gorgon-System +++ Freu
+nd und Helfer: Security auf Raumstation
+ „Das Rad“ mit Bestnote ausgezeichnet +
+++ Der Falschparker des YT-1300-Frachte
+rs mit dem Kennzeichen 42-TREX wird dar
+um gebeten, sein Raumschiff sofort aus
+dem Halteverbot zu entfernen! +++ Neues
+te Ausgabe der Bounty Hunter Today erhä
+ltlich! Diesen Monat mit 20 aktuellen F
+ahndungsplakaten der meistgesuchten Sch
+urken. +++ Erst der Planet, jetzt die P
+reise: Verkaufspreis für alderaanische
+Produkte explodiert nach Zerstörung Ald
+eraans. +++ Outer Rim: Huttenkartell is
+t zum 254. Mal in Folge beliebtester Ar
+beitgeber bei Aeronautischen Experten f
+ür verdeckte Logistik. +++
 ```
 \verfasser[Star Wars: Am Rande des Imperiums]{Franca}
-
-
-\begin{center}
-\includegraphics[width=2\linewidth]{img/rpg_machoweiber.jpg}
-\end{center}
 
 # Werbung
 Kaufen sie jetzt das
