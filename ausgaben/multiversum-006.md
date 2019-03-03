@@ -1,6 +1,6 @@
 ---
-author: Thibaud, Franca
-date: Februar 2019
+author: Thibaud, Franca, Yoann, Richard
+date: Januar 2019
 ausgabe: 6
 balance: false
 termine:
