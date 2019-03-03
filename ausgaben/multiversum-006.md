@@ -1,10 +1,11 @@
 ---
 author: Thibaud, Franca
-date: März 2019
+date: Februar 2019
 ausgabe: 6
 balance: false
 termine:
-    - "Nächstes Treffen: 16.03.19, 19 Uhr"
+    - "Nächstes Treffen: 16.02.19, 19 Uhr"
+    - "Mitgliederversammlung: 02.03.19, 15 Uhr"
 losung: "Das Schaf passt nicht in den Aufzug!"
 
 ---
