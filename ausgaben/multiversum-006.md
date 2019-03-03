@@ -28,7 +28,7 @@ Mit dem Monat Januar, endet leider auch meine Zeit in der Multiversumsredaktion.
 \verfasser{Euer Praktikant}
 
 \vspace{1em}
-\**knacken*\* Die Januarausgabe des Multiversums hat zur Zeit eine Verspätung von 46 Tagen und 7 Stunden. Grund dafür sind Verzögerungen im Betriebsablauf. Wir bitten die Unannehmlichkeiten zu entschuldigen.
+\**knacken*\* Die Januarausgabe des Multiversums hat zur Zeit eine Verspätung von 31 Tagen und 23 Stunden. Grund dafür sind Verzögerungen im Betriebsablauf. Wir bitten die Unannehmlichkeiten zu entschuldigen.
 
 # An einem anderen Ort
 
