@@ -11,20 +11,18 @@ losung: "Das Schaf passt nicht in den Aufzug!"
 
 # Was bisher geschah...
 
-## Diversity Workshop
-Lorem Ipsum
-\verfasser{Autor1}
-
 ## In der Redaktion
 Liebe Multiversumsleser\*innen,
 
-es gibt gute Neuigkeiten! Die Redaktion ist am 4. Februar 2019 überraschend wieder aufgetaucht. Während der alljährlichen Rollenspiel-Freizeit vom RPG Librarium sind sie unverletzt und bei "voller" geistiger Gesundheit aus einem Portal getreten. Obwohl man mir versichern konnten, dass das Weltgefüge nicht mehr in Gefahr schwebt, konnte mir noch keiner von ihnen verraten, was sie hinter dem Portal erlebt haben. Eine exotische Art von Quall\*innen hat wohl ihre Erinnerungen gelöscht. Teilnehmer\*innen der Freizeit, die mehr wissen, sind dazu eingeladen, einen Bericht für die nächste Ausgabe unter der üblichen E-Mail-Addresse einzureichen.
+es gibt gute Neuigkeiten! Die Redaktion ist am 4. Januar 2019 überraschend wieder aufgetaucht. Während der alljährlichen Rollenspiel-Freizeit vom RPG Librarium sind sie unverletzt und bei "voller" geistiger Gesundheit aus einem Portal getreten. Obwohl man mir versichern konnten, dass das Weltgefüge nicht mehr in Gefahr schwebt, konnte mir noch keiner von ihnen verraten, was sie hinter dem Portal erlebt haben. Eine exotische Art von Quall\*innen hat wohl ihre Erinnerungen gelöscht. Teilnehmer\*innen der Freizeit, die mehr wissen, sind dazu eingeladen, einen Bericht für die nächste Ausgabe unter der üblichen E-Mail-Addresse einzureichen.
 
 Mit dem Monat Januar, endet leider auch meine Zeit in der Multiversumsredaktion. Ich bedanke mich bei den treuen Leser*innen, die mich tatkräftig bei den Ereignissen der letzten Monate untersützt und mit Informationen gefüttert haben.
 
-Vielleicht lest ihr in anderne Kontexten nochmal etwas von mir. Auf Bald!
-
+Vielleicht lest ihr in anderne Kontexten nochmal etwas von mir. Auf bald!
 \verfasser{Euer Praktikant}
+
+## Durchsage
+\**knacken*\* Information: Die Januarausgabe des Multiversums Nummer 6 hat zur Zeit eine Verspätung von 46 Tagen und 7 Stunden. Grund dafür sind Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
 
 # An einem anderen Ort
 
@@ -37,10 +35,6 @@ Ein Stim Patch bringt die Verliererin schnell wieder auf die Beine. Die Machowei
 
 \verfasser[Shadowrun 5]{Franca}
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
-
 # Werbung
 Kaufen sie jetzt das
 \begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
@@ -48,14 +42,3 @@ Kaufen sie jetzt das
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
-
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
-
-# Todesanzeigen
-*Trauertext.*
-
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
