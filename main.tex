@@ -170,14 +170,14 @@ $if(balance)$\usepackage{flushend}$endif$
 %
 % Author-Mark
 \newcommand{\Verfasser}[2][]{%
-\par{\raggedleft{}{\itshape #2%
+\par{\raggedleft{}{\itshape \mbox{#2}%
 \ifx\relax#1\relax%
 \else%
 ~(#1)%
 \fi%
 }\par}}
 \newcommand{\verfasser}[2][]{%
-\hfill{\itshape #2%
+\hfill{\itshape \mbox{#2}%
 \ifx\relax#1\relax%
 \else%
 ~(#1)%
