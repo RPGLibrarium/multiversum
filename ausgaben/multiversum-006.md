@@ -43,11 +43,11 @@ Ein nächtlicher Schrottplatz. Rostiger Metallschrott, Sondermüllcontainer, ein
 Die kybernetisch aufgerüstete Elfe Esther eröffnet das Feuer – die rechte Knarre mit Standard-, die linke mit Explosivmunition geladen. Nahkampfadeptin Princess weicht aus, schnell wie ein Schatten und elegant wie eine Katze, aber auch ihre darauffolgende Attacke geht ins Leere. Ihr Klingenwaffen, die elektrischen Sais Marke Eigenbau, verfehlen die wendige Esther um Haaresbreite. Schüsse hallen über den Schrottplatz, schlagen in Container und Lastenkräne ein, silbern wirbelnd zerschneiden die Sais die Luft um die beiden Kontrahentinnen. Schneller als ein kybernetisches Auge zu folgen vermag umrunden sich Esther und Princess. Eine Salve Explosivmunition lässt einen Container mit Giftmüll explodieren. Eine brennende giftige Pfütze breitet sich aus. Ein Sai tangiert Esther, eine Kugel streift Princess. Am Zaun des Schrottplatzes sammeln sich die Machoweiber Mit Dicken Kanonen™, welchen - vor dieser Nacht - der Schrottplatz gehörte, und jubeln begeistert. Am Rande ihrer Kräfte touchiert Princess die unverwüstliche Esther erneut mit ihrer elektrischen Klinge. Funken sprühen, Esther bricht zusammen. Princess rettet mit einem kühnen Hechtsprung die geschlagene Esther davor, in die flammende Giftpfütze zu stürzen.
 
 Ein Stim Patch bringt die Verliererin schnell wieder auf die Beine. Die Machoweiber Mit Dicken Kanonen™ applaudieren frenetisch. Hände werden geschüttelt, gegenseitige Respektsbekundungen werden ausgetauscht, es wird gelacht und gefeiert, und eine baldige Revanche vereinbart. Siegerin Princess und Verliererin Esther bekennen einstimmig: "Verdammt, das war ein würdiges Duell!"
-\Verfasser[Shadowrun 5]{Franca}
+\Verfasser[SR 5]{Franca}
 
 ```{=tex}
 \begin{figure}[!t]
-\vspace{-3em}
+\vspace{-2em}
 \begin{minipage}[t][14.142em][t]{1.0\textwidth}
 {\small\texttt{%
 \phantomsection\addcontentsline{toc}{subsection}{Bounty Hunter Today: Liveticker}
@@ -71,7 +71,7 @@ ukte explodiert nach Zerstörung Alderaans. +++ Outer Rim: Huttenkartell ist zum
 \vspace{-1em}
 \end{figure}
 ```
-# Bereit für das Ende. Interview mit einem Prepper
+## Interview: Bereit für das Ende.
 Ulrich Wirtz (54) hat vor 13 Jahren der Zivilisation den Rücken gekehrt und lebt seit dem im Wuppertaler Untergrund in einem verlassenen Luftschutzbunker. Er ist ein sogenannter "Prepper" (eng. "to be prepared" -- "vorbereitet sein").
 
 **Herr Wirtz, vielen Dank, dass sie sich auf ein Interview mit uns eingelassen haben. Was genau ist ein "Prepper"?**
@@ -87,7 +87,7 @@ Na höhren sie! Wir wissen doch alle, dass die AAAs ständig an neuen stärkeren
 Ach wissen Sie, Das ist die einzige und logische Konsequenz, wenn man sich über die Tagespolitik informiert hält. Nachdem vor 14 Jahren meine Großmutti verstorben ist und ich eine hübsche Summe geerbt hatte, war ich auf der Suche nach einer neuen Bleibe um für den Ernstfall besser vorbereitet zu sein. Mir ist bei einer Auktion von der Verwertungsgesellschaft der ADL Betti ins Auge gefallen. Die anderen Interessenten haben ihren wahren Wert nicht erkannt. Und jetzt gehört sie mir.
 <!-- yet another hack preventing text from floating into the liveticker -->
 \begin{figure}[!t]
-\vspace*{10.489em}
+\vspace*{11.4em}
 \end{figure}
 **Wird ihnen hier unten nicht langweilig?**
 
@@ -102,4 +102,4 @@ Bettis Wände sind dick. und bis jetzt hat noch kein Ghul gelernt die Leitern ho
 Lasst euch nicht verarschen! Iodtabletten und ein Nahrungsmittelvorrat für 4 Wochen sind ein guter Anfang!
 
 **Vielen Dank für diesen spannenden Einblick, Herr Wirtz und nochmal Danke, dass sie die Zeit für uns genommen haben.**
-\verfasser[SR5]{Yoann}
+\verfasser[SR 5]{Yoann}
