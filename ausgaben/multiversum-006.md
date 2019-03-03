@@ -34,8 +34,18 @@ Ein nächtlicher Schrottplatz. Rostiger Metallschrott, Sondermüllcontainer, ein
 Die kybernetisch aufgerüstete Elfe Esther eröffnet das Feuer – die rechte Knarre mit Standard-, die linke mit Explosivmunition geladen. Nahkampfadeptin Princess weicht aus, schnell wie ein Schatten und elegant wie eine Katze, aber auch ihre darauffolgende Attacke geht ins Leere. Ihr Klingenwaffen, die elektrischen Sais Marke Eigenbau, verfehlen die wendige Esther um Haaresbreite. Schüsse hallen über den Schrottplatz, schlagen in Container und Lastenkräne ein, silbern wirbelnd zerschneiden die Sais die Luft um die beiden Kontrahentinnen. Schneller als ein kybernetisches Auge zu folgen vermag umrunden sich Esther und Princess. Eine Salve Explosivmunition lässt einen Container mit Giftmüll explodieren. Eine brennende giftige Pfütze breitet sich aus. Ein Sai tangiert Esther, eine Kugel streift Princess. Am Zaun des Schrottplatzes sammeln sich die Machoweiber Mit Dicken Kanonen ™, welchen - vor dieser Nacht - der Schrottplatz gehörte, und jubeln begeistert. Am Rande ihrer Kräfte touchiert Princess die unverwüstliche Esther erneut mit ihrer elektrischen Klinge. Funken sprühen, Esther bricht zusammen. Princess rettet mit einem kühnen Hechtsprung die geschlagene Esther davor, in die flammende Giftpfütze zu stürzen.
 
 Ein Stim Patch bringt die Verliererin schnell wieder auf die Beine. Die Machoweiber Mit Dicken Kanonen™ applaudieren frenetisch. Hände werden geschüttelt, gegenseitige Respektsbekundungen werden ausgetauscht, es wird gelacht und gefeiert, und eine baldige Revanche vereinbart. Siegerin Princess und Verliererin Esther bekennen einstimmig: „Verdammt, das war ein würdiges Duell!“
+\Verfasser[Shadowrun 5]{Franca}
 
-\verfasser[Shadowrun 5]{Franca}
+## Bounty Hunter Today - Liveticker
+```
++++ Mehr Weltraumschrott: Hyperraumverkehrsbehörden warnen vor Trümmerschäden durch umherdriftende Metallstücke, Körperteile und Mobiliar. +++ Die Rückkehr des Blonden Schlächters? Unbestätigte Sichtung von mörderischem Albino-Wookiee Kadoukh im Besh-Gorgon-System +++ Freund und Helfer: Security auf Raumstation „Das Rad“ mit Bestnote ausgezeichnet  +++ Der Falschparker des YT-1300-Frachters mit dem Kennzeichen 42-TREX wird darum gebeten, sein Raumschiff sofort aus dem Halteverbot zu entfernen! +++ Neueste Ausgabe der Bounty Hunter Today erhältlich! Diesen Monat mit 20 aktuellen Fahndungsplakaten der meistgesuchten Schurken. +++ Erst der Planet, jetzt die Preise: Verkaufspreis für alderaanische Produkte explodiert nach Zerstörung Alderaans. +++ Outer Rim: Huttenkartell ist zum 254. Mal in Folge beliebtester Arbeitgeber bei Aeronautischen Experten für verdeckte Logistik. +++
+```
+\verfasser[Star Wars: Am Rande des Imperiums]{Franca}
+
+
+\begin{center}
+\includegraphics[width=2\linewidth]{img/rpg_machoweiber.jpg}
+\end{center}
 
 ## Titel 2
 Lorem Ipsum, text endet an Zeilenende.
