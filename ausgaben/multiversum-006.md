@@ -72,7 +72,7 @@ ukte explodiert nach Zerstörung Alderaans. +++ Outer Rim: Huttenkartell ist zum
 \end{figure}
 ```
 ## Interview: Bereit für das Ende.
-Ulrich Wirtz (54) hat vor 13 Jahren der Zivilisation den Rücken gekehrt und lebt seit dem im Wuppertaler Untergrund in einem verlassenen Luftschutzbunker. Er ist ein sogenannter "Prepper" (eng. "to be prepared" -- "vorbereitet sein").
+Ulrich Wirtz (54) hat vor 13 Jahren der Zivilisation den Rücken gekehrt und lebt seitdem im Wuppertaler Untergrund in einem verlassenen Luftschutzbunker. Er ist ein sogenannter "Prepper" (eng. "to be prepared" -- "vorbereitet sein").
 
 **Herr Wirtz, vielen Dank, dass Sie sich auf ein Interview mit uns eingelassen haben. Was genau ist ein "Prepper"?**
 
@@ -80,22 +80,22 @@ Ich finde den Begriff "Prepper" albern. Das klingt so, als ob ich nicht mehr all
 
 **Sie klingen so, als ob Sie sich des nächsten Kriegs sehr sicher seien, warum?**
 
-Na höhren Sie! Wir wissen doch alle, dass die AAAs ständig an neuen stärkeren Waffen forschen. Die der GAU in den SOX, die schwarze Flut und das Erwachen, sind doch eindeutige Vorboten, dass da oben bald die Luft brennt. Es ist nur eine Frage der Zeit, bis einem Konzernboss der Kragen platzt und der die ADL dem Erdboden gleich macht.
+Na hören Sie! Wir wissen doch alle, dass die AAAs ständig an neuen stärkeren Waffen forschen. Die der GAU in den SOX, die schwarze Flut und das Erwachen, sind doch eindeutige Vorboten, dass da oben bald die Luft brennt. Es ist nur eine Frage der Zeit, bis einem Konzernboss der Kragen platzt und der die ADL dem Erdboden gleich macht.
 
 **Wie sind Sie zu einem Prepper geworden?**
 
-Ach wissen Sie, das ist die einzige und logische Konsequenz, wenn man sich über die Tagespolitik informiert hält. Nachdem vor 14 Jahren meine Großmutti verstorben ist und ich eine hübsche Summe geerbt hatte, war ich auf der Suche nach einer neuen Bleibe um für den Ernstfall besser vorbereitet zu sein. Mir ist bei einer Auktion von der Verwertungsgesellschaft der ADL Betti ins Auge gefallen. Die anderen Interessenten haben ihren wahren Wert nicht erkannt. Und jetzt gehört sie mir.
+Ach wissen Sie, das ist die einzige und logische Konsequenz, wenn man sich über die Tagespolitik informiert hält. Nachdem vor 14 Jahren meine Großmutti verstorben ist und ich eine hübsche Summe geerbt hatte, war ich auf der Suche nach einer neuen Bleibe, um für den Ernstfall besser vorbereitet zu sein. Mir ist bei einer Auktion von der Verwertungsgesellschaft der ADL Betti ins Auge gefallen. Die anderen Interessenten haben ihren wahren Wert nicht erkannt. Und jetzt gehört sie mir.
 <!-- yet another hack preventing text from floating into the liveticker -->
 \begin{figure}[!t]
 \vspace*{11.4em}
 \end{figure}
 **Wird Ihnen hier unten nicht langweilig?**
 
-Ach was, ich habe mit Betti mehr als genug zu tun. Ich muss Vorräte katalogisieren und auffrischen, Räume sanieren, neue Rohre verlegen und was halt sonst alles so anfällt. Außerdem laufen hier lauter lustige Gestalten herum. Erst vor einer Woche kamen ein paar Runner vorbei. Die Verrückten wollten bis ganz nach unten auf Level -3. Schienen OK zu sein, also habe ich sie durch gelassen. Am Tag darauf wollten Sie wieder nach oben. Einer hatte sich mit der Ghulseuche angesteckt also habe ich die Tür zu gelassen. Sind wohl alle über die Wupper gegangen. Hehehe \*grunz\* \*hust\*
+Ach was, ich habe mit Betti mehr als genug zu tun. Ich muss Vorräte katalogisieren und auffrischen, Räume sanieren, neue Rohre verlegen und was halt sonst alles so anfällt. Außerdem laufen hier lauter lustige Gestalten herum. Erst vor einer Woche kamen ein paar Runner vorbei. Die Verrückten wollten bis ganz nach unten auf Level -3. Schienen OK zu sein, also habe ich sie durch gelassen. Am Tag darauf wollten sie wieder nach oben. Einer hatte sich mit der Ghulseuche angesteckt, also habe ich die Tür zu gelassen. Sind wohl alle über die Wupper gegangen. Hehehe \*grunz\* \*hust\*
 
-**Haben Sie gar keine Angst vor dem was unter Ihnen liegt? Wir sind schließlich auf Level -2. Es war schon für mich gefährlich genug hier her zu kommen.**
+**Haben Sie gar keine Angst vor dem, was unter Ihnen liegt? Wir sind schließlich auf Level -2. Es war schon für mich gefährlich genug hier her zu kommen.**
 
-Bettis Wände sind dick und bis jetzt hat noch kein Ghul gelernt die Leitern hoch zu klettern. Und wenn schon, die zwei automatischen Geschütze die sie oben erwarten, werden die Viecher schon dahin zurück befördern wo sie her kommen.
+Bettis Wände sind dick und bis jetzt hat noch kein Ghul gelernt die Leitern hoch zu klettern. Und wenn schon, die zwei automatischen Geschütze, die sie oben erwarten, werden die Viecher schon dahin zurück befördern wo sie her kommen.
 
 **Wenn Sie der Oberwelt noch eine Nachricht mitgeben könnten, welche wäre das?**
 
