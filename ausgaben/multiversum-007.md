@@ -111,12 +111,12 @@ Besuche das exclusive Festival mit erleuchtenden Tönen am 9. Juli. 2078 in der 
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Augenzeugen gesucht
-Redaktion (Alter gemischt) sucht Jounalist (m/w/d/q/unicorn/\*) für einmalige/regelmäßige Artikel. Lieblingsthemen "Artikel aus erster Hand zu Kaleidoskop-Vorkommnissen" (!), "InGame-Geschichten", "Treffen-Feedback/-Berichte", kreative weitere Beiträge. Schreib uns deinen Artikel an *\href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}*.
+Redaktion (Alter gemischt) sucht Jounalist (m/w/d/q/unicorn/\*) für einmalige/regelmäßige Artikel. Lieblingsthemen "Artikel aus erster Hand zu Kaleidoskopvorkommnissen" (!), "InGame-Geschichten", "Treffenfeedback/-berichte", kreative weitere Beiträge. Schreib uns deinen Artikel an *\href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}*.
 \zeichen{ICHBINDERNEUELIEBLINGSLESER}
 
 # Todesanzeigen
 ## Winfried M. (1953-2019)
-\zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, einem geschätzten Kollegen der Inspectres Zweigstelle Kirchen/Sieg.
+\zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, unserem geschätzten Kollegen der Inspectres Zweigstelle Kirchen/Sieg.
 Er war stets ruhig und besonnen, eine Quelle von Gelassenheit und unschätzbarem Wissen.
 
 Winfried riskierte während der Ermittlungen bewusst sein Leben.
