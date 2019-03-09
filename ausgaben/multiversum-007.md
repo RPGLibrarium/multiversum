@@ -92,9 +92,19 @@ Ihr Kontakt ist: H. Lörßbach, Zweigstellenleitung.
 \zeichen{TOD UND VERDERBEN}
 
 # Werbung
-Kaufen sie jetzt das
-\begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
-\Verfasser{Autor}
+## \textsc{SOX Rocks} -- Power the world with music.
+\begin{center} The Radiating Sun
+
+Musical Decay
+
+The Tihange Trumpetiers
+
+C$\emptyset$re Melodies
+
+Fukuchima Insights
+\end{center} \noindent
+Besuche das neue das exclusive Festival mit erleuchtenden Tönen am 9. Juli. 2078 in der Reaktorhalle Cattenom 3 (150 \textyen{} p.P)
+\Verfasser[SR 5]{Yoann}
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
