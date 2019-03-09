@@ -42,9 +42,38 @@ Zum Gück ist das Gewitter in dieser Nacht wohl weitergezogen, denn seitdem ist 
 -- Bericht einer Maus an ihre Jungen
 \verfasser[PPP]{Hanna}
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+## Der Mancerlehrling
+```{=latex}
+Hat der alte Hacker-Meister\\
+Sich doch einmal wegbegeben!\\
+Und nun sollen Matrixgeister\\
+Auch nach meinem Willen leben!\\
+Seine Codes und Werke\\
+Merkt ich und den Brauch\\
+Und mit Geistesstärke\\
+Kompilier ich auch!\\ [1em]
+Sehe, sehe\\
+wie ich hacke\\
+dass, zum Zwecke,\\
+Schadcode rinne\\
+Alle Firewalls umgehe\\
+in die Resonanz sich spinne.\\ [1em]
+Und nun komm, du Matrixwesen!\\
+Unbemerkt von Datenbrillen,\\
+Bist schon lange Knecht gewesen,\\
+Nun erfülle meinen Willen!\\
+In der Matrix stehe,\\
+Hüte dich vor GOD,\\
+Eile nun und gehe,\\
+Durch die Gitter flott.\\ [1em]
+Sehe, sehe\\
+wie ich hacke\\
+dass, zum Zwecke,\\
+Schadcode rinne\\
+Alle Firewalls umgehe\\
+in die Resonanz sich spinne...
+```
+\Verfasser[SR5]{Franca}
 
 # Werbung
 Kaufen sie jetzt das
