@@ -42,7 +42,7 @@ Zum Glück ist das Gewitter in dieser Nacht wohl weitergezogen, denn seitdem ist
 -- Bericht einer Maus an ihre Jungen
 \verfasser[PPP]{Hanna}
 
-## Der Mancerlehrling
+## Der Matrixlehrling
 ```{=latex}
 Hat der alte Hacker-Meister\\
 Sich doch einmal wegbegeben!\\
@@ -112,5 +112,5 @@ Winfried riskierte während Ermittlungen sein Leben und hat dieses auf tragische
 Zum Dienstagmorgen wurden die lebenserhaltenden Maßnahmen auf Anraten der Ärzte beendet.
 Die sterblichen Überreste werden nächsten Mittwoch auf dem Westriedhof bestattet.
 
-_Möge deine unsterbliche Seele in höheren Sphären Erfüllung finden._
+_Möge seine unsterbliche Seele in anderen Sphären Erfüllung finden._
 \verfasser[Inspectres]{Richard}
