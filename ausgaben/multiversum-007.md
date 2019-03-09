@@ -1,20 +1,11 @@
 ---
-<<<<<<< HEAD
 author: Yoann, Hanna, Richard, Franca
-=======
-author: Franca, Hanna
->>>>>>> ffd58a33989a04ed646e3c2fef6ea12b0d09dac7
 date: Februar 2019
 ausgabe: 7
 balance: false
 termine:
-<<<<<<< HEAD
-    - "Termin: , hh Uhr"
-    - "Termin: DD.MM.YY - DD.MM.YY"
-=======
     - "Mitgliederversammlung: 02.03.19, 15 Uhr"
     - "Nächstes Treffen: 16.03.19, 19 Uhr"
->>>>>>> ffd58a33989a04ed646e3c2fef6ea12b0d09dac7
 losung: "Die Robbe auch nicht"
 
 ---
