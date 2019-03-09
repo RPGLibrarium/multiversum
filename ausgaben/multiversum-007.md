@@ -30,6 +30,20 @@ Lorem Ipsum
 Lorem Ipsum, text endet an Zeilenende.
 \Verfasser[System]{Autor2}
 
+## Stellenausschreibung
+Sie haben einen natürlichen Drang das Übernatürliche zu erforschen und wollen das Außergewöhnliche zum Alltäglichen machen?
+Dann bieten wir Ihnen spannende Aufgaben mit einem dynamischen Team, flachen Hierarchien und hervorragenden Aufstiegschancen.
+Werden Sie ein Teil der renommierten Inspectres, in der Zweigstelle Kirchen/Sieg!
+
+Ihr Profil:
+Sie sind flexibel, belastbar, kreativ, innovativ, begeisterungsfähig, teamfähig, gerne kommunikativ tätig, scheuen keine Herausforderung und sind idealerweise alleinstehend.
+
+Zu besetzen sind ab sofort zwei Vollzeit-Stellen. Die Eingruppierung erfolgt auf Stufe 11¾ gemäß geltendem Tarifvertrag.
+Wir freuen uns auf Ihre vollständigen Bewerbungsunterlagen, inklusive formlosem Anschreiben und tabellarischem Lebenslauf.
+Ihr Kontakt ist: H. Lörßbach, Zweigstellenleitung.
+
+\zeichen{TOD UND VERDERBEN}
+
 # Werbung
 Kaufen sie jetzt das
 \begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
@@ -45,6 +59,13 @@ Lorem Ipsum
 # Todesanzeigen
 *Trauertext.*
 
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
+## Winfried M. (1953-2019)
+\zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, einem geschätzten Kollegen der Inspectres.
+Er war stets ruhig und besonnen, eine Quelle von Gelassenheit und unschätzbarem Wissen.
+
+Winfried riskierte während Ermittlungen sein Leben und hat dieses auf tragische Weise verspielt.
+Zum Dienstagmorgen wurden die lebenserhaltenden Maßnahmen auf Anraten der Ärzte beendet.
+Die sterblichen Überreste wurden am folgenden Nachmittag auf dem örtlichen Friedhof bestattet.
+
+_Möge deine unsterbliche Seele in höheren Sphären Erfüllung finden._
+\verfasser[Inspectres]{Richard}
