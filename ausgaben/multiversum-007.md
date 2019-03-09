@@ -90,6 +90,7 @@ Wir freuen uns auf Ihre vollständigen Bewerbungsunterlagen, inklusive formlosem
 Ihr Kontakt ist: H. Lörßbach, Zweigstellenleitung.
 
 \zeichen{TOD UND VERDERBEN}
+\Verfasser[Inspectres]{Richard}
 
 # Werbung
 Kaufen sie jetzt das
