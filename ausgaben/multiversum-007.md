@@ -1,11 +1,11 @@
 ---
-author: Autor1, Autor2, Autor3
+author: Franca
 date: Februar 2019
 ausgabe: 7
 balance: false
 termine:
-    - "Termin: DD.MM.YY, hh Uhr"
-    - "Termin: DD.MM.YY - DD.MM.YY"
+    - "Mitgliederversammlung: 02.03.19, 15 Uhr"
+    - "Nächstes Treffen: 16.03.19, 19 Uhr"
 losung: "Die Robbe auch nicht"
 
 ---
