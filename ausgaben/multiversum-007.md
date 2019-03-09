@@ -42,7 +42,7 @@ Als wäre das nicht schon skurril genug gewesen, gab es in jener Nacht ein Gewit
 Zum Glück ist das Gewitter in dieser Nacht wohl weitergezogen, denn seitdem ist so etwas nie wieder passiert. Aber ich sage euch, Kinder, hütet euch und bliebt immer nah beieinander, denn einer einsamen Maus kann bei so einem Schock schon mal das Herz stehen bleiben.
 
 -- Bericht einer Maus an ihre Jungen
-\verfasser[PPP]{Hanna}
+\Verfasser[PPP]{Hanna}
 
 ## Der Matrixlehrling
 ```{=latex}
@@ -100,12 +100,12 @@ Kaufen sie jetzt das
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
+#### Augenzeugen gesucht
+Redaktion (Alter gemischt) sucht Jounalist (m/w/d/q/unicorn/\*) für einmalige/regelmäßige Artikel. Lieblingsthemen "Artikel aus erster Hand zu Kaleidoskop-Vorkommnissen" (!), "InGame-Geschichten", "Treffen-Feedback/-Berichte", kreative weitere Beiträge. Schreib uns deinen Artikel an *\href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}* und werde Teil der Redaktion!
+\zeichen{ICHBINDERNEUELIEBLINGSLESER}
 
 # Todesanzeigen
-*Trauertext.*
+*In Gedenken an unsere sehr langlebigen \*hust\* Charaktere.*
 
 ## Winfried M. (1953-2019)
 \zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, einem geschätzten Kollegen der Inspectres Kirchen/Sieg.
