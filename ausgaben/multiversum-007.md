@@ -77,11 +77,11 @@ in die Resonanz sich spinne...
 
 ## Stellenausschreibung
 Sie haben einen natürlichen Drang das Übernatürliche zu erforschen und wollen das Außergewöhnliche zum Alltäglichen machen?
-Dann bieten wir Ihnen spannende Aufgaben mit einem dynamischen Team, flachen Hierarchien und hervorragenden Aufstiegschancen.
-Werden Sie ein Teil der renommierten Inspectres, in der Zweigstelle Kirchen/Sieg!
+Dann bieten wir Ihnen spannende Aufgaben mit einem dynamischen Team, flache Hierarchien und hervorragende Aufstiegschancen.
+Werden Sie ein Teil der renommierten Inspectres in der Zweigstelle Kirchen/Sieg!
 
 Ihr Profil:
-Sie sind flexibel, belastbar, kreativ, innovativ, begeisterungsfähig, teamfähig, gerne kommunikativ tätig, scheuen keine Herausforderung und sind idealerweise alleinstehend.
+Sie sind flexibel, belastbar, kreativ, innovativ, begeisterungsfähig, teamfähig, kreativ, gerne kommunikativ tätig, scheuen keine Herausforderung und sind idealerweise alleinstehend.
 
 Zu besetzen sind ab sofort zwei Vollzeit-Stellen. Die Eingruppierung erfolgt auf Stufe 11¾ gemäß geltendem Tarifvertrag.
 Wir freuen uns auf Ihre vollständigen Bewerbungsunterlagen, inklusive formlosem Anschreiben und tabellarischem Lebenslauf.
@@ -105,12 +105,12 @@ Lorem Ipsum
 *Trauertext.*
 
 ## Winfried M. (1953-2019)
-\zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, einem geschätzten Kollegen der Inspectres.
+\zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, einem geschätzten Kollegen der Inspectres Kirchen/Sieg.
 Er war stets ruhig und besonnen, eine Quelle von Gelassenheit und unschätzbarem Wissen.
 
 Winfried riskierte während Ermittlungen sein Leben und hat dieses auf tragische Weise verspielt.
 Zum Dienstagmorgen wurden die lebenserhaltenden Maßnahmen auf Anraten der Ärzte beendet.
-Die sterblichen Überreste wurden am folgenden Nachmittag auf dem örtlichen Friedhof bestattet.
+Die sterblichen Überreste werden nächsten Mittwoch auf dem Westriedhof bestattet.
 
 _Möge deine unsterbliche Seele in höheren Sphären Erfüllung finden._
 \verfasser[Inspectres]{Richard}
