@@ -13,19 +13,19 @@ losung: "Die Robbe auch nicht"
 # Was bisher geschah...
 Verehrte Leser*innen,
 
-Zusätzlich zu unserem Weltenkaleidoskop konnten wir letzten Monat eine neue Temporallinse in Betrieb nehmen. Diese ermöglicht uns manche Ereignisse aus der Zukunft vorherzusehen. Wir wünschen Ihnen viel Freude bei der Lektüre dieser neuen Ausgabe.
-\Verfasser{Redaktion}
+Wir wünschen Ihnen viel Freude bei der Lektüre dieser neuen Ausgabe. Zur Zeit haben wir eine Verspätung von 9 Tagen und 13 Stunden. Wir bitten dies zu entschuldigen.
+\verfasser{Redaktion}
 
 ## Ausblick auf die Mitgliederversammlung des RPG Librarium Aachens e.V.
-Am 2. März werden die Mitglieder des RPG Librarium Aachen e.V. im Papillon zu einer Mitgliederversammlung zusammen kommen. Dank unserer neuen Ausstattung, können wir Ihnen bereits vorab die wichtigsten Ergebnisse verraten.
+Am 2. März werden die Mitglieder des RPG Librarium Aachen e.V. im Papillon zu einer Mitgliederversammlung zusammen kommen. Dank unserer neuen Ausstattung können wir Ihnen bereits vorab die wichtigsten Ergebnisse verraten.
 
-Bei der Vorstandswahl, wird Christine B. nicht mehr für den Posten des Vorsitzenden kandidieren. Franca a. d. H. wird sich gegen die Konkurrenz durchsetzten können und im ersten Wahlgang einstimmig zum neuen Vorsitzenden gewählt werden. Der dadurch freiwerdende Posten des Stellvertretenden Vorsitzenden wird in Zukunft von Lamin B. übernommen werden. Wie erwartet wird Yoann K. das Amt des Schatzmeisters weiterführen, welches er im Februar kommissarisch nach dem Rücktritt von Thibaud K. übernommen hatte. Als Beisitzer werden Frieder M. und Stefan W. neu in den Vorstand einziehen und die anderen bei ihrer Arbeit unterstützen.
+Bei der Vorstandswahl wird Christine B. nicht mehr für den Posten des Vorsitzenden kandidieren. \mbox{Franca a. d. H.} wird sich gegen die Konkurrenz durchsetzten können und im ersten Wahlgang einstimmig zum neuen Vorsitzenden gewählt werden. Der dadurch freiwerdende Posten des Stellvertretenden Vorsitzenden wird in Zukunft von Lamin B. übernommen werden. Wie erwartet wird Yoann K. das Amt des Schatzmeisters weiterführen, welches er im Februar kommissarisch nach dem Rücktritt von Thibaud K. übernommen hatte. Als Beisitzer werden Frieder M. und Stefan W. neu in den Vorstand einziehen und die anderen bei ihrer Arbeit unterstützen.
 
-Die beantragte Satzungsänderung wird wie benötigt von allen Anwesenden angenommen. An dieser Stelle sei nochmal daran erinnert, dass alle Mitglieder, die der Versammlung fern bleiben werden, der neuen Satzung schriftlich zustimmen müssen. Bitte denkt daran das mit der Einladung verschickte Schreiben dem Vorstand zuzusenden.
+Die beantragte Satzungsänderung wird wie benötigt von allen Anwesenden angenommen. An dieser Stelle sei nochmal daran erinnert, dass alle Mitglieder, die der Versammlung fern bleiben werden, der Änderung schriftlich zustimmen müssen. Bitte denkt daran das mit der Einladung verschickte Schreiben dem Vorstand zuzusenden.
 
-Mit großer Freude werden die Mitglieder überrascht werden, dass das Finanzamt vorläufig die Gemmeinnützigkeit der Satzung festellen konnte. Somit ist der RPG Librarium in Zukunft in der Lage Spenden anzunehmen und Zuwendungsbescheinigungen auszustellen.
+Mit großer Freude werden die Mitglieder davon überrascht werden, dass das Finanzamt vorläufig die Gemmeinnützigkeit der Satzung festellen konnte. Somit ist der RPG Librarium Aachen e.V. in Zukunft in der Lage Spenden anzunehmen und Zuwendungsbescheinigungen auszustellen.
 Die Redaktion dankt dem Vorstand für die gute und erfolgreiche Arbeit und wünscht dem zukünftigen Vorstand alles Gute auf ihren neuen Posten.
-\Verfasser{Yoann}
+\verfasser{Yoann}
 
 # An einem anderen Ort
 
@@ -72,21 +72,22 @@ wie ich hacke\\
 dass, zum Zwecke,\\
 Schadcode rinne\\
 Alle Firewalls umgehe\\
-in die Resonanz sich spinne... \verfasser[SR5]{Franca}
+in die Resonanz sich spinne...
 ```
-
+\Verfasser[SR 5]{Franca}
 
 ## Stellenausschreibung
-Sie haben einen natürlichen Drang das Übernatürliche zu erforschen und wollen das Außergewöhnliche zum Alltäglichen machen?
-Dann bieten wir Ihnen spannende Aufgaben mit einem dynamischen Team, flache Hierarchien und hervorragende Aufstiegschancen.
+Sie haben einen natürlichen Drang das Übernatürliche zu erforschen und wollen das Außergewöhnliche zum Alltäglichen machen? Sie sind neugierig und scheuen keine Gefahr?
+
+Wir bieten Ihnen spannende Aufgaben mit einem dynamischen Team, flache Hierarchien und hervorragende Aufstiegschancen.
 Werden Sie ein Teil der renommierten Inspectres in der Zweigstelle Kirchen/Sieg!
 
 Ihr Profil:
 Sie sind flexibel, belastbar, kreativ, innovativ, begeisterungsfähig, teamfähig, kreativ, gerne kommunikativ tätig, scheuen keine Herausforderung und sind idealerweise alleinstehend.
 
-Zu besetzen sind ab sofort zwei Vollzeit-Stellen. Die Eingruppierung erfolgt auf Stufe 11¾ gemäß geltendem Tarifvertrag.
-Wir freuen uns auf Ihre vollständigen Bewerbungsunterlagen, inklusive formlosem Anschreiben und tabellarischem Lebenslauf.
-Ihr Kontakt ist: H. Lörßbach, Zweigstellenleitung.
+Zu besetzen sind ab sofort zwei Vollzeit-Stellen. Die Eingruppierung erfolgt auf Gehaltsstufe 11¾ gemäß dem geltendem Tarifvertrag.
+Wir freuen uns auf Ihre vollständigen Bewerbungsunterlagen, inklusive formlosem Anschreiben und zweiseitigem tabellarischen Lebenslauf.
+Richten Sie Ihre Bewerbung an Henning Lörßbach, Zweigstellenleitung.
 
 \zeichen{TOD UND VERDERBEN}
 \Verfasser[Inspectres]{Richard}
@@ -103,7 +104,7 @@ C$\emptyset$re Melodies
 
 Fukuchima Insights
 \end{center} \noindent
-Besuche das neue das exclusive Festival mit erleuchtenden Tönen am 9. Juli. 2078 in der Reaktorhalle Cattenom 3. (150 \textyen{} p.P.)
+Besuche das exclusive Festival mit erleuchtenden Tönen am 9. Juli. 2078 in der Reaktorhalle Cattenom 3. (150 \textyen{} p.P.)
 \verfasser[SR 5]{Yoann}
 
 # Schleuderpresse
