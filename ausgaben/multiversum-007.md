@@ -11,7 +11,6 @@ losung: "Die Robbe auch nicht"
 ---
 
 # Was bisher geschah...
-## In der Redaktion
 Verehrte Leser*innen,
 
 Zusätzlich zu unserem Weltenkaleidoskop konnten wir letzten Monat eine neue Temporallinse in Betrieb nehmen. Diese ermöglicht uns manche Ereignisse aus der Zukunft vorherzusehen. Wir wünschen Ihnen viel Freude bei der Lektüre dieser neuen Ausgabe.
@@ -73,9 +72,9 @@ wie ich hacke\\
 dass, zum Zwecke,\\
 Schadcode rinne\\
 Alle Firewalls umgehe\\
-in die Resonanz sich spinne...
+in die Resonanz sich spinne... \verfasser[SR5]{Franca}
 ```
-\Verfasser[SR5]{Franca}
+
 
 ## Stellenausschreibung
 Sie haben einen natürlichen Drang das Übernatürliche zu erforschen und wollen das Außergewöhnliche zum Alltäglichen machen?
@@ -104,26 +103,24 @@ C$\emptyset$re Melodies
 
 Fukuchima Insights
 \end{center} \noindent
-Besuche das neue das exclusive Festival mit erleuchtenden Tönen am 9. Juli. 2078 in der Reaktorhalle Cattenom 3 (150 \textyen{} p.P)
-\Verfasser[SR 5]{Yoann}
+Besuche das neue das exclusive Festival mit erleuchtenden Tönen am 9. Juli. 2078 in der Reaktorhalle Cattenom 3. (150 \textyen{} p.P.)
+\verfasser[SR 5]{Yoann}
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Augenzeugen gesucht
-Redaktion (Alter gemischt) sucht Jounalist (m/w/d/q/unicorn/\*) für einmalige/regelmäßige Artikel. Lieblingsthemen "Artikel aus erster Hand zu Kaleidoskop-Vorkommnissen" (!), "InGame-Geschichten", "Treffen-Feedback/-Berichte", kreative weitere Beiträge. Schreib uns deinen Artikel an *\href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}* und werde Teil der Redaktion!
+Redaktion (Alter gemischt) sucht Jounalist (m/w/d/q/unicorn/\*) für einmalige/regelmäßige Artikel. Lieblingsthemen "Artikel aus erster Hand zu Kaleidoskop-Vorkommnissen" (!), "InGame-Geschichten", "Treffen-Feedback/-Berichte", kreative weitere Beiträge. Schreib uns deinen Artikel an *\href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}*.
 \zeichen{ICHBINDERNEUELIEBLINGSLESER}
 
 # Todesanzeigen
-*In Gedenken an unsere sehr langlebigen \*hust\* Charaktere.*
-
 ## Winfried M. (1953-2019)
-\zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, einem geschätzten Kollegen der Inspectres Kirchen/Sieg.
+\zeitung{Kirchner Morgenpost, 14.02.2019}Wir trauern um Winfried, einem geschätzten Kollegen der Inspectres Zweigstelle Kirchen/Sieg.
 Er war stets ruhig und besonnen, eine Quelle von Gelassenheit und unschätzbarem Wissen.
 
-Winfried riskierte während Ermittlungen sein Leben und hat dieses auf tragische Weise verspielt.
-Zum Dienstagmorgen wurden die lebenserhaltenden Maßnahmen auf Anraten der Ärzte beendet.
-Die sterblichen Überreste werden nächsten Mittwoch auf dem Westriedhof bestattet.
+Winfried riskierte während der Ermittlungen bewusst sein Leben.
+Zum Dienstagmorgen wurden die lebenserhaltenden Maßnahmen auf Anraten der Ärzte und des wirtschaftlichen Beirats beendet.
+Am Mittwoch werden seine sterblichen Überreste auf dem Westfriedhof beigesetzt.
 
 _Möge seine unsterbliche Seele in anderen Sphären Erfüllung finden._
 \verfasser[Inspectres]{Richard}
