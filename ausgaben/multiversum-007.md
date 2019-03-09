@@ -102,7 +102,7 @@ The Tihange Trumpetiers
 
 C$\emptyset$re Melodies
 
-Fukuchima Insights
+Fuk-u-shima Insights
 \end{center} \noindent
 Besuche das exclusive Festival mit erleuchtenden Tönen am 9. Juli. 2078 in der Reaktorhalle Cattenom 3. (150 \textyen{} p.P.)
 \verfasser[SR 5]{Yoann}
