@@ -1,7 +1,7 @@
 ---
-author: Ira, Franca, Yoann
+author: Ira, Franca, Yoann, Hanna
 date: März 2019
-ausgabe: 0
+ausgabe: 8
 balance: false
 termine:
     - "Monatliches Treffen: 16.03.19, 19 Uhr im Level9000"
@@ -80,7 +80,7 @@ Wir suchen **dich**!
 
 Unterstütze uns bei der Organisation der monatlichen Treffen!
 Egal, ob du die Inhalte für einen Abend mitgestalten möchtest oder generell an Planung und Umsetzung unserer Themenabende interessiert bist.
-Wir freuen uns auf dich!
+Melde dich bei Franca oder Lamin, wir freuen uns!
 \zeichen{DASISTKEINSTAMMTISCH}
 
 # Todesanzeigen
