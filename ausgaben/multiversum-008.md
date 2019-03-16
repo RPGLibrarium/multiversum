@@ -1,7 +1,7 @@
 ---
 author: Ira, Franca, Yoann
 date: März 2019
-ausgabe: 0
+ausgabe: 8
 balance: false
 termine:
     - "Monatliches Treffen: 16.03.19, 19 Uhr im Level9000"
