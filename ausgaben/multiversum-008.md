@@ -11,15 +11,21 @@ losung: "Du hast da aber eine schöne Leiche!"
 ---
 
 # Was bisher geschah...
+Verehrte Leserrinnen und Leser,
+
+Wir konnten die gesamte Verspätung auf der Strecke zwischen Februar und März aufholen und publizieren nun wieder pünktlich. Im März werden alle planmäßigen Anschlusspublikationen erreicht. Wir danken für Ihre Lektüre des Multiverums und wünschen Ihnen noch einen schönen Tag.
+\Verfasser{Yoann}
 
 ## Mitgliederversammlung
-Ihr habt die letzte Ausgabe der Multiversum gelesen und euch gefragt, wie akurat unsere Voraussagen waren? Selbstverständlich waren sie exakt. Es gibt aber ein paar Details, die wir euch noch vorenthalten haben.
+Ihr habt die letzte Ausgabe der Multiversum gelesen und euch gefragt, wie akkurat unsere Voraussagen waren? Selbstverständlich waren sie exakt. Es gibt aber ein paar Details, die wir euch noch vorenthalten haben.
 
-Wusstet ihr beispielsweise, dass wir inzwischen einen Bestand von 87 Büchern bzw. Materialien haben? Das sind ganz schön viele. Vielleicht ist ja etwas dabei, das du -- ja, DU -- noch nicht in den Händen hattest, aber immer schon mal näher anschauen wolltest? Die meisten Sachen lagern aktuell im Schrank im Level9000, schau doch mal vorbei!
+Wusstet ihr beispielsweise, dass wir inzwischen einen Bestand von 87 Büchern haben? Das sind ganz schön viele. Vielleicht ist ja etwas dabei, das du -- ja, DU -- noch nicht in den Händen hattest, aber immer schon mal näher anschauen wolltest? Die meisten Sachen lagern aktuell im Schrank im Level9000, schau doch mal vorbei!
 
-Durch die steigende Mitgliederzahl hat der Librarium dieses Jahr auch ein größeres Budget für weitere Bücher. Welches Rollenspielwerk wolltest du schon immer haben? Welches kleine Schätzchen möchtest du anderen Libraristas nahebringen? Melde dich mit Vorschlägen für neue Bücher unter \href{mailto:buchwunsch@rpg-librarium.de}{buchwunsch@rpg-librarium.de} oder sprich den Vorstand auf dem nächsten Treffen an.
+Durch die steigende Mitgliederzahl hat der Librarium dieses Jahr noch ein größeres Budget für weitere Bücher. Welches Rollenspielwerk wolltest du schon immer haben? Welches kleine Schätzchen möchtest du anderen Libraristas nahebringen? Melde dich mit Vorschlägen für neue Bücher unter \href{mailto:buchwunsch@rpg-librarium.de}{buchwunsch@rpg-librarium.de} oder sprich den Vorstand auf dem nächsten Treffen an.
 
 Fändet ihr es nicht auch toll, wenn es überall einen "RPG Librarium" gäbe? Ihr zieht in eine neue Stadt, kennt noch niemanden, aber ihr wisst wo ihr suchen könnt. Beim lokalen RPG Librarium! Noch ist das Utopie, doch wir arbeiten daran. Dazu schreiben fleißige Hände die Verbandssatzung für eine "Librarium Föderation". Die bisherige Fassung ist absolut unterhaltsam und lesenswert! Falls ihr Lust habt mit uns an der Weltherrschaft zu arbeiten meldet euch doch bei \href{mailto:vorstand@rpg-librarium.de}{Lamin}.
+
+Wir sehen uns dann auf der nächsten Mitgliederversammlung!
 \verfasser{Hanna}
 
 # An einem anderen Ort
@@ -68,7 +74,7 @@ Deine tägliche Instantkoffeindosis erhältst du mit
 "Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.
 \zeichen{FEUERGEIST}
 
-## Unterstützung für die monatliche Treffen gesucht
+#### Unterstützung für die monatliche Treffen gesucht
 Es gibt dieses Thema, das dir seit Ewigkeiten auf der Seele brennt, du wolltest schon immer _das eine Rollenspielsystem_ ausprobieren, hast _die_ perfekte Idee für einen Workshop oder findest einfach nur die Themenabende toll?
 Wir suchen **dich**!
 
