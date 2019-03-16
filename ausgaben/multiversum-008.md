@@ -13,7 +13,7 @@ losung: "Du hast da aber eine schöne Leiche!"
 # Was bisher geschah...
 Verehrte Leserrinnen und Leser,
 
-Wir konnten die die gesamte Verspätung auf der Strecke zwischen Februar und März aufholen und publizieren nun wieder pünktlich. Im März werden alle planmäßigen Anschlusspublikationen erreicht. Wir danken für Ihre Lektüre mit dem Multiverums und wünschen Ihnen noch einen schönen Tag.
+Wir konnten die gesamte Verspätung auf der Strecke zwischen Februar und März aufholen und publizieren nun wieder pünktlich. Im März werden alle planmäßigen Anschlusspublikationen erreicht. Wir danken für Ihre Lektüre des Multiverums und wünschen Ihnen noch einen schönen Tag.
 \Verfasser{Yoann}
 
 ## Mitgliederversammlung
