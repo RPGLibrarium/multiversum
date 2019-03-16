@@ -12,9 +12,15 @@ losung: "Du hast da aber eine schöne Leiche!"
 
 # Was bisher geschah...
 
-## Workshop: ABC
-Lorem Ipsum
-\verfasser{Autor1}
+## Mitgliederversammlung
+Ihr habt die letzte Ausgabe der Multiversum gelesen und euch gefragt, wie akurat unsere Voraussagen waren? Selbstverständlich waren sie exakt. Es gibt aber ein paar Details, die wir euch noch vorenthalten haben.
+
+Wusstet ihr beispielsweise, dass wir inzwischen einen Bestand von 87 Büchern bzw. Materialien haben? Das sind ganz schön viele. Vielleicht ist ja etwas dabei, das du -- ja, DU -- noch nicht in den Händen hattest, aber immer schon mal näher anschauen wolltest? Die meisten Sachen lagern aktuell im Schrank im Level9000, schau doch mal vorbei!
+
+Durch die steigende Mitgliederzahl hat der Librarium dieses Jahr auch ein größeres Budget für weitere Bücher. Welches Rollenspielwerk wolltest du schon immer haben? Welches kleine Schätzchen möchtest du anderen Libraristas nahebringen? Melde dich mit Vorschlägen für neue Bücher unter \href{mailto:buchwunsch@rpg-librarium.de}{buchwunsch@rpg-librarium.de} oder sprich den Vorstand auf dem nächsten Treffen an.
+
+Fändet ihr es nicht auch toll, wenn es überall einen "RPG Librarium" gäbe? Ihr zieht in eine neue Stadt, kennt noch niemanden, aber ihr wisst wo ihr suchen könnt. Beim lokalen RPG Librarium! Noch ist das Utopie, doch wir arbeiten daran. Dazu schreiben fleißige Hände die Verbandssatzung für eine "Librarium Föderation". Die bisherige Fassung ist absolut unterhaltsam und lesenswert! Falls ihr Lust habt mit uns an der Weltherrschaft zu arbeiten meldet euch doch bei \href{mailto:vorstand@rpg-librarium.de}{Lamin}.
+\verfasser{Hanna}
 
 # An einem anderen Ort
 *Einen YT-1300 bruchlanden? Einen Aufstand auf Ryloth anzetteln? Einen Wookiee blondieren? Eine Lylek-Mutter provozieren? Einen Protokolldroiden verprügeln? Dieses Rezept passt zu allen Anlässen. Aus den Notizen von Pash Westmore (Pilot und Pfannenwendervirtuose der 42-TREX).*
