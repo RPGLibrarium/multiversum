@@ -4,10 +4,10 @@ date: März 2019
 ausgabe: 0
 balance: false
 termine:
-    - "Monatliches Treffen: 16.02.19, 19 Uhr"
-    - "Gratis Rollenspieltag: 23.02.19"
-losung: "Dies ist ein zufälliger Losungstext"
-
+    - "Monatliches Treffen: 16.03.19, 19 Uhr im Level9000"
+    - "Gratis Rollenspieltag: 23.03.19"
+    - "Monatliches Treffen: 16.03.19 19 Uhr"
+losung: "Du hast da aber eine schöne Leiche!"
 ---
 
 # Was bisher geschah...
@@ -51,9 +51,9 @@ Lorem Ipsum, text endet an Zeilenende.
 \Verfasser[System]{Autor2}
 
 # Werbung
-Kaufen sie jetzt das
-\begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
-\Verfasser{Autor}
+Deine tägliche Instantkoffeindosis erhältst du mit
+\begin{center}\textsc{Espressoy Instant Arrabica},\end{center} \noindent  Mit innovativer Drei-in-Eins-Technologie: Aufwärmen, Aufbrühen, Genießen\footnote{Suchtgefahr! \textsc{Esspressoy Instant Arrabica} beinhaltet hoch stimmulierende und suchterzeugende Wirkstoffe. Sie finden Beratungsstellen für Suchtprobleme unter \url{host://arabica.soy/sucht}}. Alles in einer Tube.
+\Verfasser[SR 5]{Yoann}
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
