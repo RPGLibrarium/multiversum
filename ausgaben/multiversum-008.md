@@ -62,6 +62,15 @@ Kaufen sie jetzt das
 "Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.
 \zeichen{FEUERGEIST}
 
+## Unterstützung für die monatliche Treffen gesucht
+Es gibt dieses Thema, das dir seit Ewigkeiten auf der Seele brennt, du wolltest schon immer _das eine Rollenspielsystem_ ausprobieren, hast _die_ perfekte Idee für einen Workshop oder findest einfach nur die Themenabende toll?
+Wir suchen **dich**!
+
+Unterstütze uns bei der Organisation der monatlichen Treffen!
+Egal, ob du die Inhalte für einen Abend mitgestalten möchtest oder generell an Planung und Umsetzung unserer Themenabende interessiert bist.
+Wir freuen uns auf dich!
+\zeichen{DASISTKEINSTAMMTISCH}
+
 # Todesanzeigen
 *Trauertext.*
 
