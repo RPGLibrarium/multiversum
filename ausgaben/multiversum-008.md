@@ -74,7 +74,7 @@ Wir suchen **dich**!
 
 Unterstütze uns bei der Organisation der monatlichen Treffen!
 Egal, ob du die Inhalte für einen Abend mitgestalten möchtest oder generell an Planung und Umsetzung unserer Themenabende interessiert bist.
-Wir freuen uns auf dich!
+Melde dich bei Franca oder Lamin, wir freuen uns!
 \zeichen{DASISTKEINSTAMMTISCH}
 
 # Todesanzeigen
