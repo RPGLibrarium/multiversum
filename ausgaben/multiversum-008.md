@@ -58,9 +58,18 @@ Gemüse kleinschneiden und in Öl anbraten. Bei ersten Anzeichen von schwarzer R
 
 \Verfasser[Star Wars: Am Rande des Imperiums]{Franca}
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+## Neuer Herzschmerz bei den Ewalds - zerbricht jetzt die Familie?!
+
+Lange schon ranken sich die Gerüchte um Thomathan Ewald und den Familienbutler James Doherty (36), doch nun ist es offiziell: die beiden sind ein Paar! Das gaben Thomathan und sein Ehemann Franco in einer Pressekonferenz am Samstag bekannt. Und nicht nur das: auch Franco hat eine Affäre mit einem der Familienbuttler - Jeffrey Lombardi (39). 
+
+Thomathan und Franco traten der Presse scheinbar gelassen entgegen. "Wir werden alles tun, um diese Krise zusammen zu überstehen", sagte Thomathan. "Genau", sagte Franco. Thomathan weiter: "Grade jetzt, in dieser schweren Zeit, ist für uns wichtig, zusammenzuhalten. Familie ist doch alles!" "So ist es", sagte Franco.
+
+Ula Ewald, die Tochter des Ehepaars, war für einen Kommentar nicht zu erreichen - nach Angaben des Pressesprechers der Familie befindet sie sich gerade nach einem achtjährigen Studium in der heißen Phase ihrer Bachelorarbeit. Brisanterweise schreibt sie diese am familieneigenen Ewald-Institut für Göttologie und theleologische Suffizienz (wir berichteten). 
+
+Der Skandal könnte kaum zu einem ungünstigeren Zeitpunkt für die Familie kommen - vor zwei Wochen hatte das Ewald-Institut die brisanten Gerüchte um das Verschwinden aller Götter von der Welt bestätigen müssen. Daraufhin sanken die Aktien des Ewald-Konzerns ins Bodenlose (wir berichteten). 
+
+**Lesen Sie auf Seite 3: "So heiß war Lustra - mein Schäferstündchen mit dem Feuergott!"**
+\Verfasser[Microscope]{Konstantin}
 
 # Werbung
 Deine tägliche Instantkoffeindosis erhältst du mit
