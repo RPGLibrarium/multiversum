@@ -60,13 +60,13 @@ Gemüse kleinschneiden und in Öl anbraten. Bei ersten Anzeichen von schwarzer R
 
 ## Neuer Herzschmerz bei den Ewalds - zerbricht jetzt die Familie?!
 
-Lange schon ranken sich die Gerüchte um Thomathan Ewald und den Familienbutler James Doherty (36), doch nun ist es offiziell: die beiden sind ein Paar! Das gaben Thomathan und sein Ehemann Franco in einer Pressekonferenz am Samstag bekannt. Und nicht nur das: auch Franco hat eine Affäre mit einem der Familienbuttler - Jeffrey Lombardi (39). 
+Lange schon ranken sich die Gerüchte um Thomathan Ewald und den Familienbutler James Doherty (36), doch nun ist es offiziell: die beiden sind ein Paar! Das gaben Thomathan und sein Ehemann Franco in einer Pressekonferenz am Samstag bekannt. Und nicht nur das: auch Franco hat eine Affäre mit einem der Familienbuttler - Jeffrey Lombardi (39).
 
 Thomathan und Franco traten der Presse scheinbar gelassen entgegen. "Wir werden alles tun, um diese Krise zusammen zu überstehen", sagte Thomathan. "Genau", sagte Franco. Thomathan weiter: "Grade jetzt, in dieser schweren Zeit, ist für uns wichtig, zusammenzuhalten. Familie ist doch alles!" "So ist es", sagte Franco.
 
-Ula Ewald, die Tochter des Ehepaars, war für einen Kommentar nicht zu erreichen - nach Angaben des Pressesprechers der Familie befindet sie sich gerade nach einem achtjährigen Studium in der heißen Phase ihrer Bachelorarbeit. Brisanterweise schreibt sie diese am familieneigenen Ewald-Institut für Göttologie und theleologische Suffizienz (wir berichteten). 
+Ula Ewald, die Tochter des Ehepaars, war für einen Kommentar nicht zu erreichen - nach Angaben des Pressesprechers der Familie befindet sie sich gerade nach einem achtjährigen Studium in der heißen Phase ihrer Bachelorarbeit. Brisanterweise schreibt sie diese am familieneigenen Ewald-Institut für Göttologie und theleologische Suffizienz (wir berichteten).
 
-Der Skandal könnte kaum zu einem ungünstigeren Zeitpunkt für die Familie kommen - vor zwei Wochen hatte das Ewald-Institut die brisanten Gerüchte um das Verschwinden aller Götter von der Welt bestätigen müssen. Daraufhin sanken die Aktien des Ewald-Konzerns ins Bodenlose (wir berichteten). 
+Der Skandal könnte kaum zu einem ungünstigeren Zeitpunkt für die Familie kommen - vor zwei Wochen hatte das Ewald-Institut die brisanten Gerüchte um das Verschwinden aller Götter von der Welt bestätigen müssen. Daraufhin sanken die Aktien des Ewald-Konzerns ins Bodenlose (wir berichteten).
 
 **Lesen Sie auf Seite 3: "So heiß war Lustra - mein Schäferstündchen mit dem Feuergott!"**
 \Verfasser[Microscope]{Konstantin}
@@ -76,12 +76,14 @@ Deine tägliche Instantkoffeindosis erhältst du mit
 \begin{center}\textsc{Espressoy Instant Arrabica},\end{center} \noindent  Mit innovativer Drei-in-Eins-Technologie: Aufwärmen, Aufbrühen, Genießen\footnote{Suchtgefahr! \textsc{Esspressoy Instant Arrabica} beinhaltet hoch stimmulierende und suchterzeugende Wirkstoffe. Sie finden Beratungsstellen für Suchtprobleme unter \url{host://arabica.soy/sucht}}. Alles in einer Tube.
 \Verfasser[SR 5]{Yoann}
 
+\newpage
+
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Crew für Traveller RPG Weltraumreisen gesucht
 "Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.
-\zeichen{FEUERGEIST}
+\vspace*{-1.32em}\zeichen{FEUERGEIST}
 
 #### Unterstützung für die monatliche Treffen gesucht
 Es gibt dieses Thema, das dir seit Ewigkeiten auf der Seele brennt, du wolltest schon immer _das eine Rollenspielsystem_ ausprobieren, hast _die_ perfekte Idee für einen Workshop oder findest einfach nur die Themenabende toll?
@@ -97,17 +99,9 @@ Da ein stetiges Wachstum der Mitgliederzahl ein wichtiges Ziel des Librariums is
 
 Wie sich gezeigt hat, ist das Wachstum der Mitgliederzahl bisher leider diskret.
 Dies ist damit zu begründen, dass jedes Mitglied entweder ganz oder gar nicht -- also numerisch mit Wert $1$ -- in die Statistik eingehen.
-
 Um dem entgegenzuwirken suchen wir Freiwillige, die dem Librarium kontinuierlich beitreten wollen.
 Hierfür können Sie beispielsweise in jeder infinitesemal kleinen Zeiteinheit mit einem physischen Bruchteil von sich selbst beitreten.
 Eine weitere Möglichkeit wäre, dass Ihr -- noch ungeborenes -- Kind bis zum 18ten Lebensjahr anteilig zum Lebensalter beitritt.
 
 Bitte melden Sie sich, wenn auch Sie an stetigem Wachstum interessiert sind!
 \zeichen{ZERSTÜCKELT}
-
-# Todesanzeigen
-*Trauertext.*
-
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
