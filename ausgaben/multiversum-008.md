@@ -35,14 +35,14 @@ Ein hyperraumtaugliches Rezept für 4 Personen | Vegetarisch [kein Risiko, verse
 \vspace{-1em}
 #### Zutaten:
 
-- Öl zum Anbraten\footnote{Memo: Maschinenöl ist nicht genießbar}
+- Öl zum Anbraten\footnote{Memo: Maschinenöl ist nicht genießbar.}
 - 2 Dweezel (mittelgroß)
-- 2 Rata-Zwiebeln\footnote{Memo: Lass niemanden die Tränen sehen}
+- 2 Rata-Zwiebeln\footnote{Memo: Lass niemanden die Tränen sehen.}
 - 500g Yot-Bohnen aus der Dose
 - 500g bunt gemischtes Yyla
 - 1/2 Hubba-Kürbis\footnote{Memo: Nächstes Mal ohne Schale?}
-- Diese corellianischen Cracker, die ewig haltbar sind \footnote{Memo: Nach 5 Jahren wird's trotzdem kritisch.}
-- Gewürze nach Vorliebe \footnote{Memo: Kein Ryll-Spice}
+- Diese corellianischen Cracker, die ewig haltbar sind\footnote{Memo: Nach 5 Jahren wird's trotzdem kritisch.}
+- Gewürze nach Vorliebe\footnote{Memo: Kein Ryll-Spice.}
 
 \vspace{-1em}
 #### Zubereitung:
@@ -56,15 +56,15 @@ Gemüse kleinschneiden und in Öl anbraten. Bei ersten Anzeichen von schwarzer R
 
 \Verfasser[Star Wars: Am Rande des Imperiums]{Franca}
 
-## Neuer Herzschmerz bei den Ewalds - zerbricht jetzt die Familie?!
+## Neuer Herzschmerz bei den Ewalds -- zerbricht jetzt die Familie?!
 
 Lange schon ranken sich die Gerüchte um Thomathan Ewald und den Familienbutler James Doherty (36), doch nun ist es offiziell: die beiden sind ein Paar! Das gaben Thomathan und sein Ehemann Franco in einer Pressekonferenz am Samstag bekannt. Und nicht nur das: auch Franco hat eine Affäre mit einem der Familienbuttler - Jeffrey Lombardi (39).
 
-Thomathan und Franco traten der Presse scheinbar gelassen entgegen. "Wir werden alles tun, um diese Krise zusammen zu überstehen", sagte Thomathan. "Genau", sagte Franco. Thomathan weiter: "Grade jetzt, in dieser schweren Zeit, ist für uns wichtig, zusammenzuhalten. Familie ist doch alles!" "So ist es", sagte Franco.
+Thomathan und Franco traten der Presse scheinbar gelassen entgegen. "Wir werden alles tun, um diese Krise zusammen zu überstehen", sagte Thomathan. "Genau", sagte Franco. Thomathan weiter: "Grade jetzt, in dieser schweren Zeit, ist es für uns wichtig, zusammenzuhalten. Familie ist doch alles!" "So ist es", sagte Franco.
 
-Ula Ewald, die Tochter des Ehepaars, war für einen Kommentar nicht zu erreichen - nach Angaben des Pressesprechers der Familie befindet sie sich gerade nach einem achtjährigen Studium in der heißen Phase ihrer Bachelorarbeit. Brisanterweise schreibt sie diese am familieneigenen Ewald-Institut für Göttologie und theleologische Suffizienz (wir berichteten).
+Ula Ewald, die Tochter des Ehepaars, war für einen Kommentar nicht zu erreichen. Nach Angaben des Pressesprechers der Familie befindet sie sich gerade nach einem achtjährigen Studium in der heißen Phase ihrer Bachelorarbeit. Brisanterweise schreibt sie diese am familieneigenen Ewald-Institut für Göttologie und theleologische Suffizienz (wir berichteten).
 
-Der Skandal könnte kaum zu einem ungünstigeren Zeitpunkt für die Familie kommen - vor zwei Wochen hatte das Ewald-Institut die brisanten Gerüchte um das Verschwinden aller Götter von der Welt bestätigen müssen. Daraufhin sanken die Aktien des Ewald-Konzerns ins Bodenlose (wir berichteten).
+Der Skandal könnte kaum zu einem ungünstigeren Zeitpunkt für die Familie kommen. Vor zwei Wochen hatte das Ewald-Institut die brisanten Gerüchte um das Verschwinden aller Götter von der Welt bestätigen müssen. Daraufhin sanken die Aktien des Ewald-Konzerns ins Bodenlose (wir berichteten).
 
 **Lesen Sie auf Seite 3: "So heiß war Lustra - mein Schäferstündchen mit dem Feuergott!"**
 \Verfasser[Microscope]{Konstantin}
@@ -101,4 +101,4 @@ Hierfür können Sie beispielsweise in jeder infinitesemal kleinen Zeiteinheit m
 Eine weitere Möglichkeit wäre, dass Ihr -- noch ungeborenes -- Kind bis zum 18ten Lebensjahr anteilig zum Lebensalter beitritt.
 
 Bitte melden Sie sich, wenn auch Sie an stetigem Wachstum interessiert sind!
-\zeichen{ZERSTÜCKELT}
+\zeichen{FLEISCHWOLF}
