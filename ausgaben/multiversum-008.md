@@ -73,17 +73,16 @@ Der Skandal könnte kaum zu einem ungünstigeren Zeitpunkt für die Familie komm
 
 # Werbung
 Deine tägliche Instantkoffeindosis erhältst du mit
-\begin{center}\textsc{Espressoy Instant Arrabica},\end{center} \noindent  Mit innovativer Drei-in-Eins-Technologie: Aufwärmen, Aufbrühen, Genießen\footnote{Suchtgefahr! \textsc{Esspressoy Instant Arrabica} beinhaltet hoch stimmulierende und suchterzeugende Wirkstoffe. Sie finden Beratungsstellen für Suchtprobleme unter \url{host://arabica.soy/sucht}}. Alles in einer Tube.
+\begin{center}\textsc{Espressoy Instant Arrabica}\footnote{Suchtgefahr! \textsc{Esspressoy Instant Arrabica} beinhaltet hoch stimmulierende und suchterzeugende Wirkstoffe. Sie finden Beratungsstellen für Suchtprobleme unter \url{host://arabica.soy/mehr!}}\end{center}
+\noindent  Mit patentierter und innovativer "Click-Hot-Aahh\footnote{Anmerkung der Redaktion: Das Internationale Phonetische Alphabet bietet leider kein Zeichen für einen stimmlosen pharyngalen Plosiv. Mit der Transkription ist der Laut gemeint, der nach der Einnahme eines wohltuenden und erfrischenden Getränks gemacht wird}" Technologie: poketsafem Pushbutton, integriertem Instantheizelement, und anwenderfreundlicher Ausgusshilfe -- alles in einer handlichen Tube.
 \Verfasser[SR 5]{Yoann}
-
-\newpage
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Crew für Traveller RPG Weltraumreisen gesucht
 "Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.
-\vspace*{-1.32em}\zeichen{FEUERGEIST}
+\zeichen{FEUERGEIST}
 
 #### Unterstützung für die monatliche Treffen gesucht
 Es gibt dieses Thema, das dir seit Ewigkeiten auf der Seele brennt, du wolltest schon immer _das eine Rollenspielsystem_ ausprobieren, hast _die_ perfekte Idee für einen Workshop oder findest einfach nur die Themenabende toll?
@@ -99,6 +98,7 @@ Da ein stetiges Wachstum der Mitgliederzahl ein wichtiges Ziel des Librariums is
 
 Wie sich gezeigt hat, ist das Wachstum der Mitgliederzahl bisher leider diskret.
 Dies ist damit zu begründen, dass jedes Mitglied entweder ganz oder gar nicht -- also numerisch mit Wert $1$ -- in die Statistik eingehen.
+
 Um dem entgegenzuwirken suchen wir Freiwillige, die dem Librarium kontinuierlich beitreten wollen.
 Hierfür können Sie beispielsweise in jeder infinitesemal kleinen Zeiteinheit mit einem physischen Bruchteil von sich selbst beitreten.
 Eine weitere Möglichkeit wäre, dass Ihr -- noch ungeborenes -- Kind bis zum 18ten Lebensjahr anteilig zum Lebensalter beitritt.
