@@ -77,12 +77,13 @@ Deine tägliche Instantkoffeindosis erhältst du mit
 \noindent  Mit patentierter und innovativer "Click-Hot-Aahh\footnote{Anmerkung der Redaktion: Das Internationale Phonetische Alphabet bietet leider kein Zeichen für einen stimmlosen pharyngalen Plosiv. Mit der Transkription ist der Laut gemeint, der nach der Einnahme eines wohltuenden und erfrischenden Getränks gemacht wird}" Technologie: poketsafem Pushbutton, integriertem Instantheizelement, und anwenderfreundlicher Ausgusshilfe -- alles in einer handlichen Tube.
 \Verfasser[SR 5]{Yoann}
 
+\newpage
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Crew für Traveller RPG Weltraumreisen gesucht
 "Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.
-\zeichen{FEUERGEIST}
+\vspace*{-1.32em}\zeichen{FEUERGEIST}
 
 #### Unterstützung für die monatliche Treffen gesucht
 Es gibt dieses Thema, das dir seit Ewigkeiten auf der Seele brennt, du wolltest schon immer _das eine Rollenspielsystem_ ausprobieren, hast _die_ perfekte Idee für einen Workshop oder findest einfach nur die Themenabende toll?
