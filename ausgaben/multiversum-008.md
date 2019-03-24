@@ -4,9 +4,7 @@ date: März 2019
 ausgabe: 8
 balance: false
 termine:
-    - "Monatliches Treffen: 16.03.19, 19 Uhr im Level9000"
-    - "Gratis Rollenspieltag: 23.03.19"
-    - "Monatliches Treffen: 16.03.19 19 Uhr"
+    - "Monatliches Treffen: 16.04.19, 19 Uhr"
 losung: "Du hast da aber eine schöne Leiche!"
 ---
 
@@ -77,13 +75,13 @@ Deine tägliche Instantkoffeindosis erhältst du mit
 \noindent  Mit patentierter und innovativer "Click-Hot-Aahh\footnote{Anmerkung der Redaktion: Das Internationale Phonetische Alphabet bietet leider kein Zeichen für einen stimmlosen pharyngalen Plosiv. Mit der Transkription ist der Laut gemeint, der nach der Einnahme eines wohltuenden und erfrischenden Getränks gemacht wird}" Technologie: poketsafem Pushbutton, integriertem Instantheizelement, und anwenderfreundlicher Ausgusshilfe -- alles in einer handlichen Tube.
 \Verfasser[SR 5]{Yoann}
 
-\newpage
+Ihnen fallen keine innovativen Werbesprüche und Produkte mehr ein? Dann greifen zu unserem neuen \begin{center}\textsc{Cyber Innovation Agent}\end{center} mit cloudgestützer Marktforschungsanalsye und künstlicher Intelligenz. \verfasser{Richard}
+
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
 #### Crew für Traveller RPG Weltraumreisen gesucht
-"Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.
-\vspace*{-1.32em}\zeichen{FEUERGEIST}
+"Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.\zeichen{FEUERGEIST}
 
 #### Unterstützung für die monatliche Treffen gesucht
 Es gibt dieses Thema, das dir seit Ewigkeiten auf der Seele brennt, du wolltest schon immer _das eine Rollenspielsystem_ ausprobieren, hast _die_ perfekte Idee für einen Workshop oder findest einfach nur die Themenabende toll?
@@ -98,8 +96,7 @@ Melde dich bei Franca oder Lamin, wir freuen uns!
 Da ein stetiges Wachstum der Mitgliederzahl ein wichtiges Ziel des Librariums ist, benötigen wir Ihre Unterstützung!
 
 Wie sich gezeigt hat, ist das Wachstum der Mitgliederzahl bisher leider diskret.
-Dies ist damit zu begründen, dass jedes Mitglied entweder ganz oder gar nicht -- also numerisch mit Wert $1$ -- in die Statistik eingeht.
-Um dem entgegenzuwirken suchen wir Freiwillige, die dem Librarium kontinuierlich beitreten wollen.
+Dies ist damit zu begründen, dass jedes Mitglied entweder ganz oder gar nicht -- also numerisch mit Wert $1$ -- in die Statistik eingeht. Um dem entgegenzuwirken suchen wir Freiwillige, die dem Librarium kontinuierlich beitreten wollen.
 Hierfür können Sie beispielsweise in jeder infinitesemal kleinen Zeiteinheit mit einem physischen Bruchteil von sich selbst beitreten.
 Eine weitere Möglichkeit wäre, dass Ihr -- noch ungeborenes -- Kind bis zum 18ten Lebensjahr anteilig zum Lebensalter beitritt.
 
