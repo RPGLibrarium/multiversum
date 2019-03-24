@@ -98,7 +98,7 @@ Melde dich bei Franca oder Lamin, wir freuen uns!
 Da ein stetiges Wachstum der Mitgliederzahl ein wichtiges Ziel des Librariums ist, benötigen wir Ihre Unterstützung!
 
 Wie sich gezeigt hat, ist das Wachstum der Mitgliederzahl bisher leider diskret.
-Dies ist damit zu begründen, dass jedes Mitglied entweder ganz oder gar nicht -- also numerisch mit Wert $1$ -- in die Statistik eingehen.
+Dies ist damit zu begründen, dass jedes Mitglied entweder ganz oder gar nicht -- also numerisch mit Wert $1$ -- in die Statistik eingeht.
 Um dem entgegenzuwirken suchen wir Freiwillige, die dem Librarium kontinuierlich beitreten wollen.
 Hierfür können Sie beispielsweise in jeder infinitesemal kleinen Zeiteinheit mit einem physischen Bruchteil von sich selbst beitreten.
 Eine weitere Möglichkeit wäre, dass Ihr -- noch ungeborenes -- Kind bis zum 18ten Lebensjahr anteilig zum Lebensalter beitritt.
