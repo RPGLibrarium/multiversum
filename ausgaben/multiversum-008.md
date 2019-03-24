@@ -72,7 +72,7 @@ Der Skandal könnte kaum zu einem ungünstigeren Zeitpunkt für die Familie komm
 # Werbung
 Deine tägliche Instantkoffeindosis erhältst du mit
 \begin{center}\textsc{Espressoy Instant Arrabica}\footnote{Suchtgefahr! \textsc{Esspressoy Instant Arrabica} beinhaltet hoch stimmulierende und suchterzeugende Wirkstoffe. Sie finden Beratungsstellen für Suchtprobleme unter \url{host://arabica.soy/mehr!}}\end{center}
-\noindent  Mit patentierter und innovativer "Click-Hot-Aahh\footnote{Anmerkung der Redaktion: Das Internationale Phonetische Alphabet bietet leider kein Zeichen für einen stimmlosen pharyngalen Plosiv. Mit der Transkription ist der Laut gemeint, der nach der Einnahme eines wohltuenden und erfrischenden Getränks gemacht wird}" Technologie: poketsafem Pushbutton, integriertem Instantheizelement, und anwenderfreundlicher Ausgusshilfe -- alles in einer handlichen Tube.
+\noindent  Mit patentierter und innovativer "Click-Hot-Aahh\footnote{Anmerkung der Redaktion: Das Internationale Phonetische Alphabet bietet leider kein Zeichen für einen stimmlosen pharyngalen Plosiv. Mit der Transkription ist der Laut gemeint, der nach der Einnahme eines wohltuenden und erfrischenden Getränks gemacht wird.}" Technologie: poketsafem Pushbutton, integriertem Instantheizelement, und anwenderfreundlicher Ausgusshilfe -- alles in einer handlichen Tube.
 \Verfasser[SR 5]{Yoann}
 
 Ihnen fallen keine innovativen Werbesprüche und Produkte mehr ein? Dann greifen zu unserem neuen \begin{center}\textsc{Cyber Innovation Agent}\end{center} mit cloudgestützer Marktforschungsanalsye und künstlicher Intelligenz. \verfasser{Richard}
