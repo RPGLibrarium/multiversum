@@ -1,5 +1,5 @@
 ---
-author: Ira, Franca, Yoann, Hanna
+author: Ira, Franca, Yoann, Hanna, Konstantin, Richard
 date: März 2019
 ausgabe: 8
 balance: false
@@ -83,7 +83,7 @@ Ihnen fallen keine innovativen Werbesprüche und Produkte mehr ein? Dann greifen
 #### Crew für Traveller RPG Weltraumreisen gesucht
 "Ist das Ding schon an? Oh? Knopf? Ja! Ich suche eine Crew für ein paar Monate. Wir fliegen mit der 'Feuergeist': 300 Tonner, 1a Computer und sowas wie drei Wummen! In top Zustand und gehört schon quasi mir. " Absprache mit Ira.\zeichen{FEUERGEIST}
 
-#### Unterstützung für die monatliche Treffen gesucht
+#### Unterstützung für die monatlichen Treffen gesucht
 Es gibt dieses Thema, das dir seit Ewigkeiten auf der Seele brennt, du wolltest schon immer _das eine Rollenspielsystem_ ausprobieren, hast _die_ perfekte Idee für einen Workshop oder findest einfach nur die Themenabende toll?
 Wir suchen **dich**!
 
@@ -92,7 +92,7 @@ Egal, ob du die Inhalte für einen Abend mitgestalten möchtest oder generell an
 Melde dich bei Franca oder Lamin, wir freuen uns!
 \zeichen{DASISTKEINSTAMMTISCH}
 
-#### Freiwillige zur verstetigung der Mitgliederzahlen gesucht
+#### Freiwillige zur Verstetigung der Mitgliederzahlen gesucht
 Da ein stetiges Wachstum der Mitgliederzahl ein wichtiges Ziel des Librariums ist, benötigen wir Ihre Unterstützung!
 
 Wie sich gezeigt hat, ist das Wachstum der Mitgliederzahl bisher leider diskret.
