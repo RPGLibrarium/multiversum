@@ -6,7 +6,7 @@ balance: false
 termine:
     - "Termin: 16.04.19, 19 Uhr"
     - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Hier könnte ihre Werbung stehen."
+losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame.'"
 
 ---
 
