@@ -11,6 +11,29 @@ losung: "Dies ist ein zufälliger Losungstext"
 ---
 
 # Was bisher geschah...
+Werte Lesende,
+
+so sehen wir uns also wieder.
+Lange ist es her -- so würde man wohl üblicherweise sagen, aber dem ist nicht so.
+
+Wir sind bemüht, den Informationsfluss stets aufrecht zu erhalten.
+Daher berichten wir möglichst vollständig und zeitnah von den Geschehnissen in allen Teilen des Multiversums.
+Und dort hat sich einiges zugetragen!
+So kommt es, dass wir nun schon nach kurzer Zeit erneut zur Druckerpresse greifen, um Ihnen aus fernen Welten zu berichten.
+
+<!--Der schieren Masse wegen können wir aber nicht immer auch von Ihrer Lieblingswelt berichten, seien sie deshalb aber nicht betrübt: Bereits in der nächsten Ausgabe könnte wieder ein entsprechender Artikel veröffentlicht werden.
+Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen Tipp für die näcste große Story haben, dann zögern Sie nicht uns zu schreiben.-->
+
+Also: Schön, dass Sie uns wieder lesen!
+
+## Nichts
+Es begab sich an einem regnerischen Donnerstag Nachmmitag, als sich die Redaktion zusammenfand.
+Sie ließen einen prüfenden Blick duch veschiedene Welten schweifen und schrieben nieder, was sie sahen.
+Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während in all den fernen Welten große und kleine Ereignisse sich häuften, schien ihre eigene Welt trist und langweilig.
+Es war nichts geschehen, über das sie hätten berichten können: Keine Versammlungen, keine Trinkgelage und auch keine Festlichkeiten.
+
+Doch statt in Trauer und Whmut zu versinken, erfreuten sie sich wieder ferner Welten und vergaßen bald die graue Welt die sie umgab.
+
 
 ## Workshop: ABC
 Lorem Ipsum
@@ -43,8 +66,15 @@ Lorem Ipsum, text endet an Zeilenende.
 \Verfasser[System]{Autor2}
 
 # Werbung
-Kaufen sie jetzt das
-\begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
+Sie können den Blick aus Ihrem Fenster nicht länger ertragen?
+Dann testen sie jetzt den
+\begin{center}\textsc{Worner'schen Wetter Wandler}!\end{center} \noindent
+Erleben Sie sonnige Tage auf Knopfdruck!
+Fahren Sie mit den Enkelkindern vormittags Schlitten und bewundern Sie beim Nachmittagsspaziergang das herabfallende Herbstlaub.
+
+Tuen Sie etwas für Ihre Gesundheit: Studien aus Britischen Laboren bestätigen, dass schlechtes Wetter schnell durch steigende Unzufriedenheit Auswirkungen auf Ihr Leben nimmt und langfristig Depressionen auslöst.
+Aber das muss nicht sein!
+Testen Sie jetzt unser Wetter Wunderwerk und überzeugen sich selbst!
 \Verfasser{Autor}
 
 # Schleuderpresse
