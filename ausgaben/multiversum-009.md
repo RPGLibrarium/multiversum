@@ -1,12 +1,12 @@
 ---
-author: Autor1, Autor2, Autor3
-date: Monat YYYY
+author: Moritz, Hanna
+date: April 2019
 ausgabe: 0
 balance: false
 termine:
-    - "Termin: DD.MM.YY, hh Uhr"
+    - "Termin: 16.04.19, 19 Uhr"
     - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Dies ist ein zufälliger Losungstext"
+losung: "Hier könnte ihre Werbung stehen."
 
 ---
 
@@ -38,9 +38,21 @@ Ein Basterschuss wurde verdienterweise auf den Trottel abgefeuert, aber dieser b
 Im nächsten Moment brach Chaos aus. Gäste brüllten Flüche in verschiedenen Sprachen und ein wütendes Zischen erfüllte den Raum. Ich verlor die beiden Störenfriede aus den Augen und als Ihre Kollegen zur Hilfe geeilt kamen, waren sie verschwunden. Wenn ich diese beiden nochmal wiedersehe, können sie was erleben!
 \Verfasser[Star Wars: Am Rande des Imperiums]{Moritz}
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+## Hjaldingskuchen
+- 20 Unzen Mehl (Dinkel)
+- 10 Unzen Sirup
+- 10 Unzen Butter
+- 6 Unzen Skyr
+- 3 Möweneier oder 2 Gänseeier
+- 2 Stein Bodirbirnen (oder Thosäpfel)
+- 1 Vanilleschote
+- 1 Skrupel Kurkumer Safran
+- 2 Skrupel Salz
+- 1 Schluck Waskirer
+- Mandelcreme zum Dekorieren
+
+Die Bodirbirnen in kleine Stücke schneiden. Mehl, Sirup, Butter, Skyr und Eier zusammenrühren, bis der Sirup gut verteilt ist. Falls der Löffel stecken bleibt, etwas Milch zugeben. Das Innere der Vanilleschote in den Teig kratzen, Gewürze und Waskirer hinzugeben und unterrühren. Mit den Früchten vermengen, dabei sollte der Teig die Früchte nur knapp bedecken. Eine robuste Tonschale mit Butter einfetten und den Teig hinein füllen. Eine weitere Schale umgekehrt darauf legen, sodass genauso viel Luft wie Teig den Platz füllt. Abends bei heruntergebranntem Kochfeuer in die Glut legen, über Nacht gelegentlich aus den anderen Feuerstellen der Halla Glut nachfüllen. Morgens nach Bedarf die äußere dunkle Kruste abkratzen, mit der Mandelcreme eine Walrune auf den fertigen Kuchen malen. Bevorzugt mit dünnen Scheiben Räucherfisch servieren.
+\Verfasser[DSA 4.1]{Hanna}
 
 # Werbung
 Kaufen sie jetzt das
