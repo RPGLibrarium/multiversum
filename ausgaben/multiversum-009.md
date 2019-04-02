@@ -1,7 +1,7 @@
 ---
 author: Moritz, Hanna
 date: April 2019
-ausgabe: 0
+ausgabe: 9
 balance: false
 termine:
     - "Termin: 16.04.19, 19 Uhr"
