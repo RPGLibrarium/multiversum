@@ -6,7 +6,7 @@ balance: false
 termine:
     - "Termin: 16.04.19, 19 Uhr"
     - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame.'"
+losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame."
 
 ---
 
@@ -46,11 +46,11 @@ Lorem Ipsum
 # An einem anderen Ort
 
 ## Zeugenaussage bzgl. Verbrechen 03-Y44: Auslösen einer Kneipenschlägerei
-Sie waren zu zweit. Als sie meine Bar betraten sah man ihnen direkt an, dass sie nicht von hier waren. Der vordere war groß und dürr und sein abwesender Blick streifte über die Gäste, doch er schien sie kaum wahrzunehmen. Außerdem hatte er einen Gand im Schlepptau. Der war sicher die hässlichste Kreatur, die je das Licht einer Sonne erblickt hat! Und ich habe in meinem Leben schon viele abscheulich Gestalten gesehen...
+Sie waren zu zweit. Als sie meine Bar betraten sah man ihnen direkt an, dass sie nicht von hier waren. Der Vordere war groß und dürr und sein abwesender Blick streifte über die Gäste, doch er schien sie kaum wahrzunehmen. Außerdem hatte er einen Gand im Schlepptau. Der war sicher die hässlichste Kreatur, die je das Licht einer Sonne erblickt hat! Und ich habe in meinem Leben schon viele abscheulich Gestalten gesehen...
 
 Sie bahnten sich den Weg zur Theke und mit dem Selbstvertrauen eines absoluten Vollidioten sprach der Mensch: "Einen Neimoidianischen Zygoden-Beeren-Cocktail, bitte." Wissen Sie, was das sein soll? Nein? Ich auch nicht und ich bin seit 45 Jahren Barkeeper hier auf Corruscant. "Einen was?" "Einen Neimoidianischen Zygoden-Beeren-Cocktail, bitte." wiederholte sich der Fremde, etwas irritiert. Ich versuchte ihm zu erklären das es so etwas wie Zygoden-Beeren nicht gäbe, doch er bestand darauf und fing an, murmelnd in seinem Rucksack nach einem Buch zu suchen. Währenddessen starrte mich sein Begleiter mit seinen emotionslosen Facettenaugen an.
 
-"Und du? Möchtest du vielleicht einen Shot Einhorn-Blut von Yavin 3?" fragte ich ihn. Ein harmloser Scherz, verstehen Sie, um das Eis zu brechen. Plötzlich fing der Gand an, eine Tirade aus Zisch- und Klacklauten von sich zu geben! Obwohl ich kein Wort verstand (wer tut das schon), lief es mir eiskalt den Rücken runter. ich trat einen Schritt zurück, stolperte über einen Lappen und fiel in das Regal hinter mir.
+"Und du? Möchtest du vielleicht einen Shot Einhorn-Blut von Yavin 3?" fragte ich ihn. Ein harmloser Scherz, verstehen Sie, um das Eis zu brechen. Plötzlich fing der Gand an, eine Tirade aus Zisch- und Klacklauten von sich zu geben! Obwohl ich kein Wort verstand (wer tut das schon), lief es mir eiskalt den Rücken runter. Ich trat einen Schritt zurück, stolperte über einen Lappen und fiel in das Regal hinter mir.
 
 Als ich nach oben blickte, sah ich, dass mein Kumpel Frank an die Theke getreten war. Er musterte die Fremden mit Argwohn. "Hey ihr da! Sucht ihr Streit?" "Nein, nein." winkte der Mensch ab. "Wir sind auf der Suche nach einem antiken Manuskript, welches vor 100 Jahren, zwei Monaten und 13 Tagen der damalige Besitzer dieses Etablissements bei einer Runde Sabac zusammen mit einem paar Ohrringe und 5 Wookie-Pelzmänteln gewonnen hat."
 
