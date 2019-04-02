@@ -28,11 +28,11 @@ Also: Schön, dass Sie uns wieder lesen!
 
 ## Nichts
 Es begab sich an einem regnerischen Donnerstag Nachmmitag, als sich die Redaktion zusammenfand.
-Sie ließen einen prüfenden Blick duch veschiedene Welten schweifen und schrieben nieder, was sie sahen.
-Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während in all den fernen Welten große und kleine Ereignisse sich häuften, schien ihre eigene Welt trist und langweilig.
+Sie ließen einen prüfenden Blick duch verschiedene Welten schweifen und schrieben nieder, was sie sahen.
+Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während sich in all den fernen Welten große und kleine Ereignisse häuften, schien ihre eigene Welt trist und langweilig.
 Es war nichts geschehen, über das sie hätten berichten können: Keine Versammlungen, keine Trinkgelage und auch keine Festlichkeiten.
 
-Doch statt in Trauer und Whmut zu versinken, erfreuten sie sich wieder ferner Welten und vergaßen bald die graue Welt die sie umgab.
+Doch statt in Trauer und Wehmut zu versinken, erfreuten sie sich wieder ferner Welten und vergaßen bald die graue Welt die sie umgab.
 
 
 ## Workshop: ABC
