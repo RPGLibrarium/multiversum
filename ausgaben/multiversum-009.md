@@ -6,13 +6,14 @@ balance: false
 termine:
     - "Termin: 16.04.19, 19 Uhr"
     - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Hier könnte ihre Werbung stehen."
+losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame.'"
 
 ---
 
 # Was bisher geschah...
 
 ## Nichts
+<<<<<<< HEAD
 Es begab sich an einem regnerischen Dienstag Nachmittag, als sich die Redaktion zusammen fand.
 Sie ließen einen prüfenden Blick durch verschiedene Welten schweifen und schrieben nieder, was sie sahen.
 Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während sich in all den fernen Welten große und kleine Ereignisse ch häuften, schien ihre eigene Welt trist und langweilig.
@@ -20,6 +21,23 @@ Es war nichts geschehen, über das sie hätten berichten können: Keine Versamml
 
 Doch statt in Trauer und Wehmut zu versinken, erfreuten sie sich wieder ferner Welten und vergaßen bald die graue Welt die sie umgab.
 \Verfasser{Richard}
+=======
+Es begab sich an einem regnerischen Donnerstag Nachmmitag, als sich die Redaktion zusammenfand.
+Sie ließen einen prüfenden Blick duch verschiedene Welten schweifen und schrieben nieder, was sie sahen.
+Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während sich in all den fernen Welten große und kleine Ereignisse häuften, schien ihre eigene Welt trist und langweilig.
+Es war nichts geschehen, über das sie hätten berichten können: Keine Versammlungen, keine Trinkgelage und auch keine Festlichkeiten.
+
+Doch statt in Trauer und Wehmut zu versinken, erfreuten sie sich wieder ferner Welten und vergaßen bald die graue Welt die sie umgab.
+
+
+## Workshop: ABC
+Lorem Ipsum
+\verfasser{Autor1}
+
+## In der Redaktion
+Lorem Ipsum
+\verfasser{Redaktion}
+>>>>>>> 2d83dd506cb35c7bc37c4ea10d9d53fe0d7128d6
 
 # An einem anderen Ort
 
