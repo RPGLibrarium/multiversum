@@ -11,22 +11,17 @@ losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame."
 ---
 
 # Was bisher geschah...
-Werte Lesende,
-
-so sehen wir uns also wieder.
-Lange ist es her -- so würde man wohl üblicherweise sagen, aber dem ist nicht so.
-
-Wir sind bemüht, den Informationsfluss stets aufrecht zu erhalten.
-Daher berichten wir möglichst vollständig und zeitnah von den Geschehnissen in allen Teilen des Multiversums.
-Und dort hat sich einiges zugetragen!
-So kommt es, dass wir nun schon nach kurzer Zeit erneut zur Druckerpresse greifen, um Ihnen aus fernen Welten zu berichten.
-
-<!--Der schieren Masse wegen können wir aber nicht immer auch von Ihrer Lieblingswelt berichten, seien sie deshalb aber nicht betrübt: Bereits in der nächsten Ausgabe könnte wieder ein entsprechender Artikel veröffentlicht werden.
-Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen Tipp für die näcste große Story haben, dann zögern Sie nicht uns zu schreiben.-->
-
-Also: Schön, dass Sie uns wieder lesen!
 
 ## Nichts
+<<<<<<< HEAD
+Es begab sich an einem regnerischen Dienstag Nachmittag, als sich die Redaktion zusammen fand.
+Sie ließen einen prüfenden Blick durch verschiedene Welten schweifen und schrieben nieder, was sie sahen.
+Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während sich in all den fernen Welten große und kleine Ereignisse ch häuften, schien ihre eigene Welt trist und langweilig.
+Es war nichts geschehen, über das sie hätten berichten können: Keine Versammlungen, keine Trinkgelage und auch keine Festlichkeiten.
+
+Doch statt in Trauer und Wehmut zu versinken, erfreuten sie sich wieder ferner Welten und vergaßen bald die graue Welt die sie umgab.
+\Verfasser{Richard}
+=======
 Es begab sich an einem regnerischen Donnerstag Nachmmitag, als sich die Redaktion zusammenfand.
 Sie ließen einen prüfenden Blick duch verschiedene Welten schweifen und schrieben nieder, was sie sahen.
 Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während sich in all den fernen Welten große und kleine Ereignisse häuften, schien ihre eigene Welt trist und langweilig.
@@ -42,6 +37,7 @@ Lorem Ipsum
 ## In der Redaktion
 Lorem Ipsum
 \verfasser{Redaktion}
+>>>>>>> 2d83dd506cb35c7bc37c4ea10d9d53fe0d7128d6
 
 # An einem anderen Ort
 
