@@ -1,11 +1,11 @@
 ---
-author: Moritz, Hanna
+author: Moritz, Hanna, Richard, Yoann
 date: April 2019
 ausgabe: 9
 balance: false
 termine:
-    - "Monatliches Treffen: 16.04.19, 19 Uhr"
     - "RPG-Abend KatHo: 11.04.19, 18 Uhr"
+    - "Monatliches Treffen: 16.04.19, 19 Uhr"
     - "RPG-Abend FSMPI: 21.05.19, 18:30 Uhr"
 losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame."
 
