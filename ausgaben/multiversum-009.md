@@ -56,6 +56,24 @@ Im nächsten Moment brach Chaos aus. Gäste brüllten Flüche in verschiedenen S
 Die Bodirbirnen in kleine Stücke schneiden. Mehl, Sirup, Butter, Skyr und Eier zusammenrühren, bis der Sirup gut verteilt ist. Falls der Löffel stecken bleibt, etwas Milch zugeben. Das Innere der Vanilleschote in den Teig kratzen, Gewürze und Waskirer hinzugeben und unterrühren. Mit den Früchten vermengen, dabei sollte der Teig die Früchte nur knapp bedecken. Eine robuste Tonschale mit Butter einfetten und den Teig hinein füllen. Eine weitere Schale umgekehrt darauf legen, sodass genauso viel Luft wie Teig den Platz füllt. Abends bei heruntergebranntem Kochfeuer in die Glut legen, über Nacht gelegentlich aus den anderen Feuerstellen der Halla Glut nachfüllen. Morgens nach Bedarf die äußere dunkle Kruste abkratzen, mit der Mandelcreme eine Walrune auf den fertigen Kuchen malen. Bevorzugt mit dünnen Scheiben Räucherfisch servieren.
 \Verfasser[DSA 4.1]{Hanna}
 
+## Gesucht: Entlaufener Hahn
+In der Nacht zum Mittwoch ist unser Hahn aus dem Hühnerstall auf der großen Wiese entlaufen.
+Er höhrt auf den Namen _Gacki_ und wurde erst letzte Woche zum "Hahn des Jahres 2019" gekürt.
+Zudem ist _Gacki_ als Top-Champion aus dem hiesigen Hahnenkampfring herausgegangen.
+Seien Sie bitte entsprechend vorsichtig im Umgang mit dem _Gacki_ und vermeiden Sie direkten Blickkontakt -- verständigen Sie umgehend die Behörden.
+
+Zur Zeit gehen wir noch von einer bedauerlichen Schicksaalsfügung aus.
+Eine Beteiligung des organisierten Verbrechens kann jedoch nicht gänzlich ausgeschlossen werden.
+Die Polizei ist bereits eingeschaltet.
+
+Da es sich um den einzigen Hahn dieses Stalls handelt, steht die Existenz unserer, gerade erst durch Nachwuchs gewachsenen, Familie auf dem Spiel.
+Lilly, unsere Tochter, ist seit dem Verschwinden von _Gacki_ traumatisiert und hat ihr gesamtes Taschengeld (33,89 €) als Finderlohn ausgeschrieben.
+
+Sollten Sie Hinweise auf den Verbleib von _Gacki_ haben, melden Sie sich bitte.
+Wichtige Hinweise werden großzügig entlohnt!
+\verfasser[Kobolde]{Richard}
+
+
 # Werbung
 Sie können den Blick aus Ihrem Fenster nicht länger ertragen?
 Dann testen sie jetzt den
@@ -67,13 +85,6 @@ Tuen Sie etwas für Ihre Gesundheit: Studien aus Britischen Laboren bestätigen,
 Aber das muss nicht sein!
 Testen Sie jetzt unser Wetter Wunderwerk und überzeugen sich selbst!
 \Verfasser{Richard}
-
-# Schleuderpresse
-*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
-
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
 
 # Todesanzeigen
 *Trauertext.*
