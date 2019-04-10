@@ -4,7 +4,9 @@ date: April 2019
 ausgabe: 9
 balance: false
 termine:
-    - "Termin: 16.04.19, 19 Uhr"
+    - "Monatliches Treffen: 16.04.19, 19 Uhr"
+    - "RPG-Abend KatHo: 11.04.19, 18 Uhr"
+    - "RPG-Abend FSMPI: 21.05.19, 18:30 Uhr"
 losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame."
 
 ---
@@ -39,15 +41,15 @@ Im nächsten Moment brach Chaos aus. Gäste brüllten Flüche in verschiedenen S
 \Verfasser[Star Wars: Am Rande des Imperiums]{Moritz}
 
 ## Hjaldingskuchen
-- 20 Unzen Mehl (Dinkel)
-- 10 Unzen Sirup
-- 10 Unzen Butter
-- 6 Unzen Skyr
+- 20 Unzen\footnote{\label{fnUnze} 1 Unze = 25 Gramm} Mehl (Dinkel)
+- 10 Unzen\footref{fnUnze} Sirup
+- 10 Unzen\footref{fnUnze} Butter
+- 6 Unzen\footref{fnUnze} Skyr
 - 3 Möweneier oder 2 Gänseeier
-- 2 Stein Bodirbirnen (oder Thosäpfel)
+- 2 Stein\footnote{\label{fnStein} 1 Stein = 1 Kilogramm} Bodirbirnen (oder Thosäpfel)
 - 1 Vanilleschote
-- 1 Skrupel Kurkumer Safran
-- 2 Skrupel Salz
+- 1 Skrupel\footnote{\label{fnSkrupel} 1 Skrupel = 1 Gramm} Kurkumer Safran
+- 2 Skrupel\footref{fnSkrupel} Salz
 - 1 Schluck Waskirer
 - Mandelcreme zum Dekorieren
 
