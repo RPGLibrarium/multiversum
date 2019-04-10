@@ -87,9 +87,7 @@ Testen Sie jetzt unser Wetter Wunderwerk und überzeugen sich selbst!
 \Verfasser{Richard}
 
 # Todesanzeigen
+## Ben Maurer (1945-2019)
 Vor einigen Tagen ist Bernd Müller bei einer "Tätigkeit" -- man könnte auch bei einem "Arbeitsunfall" -- verstorben. Sein sogenanntes "Leben" verbrachte er stets voller Emotionen. Seine eventuellen "Angehörigen" werden Björn Meier, wie soll man sagen, voraussichtlich vermissen. Sein facettenreiches Leben wird uns allen stets in Erinnerung bleiben, sofern wir es nicht vergessen. Seine "Kollegen" schätzen ihn für seine kreativen "Lösungsansätze" sehr und so wird er uns noch lange ein Vorbild sein.
 Möge seine "Seele" in "Frieden" ruhen.
-
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
+\Verfasser{Yoann}
