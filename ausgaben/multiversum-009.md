@@ -58,18 +58,18 @@ Die Bodirbirnen in kleine Stücke schneiden. Mehl, Sirup, Butter, Skyr und Eier 
 
 ## Gesucht: Entlaufener Hahn
 In der Nacht zum Mittwoch ist unser Hahn aus dem Hühnerstall auf der großen Wiese entlaufen.
-Er hört auf den Namen _Gacki_ und wurde erst letzte Woche zum "Hahn des Jahres 2019" gekürt.
-Zudem ist _Gacki_ als Top-Champion aus dem hiesigen Hahnenkampfring herausgegangen.
-Seien Sie bitte entsprechend vorsichtig im Umgang mit dem _Gacki_ und vermeiden Sie direkten Blickkontakt -- verständigen Sie umgehend die Behörden.
+Er hört auf den Namen _Gacky_ und wurde erst letzte Woche zum "Hahn des Jahres 2019" gekürt.
+Zudem ist _Gacky_ als Top-Champion aus dem hiesigen Hahnenkampfring herausgegangen.
+Seien Sie bitte entsprechend vorsichtig im Umgang mit dem _Gacky_ und vermeiden Sie direkten Blickkontakt -- verständigen Sie umgehend die Behörden.
 
 Zur Zeit gehen wir noch von einer bedauerlichen Schicksaalsfügung aus.
 Eine Beteiligung des organisierten Verbrechens kann jedoch nicht gänzlich ausgeschlossen werden.
 Die Polizei ist bereits eingeschaltet.
 
 Da es sich um den einzigen Hahn dieses Stalls handelt, steht die Existenz unserer, gerade erst durch Nachwuchs gewachsenen, Familie auf dem Spiel.
-Lilly, unsere Tochter, ist seit dem Verschwinden von _Gacki_ traumatisiert und hat ihr gesamtes Taschengeld (33,89 €) als Finderlohn ausgeschrieben.
+Lilly, unsere Tochter, ist seit dem Verschwinden von _Gacky_ traumatisiert und hat ihr gesamtes Taschengeld (33,89 €) als Finderlohn ausgeschrieben.
 
-Sollten Sie Hinweise auf den Verbleib von _Gacki_ haben, melden Sie sich bitte.
+Sollten Sie Hinweise auf den Verbleib von _Gacky_ haben, melden Sie sich bitte.
 Wichtige Hinweise werden großzügig entlohnt!
 \verfasser[Kobolde]{Richard}
 
