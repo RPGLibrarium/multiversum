@@ -16,7 +16,7 @@ losung: "Ich finde 'Hier könnte ihre Werbung stehen.' lame."
 ## Nichts
 Es begab sich an einem regnerischen Dienstag Nachmittag, als sich die Redaktion zusammen fand.
 Sie ließen einen prüfenden Blick durch verschiedene Welten schweifen und schrieben nieder, was sie sahen.
-Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während sich in all den fernen Welten große und kleine Ereignisse ch häuften, schien ihre eigene Welt trist und langweilig.
+Nach einiger Zeit bemerkten Sie jedoch, dass sie etwas übersehen hatten: Während sich in all den fernen Welten große und kleine Ereignisse häuften, schien ihre eigene Welt trist und langweilig.
 Es war nichts geschehen, über das sie hätten berichten können: Keine Versammlungen, keine Trinkgelage und auch keine Festlichkeiten.
 
 Doch statt in Trauer und Wehmut zu versinken, erfreuten sie sich wieder ferner Welten und vergaßen bald die graue Welt die sie umgab.
@@ -58,7 +58,7 @@ Die Bodirbirnen in kleine Stücke schneiden. Mehl, Sirup, Butter, Skyr und Eier 
 
 ## Gesucht: Entlaufener Hahn
 In der Nacht zum Mittwoch ist unser Hahn aus dem Hühnerstall auf der großen Wiese entlaufen.
-Er höhrt auf den Namen _Gacki_ und wurde erst letzte Woche zum "Hahn des Jahres 2019" gekürt.
+Er hört auf den Namen _Gacki_ und wurde erst letzte Woche zum "Hahn des Jahres 2019" gekürt.
 Zudem ist _Gacki_ als Top-Champion aus dem hiesigen Hahnenkampfring herausgegangen.
 Seien Sie bitte entsprechend vorsichtig im Umgang mit dem _Gacki_ und vermeiden Sie direkten Blickkontakt -- verständigen Sie umgehend die Behörden.
 
@@ -88,6 +88,6 @@ Testen Sie jetzt unser Wetter Wunderwerk und überzeugen sich selbst!
 
 # Todesanzeigen
 ## Ben Maurer (1945-2019)
-Vor einigen Tagen ist Bernd Müller bei einer "Tätigkeit" -- man könnte auch bei einem "Arbeitsunfall" -- verstorben. Sein sogenanntes "Leben" verbrachte er stets voller Emotionen. Seine eventuellen "Angehörigen" werden Björn Meier, wie soll man sagen, voraussichtlich vermissen. Sein facettenreiches Leben wird uns allen stets in Erinnerung bleiben, sofern wir es nicht vergessen. Seine "Kollegen" schätzen ihn für seine kreativen "Lösungsansätze" sehr und so wird er uns noch lange ein Vorbild sein.
+Vor einigen Tagen ist Bernd Müller bei einer "Tätigkeit" -- man könnte auch sagen bei einem "Arbeitsunfall" -- verstorben. Sein sogenanntes "Leben" verbrachte er stets voller Emotionen. Seine eventuellen "Angehörigen" werden Björn Meier, wie soll man sagen, voraussichtlich vermissen. Sein facettenreiches Leben wird uns allen stets in Erinnerung bleiben, sofern wir es nicht vergessen. Seine "Kollegen" schätzen ihn für seine kreativen "Lösungsansätze" sehr und so wird er uns noch lange ein Vorbild sein.
 Möge seine "Seele" in "Frieden" ruhen.
 \Verfasser{Yoann}
