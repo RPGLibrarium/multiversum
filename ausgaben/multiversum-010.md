@@ -61,10 +61,10 @@ Die ersten 24 Bestellungen erhalten gratis ein praktisches Lesezeichen aus umwel
 
 # Mehr Werbung
 Sie sind besorgt, eine konkurrierende Mega-Corp könnte sich Ihre Daten unter den Nagel reißen wollen?
-Sie wollen Ihrend Mitarbeitenden nicht grundlos wichtige Interna anvertrauen?
+Sie wollen Ihren Mitarbeitenden nicht grundlos wichtige Interna anvertrauen?
 
-Setzen Sie jetzt auf unsere
-\begin{center}neuartige Verschlüsselungstechnologie \textsc{VOIDCRYPT}!\end{center} \noindent
+Setzen Sie jetzt auf unsere neuartige Verschlüsselungstechnologie
+\begin{center} \textsc{VOIDCRYPT}!\end{center} \noindent
 
 Wir garantieren, dass der unberechtigte Zugriff auf Ihre Daten nicht möglich ist.
 Sogar anfallende Meta-Daten sind vor bösen Absichten geschützt!
@@ -72,12 +72,13 @@ Im Vergleich zu Konkurrenzprodukten konnten wir Performance-Vorteile, in Zeit- u
 Denken Sie immer daran, jeder Versuch, Ihre Daten zu lesen könnte potentiell ein unberechtigter sein.
 
 Kontaktieren Sie uns jetzt für eine Maßgeschneiderte Enterprise-Lösung.
-
+\Verfasser{Richard}
 
 # noch mehr Werbung
 \begin{center}\textsc{Choco Soi Extra Stark}\end{center} \noindent
 Jetzt neu, mit 200% mehr Geschmack bei 50% weniger Calorien.
 So sehr wurde Ihr Mund noch nie vom vollmundigem Geschmack der dunklen Köstlichkeit ausgefüllt.
+\Verfasser{Richard}
 
 # ... öhm ... auch noch Werbung
 Erhöhen auch Sie die Sicherheit Ihres Hab und Guts.
@@ -86,7 +87,7 @@ Sichern Sie Ihr Eigentum vor feindlichen Runnern und schützen Sie sich vor Übe
 erkennt vollautomatisch versuchtes Eindringen.
 Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen. ^[Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.]
 
-Profitieren Sie auch von unserer umfassenden Beratung.
+\Verfasser{Richard}
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
