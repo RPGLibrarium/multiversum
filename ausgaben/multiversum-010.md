@@ -1,5 +1,5 @@
 ---
-author: Richard
+author: Richard, Hanna
 date: Mai 2019
 ausgabe: 10
 balance: false
@@ -26,9 +26,10 @@ Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen T
 
 Also: Schön, dass Sie uns wieder lesen!
 
-## Workshop: ABC
-Lorem Ipsum
-\verfasser{Autor1}
+## Gesprächsrunde: Recht und Ordnung im Rollenspiel
+Ein paar von euch haben sich gewünscht, größere Gesprächsrunden abzuhalten. Unser letztes Treffen sollte eine solche werden. Es gibt gute und schlechte Nachrichten! Die Gute: die Runde war noch etwas größer als sonst, es finden zunehmend auch neue Leute zu uns. Denkt daran, jeder kann sich dazu setzen! Die schlechte Nachricht ist, dass die Runde glatt zu groß für ein einziges Gespräch geworden ist. Daher gab es zwei Runden, die neben Geplauder auch den philosophisch-moralischen Konzepten im Rollenspiel nachgegangen sind. Muss ein D&D Charakter, der Chaotic Evil ist, die Stadtwache verprügeln, nur weil sie dem Gesetz folgt? Oder ist das eher ein Anhaltspunkt, wie man seinen Charakter spielen kann? Und wie sieht das die Wache eigentlich? Spielt ihr mit Korruption und sind die "Helden" (hust) damit erfolgreich? Übergebt ihr die gefangene Hexe lieber der gottgegebenen Inquisition oder versteckt ihr sie vor der grausamen Obrigkeit? Und wer bestimmt in eurer Spielwelt, was Recht und Ordnung überhaupt ist?
+Neben allem Geplauder und den dazugehörigen Anekdoten aus dem Spiel kratzt man natürlich nur an der Oberfläche. Jeder Spielleiter sollte sich an irgendeinem Punkt mal überlegen, ob das Gesetz für seine Quest wichtig ist und falls ja, wer das denn kontrolliert und ob man seine Spieler in eine (moralisch richtige) Richtung lenken möchte. Spielen die Spieler einen schillernden Paladin des Ordens der Krone oder doch lieber einen wahnsinnigen Mörderhobo? Auch der Spieler fragt sich vielleicht manchmal, ob sein Charakter nun wirklich da einbrechen möchte. Das Thema dieses Gesprächsabends ist ein natürlicher Begleiter vieler Rollenspieler und beschäftigt uns sicher länger als einen Abend lang.
+\verfasser{Hanna}
 
 ## In der Redaktion
 Lorem Ipsum
