@@ -1,12 +1,12 @@
 ---
-author: Autor1, Autor2, Autor3
-date: Mai 2019 YYYY
+author: Richard
+date: Mai 2019
 ausgabe: 10
 balance: false
 termine:
-    - "Termin: DD.MM.YY, hh Uhr"
-    - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Dies ist ein zufälliger Losungstext"
+    - "Monatliches Treffen: 16.05.19, 19 Uhr"
+    - "Rollenspielabend mit FS I/1: 21.05.19, 18:30 Uhr"
+losung: "Ein Narr, wer Böses dabei denkt!"
 
 ---
 
