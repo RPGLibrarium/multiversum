@@ -73,6 +73,21 @@ Denken Sie immer daran, jeder Versuch, Ihre Daten zu lesen könnte potentiell ei
 
 Kontaktieren Sie uns jetzt für eine Maßgeschneiderte Enterprise-Lösung.
 
+
+# noch mehr Werbung
+\begin{center}\textsc{Choco Soi Extra Stark}\end{center} \noindent
+Jetzt neu, mit 200% mehr Geschmack bei 50% weniger Calorien.
+So sehr wurde Ihr Mund noch nie vom vollmundigem Geschmack der dunklen Köstlichkeit ausgefüllt.
+
+# ... öhm ... auch noch Werbung
+Erhöhen auch Sie die Sicherheit Ihres Hab und Guts.
+Sichern Sie Ihr Eigentum vor feindlichen Runnern und schützen Sie sich vor Übernahmen aus der Matrix.
+\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center} \noindent
+erkennt vollautomatisch versuchtes Eindringen.
+Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen. ^[Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.]
+
+Profitieren Sie auch von unserer umfassenden Beratung.
+
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
 
