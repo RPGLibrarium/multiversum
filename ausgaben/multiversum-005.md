@@ -37,7 +37,7 @@ Eins müssen du und die tapferen Held\*innen jedoch unbedingt beachten: Vor dem 
 
 Ich bete zu Zodiak, dass euch das gelingen möge -- du, lieber Praktikant, bist der einzige, die ich mit meiner Verkündigung erreichen konnte. Hier bei *InSpace Inc.* haben meine Kollegen mir ins Gesicht gelacht...
 
-\Verfasser{Mystischer und magischer Magier Mike,\\ Sternkundler Extraordinaire}
+\Verfasser{\vbox{Mystischer und magischer Magier Mike,\\ Sternkundler Extraordinaire}}
 
 # Tonaufnahme
 [Weißes rauschen im Hintergrund] Hallo, [Räuspern], mir bleibt nicht viel Zeit. Die anderen sind schon auf der anderen Seite. Wie fasse ich mich also am besten kurz? Hmm... Also. Irgendetwas...oder jemand... hat unsere Redaktionssitzung gesprengt. Also wirklich in die Luft gejagt... Plötzlich gab es einen lauten Knall und das Weltenkaleidoskop ist explodiert. Die Zeit steht irgendwie still... Oder ist... sehr viskos, sonst könnte ich ja nicht hier rein reden. Die Scherben schweben in der Mitte des Raumes und zwischen Ihnen bilden die Welten eine Art Fraktal. Anscheinend kann man hindurch gehen. Richard ist als erstes hindurch gestiegen und... Shit! Die Ränder lösen sich auf! Das Tor wird kleiner! Ich muss gehen. Ich hoffe jemand findet das Handy hier! [Knistern, Rauschen wird lauter, plötzliche Stille, dann Scheppern]
