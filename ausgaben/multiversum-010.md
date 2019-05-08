@@ -34,24 +34,35 @@ Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen T
 <!--Also:  Schön, dass Sie uns wieder lesen! -->
 
 ## Gesprächsrunde: Recht und Ordnung im Rollenspiel
-Ein paar von euch haben sich gewünscht, größere Gesprächsrunden abzuhalten. Unser letztes Treffen sollte eine solche werden. Es gibt gute und schlechte Nachrichten! Die Gute: die Runde war noch etwas größer als sonst, es finden zunehmend auch neue Leute zu uns. Denkt daran, jeder kann sich dazu setzen! Die schlechte Nachricht ist, dass die Runde glatt zu groß für ein einziges Gespräch geworden ist. Daher gab es zwei Runden, die neben Geplauder auch den philosophisch-moralischen Konzepten im Rollenspiel nachgegangen sind. Muss ein D&D Charakter, der Chaotic Evil ist, die Stadtwache verprügeln, nur weil sie dem Gesetz folgt? Oder ist das eher ein Anhaltspunkt, wie man seinen Charakter spielen kann? Und wie sieht das die Wache eigentlich? Spielt ihr mit Korruption und sind die "Helden" (hust) damit erfolgreich? Übergebt ihr die gefangene Hexe lieber der gottgegebenen Inquisition oder versteckt ihr sie vor der grausamen Obrigkeit? Und wer bestimmt in eurer Spielwelt, was Recht und Ordnung überhaupt ist?
-Neben allem Geplauder und den dazugehörigen Anekdoten aus dem Spiel kratzt man natürlich nur an der Oberfläche. Jeder Spielleiter sollte sich an irgendeinem Punkt mal überlegen, ob das Gesetz für seine Quest wichtig ist und falls ja, wer das denn kontrolliert und ob man seine Spieler in eine (moralisch richtige) Richtung lenken möchte. Spielen die Spieler einen schillernden Paladin des Ordens der Krone oder doch lieber einen wahnsinnigen Mörderhobo? Auch der Spieler fragt sich vielleicht manchmal, ob sein Charakter nun wirklich da einbrechen möchte. Das Thema dieses Gesprächsabends ist ein natürlicher Begleiter vieler Rollenspieler und wird uns sicher länger als diesen einen Abend beschäftigen.
+Ein paar von euch haben sich gewünscht, größere Gesprächsrunden abzuhalten. Unser letztes Treffen sollte eine solche werden. Es gibt gute und schlechte Nachrichten!
+Die Gute: die Runde war noch etwas größer als sonst, es finden zunehmend auch neue Leute zu uns. Denkt daran, jeder kann sich dazu setzen!
+Die schlechte Nachricht ist, dass die Runde glatt zu groß für ein einziges Gespräch geworden ist.
+Daher gab es zwei Runden, die neben Geplauder auch den philosophisch-moralischen Konzepten im Rollenspiel nachgegangen sind.
+Muss ein D&D Charakter, der Chaotic Evil ist, die Stadtwache verprügeln, nur weil sie dem Gesetz folgt?
+Oder ist das eher ein Anhaltspunkt, wie man seinen Charakter spielen kann?
+Und wie sieht das die Wache eigentlich?
+Spielt ihr mit Korruption und sind die "Helden" (hust) damit erfolgreich?
+Übergebt ihr die gefangene Hexe lieber der gottgegebenen Inquisition oder versteckt ihr sie vor der grausamen Obrigkeit?
+Und wer bestimmt in eurer Spielwelt, was Recht und Ordnung überhaupt ist?
+
+Neben allem Geplauder und den dazugehörigen Anekdoten aus dem Spiel kratzt man natürlich nur an der Oberfläche.
+Jeder Spielleiter sollte sich an irgendeinem Punkt mal überlegen, ob das Gesetz für seine Quest wichtig ist und falls ja, wer das denn kontrolliert und ob man seine Spieler in eine (moralisch richtige) Richtung lenken möchte.
+Spielen die Spieler einen schillernden Paladin des Ordens der Krone oder doch lieber einen wahnsinnigen Mörderhobo?
+Auch der Spieler fragt sich vielleicht manchmal, ob sein Charakter nun wirklich da einbrechen möchte.
+Das Thema dieses Gesprächsabends ist ein natürlicher Begleiter vieler Rollenspieler und wird uns sicher länger als diesen einen Abend beschäftigen.
 \verfasser{Hanna}
 
 \vfill
 
 # An einem anderen Ort
 Sehr Geehrte Damen und Herren, willkommen bei DMK alpha.
-Mein Name ist Stephanie Graf und ich berichte live für Sie von einem Großeinsatz der Kriminalpolizei Köln.
-Die Beamten sind kurz davor das Hauptquatier einer hoch gefährlichen Runnergruppe, welche alleine im Großraum Köln für über 40 Tote verantwortlich ist, im Neubaugebiet Sophiental auszunehmen.
-In wenigen Minuten beginnt der Einsatz, bleiben sie dran!
+Mein Name ist Stephanie Graf und ich berichte exklsive live für Sie aus dem Neubaugebiet Sophiental. In einem Großeinsatz der Kriminalpolizei Köln wird hier in wenigen Minuten das Hauptquatier einer hoch gefährlichen Runnergruppe, welche alleine im Großraum Köln für über 40 Tote verantwortlich ist, hochgenommen. In wenigen Minuten beginnt der Einsatz, es wird spannend, bleiben sie dran!
 
 ```{=tex}
 \vspace{-.5em}\begin{snugshade}
 ```
-<!-- ## Werbung -->
 \begin{center}\textsc{Choco Soi Extra Stark} \vspace{-1em}\end{center} \noindent
-Jetzt neu, mit 200% mehr Geschmack bei 50% weniger Calorien.
+Jetzt neu, mit 200% mehr Geschmack bei 50% weniger Calorien und 15% Kakao!
 So sehr wurde Ihr Mund noch nie vom vollmundigem Geschmack der dunklen Köstlichkeit ausgefüllt.
 
 ```{=tex}
@@ -84,9 +95,9 @@ Die neuartige Verschlüsselungstechnologie garantiert 100%ige Sicherheit vor bö
 ```
 
 ## Jetzt geht's weiter bei DMK alpha!
-Soo, gleich sollte es los gehen--- Oh sind wir schon live?
+Soo, gleich sollte es los gehen. Jan du musst gleich--- Oh sind wir schon live?
 
-Im Hintergrund können Sie beobachten, wie ein geschultes Einsatzteam die Haustür mit einem 5 Zentner schweren Rammbock aufbricht. Nur die neuste Sicherheitsverriegelung kann einem solchen Gerät standhalten.
+Meine Damen und Herren, willkommen zurück bei DMK alpha. Im Hintergrund können Sie beobachten, wie ein geschultes Einsatzteam die Haustür mit einem 5 Zentner schweren Rammbock aufbricht. Nur die neuste Sicherheitsverriegelung kann einem solchen Gerät standhalten.
 
 Ich werde nun mein Leben für Sie in Gefahr bringen und den Polizisten live bei ihrem Einsatz beistehen.
 Folgen Sie mir. So unscheinbar das auch wirkt, bereits an diesem kargen Flur können wir die Professionalität des Runnerteams erkennen. Eine klare Standardeinrichtung, weder in der AR noch im RL wurde das Haus personalisiert.
@@ -109,7 +120,7 @@ Werfen sie gleich mit mir einen exklusiven Blick in ein das Schlafzimmer eines S
 \noindent
 Schützen Sie sich und Ihr Eigentum!
 \begin{center}\vspace{-.75em}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
-erkennt vollautomatisch versuchtes Eindringen.
+erkennt vollautomatisch unerwünschtes Eindringen.
 Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen.
 
 \noindent\footnotesize Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.
