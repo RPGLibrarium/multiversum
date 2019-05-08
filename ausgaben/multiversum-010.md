@@ -55,7 +55,7 @@ Jetzt neu, mit 200% mehr Geschmack bei 50% weniger Calorien.
 So sehr wurde Ihr Mund noch nie vom vollmundigem Geschmack der dunklen Köstlichkeit ausgefüllt.
 
 ```{=tex}
-\end{snugshade}\vspace{-1em}
+\end{snugshade}\vspace{-.5em}
 ```
 
 ## Jetzt geht's weiter bei DMK alpha!
@@ -80,7 +80,7 @@ Setzen Sie jetzt auf
 \begin{center}\vspace*{-.75em} \textsc{VOIDCRYPT}!\end{center}\vspace*{-.75em} \noindent
 Die neuartige Verschlüsselungstechnologie garantiert 100%ige Sicherheit vor bösartigem Zugriff für all Ihre Daten (und Metadaten). Denken Sie immer daran: jeder Versuch, Ihre Daten zu lesen könnte ein unberechtigter sein. Genießen Sie 99% Performance-Vorteil im Vergleich zur Konkurenz mit unserer maßgeschneiderten Enterprise-Lösung.
 ```{=tex}
-\end{snugshade}\vspace{-1em}
+\end{snugshade}\vspace{-.5em}
 ```
 
 ## Jetzt geht's weiter bei DMK alpha!
@@ -107,13 +107,14 @@ Werfen sie gleich mit mir einen exklusiven Blick in ein das Schlafzimmer eines S
 ```
 <!-- ## Werbung -->
 \noindent
-Schützen Sie sich und ihr Eigentum vor Eindringlingen!
-\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
+Schützen Sie sich und Ihr Eigentum!
+\begin{center}\vspace{-.75em}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
 erkennt vollautomatisch versuchtes Eindringen.
-Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen.\footnotemark
+Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen.
+
+\noindent\footnotesize Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.
 ```{=tex}
-\end{snugshade}\vspace{1em}
-\footnotetext{Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.}
+\end{snugshade}\vspace{-.5em}
 ```
 
 ## Jetzt geht's weiter bei DMK alpha!
