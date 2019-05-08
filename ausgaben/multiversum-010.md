@@ -9,6 +9,11 @@ termine:
 losung: "Ein Narr, wer Böses dabei denkt!"
 
 ---
+
+```{=tex}
+\definecolor{shadecolor}{gray}{0.9}
+```
+
 # Was bisher geschah...
 <!--
 Werte Lesende,
@@ -33,17 +38,25 @@ Ein paar von euch haben sich gewünscht, größere Gesprächsrunden abzuhalten. 
 Neben allem Geplauder und den dazugehörigen Anekdoten aus dem Spiel kratzt man natürlich nur an der Oberfläche. Jeder Spielleiter sollte sich an irgendeinem Punkt mal überlegen, ob das Gesetz für seine Quest wichtig ist und falls ja, wer das denn kontrolliert und ob man seine Spieler in eine (moralisch richtige) Richtung lenken möchte. Spielen die Spieler einen schillernden Paladin des Ordens der Krone oder doch lieber einen wahnsinnigen Mörderhobo? Auch der Spieler fragt sich vielleicht manchmal, ob sein Charakter nun wirklich da einbrechen möchte. Das Thema dieses Gesprächsabends ist ein natürlicher Begleiter vieler Rollenspieler und wird uns sicher länger als diesen einen Abend beschäftigen.
 \verfasser{Hanna}
 
+\vfill
+
 # An einem anderen Ort
 Sehr Geehrte Damen und Herren, willkommen bei DMK alpha.
 Mein Name ist Stephanie Graf und ich berichte live für Sie von einem Großeinsatz der Kriminalpolizei Köln.
 Die Beamten sind kurz davor das Hauptquatier einer hoch gefährlichen Runnergruppe, welche alleine im Großraum Köln für über 40 Tote verantwortlich ist, im Neubaugebiet Sophiental auszunehmen.
 In wenigen Minuten beginnt der Einsatz, bleiben sie dran!
 
-\vspace{-1em}
-## Werbung
+```{=tex}
+\begin{snugshade}
+```
+<!-- ## Werbung -->
 \begin{center}\textsc{Choco Soi Extra Stark} \vspace{-1em}\end{center} \noindent
 Jetzt neu, mit 200% mehr Geschmack bei 50% weniger Calorien.
 So sehr wurde Ihr Mund noch nie vom vollmundigem Geschmack der dunklen Köstlichkeit ausgefüllt.
+
+```{=tex}
+\end{snugshade}
+```
 
 \vspace{-1em}
 ## Jetzt geht's weiter bei DMK alpha!
@@ -58,11 +71,17 @@ Alle Kriminellen hinterlassen Spuren und auch in diesem Fall, konnten wir dank d
 ---Meine Damen und Herren, es wird jeden Moment los gehen.
 Doch nun eine kurze Werbepause.
 
-## Werbung
+```{=tex}
+\begin{snugshade}
+```
+<!-- ## Werbung -->
 Eine konkurrierende Mega-Corp könnte sich Ihre Daten unter den Nagel reißen und sie wollen Ihren Mitarbeitenden nicht grundlos wichtige Interna anvertrauen?
 Setzen Sie jetzt auf
 \begin{center}\vspace*{-.75em} \textsc{VOIDCRYPT}!\end{center}\vspace*{-.75em} \noindent
 Die neuartige Verschlüsselungstechnologie garantiert 100%ige Sicherheit vor bösartigem Zugriff für all Ihre Daten (und Metadaten). Denken Sie immer daran: jeder Versuch, Ihre Daten zu lesen könnte ein unberechtigter sein. Genießen Sie 99% Performance-Vorteil im Vergleich zur Konkurenz mit unserer maßgeschneiderten Enterprise-Lösung.
+```{=tex}
+\end{snugshade}
+```
 
 ## Jetzt geht's weiter bei DMK alpha!
 Soo, gleich sollte es los gehen--- Oh sind wir schon live?
@@ -83,11 +102,17 @@ Als charismatische Strippenzieherin, dem sogenannten Face, ist Sie für Verhandl
 Im Kampf hält Sie sich im Hintergrund, denn Sie wurde wahrscheinlich nicht im Waffengebrauch ausgebildet.
 Werfen sie gleich mit mir einen exklusiven Blick in ein das Schlafzimmer eines Shadowrunners.
 
-## Werbung
+```{=tex}
+\begin{snugshade}
+```
+<!-- ## Werbung -->
 Schützen Sie sich und ihr Eigentum vor Eindringlingen
 \vspace*{-.75em}\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
 erkennt vollautomatisch versuchtes Eindringen.
 Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen. ^[Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.]
+```{=tex}
+\end{snugshade}
+```
 
 ## Jetzt geht's weiter bei DMK alpha!
 Hier sehen Sie das Zimmer vom sogenannten Straßensamurai der Gruppe.
