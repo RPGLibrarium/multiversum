@@ -146,7 +146,7 @@ Auch wenn Magier selten an der Front zu sehen sind, können Sie ihren Opfer in S
 Nehmen Sie sich auch vor ihm in Acht, er könnte ihre Gedanken manipulieren.
 Rufen Sie umgehend die Polizei, falls ihnen dieser Zwerg oder ein anderes Mitglied der Gruppe über den Weg läuft.
 
-Mein Name ist Stephanie Graf, exklusiv für sie live vor Ort! Es folgt eine Reportage über die Anschläge auf den Ares Tower bleiben Sie dran!
+Mein Name ist Stephanie Graf, exklusiv für sie live vor Ort! Es folgt eine Reportage über die Anschläge auf den Knight Tower bleiben Sie dran!
 \Verfasser[SR 5]{Reportage: Yoann \& Werbung: Richard}
 
 <!--
