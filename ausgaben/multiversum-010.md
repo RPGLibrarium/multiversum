@@ -59,7 +59,7 @@ Alle Kriminellen hinterlassen Spuren und auch in diesem Fall, konnten wir dank d
 Doch nun eine kurze Werbepause.
 
 ## Werbung
-Eine konkurrierende Mega-Corp könnte sich Ihre Daten unter den Nagel reißen wollen und sie wollen Ihren Mitarbeitenden nicht grundlos wichtige Interna anvertrauen?
+Eine konkurrierende Mega-Corp könnte sich Ihre Daten unter den Nagel reißen und sie wollen Ihren Mitarbeitenden nicht grundlos wichtige Interna anvertrauen?
 Setzen Sie jetzt auf
 \begin{center} \textsc{VOIDCRYPT}!\end{center} \noindent
 Die neuartige Verschlüsselungstechnologie garantiert 100%ige Sicherheit vor bösartigem Zugriff für all ihre Daten (und Metadaten). Denken Sie immer daran: jeder Versuch, Ihre Daten zu lesen könnte ein unberechtigter sein. Genießen Sie 99% Performance Vorteil im Vergleich zur Konkurenz mit unserer maßgeschneiderten Enterprise-Lösung.
