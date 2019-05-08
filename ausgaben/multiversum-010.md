@@ -9,8 +9,8 @@ termine:
 losung: "Ein Narr, wer Böses dabei denkt!"
 
 ---
-<!--
 # Was bisher geschah...
+<!--
 Werte Lesende,
 
 so sehen wir uns also wieder.
@@ -61,8 +61,8 @@ Doch nun eine kurze Werbepause.
 ## Werbung
 Eine konkurrierende Mega-Corp könnte sich Ihre Daten unter den Nagel reißen und sie wollen Ihren Mitarbeitenden nicht grundlos wichtige Interna anvertrauen?
 Setzen Sie jetzt auf
-\begin{center} \textsc{VOIDCRYPT}!\end{center} \noindent
-Die neuartige Verschlüsselungstechnologie garantiert 100%ige Sicherheit vor bösartigem Zugriff für all ihre Daten (und Metadaten). Denken Sie immer daran: jeder Versuch, Ihre Daten zu lesen könnte ein unberechtigter sein. Genießen Sie 99% Performance Vorteil im Vergleich zur Konkurenz mit unserer maßgeschneiderten Enterprise-Lösung.
+\begin{center}\vspace*{-.75em} \textsc{VOIDCRYPT}!\end{center}\vspace*{-.75em} \noindent
+Die neuartige Verschlüsselungstechnologie garantiert 100%ige Sicherheit vor bösartigem Zugriff für all Ihre Daten (und Metadaten). Denken Sie immer daran: jeder Versuch, Ihre Daten zu lesen könnte ein unberechtigter sein. Genießen Sie 99% Performance-Vorteil im Vergleich zur Konkurenz mit unserer maßgeschneiderten Enterprise-Lösung.
 
 ## Jetzt geht's weiter bei DMK alpha!
 Soo, gleich sollte es los gehen--- Oh sind wir schon live?
@@ -85,7 +85,7 @@ Werfen sie gleich mit mir einen exklusiven Blick in ein das Schlafzimmer eines S
 
 ## Werbung
 Schützen Sie sich und ihr Eigentum vor Eindringlingen
-\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center} \noindent
+\vspace*{-.75em}\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
 erkennt vollautomatisch versuchtes Eindringen.
 Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen. ^[Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.]
 
