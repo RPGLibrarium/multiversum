@@ -47,7 +47,7 @@ Die Beamten sind kurz davor das Hauptquatier einer hoch gefährlichen Runnergrup
 In wenigen Minuten beginnt der Einsatz, bleiben sie dran!
 
 ```{=tex}
-\begin{snugshade}
+\vspace{-.5em}\begin{snugshade}
 ```
 <!-- ## Werbung -->
 \begin{center}\textsc{Choco Soi Extra Stark} \vspace{-1em}\end{center} \noindent
@@ -55,10 +55,9 @@ Jetzt neu, mit 200% mehr Geschmack bei 50% weniger Calorien.
 So sehr wurde Ihr Mund noch nie vom vollmundigem Geschmack der dunklen Köstlichkeit ausgefüllt.
 
 ```{=tex}
-\end{snugshade}
+\end{snugshade}\vspace{-1em}
 ```
 
-\vspace{-1em}
 ## Jetzt geht's weiter bei DMK alpha!
 ---Wir sprechen nun live mit dem Kriminaloberinspektor Elias Wolff, der für die Ermittlungen in diesem Fall zuständig war.
 Herr Wolff, wie sind Sie diesen Terroristen auf die Schliche gekommen?  
@@ -72,7 +71,7 @@ Alle Kriminellen hinterlassen Spuren und auch in diesem Fall, konnten wir dank d
 Doch nun eine kurze Werbepause.
 
 ```{=tex}
-\begin{snugshade}
+\vspace{-.5em}\begin{snugshade}
 ```
 <!-- ## Werbung -->
 \noindent
@@ -81,7 +80,7 @@ Setzen Sie jetzt auf
 \begin{center}\vspace*{-.75em} \textsc{VOIDCRYPT}!\end{center}\vspace*{-.75em} \noindent
 Die neuartige Verschlüsselungstechnologie garantiert 100%ige Sicherheit vor bösartigem Zugriff für all Ihre Daten (und Metadaten). Denken Sie immer daran: jeder Versuch, Ihre Daten zu lesen könnte ein unberechtigter sein. Genießen Sie 99% Performance-Vorteil im Vergleich zur Konkurenz mit unserer maßgeschneiderten Enterprise-Lösung.
 ```{=tex}
-\end{snugshade}
+\end{snugshade}\vspace{-1em}
 ```
 
 ## Jetzt geht's weiter bei DMK alpha!
@@ -104,16 +103,17 @@ Im Kampf hält Sie sich im Hintergrund, denn Sie wurde wahrscheinlich nicht im W
 Werfen sie gleich mit mir einen exklusiven Blick in ein das Schlafzimmer eines Shadowrunners.
 
 ```{=tex}
-\begin{snugshade}
+\vspace{-.5em}\begin{snugshade}
 ```
 <!-- ## Werbung -->
 \noindent
 Schützen Sie sich und ihr Eigentum vor Eindringlingen!
-\vspace*{-.75em}\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
+\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
 erkennt vollautomatisch versuchtes Eindringen.
-Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen. ^[Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.]
+Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen.\footnotemark
 ```{=tex}
-\end{snugshade}
+\end{snugshade}\vspace{1em}
+\footnotetext{Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.}
 ```
 
 ## Jetzt geht's weiter bei DMK alpha!
