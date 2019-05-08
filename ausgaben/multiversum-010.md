@@ -75,6 +75,7 @@ Doch nun eine kurze Werbepause.
 \begin{snugshade}
 ```
 <!-- ## Werbung -->
+\noindent
 Eine konkurrierende Mega-Corp könnte sich Ihre Daten unter den Nagel reißen und sie wollen Ihren Mitarbeitenden nicht grundlos wichtige Interna anvertrauen?
 Setzen Sie jetzt auf
 \begin{center}\vspace*{-.75em} \textsc{VOIDCRYPT}!\end{center}\vspace*{-.75em} \noindent
@@ -106,7 +107,8 @@ Werfen sie gleich mit mir einen exklusiven Blick in ein das Schlafzimmer eines S
 \begin{snugshade}
 ```
 <!-- ## Werbung -->
-Schützen Sie sich und ihr Eigentum vor Eindringlingen
+\noindent
+Schützen Sie sich und ihr Eigentum vor Eindringlingen!
 \vspace*{-.75em}\begin{center}\textsc{SmarTRIX-Home-PROtect}\end{center}\vspace*{-.75em} \noindent
 erkennt vollautomatisch versuchtes Eindringen.
 Sie werden umgehend benachrichtigt und können sowohl die physische als auch digitale Aktiv-Verteidigung auslösen. ^[Wir kommen auch der rechtlichen Pflicht nach, den Angreifenden im Anschluss Anlaufstellen zur medizinischen Erstversorgung zu nennen.]
