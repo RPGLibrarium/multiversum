@@ -5,7 +5,7 @@ ausgabe: 10
 balance: false
 termine:
     - "Monatliches Treffen: 16.05.19, 19 Uhr"
-    - "Rollenspielabend mit FS I/1: 21.05.19, 18:30 Uhr"
+    - "RPG-Abend mit FS I/1: 21.05.19, 18:30 Uhr"
 losung: "Ein Narr, wer Böses dabei denkt!"
 
 ---
