@@ -6,14 +6,14 @@ balance: false
 termine:
     - "Monatliches Treffen: 16.06.2019, 19 Uhr"
     - "Kölsche Legenden: 20.06.2019"
-losung: ""
+losung: "\"So ist das Leben und das Leben ist manchmal riskant.\" - Martin Schneider, Autodieb"
 
 ---
-# Was bisher geschah...
+# Aus der Redaktion...
 Werte Lesende,
 
 so sehen wir uns also wieder.
-Lange ist es her -- so würde man wohl üblicherweise sagen, aber dem ist nicht so.
+"Lange ist es her", so würde man wohl üblicherweise sagen, aber dem ist nicht so.
 
 Wir sind bemüht, den Informationsfluss stets aufrecht zu erhalten.
 Daher berichten wir möglichst vollständig und zeitnah von den Geschehnissen in allen Teilen des Multiversums.
@@ -21,11 +21,9 @@ Und dort hat sich einiges zugetragen!
 So kommt es, dass wir nun schon nach kurzer Zeit erneut zur Druckerpresse greifen, um Ihnen aus fernen Welten zu berichten.
 
 Der schieren Masse wegen können wir aber nicht immer auch von Ihrer Lieblingswelt berichten, seien sie deshalb aber nicht betrübt: Bereits in der nächsten Ausgabe könnte wieder ein entsprechender Artikel veröffentlicht werden.
-Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen Tipp für die nächste große Story haben, dann zögern Sie nicht uns zu schreiben.-
+Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen Tipp für die nächste große Story haben, dann zögern Sie nicht uns zu schreiben.
 
-Also:  Schön, dass Sie uns wieder lesen!
-
-<!-- Gerade bei einer derart einseitigen Berichterstattung würde es sich anbieten, den obigen Paragraphen doch zu verwenden.-->
+<!--Also: Schön, dass Sie uns wieder lesen! -->
 
 # Regeln
 ```{=tex}
@@ -33,14 +31,14 @@ Also:  Schön, dass Sie uns wieder lesen!
 ```
 Boxer der alte Ackergaul hat dem Bauer Jones lange Jahre gute Dienste geleistet. Beim Bestellen der Felder hat er sich vor zwei Wochen den Knöchel verstaucht. Der Veterinär war bereits zweimal da, aber die Verletzung ist zu kompliziert für ihn.
 Heute kam der Abdecker mit einem Lieferwagen und hat Boxer mitgenommen. Ihr Tiere habt ihn erst für einen Krankenwagen des Pferdekrankenhauses gehalten, bis Maunzi, die Katze die Aufschrift entziffern konnte:
-"Leimfabrik F.W Weiss und Sohn m.b.H, Fernspr. 24, Hilchenbach i. Westf."
+"Leimfabrik F.W. Weiss und Sohn m.b.H, Fernspr. 24, Hilchenbach i. Westf."
 
 **Ihr seid die Tiere der Farm und müsst Boxer aus der Leimfabrik retten!**
 
 Welche Gefahren liegen vor euch?
-Wird es den Tieren gelingen Bauer Jones zu übermannen?
-Schaffen sie es rechtzeitig in die Leimfabrik und welche Gefahren lauern auf dem Weg dorthin?
-Wird die Farm ein sozialistisches Utopia, in der alle Tiere gleich sind?
+Wird es euch gelingen Bauer Jones zu übermannen?
+Schafft ihr es rechtzeitig in die Leimfabrik und welche Gefahren lauern auf dem Weg dorthin?
+Wird die Farm ein sozialistisches Utopia, auf der alle Tiere gleich sind?
 Nur ihr könnt es herausfinden!
 
 ## Charaktererstellung
@@ -62,10 +60,10 @@ Jeder Spieler spielt ein Tier auf der Farm. Schreib seinen Namen auf ein Blatt P
 - Spielercharaktere starten mit einem Skill: “Etwas tun 1”
 - Sag, was du tun willst und roll eine Anzahl W6 wie auf dem Charakterblatt.
 - Falls die Summe größer ist, als die des Spielleiters passiert, was du wolltest.
-- Die Anzahl w6 wird durch die Skill-Stufe bestimmt.
+- Die Anzahl W6 wird durch die Skill-Stufe bestimmt.
 - Falls alle Würfel sechs zeigen, kannst du einen Skill hinzufügen mit einer Stufe höher, als der gewürfelte. Der neue Skill muss die spezielle Situation abbilden, die gerade passiert ist.
 - Für jede gescheiterte Probe, erhalte einen XP.
-- XP kann Würfel zu einer Sechs drehen, allerdings nur um neue Skills zu lernen, das Ergebnis bleibt gleich.
+- XP können Würfel zu einer Sechs drehen, allerdings nur um neue Skills zu lernen, das Ergebnis bleibt gleich.
 
 \subsection[Beispielcharaktere]{Beispielcharaktere\footnote{nach ein bisschen Spielzeit}}
 
@@ -78,8 +76,7 @@ Flattern: 2 & Wildes Getrampel: 2\\
 Luftangriff: 3 & \enquote{Kaarl, das tötet Menschen}: 3\\
 Road Runner: 2 & \\ \hline
 \end{tabular}
-
-\vspace{1em}
+\vspace{0.5em}
 \Verfasser{Patrick}
 
 ## Pro-Wrestler begeistern Newark
@@ -94,7 +91,7 @@ Als Abschluss des Abends schockierten Davov Extreme und LA mit einer widerlichen
 \begin{center}
 \textit{Copilotin, Assistenzärztin, Schrecken aller Nexu} \\
 \textasteriskcentered{} ? (Rodia) \\
-\textdagger{} 19 I. (Cholganna))
+\textdagger{} 19 I. (Cholganna)
 \end{center}
 \vspace{-2em}
 
@@ -143,7 +140,7 @@ Das Kopfgeld ist hinterlegt bei Notar Dr. Fürchtegut in Postfach 92620, 42112 C
 # Werbung
 Wünschen Sie sich auch manchmal, Sie hätten mehr Tage pro Woche zur Verfügung?
 _Kalender Kunibert_ hilft Ihnen, sich wieder neu zu fokussieren.
-Durch das innovative one-day-at-a-time System, braucht sie nie wieder zu sorgen, was gestern war, oder morgen sein wird.
+Durch das innovative one-day-at-a-time System, braucht sie sich nie wieder zu sorgen, was gestern war, oder morgen sein wird.
 Lenken sie ihre volle Energie auf das Jetzt!
 
 Wie das funktioniert: jede Seite ist mit "heute" beschriftet und mit einer Beschichtung versehen, die die Seite nach 24h von alleine auflöst.
