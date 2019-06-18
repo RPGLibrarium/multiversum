@@ -4,8 +4,8 @@ date: Juni 2019
 ausgabe: 11
 balance: false
 termine:
-    - "Monatliches Treffen: 16.06.2019, 19 Uhr"
     - "Kölsche Legenden: 20.06.2019"
+    - "Monatliches Treffen: 16.07.2019, 19 Uhr"
 losung: "\"So ist das Leben und das Leben ist manchmal riskant.\" - Martin Schneider, Autodieb"
 
 ---
@@ -20,7 +20,7 @@ Daher berichten wir möglichst vollständig und zeitnah von den Geschehnissen in
 Und dort hat sich einiges zugetragen!
 So kommt es, dass wir nun schon nach kurzer Zeit erneut zur Druckerpresse greifen, um Ihnen aus fernen Welten zu berichten.
 
-Der schieren Masse wegen können wir aber nicht immer auch von Ihrer Lieblingswelt berichten, seien sie deshalb aber nicht betrübt: Bereits in der nächsten Ausgabe könnte wieder ein entsprechender Artikel veröffentlicht werden.
+Der schieren Masse wegen können wir aber nicht immer auch von Ihrer Lieblingswelt berichten, seien Sie deshalb aber nicht betrübt: Bereits in der nächsten Ausgabe könnte wieder ein entsprechender Artikel veröffentlicht werden.
 Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen Tipp für die nächste große Story haben, dann zögern Sie nicht uns zu schreiben.
 
 <!--Also: Schön, dass Sie uns wieder lesen! -->
@@ -30,7 +30,7 @@ Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen T
 \subsection[Roll for Hooves]{ Roll for Hooves - ein minimales Rollenspiel\footnote{oder Setting für \enquote{Roll for Shoes}}}
 ```
 Boxer der alte Ackergaul hat dem Bauer Jones lange Jahre gute Dienste geleistet. Beim Bestellen der Felder hat er sich vor zwei Wochen den Knöchel verstaucht. Der Veterinär war bereits zweimal da, aber die Verletzung ist zu kompliziert für ihn.
-Heute kam der Abdecker mit einem Lieferwagen und hat Boxer mitgenommen. Ihr Tiere habt ihn erst für einen Krankenwagen des Pferdekrankenhauses gehalten, bis Maunzi, die Katze die Aufschrift entziffern konnte:
+Heute kam der Abdecker mit einem Lieferwagen und hat Boxer mitgenommen. Ihr Tiere habt ihn erst für einen Krankenwagen des Pferdekrankenhauses gehalten, bis Maunzi, die Katze, die Aufschrift entziffern konnte:
 "Leimfabrik F.W. Weiss und Sohn m.b.H, Fernspr. 24, Hilchenbach i. Westf."
 
 **Ihr seid die Tiere der Farm und müsst Boxer aus der Leimfabrik retten!**
@@ -58,10 +58,10 @@ Jeder Spieler spielt ein Tier auf der Farm. Schreib seinen Namen auf ein Blatt P
 \end{tabular*}
 ## Sonderregeln
 - Spielercharaktere starten mit einem Skill: “Etwas tun 1”
-- Sag, was du tun willst und roll eine Anzahl W6 wie auf dem Charakterblatt.
-- Falls die Summe größer ist, als die des Spielleiters passiert, was du wolltest.
+- Sag was du tun willst und roll eine Anzahl W6 wie auf dem Charakterblatt.
+- Falls die Summe größer ist als die des Spielleiters, passiert was du wolltest.
 - Die Anzahl W6 wird durch die Skill-Stufe bestimmt.
-- Falls alle Würfel sechs zeigen, kannst du einen Skill hinzufügen mit einer Stufe höher, als der gewürfelte. Der neue Skill muss die spezielle Situation abbilden, die gerade passiert ist.
+- Falls alle Würfel sechs zeigen kannst du einen Skill mit einer Stufe höher als die des gewürfelten hinzufügen. Der neue Skill muss die spezielle Situation abbilden, die gerade passiert ist.
 - Für jede gescheiterte Probe, erhalte einen XP.
 - XP können Würfel zu einer Sechs drehen, allerdings nur um neue Skills zu lernen, das Ergebnis bleibt gleich.
 
@@ -80,7 +80,7 @@ Road Runner: 2 & \\ \hline
 \Verfasser{Patrick}
 
 ## Pro-Wrestler begeistern Newark
-Die World Wide Wrestling hat in der Nacht zum Freitag wieder ein Wrestlingfeuerwerk abgebrannt. Innerhalb eines Käfigs aus 4 Tonnen amerikanischen Stahls besiegten Tony Sunshine, der genderfluide Italiener und Boris, der Russe unsere patriotischen Helden Starburst und Goldiboy. Das sind schlechte Zeichen für das Match um den WWW-World Champion Titel zwischen Tony und Starburst nächsten Monat bei WrestleCraze XII.
+Die World Wide Wrestling hat in der Nacht zum Freitag wieder ein Wrestlingfeuerwerk abgebrannt. Innerhalb eines Käfigs aus 4 Tonnen amerikanischem Stahl besiegten Tony Sunshine, der genderfluide Italiener, und Boris, der Russe, unsere patriotischen Helden Starburst und Goldiboy. Das sind schlechte Zeichen für das Match um den WWW-World Champion Titel zwischen Tony und Starburst nächsten Monat bei WrestleCraze XII.
 
 Als Abschluss des Abends schockierten Davov Extreme und LA mit einer widerlichen Zurschaustellung sinnloser Gewalt das Publikum. LA wurde während des Matches verbrannt und mit voller Wucht auf Offbrand-Klickbausteine geworfen! Nach dem Kampf wurde LA unter Blaulicht in eine lokale medizinische Einrichtung gebracht.
 \zeitung{Newark, New Jersey}
@@ -132,7 +132,7 @@ Gestern Nacht ist Zmoathmalkul uns explodiert.\\
 \verfasser[Star Wars: Am Rande des Imperiums]{Franca}
 
 ## Ironischer Zwischenfall in Space.
-Bekanter Weltraumreder Ritter Theodor von Kruppstein bei bizarrem Unfall auf dem Weg aus dem Delta-Sektor nach Capital-City verschollen. Seine letzten Worte erreichten uns in einem Notruf aus dem $\gamma$-subraum. "Ich machen den Logistikoffizier O. Unterst dafür verantwortlich (10000 S$ auf die Köpfe seiner Kinder), dass die Rettungskapseln bei der letzten Kürzungsmaßnahme rationalisiert wurden. Und vergessen Sie nicht: Mein Schuckstein - nur Kruppstein! [rauschen]"
+Bekannter Weltraumreder Ritter Theodor von Kruppstein bei bizarrem Unfall auf dem Weg aus dem Delta-Sektor nach Capital-City verschollen. Seine letzten Worte erreichten uns in einem Notruf aus dem $\gamma$-Subraum. "Ich machen den Logistikoffizier O. Unterst dafür verantwortlich (10000 S$ auf die Köpfe seiner Kinder), dass die Rettungskapseln bei der letzten Kürzungsmaßnahme rationalisiert wurden. Und vergessen Sie nicht: Mein Schuckstein - nur Kruppstein! [rauschen]"
 
 Das Kopfgeld ist hinterlegt bei Notar Dr. Fürchtegut in Postfach 92620, 42112 Capital City.
 \Verfasser[Traveler]{Frieder}
@@ -140,7 +140,7 @@ Das Kopfgeld ist hinterlegt bei Notar Dr. Fürchtegut in Postfach 92620, 42112 C
 # Werbung
 Wünschen Sie sich auch manchmal, Sie hätten mehr Tage pro Woche zur Verfügung?
 _Kalender Kunibert_ hilft Ihnen, sich wieder neu zu fokussieren.
-Durch das innovative one-day-at-a-time System, braucht sie sich nie wieder zu sorgen, was gestern war, oder morgen sein wird.
+Durch das innovative one-day-at-a-time System brauchen Sie sich nie wieder zu sorgen was gestern war oder morgen sein wird.
 Lenken sie ihre volle Energie auf das Jetzt!
 
 Wie das funktioniert: jede Seite ist mit "heute" beschriftet und mit einer Beschichtung versehen, die die Seite nach 24h von alleine auflöst.
