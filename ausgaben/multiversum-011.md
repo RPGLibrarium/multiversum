@@ -29,7 +29,7 @@ Und wenn Sie besondere Sehnsucht nach einer Welt verspüren oder einen heißen T
 ```{=tex}
 \subsection[Roll for Hooves]{ Roll for Hooves - ein minimales Rollenspiel\footnote{oder Setting für \enquote{Roll for Shoes}}}
 ```
-Boxer der alte Ackergaul hat dem Bauer Jones lange Jahre gute Dienste geleistet. Beim Bestellen der Felder hat er sich vor zwei Wochen den Knöchel verstaucht. Der Veterinär war bereits zweimal da, aber die Verletzung ist zu kompliziert für ihn.
+Boxer, der alte Ackergaul, hat dem Bauer Jones lange Jahre gute Dienste geleistet. Beim Bestellen der Felder hat er sich vor zwei Wochen den Knöchel verstaucht. Der Veterinär war bereits zweimal da, aber die Verletzung ist zu kompliziert für ihn.
 Heute kam der Abdecker mit einem Lieferwagen und hat Boxer mitgenommen. Ihr Tiere habt ihn erst für einen Krankenwagen des Pferdekrankenhauses gehalten, bis Maunzi, die Katze, die Aufschrift entziffern konnte:
 "Leimfabrik F.W. Weiss und Sohn m.b.H, Fernspr. 24, Hilchenbach i. Westf."
 
@@ -61,7 +61,7 @@ Jeder Spieler spielt ein Tier auf der Farm. Schreib seinen Namen auf ein Blatt P
 - Sag was du tun willst und roll eine Anzahl W6 wie auf dem Charakterblatt.
 - Falls die Summe größer ist als die des Spielleiters, passiert was du wolltest.
 - Die Anzahl W6 wird durch die Skill-Stufe bestimmt.
-- Falls alle Würfel sechs zeigen kannst du einen Skill mit einer Stufe höher als die des gewürfelten hinzufügen. Der neue Skill muss die spezielle Situation abbilden, die gerade passiert ist.
+- Falls alle Würfel sechs zeigen, kannst du einen Skill mit einer Stufe höher als die des gewürfelten hinzufügen. Der neue Skill muss die spezielle Situation abbilden, die gerade passiert ist.
 - Für jede gescheiterte Probe, erhalte einen XP.
 - XP können Würfel zu einer Sechs drehen, allerdings nur um neue Skills zu lernen, das Ergebnis bleibt gleich.
 
@@ -132,7 +132,7 @@ Gestern Nacht ist Zmoathmalkul uns explodiert.\\
 \verfasser[Star Wars: Am Rande des Imperiums]{Franca}
 
 ## Ironischer Zwischenfall in Space.
-Bekannter Weltraumreder Ritter Theodor von Kruppstein bei bizarrem Unfall auf dem Weg aus dem Delta-Sektor nach Capital-City verschollen. Seine letzten Worte erreichten uns in einem Notruf aus dem $\gamma$-Subraum. "Ich machen den Logistikoffizier O. Unterst dafür verantwortlich (10000 S$ auf die Köpfe seiner Kinder), dass die Rettungskapseln bei der letzten Kürzungsmaßnahme rationalisiert wurden. Und vergessen Sie nicht: Mein Schuckstein - nur Kruppstein! [rauschen]"
+Bekannter Weltraumreder Ritter Theodor von Kruppstein bei bizarrem Unfall auf dem Weg aus dem Delta-Sektor nach Capital-City verschollen. Seine letzten Worte erreichten uns in einem Notruf aus dem $\gamma$-Subraum. "Ich mache den Logistikoffizier O. Unterst dafür verantwortlich (10000 S$ auf die Köpfe seiner Kinder), dass die Rettungskapseln bei der letzten Kürzungsmaßnahme rationalisiert wurden. Und vergessen Sie nicht: Mein Schuckstein - nur Kruppstein! [rauschen]"
 
 Das Kopfgeld ist hinterlegt bei Notar Dr. Fürchtegut in Postfach 92620, 42112 Capital City.
 \Verfasser[Traveler]{Frieder}
