@@ -44,20 +44,20 @@ Nur ihr könnt es herausfinden!
 ## Charaktererstellung
 Jeder Spieler spielt ein Tier auf der Farm. Schreib seinen Namen auf ein Blatt Papier und darunter "Etwas tun: 1"
 
-\begin{tabular*}{1cm}{rlrl}
-\multicolumn{4}{c}{\textbf{Tiere (1W12):}} \\
-1 & Schwein & 7 & Hund\\
-\rowcolor{gray!25}
-2 & Pferd & 8 & Esel \\
-3 & Rind & 9 & Maus\\
-\rowcolor{gray!25}
-4 & Katze & 10 & Ziege\\
-5 & Schaf & 11 & Strauß\\
-\rowcolor{gray!25}
-6 & Huhn & 12 & Lama\\
-\end{tabular*}
+```{=tex}
+{\rowcolors{2}{gray!25}{white}
+\begin{tabular*}{.95\textwidth}{rl rl rl}
+\multicolumn{6}{c}{\textbf{Tiere (1W12):}} \\
+1 & Schwein \quad\null & 5 & Schaf \quad\null & 9 & Maus\\
+2 & Pferd & 6 & Huhn & 10 & Ziege\\
+3 & Rind & 7 & Hund & 11 & Strauß\\
+4 & Katze & 8 & Esel & 12 & Lama\\
+\end{tabular*}}
+```
+
 ## Sonderregeln
-- Spielercharaktere starten mit einem Skill: “Etwas tun 1”
+- Spielercharaktere starten mit einem Skill:  
+    \null\qquad _“Etwas tun: 1”_
 - Sag was du tun willst und roll eine Anzahl W6 wie auf dem Charakterblatt.
 - Falls die Summe größer ist als die des Spielleiters, passiert was du wolltest.
 - Die Anzahl W6 wird durch die Skill-Stufe bestimmt.
