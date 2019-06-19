@@ -4,7 +4,7 @@ date: Juni 2019
 ausgabe: 11
 balance: false
 termine:
-    - "Kölsche Legenden: 20.06.2019"
+    - "Kölsche Legenden: 22.06.2019"
     - "Monatliches Treffen: 16.07.2019, 19 Uhr"
 losung: "\"So ist das Leben und das Leben ist manchmal riskant.\" - Martin Schneider, Autodieb"
 
@@ -132,10 +132,10 @@ Gestern Nacht ist Zmoathmalkul uns explodiert.\\
 \verfasser[Star Wars: Am Rande des Imperiums]{Franca}
 
 ## Ironischer Zwischenfall in Space.
-Bekannter Weltraumreder Ritter Theodor von Kruppstein bei bizarrem Unfall auf dem Weg aus dem Delta-Sektor nach Capital-City verschollen. Seine letzten Worte erreichten uns in einem Notruf aus dem $\gamma$-Subraum. "Ich mache den Logistikoffizier O. Unterst dafür verantwortlich (10000 S$ auf die Köpfe seiner Kinder), dass die Rettungskapseln bei der letzten Kürzungsmaßnahme rationalisiert wurden. Und vergessen Sie nicht: Mein Schuckstein - nur Kruppstein! [rauschen]"
+Bekannter Weltraumreder Ritter Theodor von Kruppstein bei bizarrem Unfall auf dem Weg aus dem Delta-Sektor nach Capital-City verschollen. Seine letzten Worte erreichten uns in einem Notruf aus dem $\gamma$-Subraum. "Ich mache den Logistikoffizier O. Unterst dafür verantwortlich (10000 S$ auf die Köpfe seiner Kinder), dass die Rettungskapseln bei der letzten Kürzungsmaßnahme rationalisiert wurden. Und vergessen Sie nicht: Mein Schmuckstein - nur Kruppstein! [rauschen]"
 
 Das Kopfgeld ist hinterlegt bei Notar Dr. Fürchtegut in Postfach 92620, 42112 Capital City.
-\Verfasser[Traveler]{Frieder}
+\Verfasser[Traveller]{Frieder}
 
 # Werbung
 Wünschen Sie sich auch manchmal, Sie hätten mehr Tage pro Woche zur Verfügung?
