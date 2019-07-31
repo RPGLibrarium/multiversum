@@ -17,12 +17,12 @@ Aus der Liebesbeziehung eines römischen Pilgerers und  eines germanischen Krieg
 
 Im Jahr 1248, hat eine Gruppe Verrückter angefangen auf den Ruinen eines heidnischen Tempels eine Kathedrale zu errichten, die nie fertig gestellt werden sollte, da die Baumeister lieber vergorenes Rheinwasser\footnote{Kölsch: Kölsch} trinken und sich mit bunten Masken schmücken, als ihrer Arbeit nachzugehen.
 Zum Glück haben die Bauherren bei der Grabung des Fundaments eine Hand voll Knöchel geborgen, die sogleich als die Gebeine der Seeligen Drölf Gelehrten identifiziert werden sollten.
-Seitdem zahlen Menschen aus aller Welt gerne weiter für das unfertige Bauwerk und niemand wag die Größe dieses Ortes an zu zweifeln.
+Seitdem zahlen Menschen aus aller Welt gerne weiter für das unfertige Bauwerk und niemand wagt die Größe dieses Ortes an zu zweifeln.
 Selbst bei den Bombardierungen im Zweiten Weltkrieg wurde die Kirche als einziges Gebäude verschont.
 
-Seit jeher sind Köln und Mainz durch eine tiefe Feindschaft verbunden. Um die Augustinerkirche vor dem Kölner Dom fertigzustellen, klauten die Mainzelmännchen im Jahre 1212 alle Kinder der Stadt und tatsächlich ist die Augustinerkirche heute im Gegensatz zum Dom fertig.
+Seit jeher sind Köln und Mainz durch eine tiefe Feindschaft verbunden. Um die Augustinerkirche vor dem Kölner Dom fertigzustellen, klauten die Mainzelmännchen im Jahre 1212 alle Kinder der Stadt und tatsächlich ist die Augustinerkirche heute, im Gegensatz zum Dom, fertig.
 
-Nicht nur beim Kirchenbau, sondern auch beim bei Pferdewetten, sollte man sich auf in Köln in acht nehmen. Ein Turm erinnert an die verlorene Wette eines Kölners mit zwei Pferden, dass Sie keine Treppen und Leitern erklimmen können. Ehe er sich versah, standen seine zwei Gäule auf dem Dachboden und streckten ihm aus dem Fenster die Zunge heraus.
+Nicht nur beim Kirchenbau, sondern auch beim bei Pferdewetten, sollte man sich vor Köln in Acht nehmen. Ein Turm erinnert an die verlorene Wette eines Kölners mit zwei Pferden, dass Sie keine Treppen und Leitern erklimmen können. Ehe er sich versah, standen seine zwei Gäule auf dem Dachboden und streckten ihm aus dem Fenster die Zunge heraus.
 
 So oder so ähnlich\footnote{Angaben ohne Gewähr} durften wir die Kölner Geschichte bei einer Führung durch die Domstadt kennen lernen. Vielleicht gibt es ja Bald eine Wiederholung in Aachen. \verfasser{Yoann}
 
@@ -40,7 +40,7 @@ Ein Blaster wurde verdienterweise auf den Trottel abgefeuert, aber dieser bückt
 Im nächsten Moment brach Chaos aus. Gäste brüllten Flüche in verschiedenen Sprachen und ein wütendes Zischen erfüllte den Raum. Ich verlor die beiden Störenfriede aus den Augen und als Ihre Kollegen zur Hilfe geeilt kamen, waren sie verschwunden. Wenn ich diese beiden nochmal wiedersehe, können sie was erleben!
 \Verfasser[Starwars: Am Rande des Imperiums]{Moritz}
 
-# Fluchen wie eine Thorwallering
+# Fluchen wie eine Thorwallerin
 Lerne zu fluchen wie eine echte Thorwallerin mit dieser Zufallstabelle. Würfle \textbf{3W10} und bring jeden Thorwaller zum Straucheln.
 \begin{framed}
 \centering
