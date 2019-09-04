@@ -1,5 +1,5 @@
 ---
-author: Yoann, Richard
+author: Yoann, Franca, Moritz, Konstantin
 date: August 2019
 ausgabe: 13
 balance: false
@@ -38,13 +38,13 @@ Als wäre dies nicht besorgniserregend genug, fand die Gruppe am Morgen einen we
 
 Mithilfe der Sureya-Reisenden konnte schließlich ein Ritual vollzogen werden, das alle Beteiligten an ihre jeweiligen Herkunftsort zurückbrachte. Der Lathander-Fluch auf dem Feld wurde ebenfalls dadurch aufgehoben. Die Sureya-Reisenden haben sich durch ihr besonnenes Eingreifen und ihre Kooperation hervorgetan.
 
-Erlauchteste, ich erbitte vier weitere Scolari'ae, die mich in meinem magischen Labor bei der Erforschung des Versagens der Weltenbarriere unterstützen. Wenn weitere Anhänger dieser Lathander-Entität auftauchen und das Land dermaßen zurichten, könnte das verheerende Folgen für unsere Ökonomie und das Wohlergehen des ganzen Volkes von Wyrall haben. Nicht nur könnten Minenarbeiter-, Agrar- und Dienstboten-Skelette nicht mehr ihre Dienste verrichten; nein, diese Lathander-Anhänger scheinen der Nekromantie feindlich gesonnen sein und würden unser Volk zweifelsohne grausam abschlachten.
+Erlauchteste, ich erbitte vier weitere Scolari'ae, die mich in meinem magischen Labor bei der Erforschung des Versagens der Weltenbarriere unterstützen. Wenn weitere Anhänger dieser Lathander-Entität auftauchen und das Land dermaßen zurichten, könnte das verheerende Folgen für unsere Ökonomie und das Wohlergehen des ganzen Volkes von Wyrall haben. Nicht nur könnten Minenarbeiter-, Agrar- und Dienstboten-Skelette nicht mehr ihre Dienste verrichten; nein, diese Lathander-Anhänger scheinen der Nekromantie feindlich gesonnen zu sein und würden unser Volk zweifelsohne grausam abschlachten.
 
 In besorgter Erwartung verharrend  
 Mirzal,  
 Statthalter von Felsbrunn, Meister der Arkana  
 14ter Tag in der ersten Hälfte des Aarion, 4. Jahr Eurer Zeit
-\verfasser[~~Lasers~~ Magic and Feelings]{Konstantin}
+\verfasser[\sout{Lasers} Magic and Feelings]{Konstantin}
 
 
 # Schleuderpresse
