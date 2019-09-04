@@ -9,19 +9,7 @@ termine:
 losung: "Wenn Victor will Müsli, ganz Hamburg will Müsli."
 
 ---
-
-# Was bisher geschah...
-
-## Workshop: ABC
-Lorem Ipsum
-\verfasser{Autor1}
-
-## In der Redaktion
-Lorem Ipsum
-\verfasser{Redaktion}
-
 # An einem anderen Ort
-
 ## Faster than the Speed of Night
 Fassungslos starrte Elias auf die blaue Transportbox auf seinem Schreibtisch. Ein Zettel mit der Aufschrift ‚Privateigentum Oberkommissar Elias Wolff‘, gab ihm unmissverständlich zu verstehen, dass er in diesem Haus nicht mehr erwünscht war.
 "Bis zur Mittagspause gebe ich Ihnen, um Ihren Arsch aus diesem Gebäude zu schaffen." Die Worte mit denen sein Boss vor wenigen Minuten das Gespräch beendet hatte hallten noch in seinem Kopf nach.
@@ -36,9 +24,53 @@ Ein kleiner Seufzer entglitt Emilia. "Ich werde dich vermissen Elias. Pass auf d
 15 Minuten später düste Elias hinter dem Steuer des alten Hyundai Shin-Hyung mit herunter gelassenen Fenster auf der Landstraße in Richtung Norden. Aus den Lautsprechern dröhnte Maria Mercurials neuster Hit - Faster than the Speed of Night.
 \verfasser[SR 5]{Yoann}
 
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+## Auszug aus den königlichen Archiven von Wyrall
+### Statthalter Mirzal von Felsbrunn an Königin Asaia, 14.1. Aarion, 4 ASA
+Erlauchteste,
+
+es gibt eine besorgniserregende Neuigkeit, die eurer Aufmerksamkeit bedarf. Ich befürchte beim mündlichen Bericht Details zu vergessen oder zu verfälschen, daher erhaltet Ihr meinen Bericht auf diesem Wege.
+
+Vor wenigen Tagen erhielt ich am späten Abend eine telepathische Kontaktaufnahme von Kira. Wie ihr wisst, wohnt meine Nichte mit ihrer Ehefrau Shidera in den nördlichen Provinzen und bewirtschaftet dort einen Bauernhof. Die beiden erhielten unerwarteten Besuch von vier Reisenden, die nicht nach der hiesigen Manier gekleidet waren und sich hier nicht auskannten. Sie nannten die ungewöhnlichen Namen Esther, Alanna, Xyllela und Merwulf. Am nächsten Tag nahm ich mit Kira als Medium Kontakt mit den Reisenden auf. Sie gaben an, aus dem Kaiserreich Sureya zu stammen und durch ein Portal gekommen zu sein.
+
+Meine Bibliothek ergab, dass Sureya ein fernes Reich ist, das nur per Portal mit unserem Reich verbunden ist; in der Tat legten die Reisenden Kenntnisse über Magie, Alchemie und Kampfkunst an den Tag, die hierzulande völlig unbekannt sind.
+
+Als wäre dies nicht besorgniserregend genug, fand die Gruppe am Morgen einen weiteren Mann. Dieser hatte eine signifikanten Bereich von Shideras Feldern dergestalt präpariert, dass ihre Skelettmaulwürfe das Feld nicht mehr bestellen konnten. Er behauptete, überraschend unserer Welt aufgewacht zu sein, extraplanare Entität namens Lathander(?) anzubeten und in ihrem Auftrag unterwegs zu sein. Er war deutlich verwirrt und aggressiv gegenüber Shidera, daher war eine gewaltsame Lösung unumgänglich - der Krieger Merwulf brachte ihn heldenhaft zu Boden.
+
+Mithilfe der Sureya-Reisenden konnte schließlich ein Ritual vollzogen werden, das alle Beteiligten an ihre jeweiligen Herkunftsort zurückbrachte. Der Lathander-Fluch auf dem Feld wurde ebenfalls dadurch aufgehoben. Die Sureya-Reisenden haben sich durch ihr besonnenes Eingreifen und ihre Kooperation hervorgetan.
+
+Erlauchteste, ich erbitte vier weitere Scolari'ae, die mich in meinem magischen Labor bei der Erforschung des Versagens der Weltenbarriere unterstützen. Wenn weitere Anhänger dieser Lathander-Entität auftauchen und das Land dermaßen zurichten, könnte das verheerende Folgen für unsere Ökonomie und das Wohlergehen des ganzen Volkes von Wyrall haben. Nicht nur könnten Minenarbeiter-, Agrar- und Dienstboten-Skelette nicht mehr ihre Dienste verrichten; nein, diese Lathander-Anhänger scheinen der Nekromantie feindlich gesonnen sein und würden unser Volk zweifelsohne grausam abschlachten.
+
+In besorgter Erwartung verharrend  
+Mirzal,  
+Statthalter von Felsbrunn, Meister der Arkana  
+14ter Tag in der ersten Hälfte des Aarion, 4. Jahr Eurer Zeit
+\verfasser[~~Lasers~~ Magic and Feelings]{Konstantin}
+
+
+# Schleuderpresse
+*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
+
+#### Shadowrunner gesucht.
++49 178 3272472.
+
+#### Mitstreiter gesucht!
+Erfahrener Spieler und Meister der 2. und 5. Überarbeitung Aventuriens sucht gottesfürchtiger Mitstreiter um den Schrecken des Landes entgegenzutreten. Dank seiner Sprachkenntnisse kann er auch fremdländischen Settings auf Englisch folgen.
+Außerdem lässt er der Redaktion mitteilen, dass er auch im System "Stars without Numbers" bewandert ist und auch hierfür eine Runde sucht.
+\zeichen{ARJA}
+
+#### Wurzelloser Spieler sucht Anschluss!
+Ihr beginnt eine ganz neue Spielrunde?
+Eines eurer Rundenmitglieder hat das Handtuch geworfen?
+Ihr habt Bock auf 'nen OneShot und sucht frischen Input?
+Oder wollt euch einfach nur etwas neues ausprobieren?
+Dann meldet euch bei mir!  
+Zur Zeit befinde ich mich auf der Suche nach einer neuen Gruppe und bin in verschiedenen Systemen bewandert und immer gerne bereit, neue Dinge auszuprobieren.
+Also, wenn ihr einen Slot frei habt sagt Bescheid!
+Meldet euch bei Arne
+\zeichen{ANSCHLUSS}
+
+
+
 
 # Werbung
 <!--TODO: Fix padding and scale to frame width-->
@@ -46,17 +78,4 @@ Lorem Ipsum, text endet an Zeilenende.
 \includegraphics[width=\textwidth]{img/013-hyperlunge.pdf}
 \end{framed}
 \verfasser[SR 5]{Idee: Moritz, Design: Franca}
-
-# Schleuderpresse
-*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
-
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
-
-# Todesanzeigen
-*Trauertext.*
-
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
+\vspace{-2em}
