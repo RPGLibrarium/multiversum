@@ -34,7 +34,7 @@ Vor wenigen Tagen erhielt ich am späten Abend eine telepathische Kontaktaufnahm
 
 Meine Bibliothek ergab, dass Sureya ein fernes Reich ist, das nur per Portal mit unserem Reich verbunden ist; in der Tat legten die Reisenden Kenntnisse über Magie, Alchemie und Kampfkunst an den Tag, die hierzulande völlig unbekannt sind.
 
-Als wäre dies nicht besorgniserregend genug, fand die Gruppe am Morgen einen weiteren Mann. Dieser hatte eine signifikanten Bereich von Shideras Feldern dergestalt präpariert, dass ihre Skelettmaulwürfe das Feld nicht mehr bestellen konnten. Er behauptete, überraschend unserer Welt aufgewacht zu sein, extraplanare Entität namens Lathander(?) anzubeten und in ihrem Auftrag unterwegs zu sein. Er war deutlich verwirrt und aggressiv gegenüber Shidera, daher war eine gewaltsame Lösung unumgänglich - der Krieger Merwulf brachte ihn heldenhaft zu Boden.
+Als wäre dies nicht besorgniserregend genug, fand die Gruppe am Morgen einen weiteren Mann. Dieser hatte einen signifikanten Bereich von Shideras Feldern dergestalt präpariert, dass ihre Skelettmaulwürfe das Feld nicht mehr bestellen konnten. Er behauptete, überraschend unserer Welt aufgewacht zu sein, eine extraplanare Entität namens Lathander(?) anzubeten und in ihrem Auftrag unterwegs zu sein. Er war deutlich verwirrt und aggressiv gegenüber Shidera, daher war eine gewaltsame Lösung unumgänglich - der Krieger Merwulf brachte ihn heldenhaft zu Boden.
 
 Mithilfe der Sureya-Reisenden konnte schließlich ein Ritual vollzogen werden, das alle Beteiligten an ihre jeweiligen Herkunftsort zurückbrachte. Der Lathander-Fluch auf dem Feld wurde ebenfalls dadurch aufgehoben. Die Sureya-Reisenden haben sich durch ihr besonnenes Eingreifen und ihre Kooperation hervorgetan.
 
