@@ -1,13 +1,12 @@
 ---
-author: Autor1, Autor2, Autor3
-date: Monat YYYY
+author: Richard, Konstantin
+date: September 2019
 ausgabe: 014
 balance: false
 termine:
-    - "Termin: DD.MM.YY, hh Uhr"
-    - "Termin: DD.MM.YY - DD.MM.YY"
+    - "Termin: 16.09.19. 19 Uhr"
+    - "Termin: 02.01.20 - 06.01.20"
 losung: "Dies ist ein zufälliger Losungstext"
-
 ---
 
 # Was bisher geschah...
@@ -21,6 +20,7 @@ Lorem Ipsum
 \verfasser{Redaktion}
 
 # An einem anderen Ort
+## Auszug aus den königlichen Archiven von Wyrall
 ### Königin Asaia an Statthalter Mirzal von Felsbrunn, 16.1. Aarion, 4 ASA
 Mirzal,
 
@@ -29,8 +29,10 @@ die Angelegenheit ist größer als ein Forschungsprojekt für Euch und vier Scol
 Asaia  
 16ter d. 1 H. d. Aarion, 4 Meiner Zeit  
 P.S. Schickt Kira und Shidera meine Glückwünsche zum Jahrestag ihrer Vermählung.
+\Verfasser[\sout{Lasers} Magic and Feelings]{Konstantin}
+
 ## Bericht von Erian Xe
-*An: Allianz der Symbionten — Inneres Globales Gremium*
+### An: Allianz der Symbionten — Inneres Globales Gremium
 
 Werte Vereinigte,
 
@@ -47,14 +49,6 @@ Detaillierte Berichte aller delegierten Syns, sowie einen Antrag inklusive Koste
 Hochachtungsvoll,
 Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
-
-## Titel 1
-Lorem Ipsum
-\verfasser{Autor2}
-
-## Titel 2
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
 
 # Werbung
 Kaufen sie jetzt das
