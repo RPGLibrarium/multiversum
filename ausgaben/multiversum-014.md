@@ -50,7 +50,6 @@ P.S. Schickt Kira und Shidera meine Glückwünsche zum Jahrestag ihrer Vermählu
 
 ## Bericht von Erian Xe
 ### An: Allianz der Symbionten — Inneres Globales Gremium
-
 Werte Vereinigte,
 
 unsere Delegation konnte bei den Untersuchungen einen ersten Teilerfolg erzielen. Die Untersuchungen am Riss bei den Florianern haben unerwartete Resultate gezeigt. Eine schnelle Analyse der Proben vor Ort wird nicht ausreichend sein. Dennoch vermutet unsere Delegation, dass eine potentielle existenzielle Gefährdung der Scheibe, durch strukturelle Instabilität und unbekannte Substanzen des Risses, möglich ist.
@@ -68,9 +67,18 @@ Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
 
 # Werbung
-Kaufen sie jetzt das
-\begin{center}\textsc{Produkt},\end{center} \noindent oder sie werden es bereuen.
-\Verfasser{Autor}
+Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480PS protzt, können Sie sich in Zukunft entspannt zurück lehnen.
+Strahlen Sie mit der weltweit ersten
+\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung},\end{center} \noindent
+zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion um ihre Nerven wieder zu beruhigen.
+\Verfasser{Yoann}
+
+<!--
+Verschönern sie ihre neuen Full.Spectrum™ Nagelbetten mit der
+\begin{center}\textsc{Fluzz+},\end{center} \noindent Flusellackkollektion und verbessern sie den Tragekomfort. Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.  
+-->
+
+
 
 # Schleuderpresse
 *Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
