@@ -4,16 +4,33 @@ date: September 2019
 ausgabe: 014
 balance: false
 termine:
-    - "Termin: 16.09.19. 19 Uhr"
-    - "Termin: 02.01.20 - 06.01.20"
+    - "Monatlices Treffen: 16.10.19. 19 Uhr"
+    - "Librarium Freizeit: 02.01.20 - 06.01.20"
 losung: "Dies ist ein zufälliger Losungstext"
 ---
 
 # Was bisher geschah...
 
-## Workshop: ABC
-Lorem Ipsum
+## Workshop: "Charaktere basteln"
+Was tut man, wenn das nächste Abenteuer bevorsteht -- große Schlachten, der Aufbruch zur See, oder ein nächtlicher Datendiebstahl?
+Was tun, wenn dieses eine System schon lange eine gewisse Faszination ausstrahlt?
+Was kann getan werden, wenn der Abend noch frei ist^[abgesehen von einer Mitgliederversammlung] und es sinnvolleres zu erledigen gibt, aber einfach die Motivation dafür fehlt?
+
+Genau: Charaktere basteln!
+Und das haben wir beim letzten Themenabend gemacht.
+Denn es kann ja nie schaden, einen fertigen Charakterbogen mit ausgefeilter Hintergrundstory parat zu haben.
+Piraten, Runner und Gärtner.
+Zwerge, Elfen und Orks.
+
+Mit viel Spaß haben wir an jenem Abend neue Charaktere erschaffen, die nun -- mehr oder minder fertig -- bereitstehen und auf ihr erstes Abenteuer warten.
+<!-- Besonders hat uns gefreut, auch zu diesem Themenabend wieder neue Gesichter begrüßen zu dürfen. -->
 \verfasser{Autor1}
+
+## Von der Mitgliederversammlung
+Wie uns vom Finanzamt auferlegt wurde, versenden wir Einladungen zur kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_.
+Außerdem genügen nun $prozent% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze xx.yy Personen], um auch ohne Beteiligung des aktiven Vorstands eine Mitgliederversammlung einzubestellen.
+
+Diese Satzungsänderungen wurden am 2019-09-XX auf einer außerordentlichen MV beschlossen.
 
 ## In der Redaktion
 Lorem Ipsum
