@@ -30,7 +30,9 @@ Mit viel Spaß haben wir an jenem Abend neue Charaktere erschaffen, die nun -- m
 Wie uns vom Finanzamt auferlegt wurde, versenden wir Einladungen zur kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_.
 Außerdem genügen nun $prozent% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze xx.yy Personen], um auch ohne Beteiligung des aktiven Vorstands eine Mitgliederversammlung einzubestellen.
 
-Diese Satzungsänderungen wurden am 2019-09-XX auf einer außerordentlichen MV beschlossen.
+Diese Satzungsänderungen wurden am 2019-09-XX auf einer außerordentlichen MV teils ausgiebig diskutiert.
+Damit ist der Bürokratie vorerst genüge getan^[hoffentlich], bis zur nächsten planmäßigem Zusammenkunft im Frühjahr 2020, wenn sich das nächste Mal Aristokratie und Plebs an einen Tisch begeben, um über Regierungsangelegenheiten zu beraten.
+\verfasser{Autor2}
 
 ## In der Redaktion
 Lorem Ipsum
