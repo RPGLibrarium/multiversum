@@ -72,7 +72,7 @@ Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 # Werbung
 Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480PS protzt, können Sie sich in Zukunft entspannt zurück lehnen.
 Strahlen Sie mit der weltweit ersten
-\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung},\end{center} \noindent
+\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\end{center} \noindent
 zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion um ihre Nerven wieder zu beruhigen.
 \Verfasser{Yoann}
 
