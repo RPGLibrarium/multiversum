@@ -36,7 +36,7 @@ Damit ist der Bürokratie vorerst genüge getan^[hoffentlich], bis zur nächsten
 
 ## In der Redaktion
 Es kommt zu Verzögerungen im Betriebsablauf.
-Wir bitten dies zu entschuldigen.
+Die Personaldisposition ist unterbesetzt.
 \verfasser{Redaktion}
 
 # An einem anderen Ort
