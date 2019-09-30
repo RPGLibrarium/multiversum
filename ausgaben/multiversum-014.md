@@ -9,8 +9,8 @@ termine:
 losung: "Dies ist ein zufälliger Losungstext"
 ---
 
-Meine Damen und Herren auf Grund von Mangelnden Personalressourcen, kommt es zur Zeit zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
-\verfasser{Redaktion}
+Liebe Lesende, auf Grund von Mangelnden Personalressourcen, kommt es zur Zeit zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
+\Verfasser{Redaktion}
 
 # Was bisher geschah...
 ## Workshop: "Charaktere basteln"
