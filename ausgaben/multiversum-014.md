@@ -32,6 +32,11 @@ Außerdem genügen nun $prozent% der Vereinsmitglieder^[das sind nach aktuellem 
 Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Die nächste planmäßige Treffen an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
 \verfasser{Autor2}
 
+## In der Redaktion
+Es kommt zu Verzögerungen im Betriebsablauf.
+Die Personaldisposition ist unterbesetzt.
+\verfasser{Redaktion}
+
 # An einem anderen Ort
 ## Auszug aus den königlichen Archiven von Wyrall
 ### Königin Asaia an Statthalter Mirzal von Felsbrunn, 16.1. Aarion, 4 ASA
@@ -65,7 +70,7 @@ Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 # Werbung
 Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480PS protzt, können Sie sich in Zukunft entspannt zurück lehnen.
 Strahlen Sie mit der weltweit ersten
-\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung},\end{center} \noindent
+\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\end{center} \noindent
 zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion um ihre Nerven wieder zu beruhigen.
 \Verfasser{Yoann}
 
