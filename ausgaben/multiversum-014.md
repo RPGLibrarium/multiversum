@@ -10,7 +10,6 @@ losung: "Dies ist ein zufälliger Losungstext"
 ---
 
 # Was bisher geschah...
-
 ## Workshop: "Charaktere basteln"
 Was tut man, wenn das nächste Abenteuer bevorsteht -- große Schlachten, der Aufbruch zur See, oder ein nächtlicher Datendiebstahl?
 Was tun, wenn dieses eine System schon lange eine gewisse Faszination ausstrahlt?
@@ -27,16 +26,11 @@ Mit viel Spaß haben wir an jenem Abend neue Charaktere erschaffen, die nun -- m
 \verfasser{Autor1}
 
 ## Von der Mitgliederversammlung
-Wie uns vom Finanzamt auferlegt wurde, versenden wir Einladungen zur kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_.
-Außerdem genügen nun $prozent% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze xx.yy Personen], um auch ohne Beteiligung des aktiven Vorstands eine Mitgliederversammlung einzubestellen.
+des RPG Librarium Aachen e.V. berichten wir das Einladungen zur kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_ verschickt werden, so wie es vom Amtsgericht auferlegt wurde.
+Außerdem genügen nun $prozent% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze xx.yy Personen], um auch gegen den Willen des Vorstands eine Mitgliederversammlung einzuberufen.
 
-Diese Satzungsänderungen wurden am 2019-09-XX auf einer außerordentlichen MV teils ausgiebig diskutiert.
-Damit ist der Bürokratie vorerst genüge getan^[hoffentlich], bis zur nächsten planmäßigem Zusammenkunft im Frühjahr 2020, wenn sich das nächste Mal Aristokratie und Plebs an einen Tisch begeben, um über Regierungsangelegenheiten zu beraten.
+Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Die nächste planmäßige Treffen an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
 \verfasser{Autor2}
-
-## In der Redaktion
-Lorem Ipsum
-\verfasser{Redaktion}
 
 # An einem anderen Ort
 ## Auszug aus den königlichen Archiven von Wyrall
