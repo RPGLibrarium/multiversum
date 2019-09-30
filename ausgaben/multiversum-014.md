@@ -4,8 +4,8 @@ date: September 2019
 ausgabe: 014
 balance: false
 termine:
-    - "Monatlices Treffen: 16.10.19. 19 Uhr"
-    - "Librarium Freizeit: 02.01.20 - 06.01.20"
+    - "Monatliches Treffen: 16.10.2019, 19 Uhr"
+    - "Librarium Freizeit: 02.01. - 06.01.2020"
 losung: "Dies ist ein zufälliger Losungstext"
 ---
 
