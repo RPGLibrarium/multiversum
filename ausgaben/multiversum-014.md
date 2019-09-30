@@ -35,7 +35,8 @@ Damit ist der Bürokratie vorerst genüge getan^[hoffentlich], bis zur nächsten
 \verfasser{Autor2}
 
 ## In der Redaktion
-Lorem Ipsum
+Es kommt zu Verzögerungen im Betriebsablauf.
+Wir bitten dies zu entschuldigen.
 \verfasser{Redaktion}
 
 # An einem anderen Ort
