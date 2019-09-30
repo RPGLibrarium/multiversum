@@ -9,6 +9,9 @@ termine:
 losung: "Dies ist ein zufälliger Losungstext"
 ---
 
+Meine Damen und Herren auf Grund von Mangelnden Personalressourcen, kommt es zur Zeit zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
+\verfasser{Redaktion}
+
 # Was bisher geschah...
 ## Workshop: "Charaktere basteln"
 Was tut man, wenn das nächste Abenteuer bevorsteht -- große Schlachten, der Aufbruch zur See, oder ein nächtlicher Datendiebstahl?
@@ -23,19 +26,14 @@ Zwerge, Elfen und Orks.
 
 Mit viel Spaß haben wir an jenem Abend neue Charaktere erschaffen, die nun -- mehr oder minder fertig -- bereitstehen und auf ihr erstes Abenteuer warten.
 <!-- Besonders hat uns gefreut, auch zu diesem Themenabend wieder neue Gesichter begrüßen zu dürfen. -->
-\verfasser{Autor1}
+\Verfasser{Richard}
 
 ## Von der Mitgliederversammlung
 des RPG Librarium Aachen e.V. berichten wir das Einladungen zur kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_ verschickt werden, so wie es vom Amtsgericht auferlegt wurde.
-Außerdem genügen nun $prozent% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze xx.yy Personen], um auch gegen den Willen des Vorstands eine Mitgliederversammlung einzuberufen.
+Außerdem genügen nun 20% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze 6,6 Personen], um auch gegen den Willen des Vorstands eine Mitgliederversammlung einzuberufen.
 
 Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Die nächste planmäßige Treffen an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
-\verfasser{Autor2}
-
-## In der Redaktion
-Es kommt zu Verzögerungen im Betriebsablauf.
-Die Personaldisposition ist unterbesetzt.
-\verfasser{Redaktion}
+\verfasser{Richard}
 
 # An einem anderen Ort
 ## Auszug aus den königlichen Archiven von Wyrall
@@ -68,7 +66,7 @@ Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
 
 # Werbung
-Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480PS protzt, können Sie sich in Zukunft entspannt zurück lehnen.
+Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480 PS protzt, können Sie sich in Zukunft entspannt zurück lehnen.
 Strahlen Sie mit der weltweit ersten
 \begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\end{center} \noindent
 zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion um ihre Nerven wieder zu beruhigen.
