@@ -10,9 +10,9 @@ losung: "Dies ist ein zufälliger Losungstext"
 
 ---
 <!--
-TODO: Multiversum Plus. Auch wir müssen unsere Kostendecken und wir sprechen uns deutlich gegen die Gratiskultur aus, die sich im Multiversu etabliert hat. Upload filter, Redakteure und Server müssen bezahlt werden, ganz zu schweigen von der hohen Kapitalertragssteuer, die uns jählich zu schaffen macht.
+TODO: Multiversum Plus. Auch wir müssen unsere Kosten decken und wir sprechen uns deutlich gegen die Gratiskultur aus, die sich im Multiversum etabliert hat. Uploadfilter, Redakteure und Server müssen bezahlt werden, ganz zu schweigen von der hohen Kapitalertragssteuer, die uns jährlich zu schaffen macht.
 
-Ausgewählte Ausgaben sind sind in Zukunft ausschließlich zahlenden Mitgliedern vorbehalten. Introducing Multiversum Plus
+Ausgewählte Ausgaben sind in Zukunft ausschließlich zahlenden Mitgliedern vorbehalten. Introducing Multiversum Plus
 - Multiversum Maximus
 - Multiversum Premium
 
