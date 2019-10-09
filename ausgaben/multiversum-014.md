@@ -47,6 +47,56 @@ Asaia
 P.S. Schickt Kira und Shidera meine Glückwünsche zum Jahrestag ihrer Vermählung.
 \Verfasser[\sout{Lasers} Magic and Feelings]{Konstantin}
 
+
+\newpage
+## Весть из теней
+
+Drei Tage nach dem Run auf HH Robotics klingelt dein Comm-Link. Jemand möchte eine einseitige Video-Übertragung zu dir aufbauen.
+
+Als du die Übertragung annimmst, bietet sich deinen Augen ein ungewöhnlicher Anblick. Du siehst eine schlanke humanoide Gestalt, die in einen schwarzen Anzug mit grüner Fliege gekleidet ist. Sie sitzt an einem Mahagonie-Tisch, wie man ihn in einer Anwaltskanzlei finden würde. Vor ihr auf dem Tisch liegen ein Briefumschlag und eine Visitenkarte. Hinter ihrem Rücken ist ein Hintergrund mit einem so klaren Sternenhimmel, wie man ihn nur noch in einem Planetarium oder in der Matrix findet. Das Gesicht ist aufgrund der Beleuchtung nicht klar zu erkennen.
+
+"Guten Abend." Die Gestalt spricht ruhig und gemessen mit einem leichten Sperethiel-Akzent. "Mein Name ist Estate. Ich wurde gebeten, Ihnen unter bestimmten Bedingungen eine Nachricht zu überbringen." Sie neigt leicht den Kopf. "Diese Bedingungen sind nun eingetroffen."
+Mit zwei Fingern schnippt sie die beiden Schriftstücke in die Kamera. Du kriegst die Benachrichtigung über zwei eingehende Datentransfers, und die Verbindung endet.
+
+Eines der Datenpäckchen ist eine virtuelle Visitenkarte. Die zweite ist eine Video-Aufzeichnung. Ein Scan enthüllt, dass nichts davon irgendwelche Viren oder ähnliches enthält.
+
+Als du die Video-Aufzeichnung öffnest, siehst du Innokentij, in dem Anzug, den er an dem Abend im Restaurant getragen hat. Der Kontrast zu der Panzerjacke und dem Helm, in denen du den Troll zuletzt gesehen hast, ist frappierend. Die Perspektive der Kamera ist von schräg unten, und hinter Innokentij siehst du das Interieur seines Autos.
+
+Es dauert einen Moment, bis er zu sprechen anfängt, mit seinem üblichen russischen Akzent. Er holt Luft.
+
+"Ich glaube, ist üblich am Anfang zu sagen 'Wenn ihr bekommt diese Nachricht, dann ich bin nicht von Run zurückgekehrt.' Ich denke, ist schlechter Brauch, bringt Pech. Trotzdem." Er schluckt einen Moment. "Ich dachte, ich sage paar Worte für alle. Nur für den Fall.
+
+Chip: auf Kreuzung Hein-Hoyer-Straße und Clemens-Schultz ist gute Bäckerei. Frag nach Trollstulle, dir wird gefallen.
+
+Charlie: ist besser, du überspringst Folge 74 bis 76. Außer, du magst Zeitreiseplot.
+
+Vermillion: viel Glück mit Lily. Leben ist kurz.
+
+Princess: echter Name ist Anton. Ist mir wichtig, dass jemand weiß."
+
+Er ist wieder still; im Hintergrund hört man Grillenzirpen und die Geräusche von Hamburg. Dann endet die Aufzeichnung.
+
+\verfasser[SR 5]{Konstantin}
+
+# Werbung
+Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480 PS protzt, können Sie sich in Zukunft entspannt zurücklehnen.
+Strahlen Sie mit der weltweit ersten
+\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\end{center} \noindent
+zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion, um ihre Nerven wieder zu beruhigen.
+\Verfasser{Yoann}
+
+<!--
+Verschönern sie ihre neuen Full.Spectrum™ Nagelbetten mit der
+\begin{center}\textsc{Fluzz+},\end{center} \noindent Flusellackkollektion und verbessern sie den Tragekomfort. Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.  
+-->
+
+# Werbung
+Du bist dir nicht sicher, ob du von dem Run oder von dem Streetdoc zurückkommst? Willst du deinen liebsten eine Botschaft hinterlassen, die nur im Falle des Falles übermittelt wird? Oder vielleicht deinem Johnson aus dem Jenseits so richtig die Meinung geigen? Estate führt Nachrichtenübermittlungen jeglicher Art aus, mit Zustellgarantie - unparteiisch, zuverlässig und diskret. Die Tarife fangen bei günstigen 500 Nuyen an! Sprich uns auf individuelle Leistungen an - alles hat seinen Preis, und für jeden Preis haben wir eine Leistung!
+\verfasser[SR 5]{Konstantin}
+
+
+
+<!--
 ## Bericht von Erian Xe
 ### An: Allianz der Symbionten — Inneres Globales Gremium
 Werte Vereinigte,
@@ -64,31 +114,4 @@ Detaillierte Berichte aller delegierten Syns, sowie ein Antrag inklusive Kostena
 Hochachtungsvoll,
 Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
-
-# Werbung
-Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480 PS protzt, können Sie sich in Zukunft entspannt zurücklehnen.
-Strahlen Sie mit der weltweit ersten
-\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\end{center} \noindent
-zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion, um ihre Nerven wieder zu beruhigen.
-\Verfasser{Yoann}
-
-<!--
-Verschönern sie ihre neuen Full.Spectrum™ Nagelbetten mit der
-\begin{center}\textsc{Fluzz+},\end{center} \noindent Flusellackkollektion und verbessern sie den Tragekomfort. Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.  
 -->
-
-
-
-# Schleuderpresse
-*Hier könnte deine Gruppensuche stehen, schreib uns an \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de}! Steht kein Kontakt bei einer Anzeige? Dann schreib der Redaktion mit dem Zeichen im Betreff.*
-
-#### Annonce 1
-Lorem Ipsum
-\zeichen{GEFUEHLE}
-
-# Todesanzeigen
-*Trauertext.*
-
-## Vorname Name (YYYY-YYYY)
-\zeitung{Zeitungsanzeiger, DD.MM.YYYY}Lorem Ipsum
-\verfasser[Cthulhu]{Richard}
