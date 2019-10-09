@@ -51,16 +51,19 @@ P.S. Schickt Kira und Shidera meine Glückwünsche zum Jahrestag ihrer Vermählu
 \newpage
 ## Весть из теней
 
-Drei Tage nach dem Run auf HH Robotics klingelt dein Comm-Link. Jemand möchte eine einseitige Video-Übertragung zu dir aufbauen.
+Drei Tage nach dem Run auf das Hauptquartier von HH Robotics klingelt dein Comm-Link. Ein Icon lässt dich verstehen, dass jemand versucht eine einseitige Video-Verbindung zu dir aufzubauen.
 
-Als du die Übertragung annimmst, bietet sich deinen Augen ein ungewöhnlicher Anblick. Du siehst eine schlanke humanoide Gestalt, die in einen schwarzen Anzug mit grüner Fliege gekleidet ist. Sie sitzt an einem Mahagonie-Tisch, wie man ihn in einer Anwaltskanzlei finden würde. Vor ihr auf dem Tisch liegen ein Briefumschlag und eine Visitenkarte. Hinter ihrem Rücken ist ein Hintergrund mit einem so klaren Sternenhimmel, wie man ihn nur noch in einem Planetarium oder in der Matrix findet. Das Gesicht ist aufgrund der Beleuchtung nicht klar zu erkennen.
+Als du die Übertragung startest, bietet sich deinen Augen ein unerwarteter Anblick. Auf dem Display der AR-Brille flackert das Bild einer humanoiden Silhouette auf. Vor ihr ein schwerer Mahagoni-Tisch, so wie man ihn in einer Anwaltskanzlei erwarten würde. Auf dem Tisch liegen ein Briefumschlag und eine Visitenkarte.
+Im Hintergrund erstrahlt ein so klarer Sternenhimmel, wie man ihn nur noch in einem Planetarium oder in der Matrix finden würde.
+Der eng anliegende maßgeschneiderte schwarze Anzug lässt die hagere Statur der Silhouette erahnen und ihr Kragen wird durch eine grüne-weiß karierte Fliege geschmückt.
+Die moderne Stehlampe wirft einen tiefen Schatten in das Gesicht, sodass die strengen Gesichtszüge kaum noch zu erkennen sind.
 
 "Guten Abend." Die Gestalt spricht ruhig und gemessen mit einem leichten Sperethiel-Akzent. "Mein Name ist Estate. Ich wurde gebeten, Ihnen unter bestimmten Bedingungen eine Nachricht zu überbringen." Sie neigt leicht den Kopf. "Diese Bedingungen sind nun eingetroffen."
-Mit zwei Fingern schnippt sie die beiden Schriftstücke in die Kamera. Du kriegst die Benachrichtigung über zwei eingehende Datentransfers, und die Verbindung endet.
+Mit zwei Fingern schnippt sie die beiden Schriftstücke in die Kamera. Du empfängst die Benachrichtigung über zwei eingehende Datentransfers, und die Verbindung endet.
 
-Eines der Datenpäckchen ist eine virtuelle Visitenkarte. Die zweite ist eine Video-Aufzeichnung. Ein Scan enthüllt, dass nichts davon irgendwelche Viren oder ähnliches enthält.
+Eines der Datenpäckchen ist eine virtuelle Visitenkarte. Die zweite ist eine Video-Aufzeichnung. Ein schneller Scan enthüllt, dass keines der beiden Viren oder andere Schadsoftware enthält.
 
-Als du die Video-Aufzeichnung öffnest, siehst du Innokentij, in dem Anzug, den er an dem Abend im Restaurant getragen hat. Der Kontrast zu der Panzerjacke und dem Helm, in denen du den Troll zuletzt gesehen hast, ist frappierend. Die Perspektive der Kamera ist von schräg unten, und hinter Innokentij siehst du das Interieur seines Autos.
+Du öffnest die Video-Aufzeichnung, und siehst Innokentij, in dem Anzug, den er an dem Abend im Restaurant getragen hat. Der Kontrast zu der Panzerjacke und dem Helm, in denen du den Troll zuletzt gesehen hast, ist frappierend. Die Perspektive der Kamera ist von schräg unten, und hinter Innokentij zeigt sich das Interieur seines Autos.
 
 Es dauert einen Moment, bis er zu sprechen anfängt, mit seinem üblichen russischen Akzent. Er holt Luft.
 
@@ -74,7 +77,7 @@ Vermillion: viel Glück mit Lily. Leben ist kurz.
 
 Princess: echter Name ist Anton. Ist mir wichtig, dass jemand weiß."
 
-Er ist wieder still; im Hintergrund hört man Grillenzirpen und die Geräusche von Hamburg. Dann endet die Aufzeichnung.
+Er ist wieder still; im Hintergrund hört man Grillenzirpen und das erdrückende Rauschen des Hamburger Großstadtverkehrs. Dann endet die Aufzeichnung.
 
 \verfasser[SR 5]{Konstantin}
 
