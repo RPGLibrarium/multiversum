@@ -9,7 +9,7 @@ termine:
 losung: "Dies ist ein zufälliger Losungstext"
 ---
 
-Liebe Lesende, auf Grund von mangelnden Personalressourcen, kommt es zur Zeit zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
+Liebe Lesende, auf Grund von mangelnden Personalressourcen kommt es zur Zeit zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
 \Verfasser{Redaktion}
 
 # Was bisher geschah...
@@ -29,10 +29,10 @@ Mit viel Spaß haben wir an jenem Abend neue Charaktere erschaffen, die nun -- m
 \Verfasser{Richard}
 
 ## Von der Mitgliederversammlung
-des RPG Librarium Aachen e.V. berichten wir das Einladungen zur kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_ verschickt werden, so wie es vom Amtsgericht auferlegt wurde.
+des RPG Librarium Aachen e.V. berichten wir, dass Einladungen zu kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_ verschickt werden, so wie es vom Amtsgericht auferlegt wurde.
 Außerdem genügen nun 20% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze 6,6 Personen], um auch gegen den Willen des Vorstands eine Mitgliederversammlung einzuberufen.
 
-Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Die nächste planmäßige Treffen an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
+Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Die nächste planmäßige Treffen, an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
 \verfasser{Richard}
 
 # An einem anderen Ort
@@ -51,25 +51,25 @@ P.S. Schickt Kira und Shidera meine Glückwünsche zum Jahrestag ihrer Vermählu
 ### An: Allianz der Symbionten — Inneres Globales Gremium
 Werte Vereinigte,
 
-unsere Delegation konnte bei den Untersuchungen einen ersten Teilerfolg erzielen. Die Untersuchungen am Riss bei den Florianern haben unerwartete Resultate gezeigt. Eine schnelle Analyse der Proben vor Ort wird nicht ausreichend sein. Dennoch vermutet unsere Delegation, dass eine potentielle existenzielle Gefährdung der Scheibe, durch strukturelle Instabilität und unbekannte Substanzen des Risses, möglich ist.
+unsere Delegation konnte bei den Untersuchungen einen ersten Teilerfolg erzielen. Die Untersuchungen am Riss bei den Florianern haben unerwartete Resultate gezeigt. Eine schnelle Analyse der Proben vor Ort wird nicht ausreichend sein. Dennoch vermutet unsere Delegation, dass eine potentielle existenzielle Gefährdung der Scheibe durch strukturelle Instabilität und unbekannte Substanzen des Risses möglich ist.
 
-Problematisch ist, dass die Florianer in ständigem Gefecht mit anderen Stämmen stehen. Dies kann unsere Forschung massiv beeinträchtigen und es scheint schwierig, alle involvierten — insbesondere auch künftige — Parteien von dem Nutzen unserer Arbeit zu überzeugen. Dennoch ist es unerlässlich, dass die Allianz die Vision einer harmonischen Lebensführung aufrechterhält und versucht, ihnen die Vorteile nahezubringen.
+Problematisch ist, dass die Florianer in ständigem Gefecht mit anderen Stämmen stehen. Dies kann unsere Forschung massiv beeinträchtigen und es scheint schwierig, alle involvierten — insbesondere auch künftigen — Parteien von dem Nutzen unserer Arbeit zu überzeugen. Dennoch ist es unerlässlich, dass die Allianz die Vision einer harmonischen Lebensführung aufrechterhält und versucht, ihnen die Vorteile nahezubringen.
 
-Trotz der angespannten Situation gibt es noch Aussicht, auf erfolgsversprechende Analyse: Eine größere Menge von Aufzeichungen und verwertbaren Forschungsdaten befindet sich wahrscheinlich auf dem ersten Supercomputer. Dieser soll in der aktiven Zeit auch detaillierte Struktur-Daten zu dem Gebiet der Florianer gesammelt haben. Auch wenn die große Eiszeit das Gerät funktionsunfähig gemacht hat, bin ych doch zuversichtlich, dass eine Reparatur, oder zumindest eine Extraktion der Informationen möglich ist. Mit diesen haben wir gute Aussichten darauf, die weitere Entwicklung extrapolieren zu können.
+Trotz der angespannten Situation gibt es noch Aussicht auf erfolgsversprechende Analyse: Eine größere Menge von Aufzeichnungen und verwertbaren Forschungsdaten befindet sich wahrscheinlich auf dem ersten Supercomputer. Dieser soll in der aktiven Zeit auch detaillierte Struktur-Daten zu dem Gebiet der Florianer gesammelt haben. Auch wenn die große Eiszeit das Gerät funktionsunfähig gemacht hat, bin ych doch zuversichtlich, dass eine Reparatur oder zumindest eine Extraktion der Informationen möglich ist. Mit diesen haben wir gute Aussichten darauf, die weitere Entwicklung extrapolieren zu können.
 
 Myne Empfehlung an Sie ist, der Forschung am Riss selbst und der Extraktion relevanter Daten aus dem Supercomputer höchste Priorität einzuräumen. Dabei muss jedoch umsichtig vorgegangen werden, um nicht versehentlich in einen der Florianischen Kriege involviert zu werden.
 
-Detaillierte Berichte aller delegierten Syns, sowie einen Antrag inklusive Kostenaufstellung für weitere Analysen, sind ab Seite 6 zu finden.
+Detaillierte Berichte aller delegierten Syns, sowie ein Antrag inklusive Kostenaufstellung für weitere Analysen, sind ab Seite 6 zu finden.
 
 Hochachtungsvoll,
 Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
 
 # Werbung
-Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480 PS protzt, können Sie sich in Zukunft entspannt zurück lehnen.
+Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480 PS protzt, können Sie sich in Zukunft entspannt zurücklehnen.
 Strahlen Sie mit der weltweit ersten
 \begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\end{center} \noindent
-zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion um ihre Nerven wieder zu beruhigen.
+zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion, um ihre Nerven wieder zu beruhigen.
 \Verfasser{Yoann}
 
 <!--
