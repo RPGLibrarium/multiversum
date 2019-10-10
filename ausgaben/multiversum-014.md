@@ -55,7 +55,7 @@ Drei Tage nach dem Run auf das Hauptquartier von HH Robotics klingelt dein Comm-
 
 Als du die Übertragung startest, bietet sich deinen Augen ein unerwarteter Anblick. Auf dem Display der AR-Brille flackert das Bild einer humanoiden Silhouette auf. Vor ihr ein schwerer Mahagoni-Tisch, so wie man ihn in einer Anwaltskanzlei erwarten würde. Auf dem Tisch liegen ein Briefumschlag und eine Visitenkarte.
 Im Hintergrund erstrahlt ein so klarer Sternenhimmel, wie man ihn nur noch in einem Planetarium oder in der Matrix finden würde.
-Der eng anliegende maßgeschneiderte schwarze Anzug lässt die hagere Statur der Silhouette erahnen und ihr Kragen wird durch eine grüne-weiß karierte Fliege geschmückt.
+Der eng anliegende maßgeschneiderte schwarze Anzug lässt die hagere Statur der Silhouette erahnen und ihr Kragen wird durch eine grün-weiß karierte Fliege geschmückt.
 Die moderne Stehlampe wirft einen tiefen Schatten in das Gesicht, sodass die strengen Gesichtszüge kaum noch zu erkennen sind.
 
 "Guten Abend." Die Gestalt spricht ruhig und gemessen mit einem leichten Sperethiel-Akzent. "Mein Name ist Estate. Ich wurde gebeten, Ihnen unter bestimmten Bedingungen eine Nachricht zu überbringen." Sie neigt leicht den Kopf. "Diese Bedingungen sind nun eingetroffen."
@@ -63,7 +63,7 @@ Mit zwei Fingern schnippt sie die beiden Schriftstücke in die Kamera. Du empfä
 
 Eines der Datenpäckchen ist eine virtuelle Visitenkarte. Die zweite ist eine Video-Aufzeichnung. Ein schneller Scan enthüllt, dass keines der beiden Viren oder andere Schadsoftware enthält.
 
-Du öffnest die Video-Aufzeichnung, und siehst Innokentij, in dem Anzug, den er an dem Abend im Restaurant getragen hat. Der Kontrast zu der Panzerjacke und dem Helm, in denen du den Troll zuletzt gesehen hast, ist frappierend. Die Perspektive der Kamera ist von schräg unten, und hinter Innokentij zeigt sich das Interieur seines Autos.
+Du öffnest die Video-Aufzeichnung und siehst Innokentij, in dem Anzug, den er an dem Abend im Restaurant getragen hat. Der Kontrast zu der Panzerjacke und dem Helm, in denen du den Troll zuletzt gesehen hast, ist frappierend. Die Perspektive der Kamera ist von schräg unten, und hinter Innokentij zeigt sich das Interieur seines Autos.
 
 Es dauert einen Moment, bis er zu sprechen anfängt, mit seinem üblichen russischen Akzent. Er holt Luft.
 
