@@ -1,5 +1,5 @@
 ---
-author: Richard, Konstantin
+author: Thibaud, Richard, Konstantin, Yoann
 date: September 2019
 ausgabe: 014
 balance: false
@@ -9,8 +9,22 @@ termine:
 losung: "Dies ist ein zufälliger Losungstext"
 ---
 
-Liebe Lesende, auf Grund von mangelnden Personalressourcen kommt es zur Zeit zu Verzögerungen im Betriebsablauf. Wir bitten dies zu entschuldigen.
-\Verfasser{Redaktion}
+```{=tex}
+\definecolor{shadecolor}{gray}{0.8}
+```
+
+# Aus der Redaktion
+## Trolle im Schwarzwald
+Liebe Redaktion des besten Schundblatts, für das ich je schreiben durfte. Wenn ihr diesen Brief lest, dann kann es sein, dass ich nicht mehr lebe. Vor 10 Monaten habe ich die heimeligen Gefilde des RPG Librariums in Aachen verlassen, um investigativ von anderen Rollenspiel-Szenen zu berichten. Aber was mich erwartete, war nicht für menschliche Augen bestimmt...
+
+Nach meinem Aufbruch trieb es mich in den Süden, in die Nähe von Tübingen. In meinem ersten Korrespondenzartikel -- so war es mein Plan -- wollte ich vom Tübinger Rollenspielverein (kurz: \enquote{Troll}) berichten. In der links-grün-versifften Hochburg mit einem Student\*innenanteil von 40\% ist der Nerd-Faktor schließlich groß. Ja, ne, denks'te! -- einer barbarischen Einwohner im Süden, auch \enquote{Schwabe} genannt, würde übrigens \enquote{denkst} (IPA: \textipa{\slshape dENSt}) sagen, wobei das S\babelhyphen{nobreak}T am Ende des Wortes zu einem primitiven SCH verkümmert. Ich schweife ab.
+
+Hier im Süden zwischen Schönbuch und Schwarzwald gibt es keine *normalen* Rollenspieler. Wenn ein Schwabe nicht mit 200 Sachen in seinem SUV über die Landstraße brettert, sondern sich -- augenscheinlich zivilisiert -- dem Rollenspiel widmet, mutiert er zu einem voll ausgewachsenen Troll. In monatlichen Treffen, treten jene Trolle zusammen und opfern unsereins -- die zivilisierten aus dem Norden (alles nördlich von Frankfurt ist hier \enquote{Norden}) -- der großen Mauganeschtle. Natürlich erst nachdem Sie mit uns auf riesigen Spielwiesen Schlachten simulieren, wie Kinder mit ihren Zinnfiguren! Nicht selten werden bei dieser \enquote{Freizeitbeschäftigung} Gliedmaßen abgetrennt. Ich habe auf meinem ersten Trolltreff gleich einen Finger verloren! Nur knapp konnte mich retten.
+
+Seit meinem Entkommen verstecke ich mich in dem umgestürzten Waggon einer alten Diesel-Regionalbahn. Nach mehreren Monaten des Überlebens konnte ich nun endlich ein Stückchen Digitalisierung in der Wildnis, die sich euphemistisch \enquote{Neckar-Alb-Bodensee} schimpft, finden und diese E-Mail absetzen.
+
+Scheiße! Jemand hat mich entdeckt. Wünscht mir Glück, und kommt mich auf gar keinen Fall besuchen. Es ist scheiße gefährlich hier!
+\verfasser{Euer Praktikant}
 
 # Was bisher geschah...
 ## Workshop: "Charaktere basteln"
@@ -35,6 +49,8 @@ Außerdem genügen nun 20% der Vereinsmitglieder^[das sind nach aktuellem Stand 
 Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Die nächste planmäßige Treffen, an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
 \verfasser{Richard}
 
+
+
 # An einem anderen Ort
 ## Auszug aus den königlichen Archiven von Wyrall
 ### Königin Asaia an Statthalter Mirzal von Felsbrunn, 16.1. Aarion, 4 ASA
@@ -42,13 +58,24 @@ Mirzal,
 
 die Angelegenheit ist größer als ein Forschungsprojekt für Euch und vier Scolari'ae. Erscheint innerhalb eines Monats bei Hofe und bringt Kira und Shidera mit. Wir brauchen ihren Bericht und Eure Expertise. Trefft Vorbereitungen, die Reisenden aus Sureya zu kontaktieren, falls wir ihre Hilfe brauchen.
 
-Asaia  
+\emph{Asaia}  
 16ter d. 1 H. d. Aarion, 4 Meiner Zeit  
 P.S. Schickt Kira und Shidera meine Glückwünsche zum Jahrestag ihrer Vermählung.
 \Verfasser[\sout{Lasers} Magic and Feelings]{Konstantin}
 
+```{=tex}
+\vspace{-.5em}\begin{snugshade}
+```
+Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480 PS protzt, können Sie sich in Zukunft entspannt zurücklehnen.
+Strahlen Sie mit der weltweit ersten
+\begin{center}\vspace{-0em}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\vspace{-0em}\end{center} \noindent
+zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion, um ihre Nerven wieder zu beruhigen.
+\verfasser{Yoann}
 
-\newpage
+```{=tex}
+\end{snugshade}\vspace{-.5em}
+```
+
 ## Весть из теней
 
 Drei Tage nach dem Run auf das Hauptquartier von HH Robotics klingelt dein Comm-Link. Ein Icon lässt dich verstehen, dass jemand versucht eine einseitige Video-Verbindung zu dir aufzubauen.
@@ -58,16 +85,14 @@ Im Hintergrund erstrahlt ein so klarer Sternenhimmel, wie man ihn nur noch in ei
 Der eng anliegende maßgeschneiderte schwarze Anzug lässt die hagere Statur der Silhouette erahnen und ihr Kragen wird durch eine grün-weiß karierte Fliege geschmückt.
 Die moderne Stehlampe wirft einen tiefen Schatten in das Gesicht, sodass die strengen Gesichtszüge kaum noch zu erkennen sind.
 
-"Guten Abend." Die Gestalt spricht ruhig und gemessen mit einem leichten Sperethiel-Akzent. "Mein Name ist Estate. Ich wurde gebeten, Ihnen unter bestimmten Bedingungen eine Nachricht zu überbringen." Sie neigt leicht den Kopf. "Diese Bedingungen sind nun eingetroffen."
+\enquote{Guten Abend.} Die Gestalt spricht ruhig und gemessen mit einem leichten Sperethiel-Akzent. \enquote{Mein Name ist Estate. Ich wurde gebeten, Ihnen unter bestimmten Bedingungen eine Nachricht zu überbringen.} Sie neigt leicht den Kopf. \enquote{Diese Bedingungen sind nun eingetroffen.}
 Mit zwei Fingern schnippt sie die beiden Schriftstücke in die Kamera. Du empfängst die Benachrichtigung über zwei eingehende Datentransfers, und die Verbindung endet.
 
 Eines der Datenpäckchen ist eine virtuelle Visitenkarte. Die zweite ist eine Video-Aufzeichnung. Ein schneller Scan enthüllt, dass keines der beiden Viren oder andere Schadsoftware enthält.
 
 Du öffnest die Video-Aufzeichnung und siehst Innokentij, in dem Anzug, den er an dem Abend im Restaurant getragen hat. Der Kontrast zu der Panzerjacke und dem Helm, in denen du den Troll zuletzt gesehen hast, ist frappierend. Die Perspektive der Kamera ist von schräg unten, und hinter Innokentij zeigt sich das Interieur seines Autos.
 
-Es dauert einen Moment, bis er zu sprechen anfängt, mit seinem üblichen russischen Akzent. Er holt Luft.
-
-"Ich glaube, ist üblich am Anfang zu sagen 'Wenn ihr bekommt diese Nachricht, dann ich bin nicht von Run zurückgekehrt.' Ich denke, ist schlechter Brauch, bringt Pech. Trotzdem." Er schluckt einen Moment. "Ich dachte, ich sage paar Worte für alle. Nur für den Fall.
+Es dauert einen Moment, bis er zu sprechen anfängt, mit seinem üblichen russischen Akzent. Er holt Luft. \enquote{Ich glaube, ist üblich am Anfang zu sagen \enquote{Wenn ihr bekommt diese Nachricht, dann ich bin nicht von Run zurückgekehrt.} Ich denke, ist schlechter Brauch, bringt Pech. Trotzdem.} Er schluckt einen Moment. \glqq Ich dachte, ich sage paar Worte für alle. Nur für den Fall.
 
 Chip: auf Kreuzung Hein-Hoyer-Straße und Clemens-Schultz ist gute Bäckerei. Frag nach Trollstulle, dir wird gefallen.
 
@@ -75,29 +100,26 @@ Charlie: ist besser, du überspringst Folge 74 bis 76. Außer, du magst Zeitreis
 
 Vermillion: viel Glück mit Lily. Leben ist kurz.
 
-Princess: echter Name ist Anton. Ist mir wichtig, dass jemand weiß."
+Princess: echter Name ist Anton. Ist mir wichtig, dass jemand weiß.\grqq{}
 
 Er ist wieder still; im Hintergrund hört man Grillenzirpen und das erdrückende Rauschen des Hamburger Großstadtverkehrs. Dann endet die Aufzeichnung.
-
 \verfasser[SR 5]{Konstantin}
 
-# Werbung
-Wenn der Nachbar mal wieder mit seiner 256 Farben Neon-Unterbodenbeleuchtung und 480 PS protzt, können Sie sich in Zukunft entspannt zurücklehnen.
-Strahlen Sie mit der weltweit ersten
-\begin{center}\textsc{Full.Spectrum RGBA™ Nagelbettbeleuchtung}\end{center} \noindent
-zurück. Und genießen Sie anschließend die 1.5 PS Vibrationsfunktion, um ihre Nerven wieder zu beruhigen.
-\Verfasser{Yoann}
+```{=tex}
+\vspace{-.5em}\begin{snugshade}
+```
+Du bist dir nicht sicher, ob du von dem Run oder von dem Streetdoc zurückkommst? Willst du deinen liebsten eine Botschaft hinterlassen, die nur im Falle des Falles übermittelt wird? Oder vielleicht deinem Johnson aus dem Jenseits so richtig die Meinung geigen? Estate™ führt Nachrichtenübermittlungen jeglicher Art aus, mit Zustellgarantie - unparteiisch, zuverlässig und diskret.
 
+Flexible Tarife erhältlich ab günstigen 500\textyen{}! Konfiguriere dein individuelles Angebot - alles hat seinen Preis, und für jeden Preis haben wir eine Angebot!
+\verfasser[SR 5]{Konstantin}
+```{=tex}
+\end{snugshade}\vspace{-.5em}
+```
+\vspace{-1em}
 <!--
 Verschönern sie ihre neuen Full.Spectrum™ Nagelbetten mit der
 \begin{center}\textsc{Fluzz+},\end{center} \noindent Flusellackkollektion und verbessern sie den Tragekomfort. Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.  
 -->
-
-# Werbung
-Du bist dir nicht sicher, ob du von dem Run oder von dem Streetdoc zurückkommst? Willst du deinen liebsten eine Botschaft hinterlassen, die nur im Falle des Falles übermittelt wird? Oder vielleicht deinem Johnson aus dem Jenseits so richtig die Meinung geigen? Estate führt Nachrichtenübermittlungen jeglicher Art aus, mit Zustellgarantie - unparteiisch, zuverlässig und diskret. Die Tarife fangen bei günstigen 500 Nuyen an! Sprich uns auf individuelle Leistungen an - alles hat seinen Preis, und für jeden Preis haben wir eine Leistung!
-\verfasser[SR 5]{Konstantin}
-
-
 
 <!--
 ## Bericht von Erian Xe
