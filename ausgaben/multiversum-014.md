@@ -111,7 +111,7 @@ Er ist wieder still; im Hintergrund hört man Grillenzirpen und das erdrückende
 Du bist dir nicht sicher, ob du von dem Run oder von dem Streetdoc zurückkommst? Willst du deinen liebsten eine Botschaft hinterlassen, die nur im Falle des Falles übermittelt wird? Oder vielleicht deinem Johnson aus dem Jenseits so richtig die Meinung geigen? Estate™ führt Nachrichtenübermittlungen jeglicher Art aus, mit Zustellgarantie - unparteiisch, zuverlässig und diskret.
 
 Flexible Tarife erhältlich ab günstigen 500\textyen{}! Konfiguriere dein individuelles Angebot - alles hat seinen Preis, und für jeden Preis haben wir eine Angebot!
-\verfasser[SR 5]{Konstantin}
+\Verfasser[SR 5]{Konstantin}
 ```{=tex}
 \end{snugshade}\vspace{-.5em}
 ```
