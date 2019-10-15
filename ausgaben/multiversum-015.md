@@ -1,5 +1,5 @@
 ---
-author: Richard, Yoann
+author: Yoann
 date: Oktober 2019
 ausgabe: 15
 balance: false
@@ -10,10 +10,18 @@ losung: "Vergessen. Was soll schon passieren?"
 
 ---
 
+```{=tex}
+\definecolor{shadecolor}{gray}{0.8}
+```
+
 # Was bisher geschah...
+```{=tex}
+\color[Hsb]{315,1,1,}{\bfseries\LARGE\center Noch nix. \\ Aber: Wir müssen an Losungen denken! \\}
+```
 
 # An einem anderen Ort
 
+<!--
 ## Bericht von Erian Xe
 ### An: Allianz der Symbionten — Inneres Globales Gremium
 Werte Vereinigte,
@@ -31,8 +39,16 @@ Detaillierte Berichte aller delegierten Syns, sowie ein Antrag inklusive Kostena
 Hochachtungsvoll,
 Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
+-->
 
 # Werbung
 
+```{=tex}
+\vspace{-.5em}\begin{snugshade}
+```
 Verschönern sie ihre neuen Full.Spectrum™ Nagelbetten mit der
-\begin{center}\textsc{Fluzz+},\end{center} \noindent Flusellackkollektion und verbessern sie den Tragekomfort. Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.  
+\vspace{-1em}
+\begin{center}\textsc{Fluzz+}\end{center} \noindent Flusellackkollektion und verbessern sie den Tragekomfort. Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.  
+```{=tex}
+\end{snugshade}\vspace{-.5em}
+```
