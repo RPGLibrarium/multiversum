@@ -19,7 +19,7 @@ Liebe Redaktion des besten Schundblatts, für das ich je schreiben durfte. Wenn 
 
 Nach meinem Aufbruch trieb es mich in den Süden, in die Nähe von Tübingen. In meinem ersten Korrespondenzartikel -- so war es mein Plan -- wollte ich vom Tübinger Rollenspielverein (kurz: \enquote{Troll}) berichten. In der links-grün-versifften Hochburg mit einem Student\*innenanteil von 40\% ist der Nerd-Faktor schließlich groß. Ja, ne, denks'te! -- einer der barbarischen Einwohner im Süden, auch \enquote{Schwabe} genannt, würde übrigens \enquote{denkst} (IPA: \textipa{\slshape dENSt}) sagen, wobei das S\babelhyphen{nobreak}T am Ende des Wortes zu einem primitiven SCH verkümmert. Ich schweife ab.
 
-Hier im Süden zwischen Schönbuch und Schwarzwald gibt es keine *normalen* Rollenspieler. Wenn ein Schwabe nicht mit 200 Sachen in seinem SUV über die Landstraße brettert, sondern sich -- augenscheinlich zivilisiert -- dem Rollenspiel widmet, mutiert er zu einem voll ausgewachsenen Troll. In monatlichen Treffen, treten jene Trolle zusammen und opfern unsereins -- die zivilisierten aus dem Norden (alles nördlich von Frankfurt ist hier \enquote{Norden}) -- der großen Mauganeschtle. Natürlich erst nachdem Sie mit uns auf riesigen Spielwiesen Schlachten simulieren, wie Kinder mit ihren Zinnfiguren! Nicht selten werden bei dieser \enquote{Freizeitbeschäftigung} Gliedmaßen abgetrennt. Ich habe auf meinem ersten Trolltreff gleich einen Finger verloren! Nur knapp konnte mich retten.
+Hier im Süden zwischen Schönbuch und Schwarzwald gibt es keine *normalen* Rollenspieler. Wenn ein Schwabe nicht mit 200 Sachen in seinem SUV über die Landstraße brettert, sondern sich -- augenscheinlich zivilisiert -- dem Rollenspiel widmet, mutiert er zu einem voll ausgewachsenen Troll. In monatlichen Treffen treten jene Trolle zusammen und opfern unsereins -- die zivilisierten aus dem Norden (alles nördlich von Frankfurt ist hier \enquote{Norden}) -- der großen Mauganeschtle. Natürlich erst nachdem sie mit uns auf riesigen Spielwiesen Schlachten simulieren, wie Kinder mit ihren Zinnfiguren! Nicht selten werden bei dieser \enquote{Freizeitbeschäftigung} Gliedmaßen abgetrennt. Ich habe auf meinem ersten Trolltreff gleich einen Finger verloren! Nur knapp konnte ich mich retten.
 
 Seit meinem Entkommen verstecke ich mich in dem umgestürzten Waggon einer alten Diesel-Regionalbahn. Nach mehreren Monaten des Überlebens konnte ich nun endlich ein Stückchen Digitalisierung in der Wildnis, die sich euphemistisch \enquote{Neckar-Alb-Bodensee} schimpft, finden und diese E-Mail absetzen.
 
@@ -46,7 +46,7 @@ Mit viel Spaß haben wir an jenem Abend neue Charaktere erschaffen, die nun -- m
 des RPG Librarium Aachen e.V. berichten wir, dass Einladungen zu kommenden Mitgliederversammlungen künftig nicht mehr _schriftlich_, sondern _in Textform_ verschickt werden, so wie es vom Amtsgericht auferlegt wurde.
 Außerdem genügen nun 20% der Vereinsmitglieder^[das sind nach aktuellem Stand ganze 6,6 Personen], um auch gegen den Willen des Vorstands eine Mitgliederversammlung einzuberufen.
 
-Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Die nächste planmäßige Treffen, an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
+Diese Satzungsänderung wurde am 2019-09-16 auf einer außerordentlichen MV teils ausgiebig diskutiert. Damit ist der Bürokratie vorerst genüge getan^[hoffentlich]. Das nächste planmäßige Treffen, an dem Aristokratie und Plebus zusammentreten, um über Regierungsangelegenheiten zu beraten, ist für das Frühjahr 2020 angesetzt.
 \verfasser{Richard}
 
 
@@ -108,7 +108,7 @@ Er ist wieder still; im Hintergrund hört man Grillenzirpen und das erdrückende
 ```{=tex}
 \vspace{-.5em}\begin{snugshade}
 ```
-Du bist dir nicht sicher, ob du von dem Run oder von dem Streetdoc zurückkommst? Willst du deinen liebsten eine Botschaft hinterlassen, die nur im Falle des Falles übermittelt wird? Oder vielleicht deinem Johnson aus dem Jenseits so richtig die Meinung geigen? Estate™ führt Nachrichtenübermittlungen jeglicher Art aus, mit Zustellgarantie - unparteiisch, zuverlässig und diskret.
+Du bist dir nicht sicher, ob du von dem Run oder von dem Streetdoc zurückkommst? Willst du deinen Liebsten eine Botschaft hinterlassen, die nur im Falle des Falles übermittelt wird? Oder vielleicht deinem Johnson aus dem Jenseits so richtig die Meinung geigen? Estate™ führt Nachrichtenübermittlungen jeglicher Art aus, mit Zustellgarantie - unparteiisch, zuverlässig und diskret.
 
 Flexible Tarife erhältlich ab günstigen 500\textyen{}! Konfiguriere dein individuelles Angebot - alles hat seinen Preis, und für jeden Preis haben wir eine Angebot!
 \Verfasser[SR 5]{Konstantin}
