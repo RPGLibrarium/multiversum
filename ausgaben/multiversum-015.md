@@ -35,7 +35,7 @@ So ein Mist.
 Aber auch eine Gelegenheit, vielleicht fällt mehr Getrappel nicht auf?
 Vielleicht bekommen die Wachen auch einen zusätzlichen Wurf auf Entdecken.
 Und wenn sie uns entdecken ist der Einbruch noch nicht automatisch gescheitert - immerhin sind wir noch im Gebäude!
-Da heißt es heiße Verfolgungsjagd oder spannendes Versteckspiel.
+Da heißt es heiße Verfolgungsjagd, spannendes Versteckspiel oder verzwickte Diplomatie.
 In jedem Fall besser als "Ihr werdet geschnappt. 5 Tage Gefängnis."
 Im Workshop haben wir diese und andere typische Rollenspielsituationen neu bewertet.
 
