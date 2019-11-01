@@ -45,7 +45,8 @@ Du willst den Golbinanführer erschießen?
 Du triffst, aber leider nur sein Armulett.
 Das war ein Familienerbstück! Oha, der ist sauer.
 Trotz aller Widrigkeiten konnten unsere mutigen Freiwilligen das Abenteuer bestreiten.
-Umwege sind immerhin ein Teil des Abenteuers, der Weg ist das Ziel.
+Umwege sind ein Teil des Abenteuers, der Weg ist das Ziel.
+Und sie lebten glücklich bis an ihr Lebensende, denn bekanntermaßen ist das Leben in fremden Tentakeldimensionen ein gutes...
 Der Workshop war interaktiv und hat viel Spaß gemacht!
 
 Hast du den Workshop verpasst? Nicht verzagen, gerüchteweise hat Rainer demnächst weitere spannende Themen für uns auf Lager.
