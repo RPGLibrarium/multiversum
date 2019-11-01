@@ -1,5 +1,5 @@
 ---
-author: Yoann, Hanna
+author: Yoann, Hanna, Richard
 date: Oktober 2019
 ausgabe: 15
 balance: false
