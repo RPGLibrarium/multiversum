@@ -21,7 +21,6 @@ losung: "Vergessen. Was soll schon passieren?"
 
 # An einem anderen Ort
 
-<!--
 ## Bericht von Erian Xe
 ### An: Allianz der Symbionten — Inneres Globales Gremium
 Werte Vereinigte,
@@ -30,7 +29,7 @@ unsere Delegation konnte bei den Untersuchungen einen ersten Teilerfolg erzielen
 
 Problematisch ist, dass die Florianer in ständigem Gefecht mit anderen Stämmen stehen. Dies kann unsere Forschung massiv beeinträchtigen und es scheint schwierig, alle involvierten — insbesondere auch künftigen — Parteien von dem Nutzen unserer Arbeit zu überzeugen. Dennoch ist es unerlässlich, dass die Allianz die Vision einer harmonischen Lebensführung aufrechterhält und versucht, ihnen die Vorteile nahezubringen.
 
-Trotz der angespannten Situation gibt es noch Aussicht auf erfolgsversprechende Analyse: Eine größere Menge von Aufzeichnungen und verwertbaren Forschungsdaten befindet sich wahrscheinlich auf dem ersten Supercomputer. Dieser soll in der aktiven Zeit auch detaillierte Struktur-Daten zu dem Gebiet der Florianer gesammelt haben. Auch wenn die große Eiszeit das Gerät funktionsunfähig gemacht hat, bin ych doch zuversichtlich, dass eine Reparatur oder zumindest eine Extraktion der Informationen möglich ist. Mit diesen haben wir gute Aussichten darauf, die weitere Entwicklung extrapolieren zu können.
+Trotz der angespannten Situation gibt es noch Aussicht auf eine erfolgsversprechende Analyse: Eine größere Menge von Aufzeichnungen und verwertbaren Forschungsdaten befindet sich wahrscheinlich auf dem ersten Supercomputer. Dieser soll in der aktiven Zeit auch detaillierte Struktur-Daten zu dem Gebiet der Florianer gesammelt haben. Auch wenn die große Eiszeit das Gerät funktionsunfähig gemacht hat, bin ych doch zuversichtlich, dass eine Reparatur oder zumindest eine Extraktion der Informationen möglich ist. Mit diesen haben wir gute Aussichten darauf, die weitere Entwicklung extrapolieren zu können.
 
 Myne Empfehlung an Sie ist, der Forschung am Riss selbst und der Extraktion relevanter Daten aus dem Supercomputer höchste Priorität einzuräumen. Dabei muss jedoch umsichtig vorgegangen werden, um nicht versehentlich in einen der Florianischen Kriege involviert zu werden.
 
@@ -39,7 +38,6 @@ Detaillierte Berichte aller delegierten Syns, sowie ein Antrag inklusive Kostena
 Hochachtungsvoll,
 Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
--->
 
 ## Skandal um Cyberbunker in Westrhein-Luxemburg
 Traben-Trarbach. Unter dem beschaulichen Äußerem des kleinen historischen Stadtkerns von Traben-Trarbach verbirgt sich ein erstaunliches Netz der Verschwörung.
@@ -62,7 +60,7 @@ Der historische Bunker soll Anfang des Jahrhunderts militärische Serveranlagen 
 Ein idealer Nähboden für Cyberkriminelle.
 
  Aus: Frankfurter Rundmail, 31.10.2079
-\verfasser[SR4-5]{Hanna}
+\Verfasser[SR4-5]{Hanna}
 
 # Werbung
 
