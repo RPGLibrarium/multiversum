@@ -40,6 +40,7 @@ Vielleicht bekommen die Wachen auch einen zusätzlichen Wurf auf Entdecken.
 Und wenn sie uns entdecken ist der Einbruch noch nicht automatisch gescheitert - immerhin sind wir noch im Gebäude!
 Da heißt es heiße Verfolgungsjagd oder spannendes Versteckspiel.
 In jedem Fall besser als "Ihr werdet geschnappt. 5 Tage Gefängnis."
+In einem Gedankenexperiment haben wir diese und andere typische Rollenspielsituationen neu bewertet.
 
 Was wäre ein Rollenspielworkshop ohne praktische Komponente? Zwei mutige Freiwillige Spielerinnen haben sich dem Raum voller Spielleiter gestellt. Rainer gab einen Plot vor.
 Bei jeder Handlung der Spielerinnen, die nach Ermessen der anderen Anwesenden eines Würfelwurfs würdig war, rief jemand "Fail!" und erläuterte, was nun schief geht und wie dadurch die Geschichte vorangetrieben werden kann.
