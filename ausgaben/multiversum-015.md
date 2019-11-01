@@ -73,7 +73,7 @@ Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 
 ## Skandal um Cyberbunker in Westrhein-Luxemburg
 Traben-Trarbach. Unter dem beschaulichen Äußerem des kleinen historischen Stadtkerns von Traben-Trarbach verbirgt sich ein erstaunliches Netz der Verschwörung.
-Wie Sonderermittler der MET2000 in Auftrag des Frankfurter Bankenvereins kürzlich bestätigten, konnte die bislang größte Darkgrid-Serverfarm ausgehoben werden.
+Wie Sonderermittler der MET2000 im Auftrag des Frankfurter Bankenvereins kürzlich bestätigten, konnte die bislang größte Darkgrid-Serverfarm ausgehoben werden.
 Es handelt sich dabei um einen der größten Erfolge gegen Darkgrid-Cyberaktivitäten der letzten Jahre.
 "Besonders zeichnet diesen Einsatz aus, dass wir eine Darkgrid-Serverfarm ausheben konnten. Damit ist ein uns gelungen dem Darkgrid Hardwarekapazität zu nehmen", erklärte ein Sprecher.
 Vorherige Raids adressierten meist nur Hoster, aber nicht die Hardwareinfrastruktur des Darkgrid.
