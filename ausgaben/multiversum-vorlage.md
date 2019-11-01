@@ -6,7 +6,7 @@ balance: false
 termine:
     - "Termin: DD.MM.YY, hh Uhr"
     - "Termin: DD.MM.YY - DD.MM.YY"
-losung: "Dies ist ein zufälliger Losungstext"
+losung: "Hier könnte Ihre Losung stehen."
 
 ---
 
