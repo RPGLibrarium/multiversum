@@ -41,6 +41,29 @@ Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser{Richard}
 -->
 
+## Skandal um Cyberbunker in Westrhein-Luxemburg
+Traben-Trarbach. Unter dem beschaulichen Äußerem des kleinen historischen Stadtkerns von Traben-Trarbach verbirgt sich ein erstaunliches Netz der Verschwörung.
+Wie Sonderermittler der MET2000 in Auftrag des Frankfurter Bankenvereins kürzlich bestätigten, konnte ein großer Darknet-Server ausgehoben werden.
+Es handelt sich dabei um einen der größten Erfolge gegen Darknet-Cyberaktivitäten der letzten Jahre.
+"Besonders zeichnet diesen Einsatz aus, dass wir eine Darknet-Serverfarm ausheben konnten. Damit ist ein uns gelungen dem Darknet Hardwarekapazität zu nehmen", erklärte ein Sprecher.
+Vorherige Raids adressierten meist nur Serverbetreiber, die unter anderem an Darknet-Hoster vermieteten.
+"Die Vernichtung dieser Server ist ein großer Schritt gegen den Cyberterrorismus im Großraum Frankfurt", heißt es in einer Stellungnahme des Frankfurter Bankenvereins.
+Auf den Servern fanden hauptsächlich Angebote zu Cyberangriffen statt, aber auch Waffenhandel und die Verbreitung von Kinderpornographie konnten so eingedämmt werden.
+
+"Die Verwaltung des Großherzogtums Westrhein-Luxemburg weigerte sich bis zuletzt, Informationen zu den Verbrechern herauszugeben", erörterte ein MET2000 Mitarbeiter.
+Bei dem festgenommenen Betreiber soll es sich um einen Zwerg gehandelt haben.
+"Wir glauben, dass Großherzog Adolphe III selbst den Informationsfluss unterbunden hat, um sein Metavolk mal wieder zu bevorzugen", fuhr der Mitarbeiter fort.
+Die mangelnde Kooperation der Verwaltung erzeugte einiges Kopfschütteln.
+Insbesondere war die Darknet-Farm in einem historischen Militärbunker untergebracht, der sich erst vor ein paar Jahren noch im Eigentum des Großherzugtums befand.
+"Es gab keinerlei Beweise für einen cyberkriminellen Hintergrund der Käufer, als der Bunker verkauft wurde. Außerdem gab es keine weiteren Interessenten", hieß es knapp aus der Verwaltung.
+Die hohe Verschuldung des Großherzogtums habe dabei keine Rolle gespielt, hieß es.
+Recherchen des Frankfurter Bankenvereins halten dagegen, dass Informationen zum Cyberhintergrund der Festgenommenen zum Zeitpunkt des Verkaufs bei mehreren Sicherheitsdiensten günstig angeboten wurden.
+Der historische Bunker soll Anfang des Jahrhunderts militärische Serveranlagen beherrbergt haben und somit über eine veraltete, aber gut instandzusetzende Infrastruktur verfügt haben.
+Ein idealer Nähboden für Cyberkriminelle.
+
+ Aus: Frankfurter Rundmail, 31.10.2079
+\verfasser[SR4-5]{Hanna}
+
 # Werbung
 
 ```{=tex}
