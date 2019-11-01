@@ -19,6 +19,38 @@ losung: "Vergessen. Was soll schon passieren?"
 \color[Hsb]{315,1,1,}{\bfseries\LARGE\center Noch nix. \\ Aber: Wir müssen an Losungen denken! \\}
 ```
 
+## Roll to fail? Roll to forward!
+Diesen Monat hat Rainer uns ein allgemeines Problem im Rollenspiel vor Augen gehalten: Der Spieler wirft schlecht und nichts gelingt.
+Der Plot kommt ins stocken und der nächste Spieler muss sich etwas einfallen lassen.
+Muss das sein?
+Was können Spieler und Spielleiter machen, um aus dem gescheiterten Wurf die Geschichte weiterzuerzählen?
+
+Dabei wurden viele Vorschläge gesammelt.
+Was machen wir beispielsweise, wenn wir es nicht schaffen uns an Wachen vorbeizuschleichen, aber nicht Patzen?
+Entdecken sie uns und der Einbruch ist gescheitert?
+Oder schleichen wir vorbei, verlieren dabei aber einen Gegenstand?
+Sehen die Wachen den Gegenstand, riskieren wir eine Entdeckung.
+Außerdem könnte er später fehlen.
+Also stehen wir vor einer Entscheidung: zurück und einsammeln oder lieber schnell weg?
+Alternativ zum Ausrüstungsverlust könnte es einen Wachwechsel geben, die Umwelt ändert sich.
+Die Wachen haben uns noch nicht entdeckt, aber jetzt läuft doppelt so viel Wachpersonal herum!
+So ein Mist.
+Aber auch eine Gelegenheit, vielleicht fällt mehr Getrappel nicht auf?
+Vielleicht bekommen die Wachen auch einen zusätzlichen Wurf auf Entdecken.
+Und wenn sie uns entdecken ist der Einbruch noch nicht automatisch gescheitert - immerhin sind wir noch im Gebäude!
+Da heißt es heiße Verfolgungsjagd oder spannendes Versteckspiel.
+In jedem Fall besser als "Ihr werdet geschnappt. 5 Tage Gefängnis."
+
+Was wäre ein Rollenspielworkshop ohne praktische Komponente? Zwei mutige Freiwillige Spielerinnen haben sich dem Raum voller Spielleiter gestellt. Rainer gab einen Plot vor.
+Bei jeder Handlung der Spielerinnen, die nach Ermessen der anderen Anwesenden eines Würfelwurfs würdig war, rief jemand "Fail!" und erläuterte, was nun schief geht und wie dadurch die Geschichte vorangetrieben werden kann.
+Du willst den Golbinanführer erschießen?
+Du triffst, aber leider nur sein Armulett.
+Das war ein Familienerbstück! Oha, der ist sauer.
+Trotz aller Widrigkeiten konnten unsere mutigen Freiwilligen das Abenteuer bestreiten.
+Umwege sind immerhin ein Teil des Abenteuers, der Weg ist das Ziel.
+Der Workshop war interaktiv und hat viel Spaß gemacht!
+\verfasser{Hanna}
+
 # An einem anderen Ort
 
 ## Bericht von Erian Xe
@@ -37,7 +69,7 @@ Detaillierte Berichte aller delegierten Syns, sowie ein Antrag inklusive Kostena
 
 Hochachtungsvoll,
 Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
-\Verfasser{Richard}
+\Verfasser[Microscope]{Richard}
 
 ## Skandal um Cyberbunker in Westrhein-Luxemburg
 Traben-Trarbach. Unter dem beschaulichen Äußerem des kleinen historischen Stadtkerns von Traben-Trarbach verbirgt sich ein erstaunliches Netz der Verschwörung.
