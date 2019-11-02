@@ -1,5 +1,5 @@
 ---
-author: Yoann, Hanna, Richard
+author: Yoann, Hanna, Franca
 date: Oktober 2019
 ausgabe: 15
 balance: false
@@ -30,9 +30,9 @@ Sehen die Wachen den Gegenstand, riskieren wir eine Entdeckung.
 Außerdem könnte er später fehlen.
 Also stehen wir vor einer Entscheidung: zurück und einsammeln oder lieber schnell weg?
 Alternativ zum Ausrüstungsverlust könnte es einen Wachwechsel geben, die Umwelt ändert sich.
-Die Wachen haben uns noch nicht entdeckt, aber jetzt läuft doppelt so viel Wachpersonal herum!
-So ein Mist.
-Aber auch eine Gelegenheit, vielleicht fällt mehr Getrappel nicht auf?
+Die Wachen haben uns noch nicht entdeckt, aber jetzt läuft doppelt so viel Wachpersonal herum.
+So ein Mist!
+Es könnte aber eine Gelegenheit sein, vielleicht fällt mehr Getrappel nicht auf?
 Vielleicht bekommen die Wachen auch einen zusätzlichen Wurf auf Entdecken.
 Und wenn sie uns entdecken ist der Einbruch noch nicht automatisch gescheitert - immerhin sind wir noch im Gebäude!
 Da heißt es heiße Verfolgungsjagd, spannendes Versteckspiel oder verzwickte Diplomatie.
@@ -41,12 +41,11 @@ Im Workshop haben wir diese und andere typische Rollenspielsituationen neu bewer
 
 Was wäre ein Rollenspielworkshop ohne praktische Komponente? Zwei mutige freiwillige Spielerinnen haben sich dem Raum voller Spielleiter gestellt. Rainer gab einen Plot vor.
 Bei jeder Handlung der Spielerinnen, die nach Ermessen der anderen Anwesenden eines Würfelwurfs würdig war, rief jemand "Fail!" und erläuterte, was nun schief geht und wie dadurch die Geschichte vorangetrieben werden kann.
-Du willst den Golbinanführer erschießen?
+Du willst den Goblinanführer erschießen?
 Du triffst, aber leider nur sein Armulett.
-Das war ein Familienerbstück! Oha, der ist sauer.
+Sein geliebtes Familienerbstück! Oha, der ist sauer.
 Trotz aller Widrigkeiten konnten unsere mutigen Freiwilligen das Abenteuer bestreiten.
-Umwege sind ein Teil des Abenteuers, der Weg ist das Ziel.
-Und sie lebten glücklich bis an ihr Lebensende, denn bekanntermaßen ist das Leben in fremden Tentakeldimensionen ein gutes...
+Sie lebten glücklich bis an ihr Lebensende, denn bekanntermaßen ist das Leben in fremden Tentakeldimensionen ein gutes...
 Der Workshop war interaktiv und hat viel Spaß gemacht!
 
 Hast du den Workshop verpasst? Nicht verzagen, gerüchteweise hat Rainer demnächst weitere spannende Themen für uns auf Lager.
@@ -54,6 +53,7 @@ Hast du den Workshop verpasst? Nicht verzagen, gerüchteweise hat Rainer demnäc
 
 # An einem anderen Ort
 
+<!--
 ## Bericht von Erian Xe
 ### An: Allianz der Symbionten — Inneres Globales Gremium
 Werte Vereinigte,
@@ -71,29 +71,39 @@ Detaillierte Berichte aller delegierten Syns, sowie ein Antrag inklusive Kostena
 Hochachtungsvoll,
 Erian Xe, vereinigte Syns — Forschungsbeauftragtys der Riss-Delegation
 \Verfasser[Microscope]{Richard}
+-->
 
 ## Skandal um Cyberbunker in Westrhein-Luxemburg
-Traben-Trarbach. Unter dem beschaulichen Äußerem des kleinen historischen Stadtkerns von Traben-Trarbach verbirgt sich ein erstaunliches Netz der Verschwörung.
+*Traben-Trarbach.* Unter dem beschaulichen Äußeren des kleinen historischen Stadtkerns von Traben-Trarbach verbirgt sich ein erstaunliches Netz der Verschwörung.
 Wie Sonderermittler der MET2000 im Auftrag des Frankfurter Bankenvereins kürzlich bestätigten, konnte die bislang größte Darkgrid-Serverfarm ausgehoben werden.
-Es handelt sich dabei um einen der größten Erfolge gegen Darkgrid-Cyberaktivitäten der letzten Jahre.
-"Besonders zeichnet diesen Einsatz aus, dass wir eine Darkgrid-Serverfarm ausheben konnten. Damit ist es uns gelungen dem Darkgrid Hardwarekapazität zu nehmen", erklärte ein Sprecher.
-Vorherige Raids adressierten meist nur Hoster, aber nicht die Hardwareinfrastruktur des Darkgrid.
+Es handelt sich dabei um den bislang größten Erfolg gegen das cyberkriminelle Darkgrid.
+"Besonders zeichnet diesen Einsatz aus, dass wir eine Darkgrid-Serverfarm ausheben konnten. Damit ist es uns gelungen, dem Darkgrid zentrale Hardwarekapazität zu nehmen", erklärte ein Sprecher der MET2000.
+Vorherige Raids adressierten meist nur Hoster, aber nicht die Hardwareinfrastruktur des Darkgrids selbst.
 "Die Vernichtung dieser Server ist ein großer Schritt gegen den Cyberterrorismus im Großraum Frankfurt", heißt es in einer Stellungnahme des Frankfurter Bankenvereins.
-Auf den Servern fanden hauptsächlich Angebote zu Cyberangriffen statt, aber auch Waffenhandel und die Verbreitung von Kinderpornographie konnten so eingedämmt werden.
+Die Server boten eine Plattform für cyberoffensive Angriffe, aber auch Waffenhandel und die Verbreitung von Kinderpornographie konnten durch die Vernichtung eingedämmt werden.
 
-"Die Verwaltung des Großherzogtums Westrhein-Luxemburg weigerte sich bis zuletzt, Informationen zu den Verbrechern herauszugeben", erörterte ein MET2000 Mitarbeiter.
+Die Rolle der westrhein-luxemburgischen Verwaltung scheint in diesem Cyberdelikt zweifelhaft.
+Ein Mitarbeiter der MET2000 erörterte:
+"Die Verwaltung des Großherzogtums Westrhein-Luxemburg weigerte sich bis zuletzt, Informationen zu den Verbrechern herauszugeben."
 Bei dem festgenommenen Betreiber soll es sich um einen Zwerg gehandelt haben.
 "Wir glauben, dass Großherzog Adolphe III selbst den Informationsfluss unterbunden hat, um sein Metavolk mal wieder zu bevorzugen", fuhr der säch­selnde Mitarbeiter fort.
-Die mangelnde Kooperation der Verwaltung erzeugte einiges Kopfschütteln.
-Insbesondere war die Darkgrid-Serverfarm in einem historischen Militärbunker untergebracht, der sich erst vor ein paar Jahren noch im Eigentum des Großherzugtums befand.
+Die mangelnde Kooperation der Verwaltung erzeugte einiges Kopfschütteln bei den Einsatzkräften.
+Besonders verwunderlich ist, dass die Darkgrid-Serverfarm in einem historischen Militärbunker untergebracht war, der noch vor ein paar Jahren dem Großherzugtum gehörte.
 "Es gab keinerlei Beweise für einen cyberkriminellen Hintergrund der Käufer, als der Bunker verkauft wurde. Außerdem gab es keine weiteren Interessenten", so die knappe Stellungnahme aus der Verwaltung.
 Die hohe Verschuldung des Großherzogtums habe dabei keine Rolle gespielt, hieß es.
-Recherchen des Frankfurter Bankenvereins halten dagegen, dass Informationen zum Cyberhintergrund der Festgenommenen zum Zeitpunkt des Verkaufs bei mehreren Sicherheitsdiensten günstig angeboten wurden.
+Recherchen des Frankfurter Bankenvereins halten dagegen. Informationen zum Cyberhintergrund der Käufer seien zum Zeitpunkt des Verkaufs bei mehreren Sicherheitsdiensten günstig angeboten worden.
 Der historische Bunker soll Anfang des Jahrhunderts militärische Serveranlagen beherrbergt haben und somit über eine veraltete, aber gut instandzusetzende Infrastruktur verfügt haben.
 Ein idealer Nähboden für Cyberkriminelle.
 
  Aus: Frankfurter Rundmail, 31.10.2079
 \Verfasser[SR4-5]{Hanna}
+
+## Spiel mit dem Feuer?
+Elementarmagisches Flammeninferno entfacht erneut Konflikt zwischen Stadt und Hochschule
+Abendwacht. Am gestrigen Mittag entkamen drei pyromorphe Elementarmanifestationen (im Volksmund: Feuerelementare) aus der Akademie von Abendwacht und attackierten einen Marktplatz in der Altstadt. Drittsemester der Akademie auf der Elionspitze hatten die Wesenheiten während einer magiepraktischen Übungsstunde heraufbeschworen. Wilrath T., Abendwachter Obsthändler, vergleicht das Schauspiel mit „drei Sternschnuppen, die vom Himmel herabstürzten; und dann ging mein Marktstand in Flammen auf!“
+Das beherzte Eingreifen mehrerer Zivilisten verhinderte Schlimmeres. Wilrath T. beobachtet aus der Sicherheit eines Springbrunnens: „Ein junger Halbelf ist zu mir ins Wasser gesprungen und hat von dort aus die Feuerwesen mit Eiszapfen beworfen. Eis, im frühen Herbst? Eine Zwergin stürzte sich mit einer Axt so groß wie sie selbst unter Gebrüll auf die Elementare, obwohl sie schon selbst in Flammen stand. Und da waren zwei Halblinge, Brüder oder Cousins vielleicht. Einer der Halblinge hat erst meinen Markstand und dann die brennende Zwergin gelöscht, und der andere Halbling hat die Elementare einfach verprügelt. Mit Stockhieben und Fußtritten, dass selbst Ragnarök der Starke neidisch wäre!“
+Obwohl es zu keinem nennenswerten Sach- oder Personenschaden kam, bleibt die Diskussion über die pyrologische Forschung der Akademie von Abendwacht ein Dauerbrenner: Dies ist bereits der vierte Zwischenfall mit pyromorphen Elementarmanifestationen in diesem Monat, der die Stadt in Aufruhr versetzt. Der Stadtrat von Abendwacht befindet sich in intensiven Gesprächen mit der Akademie, um die angespannte Situation zu entschärfen, ohne die Freiheit von Lehre und Wissenschaft einzuschränken. Einstweilen empfiehlt die Abendwachter Stadtgarde, keine unnötigen Brandlasten auf den Straßen zu lagern, stets Flucht- und Feuerwehrwege freizuhalten, sich mit den städtischen Empfehlungen zur Brandsicherheit vertraut zu machen, und bei jedem Anzeichen von magischem und nicht-magischem Feuer sofort die Stadtgarde oder Feuerwehr zu verständigen.
+\verfasser[D\&D 5e]{Franca}
 
 # Werbung
 
