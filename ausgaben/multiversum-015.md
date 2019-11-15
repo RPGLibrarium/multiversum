@@ -1,5 +1,5 @@
 ---
-author: Yoann, Hanna, Franca
+author: Yoann, Hanna, Franca, Richard
 date: Oktober 2019
 ausgabe: 15
 balance: false
@@ -45,7 +45,8 @@ Du willst den Goblinanführer erschießen?
 Du triffst, aber leider nur sein Armulett.
 Sein geliebtes Familienerbstück! Oha, der ist sauer.
 Trotz aller Widrigkeiten konnten unsere mutigen Freiwilligen das Abenteuer bestreiten.
-Sie lebten glücklich bis an ihr Lebensende, denn bekanntermaßen ist das Leben in fremden Tentakeldimensionen ein gutes...
+Jeder Umweg ist ein Abenteuer, der Weg ist das Ziel.
+Und sie lebten glücklich bis an ihr Lebensende, denn bekanntermaßen ist das Leben in fremden Tentakeldimensionen ein gutes...
 Der Workshop war interaktiv und hat viel Spaß gemacht!
 
 Hast du den Workshop verpasst? Nicht verzagen, gerüchteweise hat Rainer demnächst weitere spannende Themen für uns auf Lager.
@@ -96,23 +97,38 @@ Der historische Bunker soll Anfang des Jahrhunderts militärische Serveranlagen 
 Ein idealer Nähboden für Cyberkriminelle.
 
  Aus: Frankfurter Rundmail, 31.10.2079
-\Verfasser[SR4-5]{Hanna}
+\Verfasser[SR]{Hanna}
 
 ## Spiel mit dem Feuer?
-Elementarmagisches Flammeninferno entfacht erneut Konflikt zwischen Stadt und Hochschule
-Abendwacht. Am gestrigen Mittag entkamen drei pyromorphe Elementarmanifestationen (im Volksmund: Feuerelementare) aus der Akademie von Abendwacht und attackierten einen Marktplatz in der Altstadt. Drittsemester der Akademie auf der Elionspitze hatten die Wesenheiten während einer magiepraktischen Übungsstunde heraufbeschworen. Wilrath T., Abendwachter Obsthändler, vergleicht das Schauspiel mit „drei Sternschnuppen, die vom Himmel herabstürzten; und dann ging mein Marktstand in Flammen auf!“
+### Elementarmagisches Flammeninferno entfacht erneut Konflikt zwischen Stadt und Hochschule
+*Abendwacht.* Am gestrigen Mittag entkamen drei pyromorphe Elementarmanifestationen (im Volksmund: Feuerelementare) aus der Akademie von Abendwacht und attackierten einen Marktplatz in der Altstadt. Drittsemester der Akademie auf der Elionspitze hatten die Wesenheiten während einer magiepraktischen Übungsstunde heraufbeschworen. Wilrath T., Abendwachter Obsthändler, vergleicht das Schauspiel mit „drei Sternschnuppen, die vom Himmel herabstürzten; und dann ging mein Marktstand in Flammen auf!“
+
 Das beherzte Eingreifen mehrerer Zivilisten verhinderte Schlimmeres. Wilrath T. beobachtet aus der Sicherheit eines Springbrunnens: „Ein junger Halbelf ist zu mir ins Wasser gesprungen und hat von dort aus die Feuerwesen mit Eiszapfen beworfen. Eis, im frühen Herbst? Eine Zwergin stürzte sich mit einer Axt so groß wie sie selbst unter Gebrüll auf die Elementare, obwohl sie schon selbst in Flammen stand. Und da waren zwei Halblinge, Brüder oder Cousins vielleicht. Einer der Halblinge hat erst meinen Markstand und dann die brennende Zwergin gelöscht, und der andere Halbling hat die Elementare einfach verprügelt. Mit Stockhieben und Fußtritten, dass selbst Ragnarök der Starke neidisch wäre!“
+
 Obwohl es zu keinem nennenswerten Sach- oder Personenschaden kam, bleibt die Diskussion über die pyrologische Forschung der Akademie von Abendwacht ein Dauerbrenner: Dies ist bereits der vierte Zwischenfall mit pyromorphen Elementarmanifestationen in diesem Monat, der die Stadt in Aufruhr versetzt. Der Stadtrat von Abendwacht befindet sich in intensiven Gesprächen mit der Akademie, um die angespannte Situation zu entschärfen, ohne die Freiheit von Lehre und Wissenschaft einzuschränken. Einstweilen empfiehlt die Abendwachter Stadtgarde, keine unnötigen Brandlasten auf den Straßen zu lagern, stets Flucht- und Feuerwehrwege freizuhalten, sich mit den städtischen Empfehlungen zur Brandsicherheit vertraut zu machen, und bei jedem Anzeichen von magischem und nicht-magischem Feuer sofort die Stadtgarde oder Feuerwehr zu verständigen.
 \verfasser[D\&D 5e]{Franca}
 
+## Im Zombiewald
+
+```{=latex}
+\vspace{1em}
+\itshape
+Ich werd nicht alt im Zombiewald, \\
+Denn da macht mich der Zombie kalt. \\ [1em]
+Doch wenn er mir vom Schild abprallt \\
+Und Rodrunk ihn von fern abknallt, \\
+Dann leb ich halt im Zombiewald. \\ [1em]
+Zombies funkeln in der Nacht, \\
+das hat Eichbald gut gemacht. \\
+\upshape
+```
+\Verfasser[DSA4.1]{Richard}
+
 # Werbung
 
-```{=tex}
-\vspace{-.5em}\begin{snugshade}
-```
 Verschönern sie ihre neuen Full.Spectrum™ Nagelbetten mit der
 \vspace{-1em}
-\begin{center}\textsc{Fluzz+}\end{center} \noindent Flusellackkollektion und verbessern sie den Tragekomfort. Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.  
-```{=tex}
-\end{snugshade}\vspace{-.5em}
-```
+\begin{center}\textsc{Fluzz+}\end{center} \noindent Flusenlackkollektion und verbessern sie den Tragekomfort.
+Ob nun 100% biologisch abbaubares Ökotexflusen oder südamerikanische Fossilflusen, die neue Fluzz+ Kollektion lässt keinen Wunsch unerfüllt.
+
+\Verfasser{Yoann}
