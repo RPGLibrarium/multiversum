@@ -7,6 +7,8 @@
 
 % Include preable with all definitions. Do not remove this line.
 \input{preamble}
+\usepackage{seqsplit}
+\usepackage{xstring}
 %
 
 %%%
@@ -50,8 +52,22 @@ Ein voller Erfolg!
 
 \section{An einem anderen Ort}
 
+\subsection{Lorwynns Reim}
+Ich erzähl euch heut vom fernen Land, mit wenig Wasser, doch großem Fluss und viel Sand.
+Dort gab es viel Gebrüll und großen Streit ist doch gestorben der Sultan von Barad, und erbte die untote Tochter mit ihrem Adelsgrad.
+Die Tochter, liiert mit fremden Prinz in dieser Zeit, ist sie die Puppe jener Mächte, und reist in den Krieg doch jeden der Knechte.
+Truppen aus allen Straßen und allen Wegen, von West die Stärkung mit des fremden Prinzen Segen, von Nord Flüchtlinge geführt von LaGarnee, von Süd die fremden Plünderer mit ihrer Spezialarmee.
+Das Zentrum der Stadt, dem klerikalem Ort, verteidigen die Bullen jene die halten ihr Wort, und stehen zu Sultana Saschira in ihrer Stadt, doch geht nicht alles besonders glatt.
+Zwar Königin Emilia des fremden Elorien, wird gerettet aus der Prinzen Intrigen, doch gehen die Paladine Pelors ihren Plänen, während die Stadt bedroht wird wie von Hyänen.
+Saschira und die Bullen bilden die Allianz mit LaGarnee für ihre Siegesbilanz.
+Zusammen halten sie alsbald den Hafen, und vertreiben all jene Feinde, im Schloss mit ihrer Gemeinde.
+So erhalten all jene ihre Strafe, die wagen sich an den Prinzen oder dem Untot zu binden.
+\verfasser[D\&D]{Ira}
+
 \setlength{\parskip}{0pt}
-\setbeforeparaskip{4pt}
+\setbeforesubsubsecskip{8pt}
+\setaftersubsubsecskip{4pt}
+\setbeforeparaskip{0pt}
 %\setafterparaskip{0pt}
 \subsection{Auszüge aus der Grundroutine des Medizin-Droiden vom Typ 41-VEX}
 
@@ -78,17 +94,56 @@ Ein voller Erfolg!
 
 \verfasser[Star Wars -- Frei nach dem deutschen Grundgesetz]{Maria}
 
-\subsection{Lorwynns Reim}
-Ich erzähl euch heut vom fernen Land, mit wenig Wasser, doch großem Fluss und viel Sand.
-Dort gab es viel Gebrüll und großen Streit ist doch gestorben der Sultan von Barad, und erbte die untote Tochter mit ihrem Adelsgrad.
-Die Tochter, liiert mit fremden Prinz in dieser Zeit, ist sie die Puppe jener Mächte, und reist in den Krieg doch jeden der Knechte.
-Truppen aus allen Straßen und allen Wegen, von West die Stärkung mit des fremden Prinzen Segen, von Nord Flüchtlinge geführt von LaGarnee, von Süd die fremden Plünderer mit ihrer Spezialarmee.
-Das Zentrum der Stadt, dem klerikalem Ort, verteidigen die Bullen jene die halten ihr Wort, und stehen zu Sultana Saschira in ihrer Stadt, doch geht nicht alles besonders glatt.
-Zwar Königin Emilia des fremden Elorien, wird gerettet aus der Prinzen Intrigen, doch gehen die Paladine Pelors ihren Plänen, während die Stadt bedroht wird wie von Hyänen.
-Saschira und die Bullen bilden die Allianz mit LaGarnee für ihre Siegesbilanz.
-Zusammen halten sie alsbald den Hafen, und vertreiben all jene Feinde, im Schloss mit ihrer Gemeinde.
-So erhalten all jene ihre Strafe, die wagen sich an den Prinzen oder dem Untot zu binden.
-\verfasser[D\&D]{Ira}
+\newcommand{\B}{\linebreak[0]}
+\newcommand{\Bs}{\B\hphantom{ }}
+\begin{figure}[!t]
+\vspace{-2em}
+\begin{minipage}[t][46em][t]{1.0\textwidth}
+{\small\texttt{%
+\phantomsection\addcontentsline{toc}{subsection}{Liveticker: Das Rennen von Bespin}
+\textbf{Das Rennen von Bespin:}
++++ Wenige Minuten bis zum Startschuss. Die letzten Sportwetten wer\B%
+den abgeschlossen. Ein charmanter Pantoraner verkauft Snacks in den Zuschauerrängen. Folgen\B%
+de Pilotenteams sollten Sie im Auge behalten: *Die Sturmfalken:* Publikumsfavorit und Siege\B%
+r des letzten Jahres. *Die Karabiner:* Im Rennen für das Huttenkartell. *Die Wookiees:* Mit\Bs%
+ dem Raumschiff in Holzoptik schon jetzt Sieger in puncto Ästhetik. *Razor:* Hart im Nehmen\B%
+, Nachzügler in drei vergangenen Bespin-Rennen, immer noch am Leben. *Die Disruptoren:* Die\Bs%
+ Newcomer mit der wilden Kriegsbemalung. - Die Rennschlitten stehen bereit. Auf die Plätze,\Bs%
+ fertig… +++ LOS! Den Disruptoren gelingt ein rasanter Start, doch der Vorsprung hilft nich\B%
+t. Karabiner, Wookiees und Razor ziehen mit maximaler Beschleunigung an den Disruptoren vor\B%
+bei. Dieses Rennen ist nichts für Amateure! Apropos: Die erste Artilleriesalve! Knapp hinte\B%
+r der Startlinie holen die Wookiees die Karabiner vom Himmel. Das war‘s für das Team der Hu\B%
+tten. Und wohl auch für die Wookiees, denn tödliche Schüsse sind streng verboten. Die Sturm\B%
+falken sind angeschlagen. Razor holt alles aus seiner Maschine. Die Disruptoren enttäuschen\Bs%
+ weiterhin. +++  Das erste Hindernis: Ein Bespin-Gasnebel. Doch was ist das? Der Peilsender\Bs%
+ des Wookiee-Rennschlittens stürzt Richtung Planetenoberfläche! Wo sind die Wookiees? Haben\Bs%
+ sie etwa die Deckung des Nebels zur Flucht genutzt, um den Gesetzeshütern zu entgehen, die\Bs%
+ schon auf der Ziellinie warten? Razor verlässt mit Spitzengeschwindigkeit die dichten Nebe\B%
+lschwaden. Der Peilsender der Sturmfalken meldet einen Systemausfall. Offenbar wurden die P\B%
+ublikumsfavoriten abgeschossen! Von wem? Man kann nur rätseln. Die Disruptoren tauchen aus \B%
+dem Nebel auf und sind Razor dicht auf den Fersen. +++ Monströse, Tibanna-Gas-absorbierende\Bs%
+ und damit hochexplosive Flugquallen blockieren die Flugbahn. Fast-Kollision einer Qualle m\B%
+it Razor. Razors Schlitten schlitzt das Monstrum auf. Das Ausbleiben einer Explosion überra\B%
+scht! Die Disruptoren holen plötzlich auf. Steckt doch mehr im Newcomer-Team, als man dem g\B%
+roßspurigen Coruscanter Piloten und der mysteriösen behelmten Twi’lek-Copilotin zutraut? ++\B%
++ Endspurt! Die Disruptoren ziehen mit einem atemberaubenden Beschleunigungsmanöver an Razo\B%
+r vorbei. Der Disruptor-Pilot will sich den Sieg sichern, so viel ist klar! +++ SIEG FÜR DI\B%
+E DISRUPTOREN!!! Doch was ist das? Die Disruptoren scheinen die Kontrolle über ihren Rennsc\B%
+hlitten verloren zu haben! +++ Dramatische Szenen in der Wolkenstadt. Die Disruptoren rasen\Bs%
+ unaufhaltsam auf die Zuschauerränge zu, krachen in die Tribünen und der Rennschlitten zerb\B%
+richt. Der Pilot wird durch die Frontscheibe des Wracks geschleudert, die Copilotin unter d\B%
+en Trümmern begraben. Razor zieht knapp dahinter als Nummer 2 über die Ziellinie und bringt\Bs%
+ seinen qualmenden Schlitten gerade noch rechtzeitig zum Stehen. +++ Panik auf der Zuschaue\B%
+rtribüne. Ein Medidroide kämpft sich durch das e Chaos zum Disruptor-Wrack. Die letzten Ren\B%
+nschlitten überqueren unbeachtet die Ziellinie. Wir berichten live vom Katastrophenszenario\Bs%
+ auf Bespin! Schalten Sie nicht ab! +++%\B%
+}}
+\verfasser{Franca}
+\vspace{.42em}
+\hrule
+\end{minipage}
+\vspace{-1em}
+\end{figure}
 
 \subsection{Titel 1}
 Lorem Ipsum
@@ -101,8 +156,8 @@ Lorem Ipsum, text endet an Zeilenende.
 
 \begin{termine}
 % Put dates here:
-\item Termin: Termin: DD.MM.YY, hh Uhr
-  \item Termin: DD.MM.YY - DD.MM.YY
+  \item Monatliches Treffen: 16.01.2020, 19 Uhr
+  \item Librarium Freizeit: 02.01. - 06.01.2020
 \end{termine}
 
 \end{document}
