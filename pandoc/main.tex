@@ -1,0 +1,272 @@
+% !TeX TS-program = xelatex
+% !TEX root = main.tex
+
+%%%
+% Document Class: Memoir
+% http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
+\documentclass[a4paper,10pt,oneside,twocolumn,final,article]{memoir}
+%
+%%%
+
+
+%%%
+% Fonts and Typesetting
+
+% Mathspec: used to change math font.
+\usepackage{mathspec}
+
+%IPA
+\usepackage{tipa}
+\renewcommand\textipa[1]{{\fontfamily{cmr}\tipaencoding #1}}
+
+%
+% We use the open Adobe Source font family
+% https://github.com/adobe-fonts
+%
+% Roman (Serif) Font: Source Serif Pro Light/Semibold
+\setprimaryfont[
+UprightFont={* Light},
+ItalicFont={* Light Italic},
+BoldFont={* Semibold},
+BoldItalicFont={* Semibold Italic},
+Scale=MatchLowercase]{Source Serif Pro}
+%
+% Sans Font: Source Sans Pro Light/Semibold
+\setallsansfonts[
+UprightFont={* Light},
+ItalicFont={* Light Italic},
+BoldFont={* Semibold},
+BoldItalicFont={* Semibold Italic},
+Scale=MatchLowercase]{Source Sans Pro}
+%
+% Mono Font: Source Code Pro Light/Semibold (No Italics available)
+\setallmonofonts[
+UprightFont={* Light},
+BoldFont={* Semibold},
+Scale=MatchLowercase]
+{Source Code Pro}
+%
+% Replace math greek fonts by Source Serif Pro (No Italics available -> Use fake italics)
+\setmathfont(Greek)[
+UprightFont={* Light},
+BoldFont={* Semibold},
+AutoFakeSlant=0.15
+]
+{Source Serif Pro}
+%
+%%%
+
+%%% Colors!
+\usepackage[table]{xcolor}
+%%%
+
+%%%
+% Memoir Class Page formatting
+%
+% Compute a suitable line width.
+\setlxvchars \setxlvchars
+% type block size:
+\settypeblocksize{700pt}{1.6\lxvchars}{*}
+% type block at the center of the page:
+\setlrmargins{*}{*}{1}
+\setulmargins{*}{*}{1}
+% separator between two columns, no rule:
+\setcolsepandrule{0.5cm}{0pt}
+% header and footer height:
+\setheadfoot{2\onelineskip}{2\onelineskip}
+% note margin width and separator:
+\setmarginnotes{17pt}{3.5cm}{\onelineskip}
+% save changes and fix the layout:
+\checkandfixthelayout
+% empty page layout (no header, no footer)
+\pagestyle{empty}
+%
+%%%
+
+
+%%%
+% Balance last two columns
+% Set "balance" variable to "true" in pandoc to balance the columns on the last
+% page.
+$if(balance)$\usepackage{flushend}$endif$
+%%%
+
+
+%%%
+% Language
+\usepackage[english,ngerman]{babel}
+\usepackage[german=quotes]{csquotes}
+%
+%%%
+
+
+%%%
+% Figures
+\usepackage{graphicx}
+%
+%%%
+
+%%%
+% Date Format:
+\usepackage[ngerman]{datetime}
+\newdateformat{monthyear}{\monthname[\THEMONTH] \THEYEAR}
+%
+%%%
+
+
+%%%
+% Licensing
+\usepackage[
+	type={CC},
+	modifier={by-nc-sa},
+	version={4.0},
+]{doclicense}
+\usepackage{rotating}
+\usepackage{wrapfig,ragged2e}
+%%%
+
+
+%%%
+% Meta data
+\author{$author$}
+\date{$date$}
+\title{Multiversum Ausgabe Nr. $ausgabe$}
+%
+%%%
+
+
+%%%
+% Cross-References, Links and PDF-Metadata
+\usepackage{hyperref}
+\hypersetup{
+	pdftitle    = {Multiversum Ausgabe Nr. $ausgabe$},
+	pdfsubject  = {RPG Librarium Aachen e.V.},
+	pdfauthor   = {$author$},
+	pdfcreator  = {XeLaTex, Pandoc},
+	hidelinks,
+}
+\urlstyle{sf}
+%
+%%%
+
+
+%%%
+% Divisions
+% Section Style
+\setbeforesecskip{-.5em}
+\newcommand{\ruledsec}[1]{%
+	\LARGE\scshape\centering #1 \rule{\linewidth}{0.4pt}\noindent}
+\setsecheadstyle{\ruledsec}
+\setaftersecskip{.5em}
+% Subsection Style
+\setsubsecheadstyle{\Large\normalfont\raggedright}
+% Paragraph Style
+\setparaheadstyle{\bfseries}
+% Disable numbering
+\setsecnumdepth{part}
+% include subsections in PDF bookmarks
+\setcounter{tocdepth}{2}
+%
+%%%
+
+
+%%%
+% Lists, Enumerations, Itemize
+% tight spacing
+\tightlists
+%
+%%%
+
+%%%
+% Cross out
+\usepackage[normalem]{ulem}
+%%%
+
+%%%
+% Macros
+%
+% Author-Mark
+\newcommand{\Verfasser}[2][]{%
+\par{\raggedleft{}{\itshape \mbox{#2}%
+\ifx\relax#1\relax%
+\else%
+~(\mbox{#1})%
+\fi%
+}\par}}
+\newcommand{\verfasser}[2][]{%
+\hfill{\itshape \mbox{#2}%
+\ifx\relax#1\relax%
+\else%
+~(\mbox{#1})%
+\fi%
+}}
+%
+% Annonce-Mark
+\newcommand{\zeichen}[1]{%
+	\par{\raggedleft{}Zeichen: \MakeUppercase{#1}\par}%
+}
+%
+\newcommand{\zeitung}[1]{%
+	\par{\raggedleft{}\itshape{}#1\par}\noindent%
+}%
+%
+%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+%%%
+% Title
+\twocolumn[
+\vspace*{-5em}
+{Ausgabe Nr. $ausgabe$} \hfill {\thedate}\\
+{\includegraphics[width=\linewidth]{../header/Ueberschrift}}%
+{\centering
+\hrule\vspace{\onelineskip}
+\MakeUppercase{$losung$}
+\vspace{\onelineskip}\hrule
+\vspace{\onelineskip}
+}\vspace*{2em}
+
+]
+%
+%%%
+
+$body$
+
+%%%
+% Termine und Impressum
+\begin{figure}[!b]
+	\begin{framed}
+		\textbf{Nächste Termine:} \par
+
+		\begin{itemize}
+			$for(termine)$ \item $termine$ $endfor$
+		\end{itemize}
+	\end{framed}
+	\vspace*{-2mm}
+	\begin{Spacing}{0.5}
+	\tiny
+	{\RaggedRight
+	\begin{wrapfigure}{R}{.3cm}
+	\vspace*{-.55cm}
+	\hspace*{-.3cm}
+	\begin{sideways}
+		\doclicenseImage[imagewidth=1.5cm]
+	\end{sideways}
+	\end{wrapfigure}
+	Disclaimer \& Impressum: Teile des Inhalts sind rein fiktional; Ähnlichkeiten mit realen Personen und Begebenheiten sind zufällig und nicht beabsichtigt.\\
+	\smallskip
+	V.i.S.d.P. Hanna Franzen, RPG Librarium Aachen e.V. (VR 5440) \\
+	Kontakt: Postfach 101632, 52016 Aachen, \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de} \\
+	\smallskip
+	\doclicenseText
+	\par}
+	\end{Spacing}
+\end{figure}
+%
+%%%
+
+
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% END DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

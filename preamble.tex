@@ -1,6 +1,3 @@
-% !TeX TS-program = xelatex
-% !TEX root = main.tex
-
 %%%
 % Document Class: Memoir
 % http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
@@ -8,6 +5,24 @@
 %
 %%%
 
+%%%
+% variables
+\makeatletter
+
+\newcommand\multiauthor[1]{\renewcommand\@multiauthor{#1}}
+\newcommand\@multiauthor{\@latex@error{No \noexpand\multiauthor given}\@ehc}
+
+\newcommand\multidate[1]{\renewcommand\@multidate{#1}}
+\newcommand\@multidate{\@latex@error{No \noexpand\multidate given}\@ehc}
+
+\newcommand\multiausgabe[1]{\renewcommand\@multiausgabe{#1}}
+\newcommand\@multiausgabe{\@latex@error{No \noexpand\multiausgabe given}\@ehc}
+
+\newcommand\multilosung[1]{\renewcommand\@multilosung{\expandafter\MakeUppercase\expandafter{#1}}}
+\newcommand\@multilosung{\@latex@error{No \noexpand\multilosung given}\@ehc}
+
+
+%%%
 
 %%%
 % Fonts and Typesetting
@@ -88,7 +103,7 @@ AutoFakeSlant=0.15
 % Balance last two columns
 % Set "balance" variable to "true" in pandoc to balance the columns on the last
 % page.
-$if(balance)$\usepackage{flushend}$endif$
+%$if(balance)$\usepackage{flushend}$endif$
 %%%
 
 
@@ -128,9 +143,9 @@ $if(balance)$\usepackage{flushend}$endif$
 
 %%%
 % Meta data
-\author{$author$}
-\date{$date$}
-\title{Multiversum Ausgabe Nr. $ausgabe$}
+\author{\@multiauthor}
+\date{\@multidate}
+\title{Multiversum Ausgabe Nr. \@multiausgabe}
 %
 %%%
 
@@ -138,13 +153,14 @@ $if(balance)$\usepackage{flushend}$endif$
 %%%
 % Cross-References, Links and PDF-Metadata
 \usepackage{hyperref}
-\hypersetup{
-	pdftitle    = {Multiversum Ausgabe Nr. $ausgabe$},
-	pdfsubject  = {RPG Librarium Aachen e.V.},
-	pdfauthor   = {$author$},
-	pdfcreator  = {XeLaTex, Pandoc},
-	hidelinks,
-}
+% Moved to makemultititle
+% \hypersetup{
+%	pdftitle    = {Multiversum Ausgabe Nr. \@multiausgabe},
+%	pdfsubject  = {RPG Librarium Aachen e.V.},
+%	pdfauthor   = {\@multiauthor},
+%	pdfcreator  = {XeLaTex},
+%	hidelinks,
+%}
 \urlstyle{sf}
 %
 %%%
@@ -185,6 +201,74 @@ $if(balance)$\usepackage{flushend}$endif$
 %%%
 % Macros
 %
+
+% Title
+%
+% Use this command to set a nice looking title. 
+% first argument: number, e.g. 15
+% second argument: losung, e.g. Die Kuh lief um den Teich.
+%
+\newcommand{\makemultititle}{
+\hypersetup{
+  pdftitle    = {Multiversum Ausgabe Nr. \@multiausgabe},
+  pdfsubject  = {RPG Librarium Aachen e.V.},
+  pdfauthor   = {\@multiauthor},
+  pdfcreator  = {XeLaTex},
+  hidelinks,
+}
+
+\twocolumn[
+  \vspace*{-5em}
+  {Ausgabe Nr. \@multiausgabe} \hfill {\@multidate}\\
+  {\includegraphics[width=\linewidth]{header/Ueberschrift}}%
+  {\centering
+  \hrule\vspace{\onelineskip}
+  \@multilosung
+  \vspace{\onelineskip}\hrule
+  \vspace{\onelineskip}
+  }\vspace*{2em}
+]
+}
+%
+%%%
+
+
+% Termine und Impressum
+%
+% Use this command at the end of each file for nice looking dates. One item 
+% per date. 
+%
+\newenvironment{termine}{%
+  \begin{figure}[!b]
+    \begin{framed}
+      \textbf{Nächste Termine:} \par
+      \begin{itemize}
+}{%
+      \end{itemize}
+    \end{framed}
+    \vspace*{-2mm}
+    \begin{Spacing}{0.5}
+    \tiny
+    {\RaggedRight
+    \begin{wrapfigure}{R}{.3cm}
+    \vspace*{-.55cm}
+    \hspace*{-.3cm}
+    \begin{sideways}
+    \doclicenseImage[imagewidth=1.5cm]
+    \end{sideways}
+    \end{wrapfigure}
+    Disclaimer \& Impressum: Teile des Inhalts sind rein fiktional; Ähnlichkeiten mit realen Personen und Begebenheiten sind zufällig und nicht beabsichtigt.\\
+    \smallskip
+    V.i.S.d.P. Hanna Franzen, RPG Librarium Aachen e.V. (VR 5440) \\
+    Kontakt: Postfach 101632, 52016 Aachen, \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de} \\
+    \smallskip
+    \doclicenseText
+    \par}
+    \end{Spacing}
+  \end{figure}
+}
+%
+
 % Author-Mark
 \newcommand{\Verfasser}[2][]{%
 \par{\raggedleft{}{\itshape \mbox{#2}%
@@ -193,6 +277,7 @@ $if(balance)$\usepackage{flushend}$endif$
 ~(\mbox{#1})%
 \fi%
 }\par}}
+
 \newcommand{\verfasser}[2][]{%
 \hfill{\itshape \mbox{#2}%
 \ifx\relax#1\relax%
@@ -201,72 +286,17 @@ $if(balance)$\usepackage{flushend}$endif$
 \fi%
 }}
 %
+
 % Annonce-Mark
 \newcommand{\zeichen}[1]{%
-	\par{\raggedleft{}Zeichen: \MakeUppercase{#1}\par}%
+  \par{\raggedleft{}Zeichen: \MakeUppercase{#1}\par}%
 }
 %
+
 \newcommand{\zeitung}[1]{%
-	\par{\raggedleft{}\itshape{}#1\par}\noindent%
+  \par{\raggedleft{}\itshape{}#1\par}\noindent%
 }%
 %
 %%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{document}
-
-%%%
-% Title
-\twocolumn[
-\vspace*{-5em}
-{Ausgabe Nr. $ausgabe$} \hfill {\thedate}\\
-{\includegraphics[width=\linewidth]{header/Ueberschrift}}%
-{\centering
-\hrule\vspace{\onelineskip}
-\MakeUppercase{$losung$}
-\vspace{\onelineskip}\hrule
-\vspace{\onelineskip}
-}\vspace*{2em}
-
-]
-%
-%%%
-
-$body$
-
-%%%
-% Termine und Impressum
-\begin{figure}[!b]
-	\begin{framed}
-		\textbf{Nächste Termine:} \par
-
-		\begin{itemize}
-			$for(termine)$ \item $termine$ $endfor$
-		\end{itemize}
-	\end{framed}
-	\vspace*{-2mm}
-	\begin{Spacing}{0.5}
-	\tiny
-	{\RaggedRight
-	\begin{wrapfigure}{R}{.3cm}
-	\vspace*{-.55cm}
-	\hspace*{-.3cm}
-	\begin{sideways}
-		\doclicenseImage[imagewidth=1.5cm]
-	\end{sideways}
-	\end{wrapfigure}
-	Disclaimer \& Impressum: Teile des Inhalts sind rein fiktional; Ähnlichkeiten mit realen Personen und Begebenheiten sind zufällig und nicht beabsichtigt.\\
-	\smallskip
-	V.i.S.d.P. Hanna Franzen, RPG Librarium Aachen e.V. (VR 5440) \\
-	Kontakt: Postfach 101632, 52016 Aachen, \href{mailto:multiversum@rpg-librarium.de}{multiversum@rpg-librarium.de} \\
-	\smallskip
-	\doclicenseText
-	\par}
-	\end{Spacing}
-\end{figure}
-%
-%%%
-
-
-\end{document}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% END DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatother
