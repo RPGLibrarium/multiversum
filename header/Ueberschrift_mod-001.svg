@@ -11,7 +11,7 @@
    width="767.04004"
    version="1.1"
    height="221.26799"
-   viewBox="0 0 575.27999 165.951"
+   viewBox="0 0 575.28 165.951"
    id="svg212962"
    sodipodi:docname="Ueberschrift.mod-001.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -49,8 +49,8 @@
      fit-margin-right="40"
      fit-margin-bottom="10"
      inkscape:zoom="2.3525975"
-     inkscape:cx="255.97198"
-     inkscape:cy="41.89497"
+     inkscape:cx="284.02607"
+     inkscape:cy="109.9049"
      inkscape:window-x="10"
      inkscape:window-y="44"
      inkscape:window-maximized="0"
@@ -261,6 +261,7 @@
 
 
 
+
      /&gt;
   </defs>
   <g
@@ -278,7 +279,7 @@
        inkscape:connector-curvature="0"
        id="path1428"
        d="m 228.9375,28.745419 c 2.11764,0 4.23529,-2.117647 5.29411,-5.294118 1.05883,-3.176469 -1.05882,-10.588236 -5.29411,-18 -4.23529,7.411764 -6.35295,14.82353 -5.29412,18 1.05883,3.17647 3.17647,5.294118 5.29412,5.294118 z"
-       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.2625;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.26249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <use
        style="fill:#161413;stroke:none"
        xlink:href="#GlC059-Roman77"
@@ -3279,7 +3280,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2625;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26249999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 228.9375,26.495419 c 1.2,0 2.4,-1.199999 3,-2.999998 0.6,-1.799999 -0.6,-5.999997 -3,-10.199994 -2.4,4.199997 -3.6,8.399995 -3,10.199994 0.6,1.799998 1.8,2.999998 3,2.999998 z"
        id="path1424"
        inkscape:connector-curvature="0"
