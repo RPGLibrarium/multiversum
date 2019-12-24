@@ -21,7 +21,9 @@
 \newcommand\multilosung[1]{\renewcommand\@multilosung{\expandafter\MakeUppercase\expandafter{#1}}}
 \newcommand\@multilosung{\@latex@error{No \noexpand\multilosung given}\@ehc}
 
-
+% Defaults to Uberschrift.svg
+\newcommand\multilogo[1]{\renewcommand\@multilogo{header/#1}}
+\newcommand\@multilogo{header/Ueberschrift}
 %%%
 
 %%%
@@ -220,7 +222,7 @@ AutoFakeSlant=0.15
 \twocolumn[
   \vspace*{-5em}
   {Ausgabe Nr. \@multiausgabe} \hfill {\@multidate}\\
-  {\includegraphics[width=\linewidth]{header/Ueberschrift}}%
+  {\includegraphics[width=\linewidth]{\@multilogo}}%
   {\centering
   \hrule\vspace{\onelineskip}
   \@multilosung
@@ -230,23 +232,12 @@ AutoFakeSlant=0.15
 ]
 }
 %
-%%%
 
 
-% Termine und Impressum
 %
-% Use this command at the end of each file for nice looking dates. One item
-% per date.
+% Impressum
 %
-\newenvironment{termine}{%
-  \begin{figure}[!b]
-    \begin{framed}
-      \textbf{Nächste Termine:} \par
-      \begin{itemize}
-}{%
-      \end{itemize}
-    \end{framed}
-    \vspace*{-2mm}
+\newcommand{\impressumRaw}{%
     \begin{Spacing}{0.5}
     \tiny
     {\RaggedRight
@@ -265,6 +256,30 @@ AutoFakeSlant=0.15
     \doclicenseText
     \par}
     \end{Spacing}
+}
+
+\newcommand{\impressum}{%
+  \begin{figure}[!b]
+      \impressumRaw
+  \end{figure}
+}
+
+% Title
+% Use this command at the end of each file for nice looking dates. One item
+% per date.
+%
+\setlength{\textfloatsep}{10pt}
+\newenvironment{termine}{%
+  \vfill
+  \begin{figure}[!b]
+    \begin{framed}
+      \textbf{Nächste Termine:} \par
+      \begin{itemize}
+}{%
+      \end{itemize}
+    \end{framed}
+    \vspace*{-2.55em} % Removes unnecessary spacing after the framed environment.
+    \vspace{0.6em} % Keeps space to text, if not at the bottom of the page.
   \end{figure}
 }
 %
