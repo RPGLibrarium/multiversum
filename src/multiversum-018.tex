@@ -8,6 +8,8 @@
 % Include preable with all definitions. Do not remove this line.
 \input{preamble}
 \usepackage{enumitem}
+%\usepackage[markup=nocolor,deletedmarkup=xout]{changes}
+\usepackage{cancel}
 
 
 %%%
@@ -73,6 +75,29 @@ Kommt vorbei, stürzt die Aristokratie, startet eine Revolution … oder trinkt 
 
 
 \section{An einem anderen Ort}
+\setsubsubsecheadstyle{\centering\bfseries}
+
+\subsection{Schwarzes Brett von Bad Pfaff}
+\begin{center}
+    \textbf{Vermisst} \\
+    Emeli Arzât
+\end{center}
+\vspace{-1.5em}
+\noindent
+Junge, rothaarige Menschenfrau mit grünen Augen.
+Zuletzt am Abend des zweiten Helmstag von Tarsak gesichtet.
+Bei Hinweisen im Stadthaus melden.
+50 GM für Hinweise, die zur Auffindung helfen.
+\verfasser[??]{Hanja}
+
+
+%\subsection{Ausschnitt aus dem Wochenblatt von Blaumar}
+\subsection{Die Werwölfe erfolgreich vertrieben!}
+
+Die Stadtwache sowie Freiwillige haben in der Nacht des zweiten Dreitag von Tarsak die Werwolfsplage beseitig. Ein mutiger Kämpfer und Teil der Crew der Sturmspitze wird weiterhin vermisst. Es wird vermutet, dass er sein Leben im Kampf lassen musste.
+Eine Ehrung der edlen Retter wird am zweiten Fünftag von Tarsak auf dem Marktplatz stattfinden. Für die Seele des verlorenen Kriegers wird im Anschluss eine Messe gehalten.
+\zeitung{Ausschnitt aus dem Wochenblatt von Blaumar}
+\verfasser[??]{Hanja}
 
 
 \subsection{Produktrückruf Besitzurkunde}
@@ -84,6 +109,26 @@ Die Angabe, dass sie darüber hinaus Anrecht auf vier weitere Pflöcke hätten, 
 Der Autor maßt sich keine Aussage über die Rechtsgeschäfte der als \enquote{die Rauferei} bekannten Gruppe an.
 Ihm ist insbesondere \textit{nicht} bekannt, dass diese Gruppe unehrenhaft handeln würde, Essen oder Kleidung gestohlen hätte oder einen illegalen Kampfring betreiben würde.
 \verfasser[LARP]{Konstantin}
+
+
+\subsection{Notiz am Schwarzen Brett von Waldblick}
+\begin{center}
+    \textbf{Thif}
+\end{center}
+\vspace{-1.5em}
+\noindent
+Ich bin weiter Richtung Westen. \\
+Wir treffen uns in Thordesheim am ersten Vierttag von Mirtul.
+
+Thade
+\verfasser[??]{Hanja}
+
+
+\DeclareRobustCommand{\sxout}[1]{\texorpdfstring{\xout{#1}}{#1}}
+\subsection{Schwarzes Brett von \xcancel{Herzogtum} Lindstein}
+Öffentliche Hinrichtungen dritten Ersttag von Tarsak. Feier mit Wein und gegrilltem Wolf.
+Hinweise auf lebende Adelseingebidetheiten werden mit Wein und Ehre entlohnt.
+\verfasser[??]{Hanja}
 
 
 \subsection{Büromaterialbestellung -- Eilt!}
@@ -139,19 +184,32 @@ Mit besten Grüßen, \\
 Miesermeier
 \verfasser[Inspectres]{Richard}
 
-\subsection{Titel 1}
-Lorem Ipsum
-\verfasser{Autor2}
 
-\subsection{Titel 2}
-Lorem Ipsum, text endet an Zeilenende.
-\Verfasser[System]{Autor2}
+\subsection{Rezept des Tages: Grillratte „Barovia“}
+
+Das perfekte Gericht für neblig-kalte Tage!
+
+Was gibt es Schöneres, als bei schlechtem Wetter gemütlich mit Freunden in einer leerstehenden Ruine zu sitzen und über einem wohlig prasselnden Feuer selbstgefangene Ratten zu rösten? Barovianische Grillratten sind das perfekte Soulfood für Abenteurer und schmecken einfach jedem!
+
+Schritt 1: Die richtige Lokalität
+Größere Schwärme von Ratten finden sich oft in leerstehenden Gebäuden. Durch beherztes Klopfen an der Tür kann getestet werden, ob ein Haus tatsächlich unbewohnt ist. Antwortet niemand, kann die Tür unbesorgt mit einer Axt eingeschlagen werden. Wenn das Haus von Ratten besiedeln ist, werden diese zeitnah attackieren – jetzt ist etwas Geduld gefragt.
+Im Gegensatz zu Pilzen sind grundsätzlich alle Arten von Ratte essbar. (Allerdings sollte – anders als bei Pilzen – der Kopf nicht gegessen werden.)
+
+Schritt 2: Gemeinsame Rattenjagd
+Hier kann die Axt aus Schritt 1 genutzt werden (Achtung! Verbleibende Holz- und Lacksplitter von der Tür vorher von der Axt entfernen!) oder das präferierte Küchenwerkzeug (Spektrale Waffen, Fußtritte...). Ungeeignet zur Rattenjagd sind Schadensflüche mit nekrotischem Aspekt, denn dadurch wird das Rattenfleisch ungenießbar.
+Zum Vermengen der Ratten eignet sich eine magische Donnerwoge. Dabei den Gehörschutz nicht vergessen, und vorsichtig sein, dass Umstehende nicht verletzt werden. Dieser Zauber sollte nicht in allzu baufälligen Häusern verwendet werden; es droht Einsturzgefahr!
+
+Schritt 3: Zubereitung der Ratten über dem Lagerfeuer
+Zertrümmerte Bodendielen und alte Möbel sind die perfekte Grundlage für ein Indoor-Lagerfeuer. Die Hauswand sollte in Folge von Schritt 2 genug Löcher haben, sodass es zu Durchzug kommt und potentieller Qualm sich nicht staut. Im Gebäude ein Lagerfeuer entzünden - auf magische oder mundane Weise, Hauptsache, es ist heiß. Die Ratten auf einen Stock spießen und gleichmäßig über dem Feuer rösten. Sobald sich erste Verkohlungen zeigen, sind die Ratten fertig.
+
+Tipp: Der Connaisseur trinkt zur Barovianischen Grillratte einen schweren Rotwein, gerne auch in größeren Mengen, und verzichtet dankend auf die Ratte.
+
+\verfasser[D\&D 5e]{Franca}
 
 
 \begin{termine}
 % Put dates here:
-  \item Mitgliederversammlung: 16.02.2020, 15~Uhr
-  \item Monatliches Treffen: 16.02.2020, 19~Uhr
+  \item Monatliches Treffen: 16.03.2020, 19~Uhr
 \end{termine}
 \impressum
 
