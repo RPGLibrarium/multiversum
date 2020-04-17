@@ -7,7 +7,7 @@
 % http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{memoir}}
 \ProcessOptions\relax
-\LoadClass[a4paper,10pt,oneside,twocolumn,final,article]{memoir}
+\LoadClass[a4paper,10pt,oneside,twocolumn,article]{memoir}
 %
 %%%
 
