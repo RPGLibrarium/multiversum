@@ -5,7 +5,7 @@ Install:
 
 Run
 ```
-latexmk
+latexmk src/name.tex
 ```
 or 
 ```
