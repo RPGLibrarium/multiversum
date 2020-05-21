@@ -1,39 +1,61 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{multiversum}[2020/04/17 RPG Librarium Multiversum article]
+
+
 %%%
-% Document Class: Memoir
+% Derive from class: Memoir
 % http://texdoc.net/texmf-dist/doc/latex/memoir/memman.pdf
-\documentclass[a4paper,10pt,oneside,twocolumn,final,article]{memoir}
+\DeclareOption*{\PassOptionsToClass{\CurrentOption}{memoir}}
+\ProcessOptions\relax
+\LoadClass[a4paper,10pt,oneside,twocolumn,article]{memoir}
 %
 %%%
 
+
 %%%
-% variables
-\makeatletter
-
-\newcommand\multiauthor[1]{\renewcommand\@multiauthor{#1}}
-\newcommand\@multiauthor{\@latex@error{No \noexpand\multiauthor given}\@ehc}
-
-\newcommand\multidate[1]{\renewcommand\@multidate{#1}}
-\newcommand\@multidate{\@latex@error{No \noexpand\multidate given}\@ehc}
-
-\newcommand\multiausgabe[1]{\renewcommand\@multiausgabe{#1}}
-\newcommand\@multiausgabe{\@latex@error{No \noexpand\multiausgabe given}\@ehc}
-
-\newcommand\multilosung[1]{\renewcommand\@multilosung{\expandafter\MakeUppercase\expandafter{#1}}}
-\newcommand\@multilosung{\@latex@error{No \noexpand\multilosung given}\@ehc}
-
-% Defaults to Uberschrift.svg
-\newcommand\multilogo[1]{\renewcommand\@multilogo{header/#1}}
-\newcommand\@multilogo{header/Ueberschrift}
+% Memoir Class Page formatting
+%
+% Compute a suitable line width.
+\setlxvchars \setxlvchars
+% type block size:
+\settypeblocksize{700pt}{1.6\lxvchars}{*}
+% type block at the center of the page:
+\setlrmargins{*}{*}{1}
+\setulmargins{*}{*}{1}
+% separator between two columns, no rule:
+\setcolsepandrule{0.5cm}{0pt}
+% header and footer height:
+\setheadfoot{2\onelineskip}{2\onelineskip}
+% note margin width and separator:
+\setmarginnotes{17pt}{3.5cm}{\onelineskip}
+% save changes and fix the layout:
+\checkandfixthelayout
+% empty page layout (no header, no footer)
+\pagestyle{empty}
+%
 %%%
+
+
+%%%
+% Spacing
+%
+% Floatings
+\setlength{\textfloatsep}{10pt}
+% Lists, Enumerations, Itemize
+% tight spacing
+\tightlists
+%
+%%%
+
 
 %%%
 % Fonts and Typesetting
 
 % Mathspec: used to change math font.
-\usepackage{mathspec}
+\RequirePackage{mathspec}
 
 %IPA
-\usepackage{tipa}
+\RequirePackage{tipa}
 \renewcommand\textipa[1]{{\fontfamily{cmr}\tipaencoding #1}}
 
 %
@@ -65,106 +87,20 @@ Scale=MatchLowercase]
 %
 % Replace math greek fonts by Source Serif Pro (No Italics available -> Use fake italics)
 \setmathfont(Greek)[
-UprightFont={* Light},
-BoldFont={* Semibold},
-AutoFakeSlant=0.15
+  UprightFont={* Light},
+  ItalicFont={* Light Italic},
+  BoldFont={* Semibold},
+  BoldItalicFont={* Semibold Italic},
+  Scale=MatchLowercase
 ]
 {Source Serif Pro}
 %
 %%%
 
+
 %%% Colors!
-\usepackage[table]{xcolor}
-%%%
-
-%%%
-% Memoir Class Page formatting
-%
-% Compute a suitable line width.
-\setlxvchars \setxlvchars
-% type block size:
-\settypeblocksize{700pt}{1.6\lxvchars}{*}
-% type block at the center of the page:
-\setlrmargins{*}{*}{1}
-\setulmargins{*}{*}{1}
-% separator between two columns, no rule:
-\setcolsepandrule{0.5cm}{0pt}
-% header and footer height:
-\setheadfoot{2\onelineskip}{2\onelineskip}
-% note margin width and separator:
-\setmarginnotes{17pt}{3.5cm}{\onelineskip}
-% save changes and fix the layout:
-\checkandfixthelayout
-% empty page layout (no header, no footer)
-\pagestyle{empty}
-%
-%%%
-
-
-%%%
-% Balance last two columns
-% Set "balance" variable to "true" in pandoc to balance the columns on the last
-% page.
-%$if(balance)$\usepackage{flushend}$endif$
-%%%
-
-
-%%%
-% Language
-\usepackage[english,ngerman]{babel}
-\usepackage[german=quotes]{csquotes}
-%
-%%%
-
-
-%%%
-% Figures
-\usepackage{graphicx}
-%
-%%%
-
-%%%
-% Date Format:
-\usepackage[ngerman]{datetime}
-\newdateformat{monthyear}{\monthname[\THEMONTH] \THEYEAR}
-%
-%%%
-
-
-%%%
-% Licensing
-\usepackage[
-	type={CC},
-	modifier={by-nc-sa},
-	version={4.0},
-]{doclicense}
-\usepackage{rotating}
-\usepackage{wrapfig,ragged2e}
-%%%
-
-
-%%%
-% Meta data
-\author{\@multiauthor}
-\date{\@multidate}
-\title{Multiversum Ausgabe Nr. \@multiausgabe}
-%
-%%%
-
-
-%%%
-% Cross-References, Links and PDF-Metadata
-\usepackage{hyperref}
-% Moved to makemultititle
-% \hypersetup{
-%	pdftitle    = {Multiversum Ausgabe Nr. \@multiausgabe},
-%	pdfsubject  = {RPG Librarium Aachen e.V.},
-%	pdfauthor   = {\@multiauthor},
-%	pdfcreator  = {XeLaTex},
-%	hidelinks,
-%}
-\urlstyle{sf}
-%
+\PassOptionsToPackage{table}{xcolor}
+\RequirePackage{xcolor}
 %%%
 
 
@@ -189,16 +125,72 @@ AutoFakeSlant=0.15
 
 
 %%%
-% Lists, Enumerations, Itemize
-% tight spacing
-\tightlists
+% Language
+\PassOptionsToPackage{english,ngerman}{babel}
+\RequirePackage{babel}
+\PassOptionsToPackage{german=quotes}{csquotes}
+\RequirePackage{csquotes}
 %
 %%%
 
+
 %%%
-% Cross out
-\usepackage[normalem]{ulem}
+% Figures
+\RequirePackage{graphicx}
+%
 %%%
+
+
+%%%
+% Date Format:
+\PassOptionsToPackage{ngerman}{datetime}
+\RequirePackage[ngerman]{datetime}
+\newdateformat{monthyear}{\monthname[\THEMONTH] \THEYEAR}
+%
+%%%
+
+
+%%%
+% Licensing
+\PassOptionsToPackage{%
+  type={CC},
+	modifier={by-nc-sa},
+	version={4.0}
+}{doclicense}
+\RequirePackage{doclicense}
+\RequirePackage{rotating}
+\RequirePackage{wrapfig,ragged2e}
+%%%
+
+
+%%%
+% Cross-References, Links and PDF-Metadata
+\RequirePackage{hyperref}
+\urlstyle{sf}
+%
+%%%
+
+
+%%%
+% Variables
+
+\newcommand\multiauthor[1]{\renewcommand\@multiauthor{#1}}
+\newcommand\@multiauthor{\@latex@error{No \noexpand\multiauthor given}\@ehc}
+
+\newcommand\multidate[1]{\renewcommand\@multidate{#1}}
+\newcommand\@multidate{\@latex@error{No \noexpand\multidate given}\@ehc}
+
+\newcommand\multiausgabe[1]{\renewcommand\@multiausgabe{#1}}
+\newcommand\@multiausgabe{\@latex@error{No \noexpand\multiausgabe given}\@ehc}
+
+\newcommand\multilosung[1]{\renewcommand\@multilosung{\expandafter\MakeUppercase\expandafter{#1}}}
+\newcommand\@multilosung{\@latex@error{No \noexpand\multilosung given}\@ehc}
+
+% Defaults to Uberschrift.svg
+\newcommand\multilogo[1]{\renewcommand\@multilogo{header/#1}}
+\newcommand\@multilogo{header/Ueberschrift}
+%%%
+
 
 %%%
 % Macros
@@ -218,6 +210,10 @@ AutoFakeSlant=0.15
   pdfcreator  = {XeLaTex},
   hidelinks,
 }
+
+\author{\@multiauthor}
+\date{\@multidate}
+\title{Multiversum Ausgabe Nr. \@multiausgabe}
 
 \twocolumn[
   \vspace*{-5em}
@@ -268,7 +264,6 @@ AutoFakeSlant=0.15
 % Use this command at the end of each file for nice looking dates. One item
 % per date.
 %
-\setlength{\textfloatsep}{10pt}
 \newenvironment{termine}{%
   \vfill
   \begin{figure}[!b]
@@ -313,5 +308,3 @@ AutoFakeSlant=0.15
 }%
 %
 %%%
-
-\makeatother
