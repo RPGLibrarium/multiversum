@@ -8,6 +8,7 @@
 % Load class with all definitions. Do not remove this line.
 % Options will be passed to Memoir
 \documentclass[final]{multiversum}
+\usepackage{tikz}
 %
 
 %%%
@@ -15,11 +16,11 @@
 
 % Authors of the document.
 % e.g. Max Mustermann, Erika Musterfrau
-\multiauthor{Henri, Jan, Sabine}
+\multiauthor{Henri, Jan, Sabine, Thibaud}
 
 % Date of release.
 % e.g. 31.12.2074
-\multidate{Dezember 2023}
+\multidate{Januar 2024}
 
 % Number of release, no leading zeros.
 % e.g. 15
@@ -27,7 +28,7 @@
 
 % Losung
 % e.g. Die Kuh lief um den Teig.
-\multilosung{}
+\multilosung{Euch gibt's noch?}
 
 
 % Logo
@@ -44,24 +45,25 @@
 %
 
 % PUT BODY HERE
-
-\section{Was noch geschieht\ldots}
-Das Jahr neigt sich dem Ende entgegen, die letzten Zwerge werden gebadet und die
-Welten kommen zur Ruhe.  Frisch im neuen Jahr geht es dann zur alljährlichen
-Freizeit des RPG Librarium in die Jugendherberge der schönen Freusburg.  Man
-munkelt, dass dieser Ort die Kraft beherbergt, einmal im Jahr, zufälligerweise
-exakt im Zeitraum der Freizeit, entfernteste Universen gefährlich nah
-aneinanderzubringen.  Ob es dieses Jahr wieder dazu kommt und was die Folgen
-dieser Raum-Zeit-Verzerrung sind, wird sich zeigen.  Wir werden auf jeden Fall
-davon berichten.
-
-\Verfasser{Redaktion}
-
-%\noindent{\footnotesize(\enquote{Sehr geehrte Damen und Herren, wir
-%berichten live: Nichts ist geschehen!})}
-
-
 \section{Was bisher geschah\ldots}
+
+\subsection{Sekte in Kirchen}
+\textit{Siegerland Bote} \textendash\ Was ereignete sich letztes Wochenende auf
+der historischen Freusburg bei Kirchen? Ein Hinweisgeber aus üblicherweise gut
+informierten Kreisen, teilte uns mit, dass sich in der ruhigen Gemeinde Kirchen
+im Siegerland eine Sekte gebildet hat, die sich immer am ersten Wochenende des
+Jahres auf der Freusburg versammelt. Die Kultisten praktizieren dort
+augenscheinlich kultige Rituale. Unser Reporter tarnte sich als Teilnehmer einer
+zeitgleich dort stattfindenen Physikerkonferenz und konnte einen Blick auf die
+Riten erhaschen: \enquote{Die Mitglieder der Sekte haben sich im Musiksaal oben
+in der Burg versammelt. Mit unzähligen Fressalien haben Sie sich vollkommen der
+Völlerei hingegeben. Dabei haben Sie wiederholt bunte Würfeln geworfen und den
+Ergebnissen irgendwelche unverständlichen Bedeutungen zugeschrieben.} Lieber
+Leserinnen, wenn Sie Hinweise zum den Mitgliedern oder dem Zweck der Sekte
+haben, oder wissen, was eine Weltenbrücke ist, schreiben Sie uns anonym eine
+E-Mail an \url{multiversum@rpg-librarium.de}.
+\verfasser{Thibaud} 
+
 
 \subsection{Animalische Bekanntmachung}
 Bei der letzten Gerichtsversammlung in Animal City wurde der Diebstahl der
@@ -109,6 +111,44 @@ Hoggs et al, Abendwacht\\{}
 [4]: Vicum Grimoire, Autor unbekannt, London
 
 \verfasser{Jan}
+
+% Ominoeser Ladebalken
+\begin{tikzpicture}[remember picture,overlay]
+    \node[xshift=0cm,yshift=1.3cm] at (current page.south) {
+        \begin{tikzpicture}
+            % Background rectangle
+            \draw[rounded corners, fill=gray!20] (0,0) rectangle (15,1);
+          
+            % Loading bar (in red with gradient fill)
+            \fill[red, rounded corners, line width=1pt] (0,0) rectangle (14.25,1);
+          
+            % Text indicating progress
+            \node at (7.5,0.5) {\sffamily\textcolor{white}{\textbf{6th World Ending \ldots\ (95\%)}}};
+          \end{tikzpicture}
+    };
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+
+\end{tikzpicture} 
+
+\subsection{Tragödie im Kit Kat Club}
+\textit{8. Mai 1926, Aberdare, Wales} \textendash\ Was ist nur los in Aberdare?
+Während der gestrigen Nacht, in der weitere Erdbeben unsere sonst ruhige
+Kleinstadt Aberdare heimsuchten (mehr hierzu auf Seite 4), ereignete sich eine
+Tragödie bisher unerklärlichen Ausmaßes im Kit Kat Club in der Bartholomew
+Street. Attentäter aus dem Kreise des Detektivbüros Montana stürmten in der
+gestrigen Nacht den Club in nähe des Friedhofs und brachten damit das Böse in
+unsere sonst friedliche Kleinstadt. Bei der Auseinandersetzung kam es mehrfach
+zu Verpuffungen, die Teile des Clubs zerstörten. Lt. Forest, leitendes Mitglied
+der Sonderermittlungskommision \emph{Blutige Zunge}, war als erstes am
+Schauplatz: \enquote{Mir würde sofort speiübel. Zwischen den Trümmern des
+zusammengestürtzen Hauses, lagen 13 entstellte Leichen.} Die Verletzungen deuten
+auf einen Zusammenhang mit den bisherigen Mordfällen hin. Hat die Mordserie des
+Blutig-Zungen-Mörders nun ein Ende? Drei mutmaßlichen Täter wurden noch vor Ort
+festgenommen und befinden sich in Haft. Die Ermittlungen dauern an.
+\Verfasser[Cthulhu]{Thibaud} 
 
 
 \section{Lost and Found}
