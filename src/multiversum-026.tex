@@ -8,7 +8,9 @@
 % Load class with all definitions. Do not remove this line.
 % Options will be passed to Memoir
 \documentclass[final]{multiversum}
+
 \usepackage{tikz}
+\usetikzlibrary{patterns.meta}
 %
 
 %%%
@@ -54,7 +56,7 @@ informierten Kreisen, teilte uns mit, dass sich in der ruhigen Gemeinde Kirchen
 im Siegerland eine Sekte gebildet hat, die sich immer am ersten Wochenende des
 Jahres auf der Freusburg versammelt. Die Kultisten praktizieren dort
 augenscheinlich kultige Rituale. Unser Reporter tarnte sich als Teilnehmer einer
-zeitgleich dort stattfindenen Physikerkonferenz und konnte einen Blick auf die
+zeitgleich dort stattfindenden Physikerkonferenz und konnte einen Blick auf die
 Riten erhaschen: \enquote{Die Mitglieder der Sekte haben sich im Musiksaal oben
 in der Burg versammelt. Mit unzähligen Fressalien haben Sie sich vollkommen der
 Völlerei hingegeben. Dabei haben Sie wiederholt bunte Würfeln geworfen und den
@@ -69,7 +71,7 @@ E-Mail an \url{multiversum@rpg-librarium.de}.
 Bei der letzten Gerichtsversammlung in Animal City wurde der Diebstahl der
 Kronjuwelen aus dem örtlichen Schwimmbad aufgeklärt!  Die beteiligten Anwälte
 waren der Klapperstorch Arnold Abrahamster, das Krokodil Albert Alligator, das
-Erdmännchen Brokolonski Bieber und die Katze Wasser Wolf.
+Erdmännchen Brokolonski Biber und die Katze Wasser Wolf.
 
 Unter anderem wurden
 ein Aquarium mit toten Bifi-Fischen, ein Nest im Schwimmbad-Kamin, Butter in
@@ -77,7 +79,7 @@ einer Handtasche und ein Bobbycar auf dem Kran-Parkplatz als Indizien für den
 Hochverrat herangezogen.  Keine Monster wurden während der Verhandlung bekämpft.
 
 Es wurden von allen Anwälten die \enquote{Rollende Robbe} getanzt und Zeugen
-verhört.  Am Ende konnte Brokolonski Bieber den Fall aufklären, indem er
+verhört.  Am Ende konnte Brokolonski Biber den Fall aufklären, indem er
 erfolgreich bewies, dass Fritten besser als Brokkoli sind.  Die örtliche
 Buchhandlung, sein Mandant, war sehr erleichtert.
 \Verfasser[Sea Dracula]{Sabine}
@@ -115,23 +117,27 @@ Hoggs et al, Abendwacht\\{}
 % Ominoeser Ladebalken
 \begin{tikzpicture}[remember picture,overlay]
     \node[xshift=0cm,yshift=1.3cm] at (current page.south) {
-        \begin{tikzpicture}
+        \begin{tikzpicture}[
+                        % Diagonal Stripes of Loading bar
+                        Thicclines/.style={postaction={
+                            pattern={
+                            Lines[angle=-45, distance=6mm,  line width=3mm]
+                            },
+                            pattern color=red!80,
+                        }}
+            ]
             % Background rectangle
             \draw[rounded corners, fill=gray!20] (0,0) rectangle (15,1);
           
+
             % Loading bar (in red with gradient fill)
-            \fill[red, rounded corners, line width=1pt] (0,0) rectangle (14.25,1);
+            \fill[Thicclines, rounded corners, line width=1pt] (0,0) rectangle (14.25,1);
           
             % Text indicating progress
-            \node at (7.5,0.5) {\sffamily\textcolor{white}{\textbf{6th World Ending \ldots\ (95\%)}}};
+            \node at (7.5,0.5) {\sffamily\textcolor{yellow!80}{\textbf{SIXTH WORLD ENDING \ldots\ (95\%)}}};
           \end{tikzpicture}
     };
 \end{tikzpicture}
-
-
-\begin{tikzpicture}
-
-\end{tikzpicture} 
 
 \subsection{Tragödie im Kit Kat Club}
 \textit{8. Mai 1926, Aberdare, Wales} \textendash\ Was ist nur los in Aberdare?
@@ -144,7 +150,7 @@ unsere sonst friedliche Kleinstadt. Bei der Auseinandersetzung kam es mehrfach
 zu Verpuffungen, die Teile des Clubs zerstörten. Lt. Forest, leitendes Mitglied
 der Sonderermittlungskommision \emph{Blutige Zunge}, war als erstes am
 Schauplatz: \enquote{Mir würde sofort speiübel. Zwischen den Trümmern des
-zusammengestürtzen Hauses, lagen 13 entstellte Leichen.} Die Verletzungen deuten
+zusammengestürzten Hauses, lagen 13 entstellte Leichen.} Die Verletzungen deuten
 auf einen Zusammenhang mit den bisherigen Mordfällen hin. Hat die Mordserie des
 Blutig-Zungen-Mörders nun ein Ende? Drei mutmaßlichen Täter wurden noch vor Ort
 festgenommen und befinden sich in Haft. Die Ermittlungen dauern an.
@@ -152,14 +158,14 @@ festgenommen und befinden sich in Haft. Die Ermittlungen dauern an.
 
 
 \section{Lost and Found}
-\subsection{Plüschpantoffel gesucht}
+\subsection{Plüschpantoffel Gesucht}
 Ich vermisse seit ca.\ zwei Monaten einen linken Pantoffel.  Farbe pink, sehr
 flauschig, mit Stickung \emph{O + P}.  Zuletzt gesehen im Erdgeschoss des
 Himmelsturms.  Großzügige Belohnung.  Bitte melden bei einem Paktierer Ihrer Wahl.
 Ich werde davon erfahren.
 \Verfasser[DSA]{Henri}
 
-\subsection{Gold-Fressendes Wesen gesucht}
+\subsection{Gold-Fressendes Wesen Gesucht}
 Suche zum nächstmöglichen Zeitpunkt ein Wesen, zu dessen normaler Ernährung Gold
 gehört (andere Edelmetalle auch in Ordnung.) Das Wesen sollte möglichst einen
 eigenen Verstand haben und in der Lage sein, Kisten zu öffnen.  Kein Interesse
@@ -206,13 +212,34 @@ Hund vor der Überfahrt nach Maraskan in der Kneipe vergessen?  Hund zuletzt in
 der Wüste von Khôm gefüttert?  Nicht ganz sicher, ob der Begleiter in der
 komischen Sphäre zwischen den Welten dabei war oder nicht? Überhaupt kein
 Problem mehr!  Ihr NiSteTeHu ist stets bei Ihnen, wenn Ihnen einfällt, das er
-existiert!  Treu, etwas dumm und garantiert superflauschig!  Jetzt bei einer
+existiert!  Treu, etwas dumm und garantiert super flauschig!  Jetzt bei einer
 nivesischen Karawane Ihrer Wahl kaufen! Fragen Sie nach dem Fogwulff-Rabatt!
 \Verfasser[DSA]{Henri}
 
+
+\section{In Eigener Sache}
+\subsection{Barden Dringend Gesucht!}
+Das Multiversum ist ein regelmäßig erscheinendes\footnote{Hier Lachtrack
+einfügen} Blättchen, das von einer breiten Spanne von Systemen in allen
+möglichen literarischen Wegen berichtet. Wir würden gerne wieder häufiger
+ein solches veröffentlichen, sind dabei aber auf eure Kreativität angewiesen,
+damit wir eine ganze Ausgabe füllen können!
+
+Falls ihr also schon immer einmal überlegt habt, den typischen Wahnsinn einer
+Rollenspielrunde in irgendeiner Form literarisch zu verwerten, dann nur Mut!
+
+Schreibt einfach eine Mail mit eurem Text, dem System aus dem die Geschichte
+stammt (sofern anwendbar) und euren Vornamen an
+\url{multiversum@rpg-librarium.de}. Die fleißige Redaktion erledigt dann den
+Rest für euch und ihr könnt euch freuen, dass eure Insider, die außerhalb eures
+engsten Freundeskreis sowieso niemand versteht, nun der ganzen Welt publik
+gemacht werden!
+
+\verfasser{Die Redaktion}
+
+
 \begin{termine}
 % Put dates here:
-\item Freizeit: 03.01.24 \textendash{} 07.01.24
 \item Monatstreffen: 16.01.24, 19 Uhr
 \end{termine}
 \impressum
