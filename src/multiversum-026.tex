@@ -1,0 +1,242 @@
+% !TeX TS-program = xelatex
+% !TEX root = main.tex
+
+% How to:
+%
+
+
+% Load class with all definitions. Do not remove this line.
+% Options will be passed to Memoir
+\documentclass[final]{multiversum}
+
+\usepackage{tikz}
+\usetikzlibrary{patterns.meta}
+%
+
+%%%
+% Set those variables
+
+% Authors of the document.
+% e.g. Max Mustermann, Erika Musterfrau
+\multiauthor{Henri, Jan, Sabine, Thibaud}
+
+% Date of release.
+% e.g. 31.12.2074
+\multidate{Januar 2024}
+
+% Number of release, no leading zeros.
+% e.g. 15
+\multiausgabe{26}
+
+% Losung
+% e.g. Die Kuh lief um den Teig.
+\multilosung{Euch gibt's noch?}
+
+
+% Logo
+% Use a different logo. Defaults to Ueberschrift.svg
+%\multilogo{Ueberschrift_xmas}
+
+%
+%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\makemultititle
+%
+
+% PUT BODY HERE
+\section{Was bisher geschah\ldots}
+
+\subsection{Sekte in Kirchen}
+\zeitung{Siegerland Bote}
+Was ereignete sich letztes Wochenende auf
+der historischen Freusburg bei Kirchen? Ein Hinweisgeber aus üblicherweise gut
+informierten Kreisen, teilte uns mit, dass sich in der ruhigen Gemeinde Kirchen
+im Siegerland eine Sekte gebildet hat, die sich immer am ersten Wochenende des
+Jahres auf der Freusburg versammelt. Die Kultisten praktizieren dort
+augenscheinlich kultige Rituale. Unser Reporter tarnte sich als Teilnehmer einer
+zeitgleich dort stattfindenden Physikerkonferenz und konnte einen Blick auf die
+Riten erhaschen: \enquote{Die Mitglieder der Sekte haben sich im Musiksaal oben
+in der Burg versammelt. Mit unzähligen Fressalien haben sie sich vollkommen der
+Völlerei hingegeben. Dabei haben sie wiederholt bunte Würfeln geworfen und den
+Ergebnissen irgendwelche unverständlichen Bedeutungen zugeschrieben.} Lieber
+Leserinnen, wenn Sie Hinweise zu den Mitgliedern oder dem Zweck der Sekte
+haben, oder wissen, was eine Weltenbrücke ist, schreiben Sie uns anonym eine
+E-Mail an \url{multiversum@rpg-librarium.de}.
+\verfasser{Thibaud} 
+
+\section{An einem anderen Ort}
+
+\subsection{Animalische Bekanntmachung}
+Bei der letzten Gerichtsversammlung in Animal City wurde der Diebstahl der
+Kronjuwelen aus dem örtlichen Schwimmbad aufgeklärt!  Die beteiligten Anwälte
+waren der Klapperstorch Arnold Abrahamster, das Krokodil Albert Alligator, das
+Erdmännchen Brokolonski Biber und die Katze Wasser Wolf.
+
+Unter anderem wurden
+ein Aquarium mit toten Bifi-Fischen, ein Nest im Schwimmbad-Kamin, Butter in
+einer Handtasche und ein Bobbycar auf dem Kran-Parkplatz als Indizien für den
+Hochverrat herangezogen.  Keine Monster wurden während der Verhandlung bekämpft.
+
+Es wurden von allen Anwälten die \enquote{Rollende Robbe} getanzt und Zeugen
+verhört.  Am Ende konnte Brokolonski Biber den Fall aufklären, indem er
+erfolgreich bewies, dass Fritten besser als Brokkoli sind.  Die örtliche
+Buchhandlung, sein Mandant, war sehr erleichtert.
+\Verfasser[Sea Dracula]{Sabine}
+
+\subsection{Entwicklung einen Strauchs mit
+Brandteigfrüchten \textemdash{} Akademie Wetterberg}
+\emph{Theodor Colett, Künni Altberg, Clemence Wildbach,
+Mara Weatherbee und Elisa Glimmerfunkel}
+
+\textbf{Zusammenfassung:} In einer kürzlichen Veröffentlichung~[1] wurde
+nachgewiesen, dass sich die Früchte der Art \enquote{Prunus domestica} durch
+magische Manipulation der uneingepflanzten Samen manipulieren lassen.  Ziel
+dieses Papers ist es, die erlernten Techniken auf die Art Prunus spinosa
+anzuwenden.  Anwendungen der Zauber \enquote{Haselbusch und Ginsterstrauch}~[2],
+Druidenkunst~[3], Magie analysieren~[4] sowie dreier neu entwickelter Zauber,
+haben die Änderung der Frucht in stärkehaltige Beeren ermöglicht.  Die neue Art
+\enquote{Prunus profiterola} bringt 4~\textendash~6cm große Beeren hervor, die
+von einer grünlich bis rötlichen, wachsigen Haut überzogen sind.  Nach Abziehen
+der Haut können die Früchte im Ofen gebacken werden und entsprechen dann der
+gemeinhin bekannten Form eines Windbeutels.  Der Reifegrad der Früchte
+entscheidet dabei über den Zuckergehalt der Frucht, der mit zunehmender Reife
+steigt. 
+
+\noindent{\footnotesize [Den vollständigen Artikel können sie in ihrer
+Akademiebibliothek abrufen.]}
+
+\noindent[1]: Broken branches and the masses of gauge plums,
+Hoggs et al, Abendwacht\\{}
+[2]: Liber Cantiones, Römer et al, Havena\\{}
+[3]: Magischer Almanach der Druidenkunde, Weatherbee et al, Wetterberg\\{}
+[4]: Vicum Grimoire, Autor unbekannt, London
+
+\verfasser{Jan}
+
+% Ominoeser Ladebalken
+\begin{tikzpicture}[remember picture,overlay]
+    \node[xshift=0cm,yshift=1.3cm] at (current page.south) {
+        \begin{tikzpicture}[
+                        % Diagonal Stripes of Loading bar
+                        Thicclines/.style={postaction={
+                            pattern={
+                            Lines[angle=-45, distance=6mm,  line width=3mm]
+                            },
+                            pattern color=red!80,
+                        }}
+            ]
+            % Background rectangle
+            \draw[rounded corners, fill=gray!20] (0,0) rectangle (15,1);
+          
+
+            % Loading bar (in red with gradient fill)
+            \fill[Thicclines, rounded corners, line width=1pt] (0,0) rectangle (14.25,1);
+          
+            % Text indicating progress
+            \node at (7.5,0.5) {\sffamily\textcolor{yellow!80}{\textbf{SIXTH WORLD ENDING \ldots\ (95\%)}}};
+          \end{tikzpicture}
+    };
+\end{tikzpicture}
+
+\subsection{Tragödie im Kit Kat Club}
+\zeitung{8. Mai 1926, Aberdare, Wales}
+Was ist nur los in Aberdare?
+Während der gestrigen Nacht, in der weitere Erdbeben unsere sonst ruhige
+Kleinstadt Aberdare heimsuchten (mehr hierzu auf Seite 4), ereignete sich eine
+Tragödie bisher unerklärlichen Ausmaßes im Kit Kat Club in der Bartholomew
+Street. Attentäter aus dem Kreise des Detektivbüros Montana stürmten in der
+gestrigen Nacht den Club in nähe des Friedhofs und brachten damit das Böse in
+unsere sonst friedliche Kleinstadt. Bei der Auseinandersetzung kam es mehrfach
+zu Verpuffungen, die Teile des Clubs zerstörten. Lt. Forest, leitendes Mitglied
+der Sonderermittlungskommision \emph{Blutige Zunge}, war als erstes am
+Schauplatz: \enquote{Mir würde sofort speiübel. Zwischen den Trümmern des
+zusammengestürzten Hauses lagen 13 entstellte Leichen.} Die Verletzungen deuten
+auf einen Zusammenhang mit den bisherigen Mordfällen hin. Hat die Mordserie des
+Blutig-Zungen-Mörders nun ein Ende? Drei mutmaßlichen Täter wurden noch vor Ort
+festgenommen und befinden sich in Haft. Die Ermittlungen dauern an.
+\Verfasser[Cthulhu]{Thibaud} 
+
+
+\section{Lost and Found}
+\subsection{Plüschpantoffel Gesucht}
+Ich vermisse seit ca.\ zwei Monaten einen linken Pantoffel.  Farbe pink, sehr
+flauschig, mit Stickung \emph{O + P}.  Zuletzt gesehen im Erdgeschoss des
+Himmelsturms.  Großzügige Belohnung.  Bitte melden bei einem Paktierer Ihrer Wahl.
+Ich werde davon erfahren.
+\Verfasser[DSA]{Henri}
+
+\subsection{Gold-Fressendes Wesen Gesucht}
+Suche zum nächstmöglichen Zeitpunkt ein Wesen, zu dessen normaler Ernährung Gold
+gehört (andere Edelmetalle auch in Ordnung). Das Wesen sollte möglichst einen
+eigenen Verstand haben und in der Lage sein, Kisten zu öffnen.  Kein Interesse
+an dämonischen Wesen.  Preis verhandelbar.  Bitte melden bei Thinmarson und
+Lifgunsdottir in Thorwal.
+\Verfasser[DSA]{Henri}
+
+
+\section{Werbung}
+\subsection{Rodney und Rodwilda Weatherbee}
+Hat der Druide ihr Badezimmer mal wieder in einen Sumpf verwandelt?  Haben sie
+Brandflecken vom letzten Feuerball an der Wand? Haben alle Schneeelementare die
+sie in ihrem Refugium beschwören in der letzten Zeit einen Gelbstich oder hat
+ihr Hartholzparkett gar eine Macke von einer Kriegsaxt? Verzagen sie nicht!
+
+\begin{center}\textsc{Rodney und Rodwilda Weatherbee}\end{center}
+
+Ihre Experten für magische Behausungen aller Art!
+Wir reparieren, renovieren und bauen um!  Erreichen können sie uns mit allen
+üblichen Nachrichtenzaubern und sie erhalten eine Antwort innerhalb von einem
+ihrer Standardtage.  Rodney und Rodwilda Weatherbee, Experten für magische
+Behausungen, demnächst auch in ihrer Welt!
+\Verfasser[DND]{Jan}
+
+\subsection{NiSteTeHus, jetzt im Angebot!}
+Sind Ihre tierischen Begleiter noch in dem letzten Dungeon und warten auf ihren
+nächsten Befehl?  Ist Ihnen schon wieder ihr Kampfhund verhungert, weil Sie ihn
+zwischen den Sphären vergessen haben?  Dann könnte die neue Züchtung nivesischer
+Steppenhunde genau das richtige für Sie sein!  
+
+\begin{center}\textsc{Nivesische Steppenteleporthunde!} {\footnotesize(NiSteTeHu)}\end{center}
+
+Genau wie ein echter Hund, aber stets da, wenn Sie ihn brauchen!
+Hund vor der Überfahrt nach Maraskan in der Kneipe vergessen?  Hund zuletzt in
+der Wüste von Khôm gefüttert?  Nicht ganz sicher, ob der Begleiter in der
+komischen Sphäre zwischen den Welten dabei war oder nicht? Überhaupt kein
+Problem mehr!  Ihr NiSteTeHu ist stets bei Ihnen, wenn Ihnen einfällt, dass er
+existiert!  Treu, etwas dumm und garantiert super flauschig!  Jetzt bei einer
+nivesischen Karawane Ihrer Wahl kaufen! Fragen Sie nach dem Fogwulff-Rabatt!
+\Verfasser[DSA]{Henri}
+
+
+\section{In Eigener Sache}
+\subsection{Barden Dringend Gesucht!}
+Das Multiversum ist ein regelmäßig erscheinendes\footnote{Hier Lachtrack
+einfügen} Blättchen, das von einer breiten Spanne von Systemen in allen
+möglichen literarischen Wegen berichtet. Wir würden gerne wieder häufiger
+ein Solches veröffentlichen, sind dabei aber auf eure Kreativität angewiesen,
+damit wir eine ganze Ausgabe füllen können!
+
+Falls ihr also schon immer einmal überlegt habt, den typischen Wahnsinn einer
+Rollenspielrunde in irgendeiner Form literarisch zu verwerten, dann nur Mut!
+
+Schreibt einfach eine Mail mit eurem Text, dem System aus dem die Geschichte
+stammt (sofern anwendbar) und euren Vornamen an
+\url{multiversum@rpg-librarium.de}. Die fleißige Redaktion erledigt dann den
+Rest für euch und ihr könnt euch freuen, dass eure Insider, die außerhalb eures
+engsten Freundeskreis sowieso niemand versteht, nun der ganzen Welt publik
+gemacht werden!
+
+\verfasser{Die Redaktion}
+
+
+\begin{termine}
+% Put dates here:
+\item Monatstreffen: 16.01.24, 19 Uhr
+\end{termine}
+\impressum
+
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% END DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
