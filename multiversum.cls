@@ -11,6 +11,13 @@
 %
 %%%
 
+%%%
+% Cross-References, Links and PDF-Metadata
+\RequirePackage{hyperref}
+\urlstyle{sf}
+%
+%%%
+
 
 %%%
 % Memoir Class Page formatting
@@ -163,12 +170,7 @@ Scale=MatchLowercase]
 %%%
 
 
-%%%
-% Cross-References, Links and PDF-Metadata
-\RequirePackage{hyperref}
-\urlstyle{sf}
-%
-%%%
+
 
 
 %%%
