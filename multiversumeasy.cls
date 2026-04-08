@@ -111,7 +111,7 @@
 
 % Defaults to Uberschrift.svg
 \newcommand\multilogo[1]{\renewcommand\@multilogo{header/#1}}
-\newcommand\@multilogo{header/Ueberschrift}
+\newcommand\@multilogo{header/Ueberschrift_new_logo}
 %%%
 
 %%% Macros
