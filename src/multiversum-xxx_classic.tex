@@ -1,4 +1,5 @@
-% !TeX TS-program = pdflatex
+% !TeX TS-program = xelatex
+% !TEX root = main.tex
 
 % How to:
 %
@@ -6,7 +7,7 @@
 
 % Load class with all definitions. Do not remove this line.
 % Options will be passed to Memoir
-\documentclass[]{multiversumeasy}
+\documentclass[final]{multiversum}
 %
 
 %%%
@@ -42,19 +43,11 @@
 \makemultititle
 %
 
-% \verfasser vs. \verfasserembed:
-% \verfasser: set to right side of next line
-% \verfasserembed: set to the right of last line if possible, otherwise to the left of the next line
-% Style guide:
-% The author is to be set to the right side.
-% If there is space in the last line, use \verfasserembed. If there is no space, use \verfasser
-% If the edition has a bit too much vertical space at the end, \verfasser may be used for all articles.
-
 % PUT BODY HERE
 \section{Was bisher geschah...}
 
 \subsection{Workshop: ABC}
-Lorem Ipsum, Text endet an Zeilenende. lalala
+Lorem Ipsum
 \verfasser{Autor1}
 
 \subsection{In der Redaktion}
@@ -65,11 +58,11 @@ Lorem Ipsum
 
 \subsection{Titel 1}
 Lorem Ipsum
-\verfasserembed[System]{Autor2}
+\verfasser{Autor2}
 
 \subsection{Titel 2}
-Lorem Ipsum, Text endet an Zeilenende. lalala
-\verfasserembed[System]{Autor2}
+Lorem Ipsum, Text endet an Zeilenende.
+\Verfasser[System]{Autor2}
 
 
 \begin{termine}

@@ -1,8 +1,7 @@
 # Prerequisites
 Install:
-- xelatex
-- latexmk
-- Fonts from https://github.com/adobe-fonts, in particular ```source-serif-pro```, ```source-sans-pro``` and ```source-code-pro``` (in the "non-variable font" release). On a Linux system, you will likely want to use the OTF files. That's about 38 font variations, so using a font manager is advised.
+- pdflatex
+- (optional) latexmk
 
 # New Issue
 
@@ -12,18 +11,17 @@ cp src/multiversum-xxx.tex src/multiversum-<newnumber padded to 3 digits>.tex
 ```
 
 # Build
-Run
+Run 2-3 times
+```
+pdflatex src/<name>.tex
+```
+to compile, where ```<name>``` is the issue. Run until all hyperrefs & page sizes are correct (basically, until nothing changes anymore).
+The result will be in the ```build/``` folder.
+
+Alternatively, that can be done by running this just once (be aware that latexmk might be depricated and could stop working at some point):
 ```
 latexmk src/<name>.tex
 ```
-to compile, where ```<name>``` is the issue.
-The result will be in the ```build/``` folder.
-
-If you have an older version of latexmk (for example, if you are running version 4.41), you may need to run
-```
-latexmk -xelatex src/<name>.tex
-```
-instead.
 
 # Cleanup
 Run
